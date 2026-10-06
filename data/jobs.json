@@ -1,5 +1,5 @@
 {
- "count": 298,
+ "count": 299,
  "jobs": [
   {
    "apply_url": null,
@@ -1163,54 +1163,6 @@
   },
   {
    "apply_url": null,
-   "base_score": 83,
-   "closes": null,
-   "company": "Siemens Mobility Australia",
-   "disciplines": [
-    "Electronics/Hardware",
-    "Systems/Integration"
-   ],
-   "employer_id": "siemens-mobility-australia",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "b16a82ad78fb",
-   "key": "siemens mobility|strategic student cross domain electronics systems engineering intern t i spring",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Siemens Mobility Australia [page]",
-     "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/519896"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [
-    "rail",
-    "signalling",
-    "automation"
-   ],
-   "snippet": "",
-   "source": "Siemens Mobility Australia [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Siemens Mobility Australia [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Strategic Student Program: Cross-Domain Electronics Systems Engineering Intern (T&I, Spring 2027)",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/519896"
-  },
-  {
-   "apply_url": null,
    "base_score": 82,
    "closes": null,
    "company": "Optiver",
@@ -1879,6 +1831,53 @@
    ],
    "title": "2026-2027 Quantitative Trading Internship",
    "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2026-2027-quantitative-trading-internship-79/"
+  },
+  {
+   "apply_url": null,
+   "base_score": 75,
+   "closes": null,
+   "company": "Siemens Mobility Australia",
+   "disciplines": [
+    "Controls/Automation"
+   ],
+   "employer_id": "siemens-mobility-australia",
+   "employment_type": null,
+   "first_seen": "2026-10-06",
+   "flags": [
+    "from-careers-page"
+   ],
+   "id": "da5f70991050",
+   "key": "siemens mobility|project controls scheduling internship rolling stock summer2027",
+   "last_seen": "2026-10-06",
+   "links": [
+    {
+     "source": "Siemens Mobility Australia [page]",
+     "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/519904"
+    }
+   ],
+   "location": "",
+   "posted": null,
+   "priority": "core",
+   "role_type": "summer",
+   "salary": null,
+   "sectors": [
+    "rail",
+    "signalling",
+    "automation"
+   ],
+   "snippet": "",
+   "source": "Siemens Mobility Australia [page]",
+   "source_kind": "page",
+   "source_type": "page",
+   "sources": [
+    "Siemens Mobility Australia [page]"
+   ],
+   "start_date": null,
+   "states": [
+    "AU"
+   ],
+   "title": "Project Controls - Scheduling Internship- Rolling Stock (Summer2027)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/519904"
   },
   {
    "apply_url": null,
@@ -3091,6 +3090,53 @@
    "apply_url": null,
    "base_score": 66,
    "closes": null,
+   "company": "Siemens Mobility Australia",
+   "disciplines": [
+    "Mechanical"
+   ],
+   "employer_id": "siemens-mobility-australia",
+   "employment_type": null,
+   "first_seen": "2026-10-06",
+   "flags": [
+    "from-careers-page"
+   ],
+   "id": "4fa6fd7be442",
+   "key": "siemens mobility|project management office internship rail infrastructure summer",
+   "last_seen": "2026-10-06",
+   "links": [
+    {
+     "source": "Siemens Mobility Australia [page]",
+     "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/520702"
+    }
+   ],
+   "location": "",
+   "posted": null,
+   "priority": "core",
+   "role_type": "summer",
+   "salary": null,
+   "sectors": [
+    "rail",
+    "signalling",
+    "automation"
+   ],
+   "snippet": "",
+   "source": "Siemens Mobility Australia [page]",
+   "source_kind": "page",
+   "source_type": "page",
+   "sources": [
+    "Siemens Mobility Australia [page]"
+   ],
+   "start_date": null,
+   "states": [
+    "AU"
+   ],
+   "title": "Project Management Office Internship- Rail Infrastructure(Summer 2027)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/520702"
+  },
+  {
+   "apply_url": null,
+   "base_score": 66,
+   "closes": null,
    "company": "UNSW Sydney - Taste of Research (Engineering) + CQC2T/SQC hub",
    "disciplines": [
     "Research"
@@ -3272,6 +3318,51 @@
    ],
    "title": "2027 Applied Science Intern (Machine Learning, Recommender Systems), Amazon International Machine Learning",
    "url": "https://www.amazon.jobs/en/jobs/10456239/2027-applied-science-intern-machine-learning-recommender-systems-amazon-international-machine-learning"
+  },
+  {
+   "apply_url": null,
+   "base_score": 65,
+   "closes": null,
+   "company": "Siemens Mobility Australia",
+   "disciplines": [],
+   "employer_id": "siemens-mobility-australia",
+   "employment_type": null,
+   "first_seen": "2026-10-06",
+   "flags": [
+    "from-careers-page"
+   ],
+   "id": "6d62791b1475",
+   "key": "siemens mobility|project management internship rail traction components summer",
+   "last_seen": "2026-10-06",
+   "links": [
+    {
+     "source": "Siemens Mobility Australia [page]",
+     "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/520281"
+    }
+   ],
+   "location": "",
+   "posted": null,
+   "priority": "core",
+   "role_type": "summer",
+   "salary": null,
+   "sectors": [
+    "rail",
+    "signalling",
+    "automation"
+   ],
+   "snippet": "",
+   "source": "Siemens Mobility Australia [page]",
+   "source_kind": "page",
+   "source_type": "page",
+   "sources": [
+    "Siemens Mobility Australia [page]"
+   ],
+   "start_date": null,
+   "states": [
+    "AU"
+   ],
+   "title": "Project Management Internship- Rail Traction Components (Summer 2027)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/520281"
   },
   {
    "apply_url": null,
@@ -4433,51 +4524,6 @@
    ],
    "title": "Recruitment Intern with German",
    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Recruitment-Intern-with-German/302804"
-  },
-  {
-   "apply_url": null,
-   "base_score": 61,
-   "closes": null,
-   "company": "Siemens Mobility Australia",
-   "disciplines": [],
-   "employer_id": "siemens-mobility-australia",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "7d3e2e65e5a8",
-   "key": "siemens mobility|strategic student social acquisition marketing intern cmmk spring",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Siemens Mobility Australia [page]",
-     "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521208"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [
-    "rail",
-    "signalling",
-    "automation"
-   ],
-   "snippet": "",
-   "source": "Siemens Mobility Australia [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Siemens Mobility Australia [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Strategic Student Program: Social Acquisition Marketing Intern (CMMK, Spring 2027)",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521208"
   },
   {
    "apply_url": null,
