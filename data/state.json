@@ -178,7 +178,7 @@
   "company": "Five Rings",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Five Rings [page]"
   ],
@@ -337,7 +337,7 @@
   "company": "Subsea7",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Subsea7 [page]"
   ],
@@ -631,7 +631,7 @@
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -654,7 +654,7 @@
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1412,7 +1412,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -1635,7 +1635,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -1658,7 +1658,7 @@
   "company": "The Brattle Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1821,7 +1821,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -2098,7 +2098,7 @@
   "company": "Subsea7",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Subsea7 [page]"
   ],
@@ -2840,7 +2840,7 @@
   "company": "Arup",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Arup [page]"
   ],
@@ -3028,7 +3028,7 @@
   "company": "Five Rings",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Five Rings [page]"
   ],
@@ -3111,8 +3111,7 @@
   "last_seen": "2026-10-06",
   "misses": 0,
   "sources": [
-   "Claude web sweep",
-   "Apple [page]"
+   "Claude web sweep"
   ],
   "status": "open",
   "title": "Secure Kernel Engineering Intern, Sydney"
@@ -3240,7 +3239,7 @@
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3309,7 +3308,7 @@
   "company": "UNSW Sydney - Taste of Research (Engineering) + CQC2T/SQC hub",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "UNSW Sydney - Taste of Research (Engineering) + CQC2T/SQC hub [page]"
   ],
@@ -3436,7 +3435,7 @@
   "company": "Siemens Mobility Australia",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Siemens Mobility Australia [page]"
   ],
@@ -3840,7 +3839,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -4041,7 +4040,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -4240,7 +4239,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -4533,7 +4532,7 @@
   "company": "Siemens Mobility Australia",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Siemens Mobility Australia [page]"
   ],
@@ -4637,7 +4636,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -4841,6 +4840,17 @@
   "status": "closed",
   "title": "Machine Learning Engineer Intern"
  },
+ "72b6f5b0747a": {
+  "company": "Optus (Optus Satellite)",
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "misses": 0,
+  "sources": [
+   "Optus (Optus Satellite) [sf_rmk]"
+  ],
+  "status": "open",
+  "title": "Early Career Talent Consultant"
+ },
  "73cff6c6bd14": {
   "closed_on": "2026-10-06",
   "company": "Meridian Partners",
@@ -4893,7 +4903,7 @@
   "company": "CSIRO Data61 Robotics & Autonomous Systems",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "CSIRO Data61 Robotics & Autonomous Systems [page]"
   ],
@@ -5170,14 +5180,15 @@
   "title": "iOS Software Engineer Intern (TikTok Live Foundation) - 2027 start"
  },
  "7d3e2e65e5a8": {
+  "closed_on": "2026-10-06",
   "company": "Siemens Mobility Australia",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Siemens Mobility Australia [page]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Strategic Student Program: Social Acquisition Marketing Intern (CMMK, Spring 2027)"
  },
  "7d664f852937": {
@@ -5454,7 +5465,7 @@
   "company": "Five Rings",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Five Rings [page]"
   ],
@@ -5593,7 +5604,7 @@
   "company": "Five Rings",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Five Rings [page]"
   ],
@@ -5685,7 +5696,7 @@
   "company": "AARNet",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "AARNet [page]",
    "APR.Intern (Australian Postgraduate Research Internships) [page]"
@@ -6471,7 +6482,7 @@
   "company": "Arup",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Arup [page]"
   ],
@@ -6705,7 +6716,7 @@
   "company": "Subsea7",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Subsea7 [page]"
   ],
@@ -6785,7 +6796,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -6927,7 +6938,7 @@
   "company": "Arup",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Arup [page]"
   ],
@@ -6974,7 +6985,7 @@
   "company": "BDO",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7254,7 +7265,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -7274,14 +7285,15 @@
   "title": "Software Engineer Intern"
  },
  "b16a82ad78fb": {
+  "closed_on": "2026-10-06",
   "company": "Siemens Mobility Australia",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Siemens Mobility Australia [page]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Strategic Student Program: Cross-Domain Electronics Systems Engineering Intern (T&I, Spring 2027)"
  },
  "b175f7f5e77e": {
@@ -7476,7 +7488,7 @@
   "company": "CSIRO Space & Astronomy",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "CSIRO Space & Astronomy [page]"
   ],
@@ -7911,7 +7923,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -8040,7 +8052,7 @@
   "company": "Arup",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Arup [page]"
   ],
@@ -8189,7 +8201,7 @@
   "company": "Macquarie University (MQ Photonics, Astronomy, AAO vacation scholarships)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Macquarie University (MQ Photonics, Astronomy, AAO vacation scholarships) [page]"
   ],
@@ -8400,7 +8412,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -8459,7 +8471,7 @@
   "company": "Arup",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Arup [page]"
   ],
@@ -8834,7 +8846,7 @@
   "company": "Siemens Mobility Australia",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Siemens Mobility Australia [page]"
   ],
@@ -8892,7 +8904,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -9008,7 +9020,7 @@
   "company": "Arup",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Arup [page]"
   ],
@@ -9088,7 +9100,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -9831,7 +9843,7 @@
   "company": "Arup",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Arup [page]"
   ],
@@ -10091,7 +10103,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -10149,7 +10161,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],

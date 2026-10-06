@@ -1,5 +1,5 @@
 {
- "count": 263,
+ "count": 260,
  "jobs": [
   {
    "apply_url": null,
@@ -3308,6 +3308,50 @@
    "apply_url": null,
    "base_score": 61,
    "closes": null,
+   "company": "Optus (Optus Satellite)",
+   "disciplines": [],
+   "employer_id": "optus-optus-satellite",
+   "employment_type": null,
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "72b6f5b0747a",
+   "key": "optus optus satellite|early career talent consultant",
+   "last_seen": "2026-10-06",
+   "links": [
+    {
+     "source": "Optus (Optus Satellite) [sf_rmk]",
+     "url": "https://groupcareers.singtel.com/job/Early-Career-Talent-Consultant-Sydn/1368422666/"
+    }
+   ],
+   "location": "Sydney,  Australia",
+   "posted": "2026-10-06",
+   "priority": "core",
+   "role_type": "intern-other",
+   "salary": null,
+   "sectors": [
+    "telecommunications",
+    "satellite-operations",
+    "networks",
+    "space/satellite"
+   ],
+   "snippet": "",
+   "source": "Optus (Optus Satellite) [sf_rmk]",
+   "source_kind": "ats",
+   "source_type": "sf_rmk",
+   "sources": [
+    "Optus (Optus Satellite) [sf_rmk]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW"
+   ],
+   "title": "Early Career Talent Consultant",
+   "url": "https://groupcareers.singtel.com/job/Early-Career-Talent-Consultant-Sydn/1368422666/"
+  },
+  {
+   "apply_url": null,
+   "base_score": 61,
+   "closes": null,
    "company": "Rockwell Automation Australia",
    "disciplines": [],
    "employer_id": "rockwell-automation-australia",
@@ -3804,11 +3848,11 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-research-internship-phd-8/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-research-internship-phd-9/"
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-research-internship-phd-9/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-research-internship-phd-8/"
     }
    ],
    "location": "Sydney",
@@ -4311,10 +4355,6 @@
     {
      "source": "Apple jobs AU internships [apple]",
      "url": "https://jobs.apple.com/en-au/details/200676288-3957/2027-apple-internship-information-systems-and-technology-aus?team=STDNT"
-    },
-    {
-     "source": "Apple [page]",
-     "url": "https://jobs.apple.com/en-au/details/200676288-3957/2027-apple-internship-information-systems-and-technology-aus?team=SFTWR"
     }
    ],
    "location": "Sydney, NSW",
@@ -4848,7 +4888,6 @@
    "employment_type": null,
    "first_seen": "2026-10-06",
    "flags": [
-    "from-careers-page",
     "manual"
    ],
    "id": "493823359145",
@@ -4858,10 +4897,6 @@
     {
      "source": "Claude web sweep",
      "url": "https://au.prosple.com/graduate-employers/apple-australia/jobs-internships/secure-kernel-engineering-intern-sydney-0"
-    },
-    {
-     "source": "Apple [page]",
-     "url": "https://jobs.apple.com/en-au/details/200680345-3957/secure-kernel-engineering-intern-sydney?team=SFTWR"
     }
    ],
    "location": "Sydney NSW",
@@ -4880,8 +4915,7 @@
    "source_kind": "manual",
    "source_type": "research 2026-10-06",
    "sources": [
-    "Claude web sweep",
-    "Apple [page]"
+    "Claude web sweep"
    ],
    "start_date": null,
    "states": [
@@ -7664,48 +7698,6 @@
    "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-researcher-phd-2026-7/"
   },
   {
-   "apply_url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4732401005",
-   "base_score": 45,
-   "closes": "2026-10-16",
-   "company": "The Brattle Group",
-   "disciplines": [
-    "Power/Energy",
-    "Research"
-   ],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "2897f71502bd",
-   "key": "brattle group|sydney research analyst graduate",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/the-brattle-group/jobs/the-brattle-group-research-analyst-graduate-program-2027-2-2-2/"
-    }
-   ],
-   "location": "Sydney",
-   "posted": "2026-09-17",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Our Research Analysts (RAs) are involved in diverse, challenging assignments within financial economics, managerial accounting, corporate finance, energy, competition, and regulatory economics.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "NSW"
-   ],
-   "title": "Sydney Research Analyst Graduate Program",
-   "url": "https://au.gradconnection.com/employers/the-brattle-group/jobs/the-brattle-group-research-analyst-graduate-program-2027-2-2-2/"
-  },
-  {
    "apply_url": null,
    "base_score": 44,
    "closes": null,
@@ -9463,100 +9455,6 @@
    "url": "https://au.gradconnection.com/employers/acs-foundation/jobs/acs-foundation-graduate-quality-assurance-analyst/"
   },
   {
-   "apply_url": "https://careers.gamuda.com.my/job/2027-DT-Infrastructure-Graduate-Program-Commercial/12527-en_GB/",
-   "base_score": 33,
-   "closes": "2026-10-17",
-   "company": "DT Infrastructure",
-   "disciplines": [
-    "Mechanical"
-   ],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "4c5076195121",
-   "key": "dt infrastructure|dt infrastructure graduate commercial",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/dt-infrastructure/jobs/dt-infrastructure-2027-dt-infrastructure-graduate-program-commercial/"
-    }
-   ],
-   "location": "Brisbane | Melbourne | Perth | Regional New South Wales | Regional Northern Territory | Regional Queensland | Regional South Australia | Regional Tasmania | Regional Victoria | Regional Western Australia | Sydney",
-   "posted": "2026-09-15",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "At DT Infrastructure, we offer a range of Early Career pathways designed to help you build practical experience while contributing to meaningful infrastructure projects.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "NSW",
-    "NT",
-    "QLD",
-    "SA",
-    "TAS",
-    "VIC",
-    "WA"
-   ],
-   "title": "2027 DT Infrastructure Graduate Program - Commercial",
-   "url": "https://au.gradconnection.com/employers/dt-infrastructure/jobs/dt-infrastructure-2027-dt-infrastructure-graduate-program-commercial/"
-  },
-  {
-   "apply_url": "https://careers.gamuda.com.my/job/2027-DT-Infrastructure-Graduate-Program-Health%2C-Safety%2C-Environment-&amp;-Sustainability/12529-en_GB/",
-   "base_score": 33,
-   "closes": "2026-10-17",
-   "company": "DT Infrastructure",
-   "disciplines": [
-    "Mechanical"
-   ],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "10a3ca5cd7fb",
-   "key": "dt infrastructure|dt infrastructure graduate health safety environment sustainability",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/dt-infrastructure/jobs/dt-infrastructure-2027-dt-infrastructure-graduate-program-health-safety-environment-sustainability/"
-    }
-   ],
-   "location": "Adelaide | Brisbane | Hobart | Melbourne | Perth | Regional New South Wales | Regional Northern Territory | Regional Queensland | Regional South Australia | Regional Tasmania | Regional Victoria | Regional Western Australia | Sydney",
-   "posted": "2026-09-15",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "At DT Infrastructure, we offer a range of Early Career pathways designed to help you build practical experience while contributing to meaningful infrastructure projects.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "NSW",
-    "NT",
-    "QLD",
-    "SA",
-    "TAS",
-    "VIC",
-    "WA"
-   ],
-   "title": "2027 DT Infrastructure Graduate Program - Health, Safety, Environment & Sustainability",
-   "url": "https://au.gradconnection.com/employers/dt-infrastructure/jobs/dt-infrastructure-2027-dt-infrastructure-graduate-program-health-safety-environment-sustainability/"
-  },
-  {
    "base_score": 32,
    "closes": null,
    "company": "Santos",
@@ -10613,45 +10511,6 @@
    ],
    "title": "Expression of Interest: AustralianSuper 2027 Graduate Program",
    "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-expression-of-interest-australiansuper-2027-graduate-program/"
-  },
-  {
-   "apply_url": null,
-   "base_score": 32,
-   "closes": "2026-12-31",
-   "company": "Ausmeter Group",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "10cf2b347be0",
-   "key": "ausmeter group|data technical support specialist utility metering",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/ausmeter-group/jobs/ausmeter-group-data-technical-support-specialist-utility-metering-5/"
-    }
-   ],
-   "location": "Melbourne | Melbourne - Northern Suburbs",
-   "posted": "2026-06-19",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "We are looking for a sharp and detail focused Data Technician Support Specialist to join our Data Services Team, and provide key support in maintaining our Automated Meter Reading (AMR) Networks.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "VIC"
-   ],
-   "title": "Data & Technical Support Specialist – Utility Metering",
-   "url": "https://au.gradconnection.com/employers/ausmeter-group/jobs/ausmeter-group-data-technical-support-specialist-utility-metering-5/"
   },
   {
    "apply_url": "https://au.smrtr.io/fqMn",
