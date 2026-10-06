@@ -575,7 +575,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -643,8 +643,8 @@
  "10a3ca5cd7fb": {
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
-  "misses": 2,
+  "last_seen": "2026-10-07",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -667,7 +667,7 @@
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1670,14 +1670,15 @@
   "title": "2027 Early Career Mechanical Engineer"
  },
  "2897f71502bd": {
+  "closed_on": "2026-10-07",
   "company": "The Brattle Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Sydney Research Analyst Graduate Program"
  },
  "289fffa6f01a": {
@@ -2362,7 +2363,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3152,7 +3153,8 @@
   "last_seen": "2026-10-07",
   "misses": 0,
   "sources": [
-   "Claude web sweep"
+   "Claude web sweep",
+   "Apple [page]"
   ],
   "status": "open",
   "title": "Secure Kernel Engineering Intern, Sydney"
@@ -3263,6 +3265,17 @@
   "status": "closed",
   "title": "PhD Research Intern, Robotics - Summer 2027"
  },
+ "4b9ae753f85d": {
+  "company": "The Royal Children's Hospital",
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Biomedical Engineer - Graduate"
+ },
  "4b9f5af54cd3": {
   "closed_on": "2026-10-06",
   "company": "TikTok",
@@ -3290,8 +3303,8 @@
  "4c5076195121": {
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
-  "misses": 2,
+  "last_seen": "2026-10-07",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3812,7 +3825,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3858,7 +3871,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4764,7 +4777,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6450,7 +6463,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7555,7 +7568,8 @@
   "last_seen": "2026-10-07",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
@@ -9056,7 +9070,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9289,7 +9303,7 @@
   "company": "GHD",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GHD [oracle]"
   ],
@@ -10092,7 +10106,7 @@
   "company": "Zinfra (Jemena group)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Claude web sweep",
    "GradConnection (SEEK Grad) [gradconnection]"
