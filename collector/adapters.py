@@ -523,7 +523,9 @@ def page(spec, emp):
                      r"read more|learn more about|alumni)\b", t, re.I):
             continue
         seen.add(href)
-        out.append(dict(native_id=href, title=t, location="", url=href, from_page=u, page_link=True))
+        row = a.find_parent(["tr", "li", "article"])
+        row_text = row.get_text(" ", strip=True)[:300] if row else ""
+        out.append(dict(native_id=href, title=t, location="", url=href, from_page=u, page_link=True, row_text=row_text))
     text = re.sub(r"\s+", " ", soup.get_text(" ", strip=True))
     spec["_page_text"] = text[:20000]
     return out

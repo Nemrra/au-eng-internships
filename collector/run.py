@@ -182,6 +182,13 @@ def main():
             if kind == "page":
                 if not (JOBLIKE_URL.search(url) or INTAKE_TEXT.search(title) or classify_url(url)):
                     continue
+                # Global corporate portals list worldwide roles: need Australian evidence somewhere
+                from urllib.parse import urlparse as _up
+                pu, lu = _up(spec["url"]), _up(url)
+                au_page = re.search(r"\.au$|australia|/au(/|$)|/en[-_]au|-au/", (pu.netloc + pu.path).lower())
+                au_link = re.search(r"\.au$|australia|/au(/|$)|/en[-_]au|-au/", (lu.netloc + lu.path).lower())
+                if not (au_page or au_link or au_states(title + " " + (r.get("row_text") or ""))):
+                    continue
             desc = r.get("description") or ""
             card = r.get("card_text") or ""
             if EXCLUDE_TITLE.search(title):
