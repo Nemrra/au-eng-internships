@@ -604,8 +604,8 @@
  "https://boeing.springboard.com.au/": {
   "changed": null,
   "checked": "2026-10-06",
-  "employer": "Insitu Pacific (Boeing)",
-  "employer_id": "insitu-pacific-boeing",
+  "employer": "Boeing Australia (Boeing Defence Australia, Boeing Aerostructures Australia, Insitu Pacific, BR&T-A)",
+  "employer_id": "boeing-australia-boeing-defence-australia-boeing-aerostructu",
   "first_seen": "2026-10-06",
   "keywords": [],
   "links": [],
@@ -680,14 +680,20 @@
   "sig": "bd8d6250922f8bf7"
  },
  "https://careeropportunities.asc.com.au/": {
-  "changed": null,
+  "changed": "2026-10-06",
   "checked": "2026-10-06",
   "employer": "ASC Pty Ltd",
   "employer_id": "asc-pty-ltd",
   "first_seen": "2026-10-06",
-  "keywords": [],
+  "keywords": [
+   "Skip to jobs search results Category Search categories 18 filter options found Category Administration (3 items) 3 Business Development (1 items) 1 Design & Engineering (14 items) 14 Executive / General Management (1 items) 1 Finance, Risk & Insurance (4 items) 4 Graduates, Undergraduates, Apprenticeships and Traineeships (2 items) 2 Human Resources and Workforce Development (9 items) 9 Information Technology (6 items) 6 International opportunities (2 items) 2 Nuclear (5 items) 5 Other (2 items) 2 Program / Project Management (14 items) 14 Quality Control and Quality Assurance (9 items) 9 Security (1 items) 1 Sub Training School (1 items) 1 Supply Chain (6 items) 6 Trades, Manufacturing and Operators (6 items) 6 WHS&E (3 items) 3 Employment Type Search employment types 2 filter options found Employment Type Fixed Term Contract (8 items) 8 Full time (54 items) 54 Site / Location Search cities 7 filter options found Site / Location Adelaide CBD (SA) (9 items) 9 Garden Island (WA) (7 items) 7 Henderson (WA) (29 items) 29 Osborne (SA) (33 items) 33 Perth CBD (WA) (3 items) 3 Port Adelaide (SA) (3 items) 3 United States (US) (4 items) 4 Search by job title, location, department, category, etc.",
+   "Read more Technical Authority Coordinator Osborne (SA) Henderson (WA) Design & Engineering Full time Work closely with senior leaders and technical teams to drive better communication, governance and ways of working, while leading initiatives that improve performance, efficiency and collaboration.",
+   "Read more Security Traineeship Program Osborne (SA) Graduates, Undergraduates, Apprenticeships and Traineeships Security Fixed Term Contract Full time Launch your security career with ASC through a two-year paid traineeship, gaining hands-on experience across personnel, physical and information security while completing a nationally recognised Certificate IV in Cyber Security.",
+   "Read more Work, Health, Safety & Environment Traineeship Program Osborne (SA) Graduates, Undergraduates, Apprenticeships and Traineeships WHS&E Fixed Term Contract Full time Launch your career in Work Health, Safety & Environment with ASC through a two-year traineeship, gaining hands-on experience, a nationally recognised Certificate IV qualification, and the opportunity to contribute to Australia’s sovereign submarine capability.",
+   "Read more Fleet Support Hull, Mechanical and Electrical Technician Garden Island (WA) United States (US) Design & Engineering International opportunities Trades, Manufacturing and Operators Full time Expand your career with the opportunity to receive word-class training in Pearl Harbor, Hawaii and return home to a secure job with ASC."
+  ],
   "links": [],
-  "sig": "da39a3ee5e6b4b0d"
+  "sig": "c6f693f6e95d6503"
  },
  "https://careers.abb/global/en/search-results?keywords=intern&location=Australia": {
   "changed": null,
@@ -718,16 +724,14 @@
   "sig": "c2fdfa08953391af"
  },
  "https://careers.alintaenergy.com.au/en/listing": {
-  "changed": null,
+  "changed": "2026-10-06",
   "checked": "2026-10-06",
   "employer": "Alinta Energy",
   "employer_id": "alinta-energy",
   "first_seen": "2026-10-06",
-  "keywords": [
-   "Join a close-knit team supporting operations at Bairnsdale Power Station."
-  ],
+  "keywords": [],
   "links": [],
-  "sig": "ba37a9c93182ba68"
+  "sig": "da39a3ee5e6b4b0d"
  },
  "https://careers.alintaenergy.com.au/en/listing/": {
   "changed": null,
@@ -762,16 +766,16 @@
   "sig": "3e33795f1fd8e563"
  },
  "https://careers.cisco.com/global/en/search-results?keywords=intern&location=Australia": {
-  "changed": null,
+  "changed": "2026-10-06",
   "checked": "2026-10-06",
   "employer": "Cisco",
   "employer_id": "cisco",
   "first_seen": "2026-10-06",
   "keywords": [
-   "Australia intern Job Openings - Cisco Careers Search results | Find available job openings at Cisco Careers Find your next role Cisco is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis."
+   "intern Australia Job Openings - Cisco Careers Search results | Find available job openings at Cisco Careers Find your next role Cisco is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis."
   ],
   "links": [],
-  "sig": "f0eeedb8198caf81"
+  "sig": "83047b0be737d4c5"
  },
  "https://careers.fortescue.com/en/early-careers/vacation-program": {
   "changed": null,
@@ -800,8 +804,8 @@
  "https://careers.honeywell.com/": {
   "changed": null,
   "checked": "2026-10-06",
-  "employer": "Honeywell Aerospace (Australia)",
-  "employer_id": "honeywell-aerospace-australia",
+  "employer": "Honeywell Australia",
+  "employer_id": "honeywell-australia",
   "first_seen": "2026-10-06",
   "keywords": [],
   "links": [],
@@ -969,8 +973,8 @@
  "https://careers.sapowernetworks.com.au/": {
   "changed": null,
   "checked": "2026-10-06",
-  "employer": "SA Power Networks (incl. Enerven)",
-  "employer_id": "sa-power-networks-incl-enerven",
+  "employer": "Enerven (SA Power Networks group)",
+  "employer_id": "enerven-sa-power-networks-group",
   "first_seen": "2026-10-06",
   "keywords": [],
   "links": [],
@@ -979,8 +983,8 @@
  "https://careers.sapowernetworks.com.au/jobs": {
   "changed": null,
   "checked": "2026-10-06",
-  "employer": "SA Power Networks (incl. Enerven)",
-  "employer_id": "sa-power-networks-incl-enerven",
+  "employer": "Enerven (SA Power Networks group)",
+  "employer_id": "enerven-sa-power-networks-group",
   "first_seen": "2026-10-06",
   "keywords": [],
   "links": [],
@@ -1918,23 +1922,17 @@
   "sig": "ee92c04bfddb3320"
  },
  "https://jobs.arup.com/": {
-  "changed": null,
+  "changed": "2026-10-06",
   "checked": "2026-10-06",
   "employer": "Arup",
   "employer_id": "arup",
   "first_seen": "2026-10-06",
   "keywords": [
    "Electrical Engineering  Graduate Electrical Engineer (2027 Intake)  Hong Kong Graduate Electrical Engineer (2027 Intake)  Shanghai, Shanghai, China Graduate Electrical Engineer (2027 Intake)  Shenzhen, Guangdong, China 80 new jobs Civil Engineering  Graduate Civil Engineer (2027 Intake)  Hong Kong Graduate Civil Engineer (Aviation) (2027 Intake)  Hong Kong Graduate Civil Engineer (2027 Intake)  Hong Kong 70 new jobs Mechanical Engineering  Graduate Mechanical Engineer (2027 Intake)  Hong Kong, -, Hong Kong Graduate CAE Engineer (2027 Intake)  Shanghai, China Graduate Mechanical Engineer (2027 Intake)  Shanghai, Shanghai, China 53 new jobs Structural Engineering  Graduate Structural Engineer (2027 Intake)  Shanghai, Shanghai, China Graduate Structural Engineer (2027 Intake)  Hong Kong Graduate Structural Engineer (2027 Intake)  Shenzhen, Guangdong, China 35 new jobs Browse Jobs Browse jobs by type or location.",
-   "Featured Jobs View all New Jobs New Graduate Architect (2027 Intake) 🔍 Hong Kong Our Architecture team is looking for a Graduate Architect to join us in Hong Kong.",
+   "Europe Region Bridge and Civil Structures New Graduate Architect (2027 Intake) 🔍 Hong Kong Our Architecture team is looking for a Graduate Architect to join us in Hong Kong.",
    "Our graduate experience offers you:Purpose-driven work: Join an...",
    "Asia Pacific Region Architecture New Graduate Geotechnical Engineer (2027 Intake) 🔍 Hong Kong Our Energy team is looking for a Graduate Geotechnical Engineer to join us in Hong Kong.",
-   "Our graduate experience offers you:Purpose-driven work: Join....",
-   "Asia Pacific Region Ground Engineering New Graduate Mechanical Engineer (2027 Intake) 🔍 Hong Kong, -, Hong Kong Our MEP team is looking for a Graduate Mechanical Engineer to join us in Hong Kong.",
-   "Our graduate experience offers you:Purpose-driven work: Join an...",
-   "Asia Pacific Region Mechanical Engineering New Graduate Electrical Engineer (2027 Intake) 🔍 Hong Kong Our MEP team is looking for a Graduate Electrical Engineer to join us in Hong Kong.",
-   "Our graduate experience offers you:Purpose-driven work: Join an...",
-   "Asia Pacific Region Electrical Engineering New Graduate Rail Systems Engineer (2027 Intake) 🔍 Hong Kong Our Rail & Rail System team is looking for a Graduate Rail Systems Engineer to join us in Hong Kong.",
-   "Our graduate experience offers..."
+   "Our graduate experience offers you:Purpose-driven work: Join...."
   ],
   "links": [
    {
@@ -1992,32 +1990,22 @@
    {
     "title": "Graduate Geotechnical Engineer (2027 Intake)",
     "url": "https://jobs.arup.com/jobs/graduate-geotechnical-engineer-2027-intake-35258"
-   },
-   {
-    "title": "Graduate Rail Systems Engineer (2027 Intake)",
-    "url": "https://jobs.arup.com/jobs/graduate-rail-systems-engineer-2027-intake-35249"
    }
   ],
-  "sig": "4aed8b668966f83e"
+  "sig": "057c59218667885a"
  },
  "https://jobs.arup.com/jobs": {
-  "changed": null,
+  "changed": "2026-10-06",
   "checked": "2026-10-06",
   "employer": "Arup",
   "employer_id": "arup",
   "first_seen": "2026-10-06",
   "keywords": [
    "Electrical Engineering  Graduate Electrical Engineer (2027 Intake)  Hong Kong Graduate Electrical Engineer (2027 Intake)  Shanghai, Shanghai, China Graduate Electrical Engineer (2027 Intake)  Shenzhen, Guangdong, China 80 new jobs Civil Engineering  Graduate Civil Engineer (2027 Intake)  Hong Kong Graduate Civil Engineer (Aviation) (2027 Intake)  Hong Kong Graduate Civil Engineer (2027 Intake)  Hong Kong 70 new jobs Mechanical Engineering  Graduate Mechanical Engineer (2027 Intake)  Hong Kong, -, Hong Kong Graduate CAE Engineer (2027 Intake)  Shanghai, China Graduate Mechanical Engineer (2027 Intake)  Shanghai, Shanghai, China 53 new jobs Structural Engineering  Graduate Structural Engineer (2027 Intake)  Shanghai, Shanghai, China Graduate Structural Engineer (2027 Intake)  Hong Kong Graduate Structural Engineer (2027 Intake)  Shenzhen, Guangdong, China 35 new jobs Browse Jobs Browse jobs by type or location.",
-   "Featured Jobs View all New Jobs New Graduate Architect (2027 Intake) 🔍 Hong Kong Our Architecture team is looking for a Graduate Architect to join us in Hong Kong.",
+   "Europe Region Bridge and Civil Structures New Graduate Architect (2027 Intake) 🔍 Hong Kong Our Architecture team is looking for a Graduate Architect to join us in Hong Kong.",
    "Our graduate experience offers you:Purpose-driven work: Join an...",
    "Asia Pacific Region Architecture New Graduate Geotechnical Engineer (2027 Intake) 🔍 Hong Kong Our Energy team is looking for a Graduate Geotechnical Engineer to join us in Hong Kong.",
-   "Our graduate experience offers you:Purpose-driven work: Join....",
-   "Asia Pacific Region Ground Engineering New Graduate Mechanical Engineer (2027 Intake) 🔍 Hong Kong, -, Hong Kong Our MEP team is looking for a Graduate Mechanical Engineer to join us in Hong Kong.",
-   "Our graduate experience offers you:Purpose-driven work: Join an...",
-   "Asia Pacific Region Mechanical Engineering New Graduate Electrical Engineer (2027 Intake) 🔍 Hong Kong Our MEP team is looking for a Graduate Electrical Engineer to join us in Hong Kong.",
-   "Our graduate experience offers you:Purpose-driven work: Join an...",
-   "Asia Pacific Region Electrical Engineering New Graduate Rail Systems Engineer (2027 Intake) 🔍 Hong Kong Our Rail & Rail System team is looking for a Graduate Rail Systems Engineer to join us in Hong Kong.",
-   "Our graduate experience offers..."
+   "Our graduate experience offers you:Purpose-driven work: Join...."
   ],
   "links": [
    {
@@ -2075,13 +2063,9 @@
    {
     "title": "Graduate Geotechnical Engineer (2027 Intake)",
     "url": "https://jobs.arup.com/jobs/graduate-geotechnical-engineer-2027-intake-35258"
-   },
-   {
-    "title": "Graduate Rail Systems Engineer (2027 Intake)",
-    "url": "https://jobs.arup.com/jobs/graduate-rail-systems-engineer-2027-intake-35249"
    }
   ],
-  "sig": "4aed8b668966f83e"
+  "sig": "057c59218667885a"
  },
  "https://jobs.bostonscientific.com/": {
   "changed": null,
@@ -2180,13 +2164,13 @@
   "sig": "a2b76cd6f77fd0be"
  },
  "https://jobs.siemens-energy.com/en_US/jobs/Jobs/?search=intern&location=Australia": {
-  "changed": null,
+  "changed": "2026-10-06",
   "checked": "2026-10-06",
   "employer": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "employer_id": "siemens-energy-grid-technologies-grid-solutions",
   "first_seen": "2026-10-06",
   "keywords": [
-   "Search jobs at Siemens Energy and Siemens Gamesa | Siemens Energy - Careers Marketplace Skip to content Skip to footer Siemens Energy Menu Search Jobs About us Early careers Hiring process Login Current language Deutsch English Español Français Magyar Nederlands Português Română Čeština 简体中文 繁體中文 日本語 Search jobs at Siemens Energy and Siemens Gamesa Get job recommendations Search for open positions Search for open positions Keywords Country / Region Select an option Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Brazil British Indian Ocean Territory British Virgin Islands Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Cook Islands Costa Rica Croatia Cuba Curacao Cyprus Czechia Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See (Vatican City State) Honduras Hong Kong Hungary Iceland India Indonesia Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Kosovo Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Libyan Arab Jamahiriya Liechtenstein Lithuania Luxembourg Macao Macao, China Macau Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island North Macedonia Northern Mariana Islands Norway Oman Pakistan Palau Palestinian Territory, Occupied Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Reunion Romania Russian Federation Rwanda Saint Barthelemy Saint Helena Saint Kitts and Nevis Saint Lucia Saint Martin Saint Pierre and Miquelon Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Eustatius and Saba Sint Maarten Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Korea South Soudan Spain Sri Lanka Sudan Suriname Svalbard and Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan Taiwan, Province of China Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkiye Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom of Great Britain and Northern Ireland United Republic of Tanzania United States of America Uruguay Uzbekistan Vanuatu Venezuela Viet Nam Vietnam Virgin Islands, British Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe State/Province City Job Function Select an option Assurance Audit Communications Customer Services Cybersecurity Engineering Enterprise Data & Advanced Analytics Environmental Protection, Health & Safety Finance General Management Human Resources Information Technology Internal Services Legal & Compliance Manufacturing Marketing Product Management, Portfolio & Innovation Project Management Quality Management Real Estate Research & Development Sales SCM-Procurement / Supply Chain Logistics Strategy Experience Level Select an option Entry-Level / Graduate Manager / Team Leader Professional / Experienced Senior Management / Executive Student / Intern / Apprentice Full / Part time Select an option Full-time Part-time Full Time or Part Time Full / Part time Search 1 - 20 of 999+ results Filters applied ( Reset ) Sort by Unsorted Job Name Posted Date Intern – Software Development and Testing Apply Share this job: Share Data Analyst Intern - Real Estate Apply Share this job: Share Automation / AI Intern for Blade Structural Design Process Apply Share this job: Share HR Intern Apply Share this job: Share Intern - Turbine Software System Validation Apply Share this job: Share Business Intelligence Developer Intern Apply Share this job: Share Siemens Energy Finance Excellence Summer Intern (P) Apply Share this job: Share Engineering Graduate Internship Program Apply Share this job: Share Talent Acquisition Coordinator - Intern Apply Share this job: Share Field Machinist – Domestic & International Travel Hot Job Apply Share this job: Share Communications Intern Apply Share this job: Share HR Intern Apply Share this job: Share Intern – Blades Process Digitalization & Power BI Analyst Apply Share this job: Share Internship Business Partner Master Data Services Apply Share this job: Share International Order Manager Hot Job Apply Share this job: Share Legal Intern Apply Share this job: Share Operations Quality Intern Apply Share this job: Share International Commercial Officer Apply Share this job: Share Recruitment Intern with German Apply Share this job: Share Apprentice Apply Share this job: Share Next >> Technical Issues?",
+   "Search jobs at Siemens Energy and Siemens Gamesa | Siemens Energy - Careers Marketplace Skip to content Skip to footer Siemens Energy Menu Search Jobs About us Early careers Hiring process Login Current language Deutsch English Español Français Magyar Nederlands Português Română Čeština 简体中文 繁體中文 日本語 Search jobs at Siemens Energy and Siemens Gamesa Get job recommendations Search for open positions Search for open positions Keywords Country / Region Select an option Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Brazil British Indian Ocean Territory British Virgin Islands Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Cook Islands Costa Rica Croatia Cuba Curacao Cyprus Czechia Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See (Vatican City State) Honduras Hong Kong Hungary Iceland India Indonesia Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Kosovo Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Libyan Arab Jamahiriya Liechtenstein Lithuania Luxembourg Macao Macao, China Macau Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island North Macedonia Northern Mariana Islands Norway Oman Pakistan Palau Palestinian Territory, Occupied Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Reunion Romania Russian Federation Rwanda Saint Barthelemy Saint Helena Saint Kitts and Nevis Saint Lucia Saint Martin Saint Pierre and Miquelon Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Eustatius and Saba Sint Maarten Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Korea South Soudan Spain Sri Lanka Sudan Suriname Svalbard and Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan Taiwan, Province of China Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkiye Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom of Great Britain and Northern Ireland United Republic of Tanzania United States of America Uruguay Uzbekistan Vanuatu Venezuela Viet Nam Vietnam Virgin Islands, British Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe State/Province City Job Function Select an option Assurance Audit Communications Customer Services Cybersecurity Engineering Enterprise Data & Advanced Analytics Environmental Protection, Health & Safety Finance General Management Human Resources Information Technology Internal Services Legal & Compliance Manufacturing Marketing Product Management, Portfolio & Innovation Project Management Quality Management Real Estate Research & Development Sales SCM-Procurement / Supply Chain Logistics Strategy Experience Level Select an option Entry-Level / Graduate Manager / Team Leader Professional / Experienced Senior Management / Executive Student / Intern / Apprentice Full / Part time Select an option Full-time Part-time Full Time or Part Time Full / Part time Search 1 - 20 of 21+ results Filters applied ( Reset ) Sort by Unsorted Job Name Posted Date Intern – Software Development and Testing Apply Share this job: Share Automation / AI Intern for Blade Structural Design Process Apply Share this job: Share Data Analyst Intern - Real Estate Apply Share this job: Share Internship Business Partner Master Data Services Apply Share this job: Share HR Intern Apply Share this job: Share Intern - Turbine Software System Validation Apply Share this job: Share Business Intelligence Developer Intern Apply Share this job: Share Siemens Energy Finance Excellence Summer Intern (P) Apply Share this job: Share Engineering Graduate Internship Program Apply Share this job: Share Talent Acquisition Coordinator - Intern Apply Share this job: Share Field Machinist – Domestic & International Travel Hot Job Apply Share this job: Share Communications Intern Apply Share this job: Share HR Intern Apply Share this job: Share Intern – Blades Process Digitalization & Power BI Analyst Apply Share this job: Share International Order Manager Hot Job Apply Share this job: Share Legal Intern Apply Share this job: Share Operations Quality Intern Apply Share this job: Share International Commercial Officer Apply Share this job: Share Recruitment Intern with German Apply Share this job: Share Apprentice Apply Share this job: Share Next >> Technical Issues?",
    "US Only: Request Accommodations for Disability Labor Condition Application siemens-energy.com Global Website This platform is operated under the Siemens Energy brand however, the underlying software and AI-supported functionalities are provided and maintained by Avature."
   ],
   "links": [
@@ -2199,12 +2183,16 @@
     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Intern-Software-Development-and-Testing/303119"
    },
    {
+    "title": "Automation / AI Intern for Blade Structural Design Process",
+    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Automation-AI-Intern-for-Blade-Structural-Design-Process/302765"
+   },
+   {
     "title": "Data Analyst Intern - Real Estate",
     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Data-Analyst-Intern-Real-Estate/301766"
    },
    {
-    "title": "Automation / AI Intern for Blade Structural Design Process",
-    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Automation-AI-Intern-for-Blade-Structural-Design-Process/302765"
+    "title": "Internship Business Partner Master Data Services",
+    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Internship-Business-Partner-Master-Data-Services/304073"
    },
    {
     "title": "HR Intern",
@@ -2247,10 +2235,6 @@
     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Intern-Blades-Process-Digitalization-Power-BI-Analyst/304089"
    },
    {
-    "title": "Internship Business Partner Master Data Services",
-    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Internship-Business-Partner-Master-Data-Services/304073"
-   },
-   {
     "title": "International Order Manager",
     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/International-Order-Manager/302758"
    },
@@ -2271,7 +2255,7 @@
     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Recruitment-Intern-with-German/302804"
    }
   ],
-  "sig": "0eb9407d4417f288"
+  "sig": "d4f50e5ce6e021f4"
  },
  "https://jobs.siemens-healthineers.com/": {
   "changed": null,
@@ -2360,42 +2344,43 @@
   "sig": "4c9675ba2117a162"
  },
  "https://jobs.siemens.com/en_US/externaljobs/SearchJobs/?search=intern&location=Australia": {
-  "changed": null,
+  "changed": "2026-10-06",
   "checked": "2026-10-06",
   "employer": "Siemens Mobility Australia",
   "employer_id": "siemens-mobility-australia",
   "first_seen": "2026-10-06",
   "keywords": [
-   "Job Search | Careers Marketplace - Siemens Skip to content Skip to footer Job Search All Jobs AI Recommendations FAQs & Support English Deutsch English Español Français Nederlands Portuguese Čestina 中文 (简体) 中文 (繁体) 日本語 Login Job Search All Jobs AI Recommendations FAQs & Support Open jobs Filter results by Filter results by Keywords or skills Country State/Province/County City Field of work Experience Level Additional filters Job type Work mode Employment type Organization Business Unit Search 1 - 6 of 999+ results Filters applied ( Reset ) Sort by Most recent Field of work Job title Market Development Intern Rotterdam , Zuid-Holland , Netherlands • Job ID: 520020 • Internal Services Share Email WeChat WhatsApp X Facebook Learn more Strategic Student Program: AI & Engineering Data Internship (Spring 2027, GSCS) Multiple Locations • Job ID: 519908 • Internal Services Share Email WeChat WhatsApp X Facebook Learn more Building Automation Systems Specialist Internship Anchorage , Alaska , United States of America • Job ID: 521441 • Internal Services Share Email WeChat WhatsApp X Facebook Learn more Strategic Student Program (SSP) - Application Support Engineer Intern Mexico City , Ciudad de Mexico , Mexico • Job ID: 494283 • Customer Services Share Email WeChat WhatsApp X Facebook Learn more Engineering Intern Singapore , Central Singapore , Singapore • Job ID: 519800 • Internal Services Share Email WeChat WhatsApp X Facebook Learn more Integrated Security Systems Sales Internship New York City , New York , United States of America • Job ID: 521439 • Internal Services Share Email WeChat WhatsApp X Facebook Learn more 1 - 6 of 999+ results Next >> New opportunities arise everyday Get AI Recommendations or Create a job alert US Only: Review Accommodations for Disability © Siemens 1996 - 2026 FAQs Corporate information Privacy notice Cookie notice Terms of use Digital ID Whistleblowing Important Note: For all job applicants looking to join us, please note Siemens does not ask for fees prior/during/after the application process.",
+   "Job Search | Careers Marketplace - Siemens Skip to content Skip to footer Job Search All Jobs AI Recommendations FAQs & Support English Deutsch English Español Français Nederlands Portuguese Čestina 中文 (简体) 中文 (繁体) 日本語 Login Job Search All Jobs AI Recommendations FAQs & Support Open jobs Filter results by Filter results by Keywords or skills Country State/Province/County City Field of work Experience Level Additional filters Job type Work mode Employment type Organization Business Unit Search 1 - 6 of 999+ results Filters applied ( Reset ) Sort by Most recent Field of work Job title Software & AI Adoption Engineering Intern (Barcelona & Madrid) Multiple Locations • Job ID: 515651 • Internal Services Share Email WeChat WhatsApp X Facebook Learn more Internship or Working Student for System Applications 50-100% Zug , Zug , Switzerland • Job ID: 523346 • Internal Services Share Email WeChat WhatsApp X Facebook Learn more Market Development Intern Rotterdam , Zuid-Holland , Netherlands • Job ID: 520020 • Internal Services Share Email WeChat WhatsApp X Facebook Learn more Strategic Student Program: Social Acquisition Marketing Intern (CMMK, Spring 2027) St.",
+   "Louis , Missouri , United States of America • Job ID: 521208 • Internal Services Share Email WeChat WhatsApp X Facebook Learn more Building Automation Systems Project Management Intern Fairbanks , Alaska , United States of America • Job ID: 521442 • Internal Services Share Email WeChat WhatsApp X Facebook Learn more Strategic Student Program: Cross-Domain Electronics Systems Engineering Intern (T&I, Spring 2027) Multiple Locations • Job ID: 519896 • Internal Services Share Email WeChat WhatsApp X Facebook Learn more 1 - 6 of 999+ results Next >> New opportunities arise everyday Get AI Recommendations or Create a job alert US Only: Review Accommodations for Disability © Siemens 1996 - 2026 FAQs Corporate information Privacy notice Cookie notice Terms of use Digital ID Whistleblowing Important Note: For all job applicants looking to join us, please note Siemens does not ask for fees prior/during/after the application process.",
    "Similarly, please do not open documents in e-mails that appear to be sent by a Siemens recruiter unless you are sure you are being contacted by one of our professionals for an active application process."
   ],
   "links": [
+   {
+    "title": "Software & AI Adoption Engineering Intern (Barcelona & Madrid)",
+    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/515651"
+   },
+   {
+    "title": "Internship or Working Student for System Applications 50-100%",
+    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523346"
+   },
    {
     "title": "Market Development Intern",
     "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/520020"
    },
    {
-    "title": "Strategic Student Program: AI & Engineering Data Internship (Spring 2027, GSCS)",
-    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/519908"
+    "title": "Strategic Student Program: Social Acquisition Marketing Intern (CMMK, Spring 2027)",
+    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521208"
    },
    {
-    "title": "Building Automation Systems Specialist Internship",
-    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521441"
+    "title": "Building Automation Systems Project Management Intern",
+    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521442"
    },
    {
-    "title": "Strategic Student Program (SSP) - Application Support Engineer Intern",
-    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/494283"
-   },
-   {
-    "title": "Engineering Intern",
-    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/519800"
-   },
-   {
-    "title": "Integrated Security Systems Sales Internship",
-    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521439"
+    "title": "Strategic Student Program: Cross-Domain Electronics Systems Engineering Intern (T&I, Spring 2027)",
+    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/519896"
    }
   ],
-  "sig": "b3ace4e7ec86ac30"
+  "sig": "45c8c9e951f0e7b2"
  },
  "https://jobs.techstars.com/companies/esper-satellite-imagery-2": {
   "changed": null,
@@ -3109,21 +3094,21 @@
   "sig": "8361ca0a7ff6daaa"
  },
  "https://safetyculture.com/careers/": {
-  "changed": null,
+  "changed": "2026-10-06",
   "checked": "2026-10-06",
   "employer": "SafetyCulture",
   "employer_id": "safetyculture",
   "first_seen": "2026-10-06",
   "keywords": [
-   "Explore open roles Meet the team WHY WE EXIST The way the world works The world runs on frontline organizations.",
+   "Explore open roles Meet the team IN THEIR WORDS The people already here Mission driven We are a very mission driven business, focused on helping our customers do their best work and improve every day.",
    "We close that gap.",
    "Open, Honest, Always When information flows freely and feedback is honest, everyone makes better decisions.",
    "We share context early and close the loop.",
-   "Explore open roles Grow Leadership Academy, workshops, hackathons, and Lunch & Learns.",
-   "HOW HIRING WORKS Straightforward, start to finish 01 Apply Send your application for the role that fits."
+   "Explore open roles GLOBAL FOOTPRINT Five offices, one team Sydney, Manchester, Kansas City, Austin and Manila.",
+   "Browse roles by location HOW HIRING WORKS Straightforward, start to finish 01 Apply Send your application for the role that fits."
   ],
   "links": [],
-  "sig": "facb99aca12217d9"
+  "sig": "1b85b07f83d5545e"
  },
  "https://search.jobs.wa.gov.au/": {
   "changed": null,
@@ -3748,8 +3733,8 @@
  "https://www.ansto.gov.au/careers/early-careers": {
   "changed": null,
   "checked": "2026-10-06",
-  "employer": "Australian Synchrotron (ANSTO Melbourne, Clayton)",
-  "employer_id": "australian-synchrotron-ansto-melbourne-clayton",
+  "employer": "ANSTO (Lucas Heights) - Australian Nuclear Science and Technology Organisation",
+  "employer_id": "ansto-lucas-heights-australian-nuclear-science-and-technolog",
   "first_seen": "2026-10-06",
   "keywords": [
    "Work at ANSTO | ANSTO Career Programs | ANSTO Skip to main content Open Menu Careers Shop User access Media Centre Contact Search About Expand Locations Expand Sydney Melbourne What we do Expand Vision Our history Nuclear stewardship Partnerships FAQs Aboriginal cultural heritage How we work Expand Environmental Protection Decommissioning Work Health & Safety OPAL Safety People Expand All Staff Scientists Senior Leadership ANSTO Board Governance Expand Corporate Publications Statement of Expectations Statement of Intent Diversity, Equity, Inclusion and Belonging Science Expand Health Research and Technology Expand Capabilities Health Research and Technology Environment Research and Technology Expand Analytical services Environmental change Environmental protection Food provenance Impact of contaminants Lucas Heights Weather Station Reconstructing Australia’s fire history Water Water Isotope Network Nuclear materials research and technology Expand Fuel and spent fuel Reactor systems Capabilities Case studies Publications Expand Neutron scattering Deuteration Synchrotron science Accelerator science Library Nuclear stewardship International Cooperation Facilities Expand OPAL multi-purpose reactor Expand Celebrating 20 years of OPAL OPAL operating cycles Neutron Activation Analysis and Neutron irradiation Australian Centre for Neutron Scattering Expand Accessing ACNS Call for Proposals Neutron scattering instruments Other instruments and services ACNS Industry Access User Portal Australian Synchrotron Expand Synchrotron beamlines Project BRIGHT Travel funding Synchrotron guesthouse Case studies Commercial services FAQs Melbourne Access Proposals User Portal Australian Synchrotron Data Access & Retention Guide Particle Accelerators Program Advisory Committees (PAC) Centre for Accelerator Science Expand Capabilities and Applications Expertise and Infrastructure Our impact User Portal National Deuteration Facility Expand Biodeuteration Chemical Deuteration Science Highlights User Access User Portal Nuclear medicine facilities User Access Expand Sydney - Access Melbourne - Access Updates Products Expand Nuclear Medicine Expand Contact Radiopharmaceuticals Radiochemicals Accessories Delivery schedule Facilities Health innovation ANSTO Synroc Detection and Imaging CORIS360® Expand Features and benefits Gamma Neutron Imager Industries Compressed sensing technology Case studies About us FAQs Downloads Contact us Services Expand Resources Sector Expand Contact Minerals Oil and Gas Decommissioning Consultancy and Safety Air Quality Impact of Contaminants Water Analysis Radiation Services Expand Instrument Calibration Radiation Safety Training Waste Solutions Advanced Manufacturing Expand HIPing Characterisation Irradiation Expand Silicon irradiation Gamma irradiation Research Services Expand Total Fluorine Analysis Space Radiation Testing Measurement Work with us Expand Industry Technology innovation ANSTO Science Series Webinars Education Expand Nuclear facts Tours Primary School Secondary School For Teachers Resource Library Industry News Events Careers Early Career Programs Graduate Program The ANSTO Graduate Program is designed to develop and nurture the next generation of Australian science, engineering and business professionals.",
@@ -3860,8 +3845,8 @@
  "https://www.apsjobs.gov.au/": {
   "changed": null,
   "checked": "2026-10-06",
-  "employer": "Geoscience Australia (Digital Earth Australia / satellite ops)",
-  "employer_id": "geoscience-australia-digital-earth-australia-satellite-ops",
+  "employer": "APSJobs (Australian Public Service job board - all Commonwealth agencies)",
+  "employer_id": "apsjobs-australian-public-service-job-board-all-commonwealth",
   "first_seen": "2026-10-06",
   "keywords": [],
   "links": [],
@@ -4274,16 +4259,14 @@
   "sig": "da39a3ee5e6b4b0d"
  },
  "https://www.australiandroid.com.au/": {
-  "changed": null,
+  "changed": "2026-10-06",
   "checked": "2026-10-06",
   "employer": "Australian Droid + Robot (ADR)",
   "employer_id": "australian-droid-robot-adr",
   "first_seen": "2026-10-06",
-  "keywords": [
-   "Request Info Insight Without Interruption APPLICATIONS Underground Mine Mapping & Surveying Blast Re-Entry Inspection Ventilation Monitoring Geological Mapping Fragmentation Analysis Comms Recovery for Autonomous Machinery Thermal & Visual Asset Inspection Autonomous Area Clearance Trusted By..."
-  ],
+  "keywords": [],
   "links": [],
-  "sig": "8ef3885d1089059a"
+  "sig": "da39a3ee5e6b4b0d"
  },
  "https://www.babcock.com.au/careers": {
   "changed": null,
@@ -5082,19 +5065,14 @@
   "sig": "caad78b39f39d1f7"
  },
  "https://www.dorsavi.com/": {
-  "changed": null,
+  "changed": "2026-10-06",
   "checked": "2026-10-06",
   "employer": "dorsaVi",
   "employer_id": "dorsavi",
   "first_seen": "2026-10-06",
-  "keywords": [
-   "Our solutions are utilized across a spectrum of applications, from clinical assessments to workplace ergonomics and athletic movement analysis, ensuring early detection, real-time monitoring, and long-term benefits.",
-   "dorsaVi technology offers a multitude of benefits across a wide range of applications, making it an invaluable tool for individuals and professionals alike.",
-   "This includes access to webinars, workshops, and continuous education opportunities, enabling users to continually enhance their skills and knowledge in movement analysis, biomechanics, and the effective application of dorsaVi solutions in their respective fields.",
-   "This first step opens a direct line to our knowledgeable team, ready to discuss the transformative potential of dorsaVi in your specific context."
-  ],
+  "keywords": [],
   "links": [],
-  "sig": "08b810c392ec6974"
+  "sig": "da39a3ee5e6b4b0d"
  },
  "https://www.droneshield.com/careers": {
   "changed": null,
@@ -5208,40 +5186,24 @@
   "sig": "da39a3ee5e6b4b0d"
  },
  "https://www.emsolutions.com.au": {
-  "changed": null,
+  "changed": "2026-10-06",
   "checked": "2026-10-06",
   "employer": "EM Solutions (Cohort plc)",
   "employer_id": "em-solutions-cohort-plc",
   "first_seen": "2026-10-06",
-  "keywords": [
-   "I am now in my final year in my program and last year, I achieved all high distinctions in my courses thanks to your assistance“ “I wish to work in the renewable energy sector after I graduate.",
-   "Renewable energy is one of the key issues in the modern world, which drives my desire to contribute to this field.” Qianyu Hu – UQ student More Comments Our Products Satcom On The Move (SOTM) Microwave Subsystems Our Services Build to Print Engineering Repairs & Sustainment Our Services Build to Print Engineering Repairs & Sustainment Our Vision To inspire customers globally, as a trusted technology developer of the most innovative microwave and on-the-move radio and satellite products that help to deliver high speed telecommunications anywhere in the world."
-  ],
-  "links": [
-   {
-    "title": "EM Solutions Scholarship Recipient",
-    "url": "https://www.emsolutions.com.au/ems-comments/scholarship-recipient/"
-   }
-  ],
-  "sig": "072bc0249c8fad55"
+  "keywords": [],
+  "links": [],
+  "sig": "da39a3ee5e6b4b0d"
  },
  "https://www.emsolutions.com.au/": {
-  "changed": null,
+  "changed": "2026-10-06",
   "checked": "2026-10-06",
   "employer": "EM Solutions (Cohort plc)",
   "employer_id": "em-solutions-cohort-plc",
   "first_seen": "2026-10-06",
-  "keywords": [
-   "I am now in my final year in my program and last year, I achieved all high distinctions in my courses thanks to your assistance“ “I wish to work in the renewable energy sector after I graduate.",
-   "Renewable energy is one of the key issues in the modern world, which drives my desire to contribute to this field.” Qianyu Hu – UQ student More Comments Our Products Satcom On The Move (SOTM) Microwave Subsystems Our Services Build to Print Engineering Repairs & Sustainment Our Services Build to Print Engineering Repairs & Sustainment Our Vision To inspire customers globally, as a trusted technology developer of the most innovative microwave and on-the-move radio and satellite products that help to deliver high speed telecommunications anywhere in the world."
-  ],
-  "links": [
-   {
-    "title": "EM Solutions Scholarship Recipient",
-    "url": "https://www.emsolutions.com.au/ems-comments/scholarship-recipient/"
-   }
-  ],
-  "sig": "072bc0249c8fad55"
+  "keywords": [],
+  "links": [],
+  "sig": "da39a3ee5e6b4b0d"
  },
  "https://www.endeavourenergy.com.au/about-us/careers-and-opportunities/pathways-to-employment/internships": {
   "changed": null,
@@ -5903,28 +5865,24 @@
   "sig": "a762edfc635cac0a"
  },
  "https://www.hydrix.com": {
-  "changed": null,
+  "changed": "2026-10-06",
   "checked": "2026-10-06",
   "employer": "Hydrix",
   "employer_id": "hydrix",
   "first_seen": "2026-10-06",
-  "keywords": [
-   "Explore Our Capabilities Every stage of product development , from idea to market launch Our Full Capabilities > Product Engineering & Realisation Design and delivery of high-performance systems across electronics, mechanical, embedded, and software domains for regulated and safety-critical applications."
-  ],
+  "keywords": [],
   "links": [],
-  "sig": "c1274cd194548ba2"
+  "sig": "da39a3ee5e6b4b0d"
  },
  "https://www.hydrix.com/": {
-  "changed": null,
+  "changed": "2026-10-06",
   "checked": "2026-10-06",
   "employer": "Hydrix",
   "employer_id": "hydrix",
   "first_seen": "2026-10-06",
-  "keywords": [
-   "Explore Our Capabilities Every stage of product development , from idea to market launch Our Full Capabilities > Product Engineering & Realisation Design and delivery of high-performance systems across electronics, mechanical, embedded, and software domains for regulated and safety-critical applications."
-  ],
+  "keywords": [],
   "links": [],
-  "sig": "c1274cd194548ba2"
+  "sig": "da39a3ee5e6b4b0d"
  },
  "https://www.iberdrola.com.au/careers/": {
   "changed": null,
@@ -6477,8 +6435,8 @@
  "https://www.lifeatcanva.com/en/early-careers/": {
   "changed": null,
   "checked": "2026-10-06",
-  "employer": "Leonardo.ai",
-  "employer_id": "leonardo-ai",
+  "employer": "Canva",
+  "employer_id": "canva",
   "first_seen": "2026-10-06",
   "keywords": [
    "| Canva Careers Skip to main content 中文 0 Your jobs Jobs Our culture Close dropdown Our culture Benefits & ways of working Belonging at Canva Two-Step Plan Teams Close dropdown Teams Engineering Product Management Design Sales and Success Marketing Operations Finance Customer Happiness Legal People Information Technology Locations Close dropdown Locations Australia United States United Kingdom Philippines New Zealand Austria Czechia China Careers and growth Close dropdown Careers and growth How we hire Career tools Early careers Blog 中文 Design your future Get ready to make an impact.",
@@ -7406,13 +7364,13 @@
   "sig": "8debbbdb91775863"
  },
  "https://www.qinetiq.com.au/careers": {
-  "changed": null,
+  "changed": "2026-10-06",
   "checked": "2026-10-06",
   "employer": "QinetiQ Australia",
   "employer_id": "qinetiq-australia",
   "first_seen": "2026-10-06",
   "keywords": [
-   "Stay up to date through QinetiQ with our news releases Read More What we do Our Company Careers QinetiQ Company Overview Our Heritage Accreditations Partners Who we work with Frameworks Work with us Suppliers Working with us Sustainable procurement JOSCAR Frameworks Collaborative events ISO44001 Global United Kingdom United States Canada Australia Germany Contact QinetiQ Follow QinetiQ on Privacy Your privacy choices Terms of use Cookie policy Accessibility Modern slavery statement Vulnerability disclosure © QinetiQ 2026 Op5_vsEwKfPp5Ebg8M6vaGhd9JCucPkrte-_2Vm_l2c=.html"
+   "Stay up to date through QinetiQ with our news releases Read More What we do Our Company Careers QinetiQ Company Overview Our Heritage Accreditations Partners Who we work with Frameworks Work with us Suppliers Working with us Sustainable procurement JOSCAR Frameworks Collaborative events ISO44001 Global United Kingdom United States Canada Australia Germany Contact QinetiQ Follow QinetiQ on Privacy Your privacy choices Terms of use Cookie policy Accessibility Modern slavery statement Vulnerability disclosure © QinetiQ 2026 GeeOX-ks5wTJudAiXYFCgm4F3pFXQiVl1yDeYpYW4dw=.html"
   ],
   "links": [
    {
@@ -7420,7 +7378,7 @@
     "url": "https://www.qinetiq.com.au/en-au/careers/early-careers"
    }
   ],
-  "sig": "98e88d3103e3b6b1"
+  "sig": "7e09689ee43bb850"
  },
  "https://www.quasarsat.com/careers": {
   "changed": null,
@@ -7660,17 +7618,14 @@
   "sig": "23918e5b2087b8b2"
  },
  "https://www.rubiconwater.com/careers": {
-  "changed": null,
+  "changed": "2026-10-06",
   "checked": "2026-10-06",
   "employer": "Rubicon Water",
   "employer_id": "rubicon-water",
   "first_seen": "2026-10-06",
-  "keywords": [
-   "If you’re interested in joining Rubicon, please explore our open vacancies below.",
-   "The machine readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data."
-  ],
+  "keywords": [],
   "links": [],
-  "sig": "9198c19eb3275ab0"
+  "sig": "da39a3ee5e6b4b0d"
  },
  "https://www.rwe.com/en/careers/": {
   "changed": null,
@@ -8381,14 +8336,14 @@
   "sig": "9c0dad6682143ee0"
  },
  "https://www.taswater.com.au/careers": {
-  "changed": null,
+  "changed": "2026-10-06",
   "checked": "2026-10-06",
   "employer": "TasWater",
   "employer_id": "taswater",
   "first_seen": "2026-10-06",
   "keywords": [
    "What you need to know Change of ownership Property title information Businesses Trade waste Water supply contract Recycled water Reuse products Environmental Reporting Plumbing Blockages, leaks and floods Backflow containment Frozen Pipes Meters Meter reads Sub metering Meters and the environment Building and development Getting ready Before You Dig Australia Service locations Technical standards Land and property development Approved Panel Members Fees and charges Fees and charges Developer charges explained Application information Application for Development Services form Customer Connections Building and plumbing application information Application for Development Services Information Development Application (DA) Information Engineer Design Approvals PlanBuild Tasmania Community Projects Our projects Your Say Resource Recovery Units Master Plans (opens in new window) Water quality Environmental and public health monitoring Don't flush this Your sewage Your drinking water Colour, odour and taste Community Partnerships Community Art (opens in new window) Portable Water Stations Be A Refiller Not A Landfiller (opens in new window) Risdon Brook Park (opens in new window) Education Water Guardians (opens in new window) Water-saving tips Schools and Education Deeper Dive Water for Health Why Save Water Bushfire Awareness News Service interruptions Do Not Consume Alerts Emergency Interruptions Planned interruptions Boil Water Alerts Taste/Odour Updates Current service interruptions articles Current Service Interruptions Report a fault Water supply status Water restriction guidelines Planned Network Cleaning and Maintenance Cleaning and Maintenance information Customer newsletters Newsroom News Articles About Us About TasWater Our Brand Our Strategy Board and Leadership Governance and Policies Tenders and Contractor Hub Careers Applying for a position at TasWater Early Career Pathways Scholarship Programs Graduate Program Summer Placement Program Careers LINKS Publications Capital Delivery Office TW CDO Images Contact us Toggle search Search for Search Register for SMS Alerts Contact Us Careers Unlock your future career Welcome to TasWater, where we're more than just a water and sewerage utility; we're a passionate community of individuals united by a shared vision.",
-   "Read more Early Career Pathways Explore TasWater’s early career pathways - from school programs to graduate roles - and discover how you can help shape Tasmania’s water future.",
+   "Join our talent pool by uploading your details and resume today Read more Early Career Pathways Explore TasWater’s early career pathways - from school programs to graduate roles - and discover how you can help shape Tasmania’s water future.",
    "This includes internal secondments, project work, higher duties opportunities, industry networking, professional qualifications, and vocational training.",
    "We offer a Graduate Program, Summer Vacation Program, and Scholarship Programs to provide university students with unique experience in the diverse world of water and sewerage and to help them forge their career.",
    "Choose Tasmania TasWater has many team members that have relocated from interstate and internationally in search of a better way of living.",
@@ -8414,7 +8369,7 @@
     "url": "https://www.taswater.com.au/about-us/careers/summer-placement-program"
    }
   ],
-  "sig": "81ecedc0131eb933"
+  "sig": "cf4d32003013e916"
  },
  "https://www.tek.com/en/careers": {
   "changed": null,
@@ -9030,6 +8985,31 @@
   ],
   "sig": "64a4fc1c439b407b"
  },
+ "https://www.vaxxas.com/careers/": {
+  "changed": null,
+  "checked": "2026-10-06",
+  "employer": "Vaxxas",
+  "employer_id": "vaxxas",
+  "first_seen": "2026-10-06",
+  "keywords": [
+   "If you do receive a message of this nature, please do not reply or open any attachments, and report it to the relevant authorities in your location asap.",
+   "Read More About Vaxxas Technology Platform Product Applications Careers News Contact ©Vaxxas 2026 Toggle navigation Toggle navigation MENU Home About Vaxxas Technology Platform Product Applications Careers News Contact Us"
+  ],
+  "links": [],
+  "sig": "b867b457d081a5c6"
+ },
+ "https://www.vaxxas.com/careers/current-opportunities-jobs/": {
+  "changed": null,
+  "checked": "2026-10-06",
+  "employer": "Vaxxas",
+  "employer_id": "vaxxas",
+  "first_seen": "2026-10-06",
+  "keywords": [
+   "Learn More About Vaxxas Technology Platform Product Applications Careers News Contact ©Vaxxas 2026 Toggle navigation Toggle navigation MENU Home About Vaxxas Technology Platform Product Applications Careers News Contact Us"
+  ],
+  "links": [],
+  "sig": "9a8cd4e9cedefc11"
+ },
  "https://www.ventia.com/careers": {
   "changed": null,
   "checked": "2026-10-06",
@@ -9390,8 +9370,8 @@
  "https://www.worley.com/en/careers/our-programs/internship": {
   "changed": null,
   "checked": "2026-10-06",
-  "employer": "Advisian (Worley)",
-  "employer_id": "advisian-worley",
+  "employer": "Worley",
+  "employer_id": "worley",
   "first_seen": "2026-10-06",
   "keywords": [
    "Internship Program – Worley Summer Internships - Worley What we deliver Full project delivery Full project delivery overview Engineering Procurement and supply chain Construction and fabrication Operations and maintenance Worley Consulting Worley Consulting Overview Why choose Worley Consulting Planning and investment Capital project support Optimize, repurpose and decommission Digital solutions Environment and sustainability consulting Specialist & Technology Worley Chemetics Worley Comprimo Offshore energy solutions Technology Ventures How we deliver AI and digitally-enabled project delivery Globally connected team Industries Chemicals and fuels Chemicals and fuels overview Chemicals Low carbon fuels Refining Plastics recycling solutions Sustainable aviation fuel Conventional energy Conventional energy overview Carbon capture, utilization and storage Decommissioning Integrated gas Midstream energy infrastructure Offshore oil Onshore oil Low carbon energy Low carbon energy overview Biogas and renewable natural gas Data centers Energy storage Hydrogen Nuclear power Power networks Renewable energy Resources Resources overview Aluminium Battery materials Bauxite and alumina Copper and energy transition materials Graphite Iron ore Mined fertilizers Precious metals Water Projects Insights About us About us Our story Our strategy Our leadership Sustainability Where we operate News Careers Careers Careers home Apply Job search Our process Recruitment FAQs Fraud notice Life at Worley Why Worley Belong at Worley Meet our people Our Teams Your global career Trade and craft Technical and functions Early Careers Our programs Internship program Graduate program Specialist programs Investors Investor Centre Welcome Corporate governance News ASX announcements Our news Results and reports Results, reports and presentations Annual report highlights Tools and resources Share price Calendar Broker Toolkit (download) Investor factsheet (download) Analyst coverage Shareholders Shareholder services Shareholder FAQs Shareholder meetings Investor contacts Close Submit Search Contact us Menu What we deliver Back Full project delivery Full project delivery overview Engineering Procurement and supply chain Construction and fabrication Operations and maintenance Worley Consulting Worley Consulting Overview Why choose Worley Consulting Planning and investment Capital project support Optimize, repurpose and decommission Digital solutions Environment and sustainability consulting Specialist & Technology Worley Chemetics Worley Comprimo Offshore energy solutions Technology Ventures How we deliver AI and digitally-enabled project delivery Globally connected team Industries Back Chemicals and fuels Chemicals and fuels overview Chemicals Low carbon fuels Refining Plastics recycling solutions Sustainable aviation fuel Conventional energy Conventional energy overview Carbon capture, utilization and storage Decommissioning Integrated gas Midstream energy infrastructure Offshore oil Onshore oil Low carbon energy Low carbon energy overview Biogas and renewable natural gas Data centers Energy storage Hydrogen Nuclear power Power networks Renewable energy Resources Resources overview Aluminium Battery materials Bauxite and alumina Copper and energy transition materials Graphite Iron ore Mined fertilizers Precious metals Water Projects Insights About us Back About us Our story Our strategy Our leadership Sustainability Where we operate News Careers Back Careers Careers home Apply Job search Our process Recruitment FAQs Fraud notice Life at Worley Why Worley Belong at Worley Meet our people Our Teams Your global career Trade and craft Technical and functions Early Careers Our programs Internship program Graduate program Specialist programs Investors Back Investor Centre Welcome Corporate governance News ASX announcements Our news Results and reports Results, reports and presentations Annual report highlights Tools and resources Share price Calendar Broker Toolkit (download) Investor factsheet (download) Analyst coverage Shareholders Shareholder services Shareholder FAQs Shareholder meetings Investor contacts Contact us Early careers programs Early careers programs Internship Graduate Specialist Internship program Search current opportunities Big ideas start here This is just the beginning.",

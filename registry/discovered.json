@@ -109,6 +109,20 @@
    "https://www.ainse.edu.au/winter-school/"
   ]
  },
+ "airbus-helicopters-australia": {
+  "checked": "2026-10-06",
+  "specs": [
+   {
+    "host": "ag.wd3.myworkdayjobs.com",
+    "site": "Airbus",
+    "tenant": "ag",
+    "type": "workday"
+   }
+  ],
+  "tried": [
+   "https://ag.wd3.myworkdayjobs.com/en-US/Airbus"
+  ]
+ },
  "akaysha-energy": {
   "checked": "2026-10-06",
   "specs": [
@@ -226,6 +240,14 @@
   "specs": [],
   "tried": [
    "https://andhealth.com.au/"
+  ]
+ },
+ "annalise-ai": {
+  "checked": "2026-10-06",
+  "specs": [],
+  "tried": [
+   "https://annalise.ai/careers/: Blocked",
+   "https://annalise.ai/careers/: Blocked"
   ]
  },
  "anteris-technologies": {
@@ -671,6 +693,19 @@
    "https://www.asa.gov.au/careers: ConnectionError"
   ]
  },
+ "australian-synchrotron-ansto-melbourne-clayton": {
+  "checked": "2026-10-06",
+  "specs": [
+   {
+    "company": "C0001224766P1",
+    "host": "career10.successfactors.com",
+    "type": "sf_classic"
+   }
+  ],
+  "tried": [
+   "https://careers.ansto.gov.au/search/"
+  ]
+ },
  "avita-medical": {
   "checked": "2026-10-06",
   "specs": [],
@@ -866,6 +901,20 @@
   ],
   "tried": [
    "https://www.bmd.com.au/careers"
+  ]
+ },
+ "boeing-defence-australia-incl-boeing-australia-boeing-aerost": {
+  "checked": "2026-10-06",
+  "specs": [
+   {
+    "host": "boeing.wd1.myworkdayjobs.com",
+    "site": "EXTERNAL_CAREERS",
+    "tenant": "boeing",
+    "type": "workday"
+   }
+  ],
+  "tried": [
+   "https://www.boeing.com.au/careers"
   ]
  },
  "boral": {
@@ -1138,6 +1187,13 @@
    "https://www.cohdawireless.com/"
   ]
  },
+ "collins-aerospace-rtx": {
+  "checked": "2026-10-06",
+  "specs": [],
+  "tried": [
+   "https://careers.rtx.com/"
+  ]
+ },
  "compumedics": {
   "checked": "2026-10-06",
   "specs": [],
@@ -1197,6 +1253,32 @@
    "https://www.csenergy.com.au/careers"
   ]
  },
+ "csiro-data61-robotics-autonomous-systems": {
+  "checked": "2026-10-06",
+  "specs": [
+   {
+    "company": "CSIRO",
+    "host": "career10.successfactors.com",
+    "type": "sf_classic"
+   }
+  ],
+  "tried": [
+   "https://jobs.csiro.au/"
+  ]
+ },
+ "csiro-space-astronomy": {
+  "checked": "2026-10-06",
+  "specs": [
+   {
+    "company": "CSIRO",
+    "host": "career10.successfactors.com",
+    "type": "sf_classic"
+   }
+  ],
+  "tried": [
+   "https://jobs.csiro.au/"
+  ]
+ },
  "cubic-defence-australia": {
   "checked": "2026-10-06",
   "specs": [
@@ -1248,6 +1330,20 @@
   "specs": [],
   "tried": [
    "https://www.cylite.com: SSLError"
+  ]
+ },
+ "danaher-operating-companies-beckman-coulter-cepheid-radiomet": {
+  "checked": "2026-10-06",
+  "specs": [
+   {
+    "host": "danaher.wd1.myworkdayjobs.com",
+    "site": "DanaherJobs",
+    "tenant": "danaher",
+    "type": "workday"
+   }
+  ],
+  "tried": [
+   "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs"
   ]
  },
  "daronmont-technologies": {
@@ -2324,6 +2420,20 @@
    "https://www.insitec.com.au/"
   ]
  },
+ "insitu-pacific-boeing": {
+  "checked": "2026-10-06",
+  "specs": [
+   {
+    "host": "boeing.wd1.myworkdayjobs.com",
+    "site": "EXTERNAL_CAREERS",
+    "tenant": "boeing",
+    "type": "workday"
+   }
+  ],
+  "tried": [
+   "https://jobs.boeing.com/"
+  ]
+ },
  "intellidesign": {
   "checked": "2026-10-06",
   "specs": [],
@@ -2495,6 +2605,21 @@
    "https://www.laingorourke.com/careers",
    "https://www.laingorourke.com/careers/",
    "https://www.laingorourke.com/careers/uk-careers/"
+  ]
+ },
+ "leica-biosystems-danaher": {
+  "checked": "2026-10-06",
+  "specs": [
+   {
+    "host": "danaher.wd1.myworkdayjobs.com",
+    "site": "DanaherJobs",
+    "tenant": "danaher",
+    "type": "workday"
+   }
+  ],
+  "tried": [
+   "https://jobs.danaher.com",
+   "https://jobs.danaher.com/global/en/life-sciences-search-results"
   ]
  },
  "lendlease": {
@@ -3187,6 +3312,18 @@
    "https://automation.omron.com/en/au/: HTTPError"
   ]
  },
+ "openai": {
+  "checked": "2026-10-06",
+  "specs": [
+   {
+    "org": "openai",
+    "type": "ashby"
+   }
+  ],
+  "tried": [
+   "https://openai.com/careers/search/"
+  ]
+ },
  "opteran-technologies": {
   "checked": "2026-10-06",
   "specs": [],
@@ -3355,6 +3492,13 @@
   "specs": [],
   "tried": [
    "https://www.powerwater.com.au/about/careers: Blocked"
+  ]
+ },
+ "pratt-whitney-rtx-australia": {
+  "checked": "2026-10-06",
+  "specs": [],
+  "tried": [
+   "https://careers.rtx.com/"
   ]
  },
  "propeller-aero": {
@@ -4157,6 +4301,15 @@
    "https://careers.subsea7.com/go/Graduate-Jobs/9311155/"
   ]
  },
+ "suburban-rail-loop-authority-vic": {
+  "checked": "2026-10-06",
+  "specs": [],
+  "tried": [
+   "https://au.gradconnection.com/employers/suburban-rail-loop-authority/jobs/suburban-rail-loop-authority-2027-graduate-program/",
+   "https://au.gradconnection.com/employers/suburban-rail-loop-authority/jobs/",
+   "https://bigbuild.vic.gov.au/jobs/training-programs/graduate-programs/suburban-rail-loop-graduate-program-experience: Blocked"
+  ]
+ },
  "suncable": {
   "checked": "2026-10-06",
   "specs": [],
@@ -4409,6 +4562,16 @@
   "specs": [],
   "tried": [
    "https://www.trakkasystems.com/: RetryError"
+  ]
+ },
+ "transport-for-nsw-graduate-cadetship-vacation-programs": {
+  "checked": "2026-10-06",
+  "specs": [],
+  "tried": [
+   "https://iworkfor.nsw.gov.au/: Blocked",
+   "https://www.transport.nsw.gov.au/careers",
+   "https://jobs.transport.nsw.gov.au/",
+   "https://www.transport.nsw.gov.au/about-us/careers/careers-for-women"
   ]
  },
  "tritium-exicom-tritium": {
@@ -4910,6 +5073,18 @@
   "tried": [
    "https://zetifi.com",
    "https://www.zetifi.com/careers"
+  ]
+ },
+ "zinfra-jemena-group": {
+  "checked": "2026-10-06",
+  "specs": [
+   {
+    "company": "jemenazinfra",
+    "type": "livehire"
+   }
+  ],
+  "tried": [
+   "https://www.livehire.com/careers/jemenazinfra/jobs"
   ]
  },
  "zip-co": {
