@@ -1,0 +1,1602 @@
+{
+ "note": "Listings found by Claude web research/sweeps (LinkedIn, SEEK, program pages, etc). Maintained by the scheduled Claude task.",
+ "jobs": [
+  {
+   "company": "AECOM",
+   "title": "Summer Internship - Electrical Engineering (Nov 2026)",
+   "url": "https://au.prosple.com/graduate-employers/aecom-australia/jobs-internships/summer-internship-electrical-engineering",
+   "location": "Sydney NSW",
+   "role_type": "summer",
+   "discipline": [
+    "electrical"
+   ],
+   "closes": "2026-10-16",
+   "pay": "AUD 38/hour",
+   "dates": "2026-11-16 to mid-Feb 2027 (12 weeks)",
+   "notes": "Australian citizenship required; must be eligible for Defence security clearance. Also covers civil/structural. Exact closing date from detail page / JSON-LD validThrough",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "AEMO (Australian Energy Market Operator)",
+   "title": "Expression of Interest - 2027/28 AEMO Internships",
+   "url": "https://job-boards.greenhouse.io/australianenergymarketoperator/jobs/4414221009",
+   "location": "Melbourne, Sydney, Brisbane, Adelaide, Perth, Hobart, Norwest (NSW)",
+   "role_type": "intern-other",
+   "discipline": [
+    "electrical",
+    "power-systems",
+    "mechatronic",
+    "data",
+    "software",
+    "cyber",
+    "mathematics"
+   ],
+   "opened": "2026-09-22",
+   "pay": "Paid (rate not stated)",
+   "dates": "2027/28 cycle: part-time (1-3 days/week, ongoing) and full-time summer internships",
+   "notes": "This is an EOI and talent-pool registration, not a specific requisition. Formal rounds have historically opened about Jul. Postgraduate students are eligible. Application needs no CV or GPA; process is a gamified assessment, an AI phone screen, then an interview. Register now.",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "AEMO (Australian Energy Market Operator)",
+   "title": "Expression of Interest - Internship Pool 2026/27",
+   "url": "https://job-boards.greenhouse.io/australianenergymarketoperator/jobs/4254694009",
+   "location": "Adelaide, Brisbane, Hobart, Melbourne, Norwest, Perth, Sydney",
+   "role_type": "part-time",
+   "discipline": [
+    "electrical",
+    "power-systems",
+    "data",
+    "software"
+   ],
+   "opened": "2026-06-15",
+   "pay": "Paid",
+   "dates": "2026/27 pool (part-time ongoing internships plus summer)",
+   "notes": "Appears in the board index, but the per-job API returned 404 (may be unlisted or closing). Prefer the 2027/28 EOI. AEMO also lists 'EOI - 2027/28 AEMO Graduate Program' (4314083009) and 'EOI - Grid Connection Engineer Graduate Program 2027' (4251587009); both are graduate roles for after the Master's.",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "AEMO (Australian Energy Market Operator)",
+   "title": "Expression of Interest - Grid Connection Engineer Graduate Program 2027",
+   "url": "https://job-boards.greenhouse.io/australianenergymarketoperator/jobs/4251587009",
+   "location": "Brisbane, Melbourne",
+   "role_type": "graduate",
+   "discipline": [
+    "electrical",
+    "power-systems",
+    "grid-connections"
+   ],
+   "opened": "2026-06-15",
+   "dates": "2027 intake",
+   "notes": "Graduate role. The candidate is doing a Master's in 2027-28, so it is relevant only if they defer study. Recorded for completeness.",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "AEMO (Australian Energy Market Operator)",
+   "title": "Expression of Interest - 2027/28 AEMO Graduate Program",
+   "url": "https://job-boards.greenhouse.io/australianenergymarketoperator/jobs/4314083009",
+   "location": "Adelaide, Brisbane, Hobart, Melbourne, Norwest, Perth, Sydney",
+   "role_type": "graduate",
+   "discipline": [
+    "electrical",
+    "power-systems",
+    "data",
+    "software",
+    "economics"
+   ],
+   "opened": "2026-07-15",
+   "dates": "2027/28 intake",
+   "notes": "Graduate EOI. Relevant for the post-Master's (2029) timeline only if the 2028/29 cycle is similar.",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "AMOG Consulting",
+   "title": "Engineering Summer Vacation Student Internship 2026-27",
+   "url": "https://applynow.amog.consulting/?p=163",
+   "location": "Melbourne VIC",
+   "role_type": "summer",
+   "discipline": [
+    "engineering",
+    "mechanical",
+    "marine",
+    "offshore"
+   ],
+   "pay": "'Competitive remuneration and benefits'",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "APA Group",
+   "title": "Intern - Engineering",
+   "url": "https://au.talent.com/view?id=639278262972386420",
+   "location": "Boulia QLD (listed)",
+   "role_type": "intern-other",
+   "discipline": [
+    "engineering (energy infrastructure)"
+   ],
+   "opened": "2026-09-30",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Amazon",
+   "title": "2027 Applied Science Intern (Computer Vision), Amazon International Machine Learning",
+   "url": "https://www.amazon.jobs/en/jobs/10459543/2027-applied-science-intern-computer-vision-amazon-international-machine-learning",
+   "location": "Melbourne, VIC",
+   "role_type": "intern-other",
+   "discipline": [
+    "ml",
+    "computer-vision",
+    "ee",
+    "cs",
+    "research"
+   ],
+   "opened": "2026-06-26",
+   "dates": "6 months full-time, start Jan–Mar 2027",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Amazon",
+   "title": "2027 Applied Science Intern (Machine Learning, Recommender Systems), Amazon International Machine Learning",
+   "url": "https://www.amazon.jobs/en/jobs/10456239/2027-applied-science-intern-machine-learning-recommender-systems-amazon-international-machine-learning",
+   "location": "Melbourne, VIC",
+   "role_type": "intern-other",
+   "discipline": [
+    "ml",
+    "recommender-systems",
+    "research"
+   ],
+   "opened": "2026-06-23",
+   "dates": "likely 6 months from early 2027 (same program as the CV intern)",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Amazon",
+   "title": "2026 PM Intern - Supply Chain, Operations",
+   "url": "https://www.amazon.jobs/en/jobs/10488893/2026-pm-intern-supply-chain-operations",
+   "location": "Melbourne, VIC",
+   "role_type": "intern-other",
+   "discipline": [
+    "operations",
+    "supply-chain",
+    "program-management"
+   ],
+   "opened": "2026-07-31",
+   "dates": "not captured",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Amazon",
+   "title": "Process Improvement Intern - ACES, Operations",
+   "url": "https://www.amazon.jobs/en/jobs/10403494/process-improvement-intern-aces-operations",
+   "location": "Melbourne, VIC",
+   "role_type": "intern-other",
+   "discipline": [
+    "industrial-engineering",
+    "operations",
+    "process-improvement"
+   ],
+   "opened": "2026-04-27",
+   "dates": "not captured",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Amazon",
+   "title": "Software Development Graduate, 2027 Melbourne",
+   "url": "https://www.amazon.jobs/en/jobs/10462011/software-development-graduate-2027-melbourne",
+   "location": "Melbourne, VIC",
+   "role_type": "graduate",
+   "discipline": [
+    "software"
+   ],
+   "opened": "2026-06-30",
+   "dates": "2027 start",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Amazon",
+   "title": "Software Development Graduate (2027, Stores), Brisbane",
+   "url": "https://www.amazon.jobs/en/jobs/10419485/software-development-graduate-2027-stores-brisbane",
+   "location": "Brisbane, QLD",
+   "role_type": "graduate",
+   "discipline": [
+    "software"
+   ],
+   "opened": "2026-05-14",
+   "dates": "2027 start",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Amazon",
+   "title": "RME Graduate Engineer, Reliability Maintenance Engineering",
+   "url": "https://www.amazon.jobs/en/jobs/10453462/rme-graduate-engineer-manager-reliability-maintenance-engineering",
+   "location": "Kemps Creek, NSW",
+   "role_type": "graduate",
+   "discipline": [
+    "electrical",
+    "mechatronics",
+    "controls",
+    "maintenance-engineering"
+   ],
+   "opened": "2026-06-19",
+   "dates": "not captured",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Amazon Web Services",
+   "title": "Network Development Engineer Graduate",
+   "url": "https://www.amazon.jobs/en/jobs/3025407/network-development-engineer-graduate",
+   "location": "Sydney, NSW",
+   "role_type": "graduate",
+   "discipline": [
+    "networking",
+    "ee",
+    "infrastructure",
+    "software"
+   ],
+   "opened": "2026-09-18",
+   "dates": "graduate start (date not captured)",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Amazon Web Services",
+   "title": "Software Development Graduate, AWS, 2027 Sydney",
+   "url": "https://www.amazon.jobs/en/jobs/10462014/software-development-graduate-aws-2027-sydney",
+   "location": "Sydney, NSW",
+   "role_type": "graduate",
+   "discipline": [
+    "software",
+    "cloud"
+   ],
+   "opened": "2026-06-30",
+   "dates": "2027 start",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Andromeda Robotics",
+   "title": "Engineering Summer Intern Program (3-month contract)",
+   "url": "https://apply.workable.com/andromeda-robotics/j/8D5029B79A/",
+   "location": "Southbank, Melbourne VIC (on-site, 5 days/week)",
+   "role_type": "summer",
+   "discipline": [
+    "electrical",
+    "mechanical",
+    "mechatronics",
+    "firmware/embedded",
+    "software",
+    "autonomy",
+    "robotics"
+   ],
+   "opened": "2026-09-29",
+   "closes_text": "rolling (closes when all positions filled)",
+   "pay": "Paid (amount not stated)",
+   "eligibility": "Ideally penultimate or final-year engineering students. Portfolio/work sample + academic transcript required. Up to 6 positions across Hardware and Software streams.",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Anduril Australia",
+   "title": "2026 Guidance, Navigation & Control Engineer Intern",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5252665007?gh_jid=5252665007",
+   "location": "Sydney, NSW",
+   "role_type": "summer",
+   "discipline": [
+    "gnc",
+    "controls",
+    "robotics",
+    "electrical",
+    "mechatronics",
+    "aerospace",
+    "computer-science"
+   ],
+   "opened": "2026-09-29",
+   "dates": "12 weeks over summer (posting says 'summer 2026'; for AU this is likely Nov/Dec 2026 to Feb 2027)",
+   "eligibility": "Must be able to obtain and maintain an Australian Government security clearance and return to study for at least one more term afterwards. Degree in Robotics, CS, EE, ME, Mechatronics, Aerospace or a related field.",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Anduril Industries Australia",
+   "title": "Mechanical Engineering Intern (Start ASAP)",
+   "url": "https://au.prosple.com/graduate-employers/anduril-industries-australia/jobs-internships/mechanical-engineering-intern",
+   "location": "Sydney NSW",
+   "role_type": "intern-other",
+   "discipline": [
+    "mechanical"
+   ],
+   "closes": "2026-10-07",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Anduril Industries Australia",
+   "title": "Software Engineering Intern (Start ASAP)",
+   "url": "https://au.prosple.com/graduate-employers/anduril-industries-australia/jobs-internships/software-engineering-intern",
+   "location": "Sydney NSW",
+   "role_type": "intern-other",
+   "discipline": [
+    "software"
+   ],
+   "closes": "2026-10-07",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Apple",
+   "title": "Secure Kernel Engineering Intern, Sydney",
+   "url": "https://au.prosple.com/graduate-employers/apple-australia/jobs-internships/secure-kernel-engineering-intern-sydney-0",
+   "location": "Sydney NSW",
+   "role_type": "intern-other",
+   "discipline": [
+    "software/systems"
+   ],
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Apple",
+   "title": "2027 Apple Internship - Information Systems and Technology (AUS)",
+   "url": "https://jobs.apple.com/en-au/details/200676288-3957/2027-apple-internship-information-systems-and-technology-aus",
+   "location": "Sydney, NSW",
+   "role_type": "summer",
+   "discipline": [
+    "software",
+    "it",
+    "data",
+    "infrastructure"
+   ],
+   "opened": "2026-08-06",
+   "dates": "2027 internship (exact dates not captured; detail page needs JS)",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Aurecon",
+   "title": "Engineering Consulting Intern - Summer Program",
+   "url": "https://au.talent.com/view?id=637279068894595157",
+   "location": "Darwin NT",
+   "role_type": "summer",
+   "discipline": [
+    "engineering (consulting)"
+   ],
+   "opened": "2026-09-15",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Aurecon",
+   "title": "2026 Internship Program - Student Consultant, Project Management - Darwin",
+   "url": "https://au.gradconnection.com/employers/aurecon/jobs/aurecon-2026-internship-program-student-consultant-project-management-darwin/",
+   "location": "Darwin",
+   "role_type": "intern-other",
+   "discipline": [
+    "project management",
+    "engineering"
+   ],
+   "closes_text": "~2027 (listing shows ~1 year)",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Australian Institute for Machine Learning (Adelaide University) / CSIRO",
+   "title": "CSIRO NGGP Honours Scholarship - advanced computer vision (AIML)",
+   "url": "https://app.smartsheet.com/b/form/4b433ce8eee84a3b9753d6b9102f8102",
+   "location": "Adelaide SA",
+   "role_type": "intern-other",
+   "discipline": [
+    "ai",
+    "computer-vision",
+    "honours-scholarship"
+   ],
+   "pay": "$15,000 (two equal instalments after Mar and Aug census dates)",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "BHP",
+   "title": "BHP Australia Internship Program: Expression of interest",
+   "url": "https://au.gradconnection.com/employers/bhp/jobs/bhp-bhp-australia-internship-program/",
+   "location": "Adelaide, Brisbane, Perth, regional QLD/SA/WA",
+   "role_type": "intern-other",
+   "discipline": [
+    "engineering (mining/electrical/mechanical)"
+   ],
+   "closes_text": "~2027-03 ('Closing in 5 months')",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06",
+   "pay": "Not captured",
+   "eligibility": "EOI"
+  },
+  {
+   "company": "BHP",
+   "title": "BHP Australia Internship Program: Expression of Interest (2027/28 summer break)",
+   "url": "https://au.gradconnection.com/employers/bhp/jobs/bhp-bhp-australia-internship-program/",
+   "location": "Brisbane, Regional Queensland and other BHP sites across Australia",
+   "role_type": "summer",
+   "discipline": [
+    "engineering",
+    "science",
+    "technology",
+    "business"
+   ],
+   "closes": "2027-02-28",
+   "dates": "10-12 weeks over the 2027/28 summer break, start about Nov 2027",
+   "notes": "EOI / pre-registration stage; full applications expected to open around Mar 2027 (page lists both a Mar 2027 open date and 28 Feb 2027 close, treat as EOI deadline). Eligibility: second year through penultimate year of study; Australian citizens and PRs accepted. Candidate's Master's 2027-28 timeline plausibly fits the penultimate-year criterion for the 2027/28 break.",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Boeing Defence Australia",
+   "title": "Systems Engineering Graduate (2027 Graduate Program)",
+   "url": "https://jobs.boeing.com/en/job/brisbane/systems-engineering-graduate/185/100605058304",
+   "location": "Brisbane QLD; also Adelaide SA, Williamtown NSW",
+   "role_type": "graduate",
+   "discipline": [
+    "systems",
+    "electrical",
+    "software",
+    "aerospace",
+    "defence"
+   ],
+   "opened": "2026-09-25",
+   "closes": "2026-10-04",
+   "dates": "January 2027 start; 24-month graduate program, permanent full-time",
+   "eligibility": "Engineering/CS/IT degree completed before Jan 2027; Australian citizen (defence security)",
+   "notes": "low",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Boeing Defence Australia",
+   "title": "Software Engineering Graduate (2027 Graduate Program)",
+   "url": "https://jobs.boeing.com/en/job/brisbane/software-graduate/185/100605057856",
+   "location": "Brisbane QLD",
+   "role_type": "graduate",
+   "discipline": [
+    "software",
+    "electrical",
+    "defence"
+   ],
+   "opened": "2026-09-25",
+   "closes": "2026-10-04",
+   "dates": "January 2027 start; 24 months",
+   "notes": "low",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Boeing Defence Australia",
+   "title": "Structural Engineering Graduate (2027 Graduate Program)",
+   "url": "https://jobs.boeing.com/en/job/brisbane/structural-engineering-graduate/185/100605058160",
+   "location": "Brisbane QLD",
+   "role_type": "graduate",
+   "discipline": [
+    "aerospace",
+    "mechanical",
+    "structures"
+   ],
+   "opened": "2026-09-25",
+   "closes": "2026-10-04",
+   "dates": "January 2027 start; 24 months",
+   "notes": "low",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "CSIRO",
+   "title": "Next Generation Graduates Scholarship Program: Honours and Masters",
+   "url": "https://jobs.csiro.au/job/Various-Next-Generation-Graduates-Scholarship-Program-Honours-and-Masters/1063724066/",
+   "location": "Various, AU",
+   "role_type": "intern-other",
+   "discipline": [
+    "ai",
+    "data-science",
+    "emerging-tech",
+    "masters-scholarship"
+   ],
+   "pay": "scholarship (AIML-hosted NGGP honours example: $15,000 in two instalments)",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "CSIRO",
+   "title": "Research Assistant in Agriculture",
+   "url": "https://jobs.csiro.au/job/Narrabri%2C-NSW-Research-Assistant-in-Agriculture/1367819466/",
+   "location": "Narrabri NSW",
+   "role_type": "intern-other",
+   "discipline": [
+    "agriculture",
+    "research-assistant"
+   ],
+   "pay": "not captured",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Careers at Council (Parkes Shire Council)",
+   "title": "Cadet Engineer",
+   "url": "https://au.gradconnection.com/employers/careers-at-council/jobs/careers-at-council-cadet-engineer-10/",
+   "location": "Parkes, NSW",
+   "role_type": "cadetship",
+   "discipline": [
+    "civil",
+    "engineering"
+   ],
+   "closes": "2026-10-11",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Citadel Securities",
+   "title": "2026-2027 FPGA Engineer Internship",
+   "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2026-2027-fpga-engineer-internship-52/",
+   "location": "Sydney NSW",
+   "role_type": "summer",
+   "discipline": [
+    "electrical/FPGA"
+   ],
+   "closes": "2026-10-28",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06",
+   "pay": "Not captured",
+   "eligibility": "Not captured",
+   "dates": "Summer 2026-27",
+   "notes": "Core digital hardware work at a trading firm. Highly competitive."
+  },
+  {
+   "company": "Cook Medical (Cook Group)",
+   "title": "MedTech Engineering Intern - Summer (13 Weeks)",
+   "url": "https://au.talent.com/view?id=638820751721367014",
+   "location": "Brisbane QLD",
+   "role_type": "summer",
+   "discipline": [
+    "biomedical/mechanical"
+   ],
+   "opened": "2026-09-27",
+   "dates": "13 weeks over summer",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Cummins",
+   "title": "2027 Undergraduate Projects & Design Engineering Internship",
+   "url": "https://au.prosple.com/graduate-employers/cummins-australia/jobs-internships/2027-undergraduate-projects-design-engineering-internship",
+   "location": "Scoresby VIC",
+   "role_type": "intern-other",
+   "discipline": [
+    "mechanical/design"
+   ],
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "DT Infrastructure",
+   "title": "2027 DT Infrastructure Undergraduate Opportunities - Engineering",
+   "url": "https://au.gradconnection.com/employers/dt-infrastructure/jobs/dt-infrastructure-2027-dt-infrastructure-undergraduate-opportunities-engineering/",
+   "location": "Multiple (13 locations)",
+   "role_type": "intern-other",
+   "discipline": [
+    "electrical/multi"
+   ],
+   "closes": "2026-10-24",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "DT Infrastructure",
+   "title": "2027 Undergraduate Opportunities - Engineering",
+   "url": "https://au.gradconnection.com/employers/dt-infrastructure/jobs/dt-infrastructure-2027-dt-infrastructure-undergraduate-opportunities-engineering/",
+   "location": "Adelaide, Brisbane, Hobart, Melbourne, Perth, Sydney + regional",
+   "role_type": "intern-other",
+   "discipline": [
+    "electrical",
+    "infrastructure",
+    "engineering"
+   ],
+   "closes": "2026-10-25",
+   "pay": "Not captured",
+   "eligibility": "Not captured",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "DT Infrastructure (Gamuda)",
+   "title": "2027 DT Infrastructure Undergraduate Opportunities - Engineering",
+   "url": "https://au.gradconnection.com/employers/dt-infrastructure/jobs/dt-infrastructure-2027-dt-infrastructure-undergraduate-opportunities-engineering/",
+   "location": "Regional NSW (listing also shows Adelaide, Brisbane, Hobart, Melbourne, Perth, Sydney)",
+   "role_type": "intern-other",
+   "discipline": [
+    "electrical",
+    "civil"
+   ],
+   "opened": "2026-09-27",
+   "closes": "2026-10-24",
+   "pay": "market-aligned (not stated)",
+   "dates": "Casual, flexible hours; start ~Jan 2027",
+   "eligibility": "2nd/3rd/final-year; AU citizen/PR/eligible TGV",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "DT Infrastructure (Gamuda)",
+   "title": "2027 DT Infrastructure Graduate Program - Engineering",
+   "url": "https://au.gradconnection.com/employers/dt-infrastructure/jobs/dt-infrastructure-2027-dt-infrastructure-graduate-program-engineering/",
+   "location": "Multiple",
+   "role_type": "graduate",
+   "discipline": [
+    "engineering",
+    "electrical",
+    "civil"
+   ],
+   "closes": "2026-10-17",
+   "dates": "2027 start",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Dematic (KION Group)",
+   "title": "Graduate/Mechanical Engineer",
+   "url": "https://swooped.co/job-postings/graduatemechanical-engineer-belrose-kion-north-america-corp-am-us-3f694",
+   "location": "Belrose, Sydney NSW",
+   "role_type": "graduate",
+   "discipline": [
+    "mechanical",
+    "material handling",
+    "automation"
+   ],
+   "opened": "2026-04-21",
+   "eligibility": "Graduate",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "EY",
+   "title": "Vacationer Program - Engineering (Nov 2026)",
+   "url": "https://au.prosple.com/graduate-employers/ey-australia/jobs-internships/ey-vacationer-program-engineerings",
+   "location": "Canberra, Sydney, Brisbane, Adelaide, Melbourne, Perth",
+   "role_type": "summer",
+   "discipline": [
+    "engineering (consulting)"
+   ],
+   "closes": "2026-10-16",
+   "dates": "Nov 2026 start",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "EY",
+   "title": "2026/27 EY Vacationer Program - Engineering",
+   "url": "https://au.gradconnection.com/employers/ey/jobs/ey-202627-ey-vacationer-program-engineering-2-2/",
+   "location": "Multiple",
+   "role_type": "summer",
+   "discipline": [
+    "engineering"
+   ],
+   "closes": "2026-10-16",
+   "dates": "Summer 2026-27",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "EY",
+   "title": "2026/27 EY Vacationer Program - Technology",
+   "url": "https://au.gradconnection.com/employers/ey/jobs/ey-202627-ey-vacationer-program-technology-2-2/",
+   "location": "Brisbane, Canberra, Melbourne, Perth, Sydney",
+   "role_type": "summer",
+   "discipline": [
+    "technology"
+   ],
+   "closes": "2026-10-16",
+   "dates": "Summer 2026-27",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Esri Australia",
+   "title": "Product Engineering Internship - Survey123",
+   "url": "https://au.prosple.com/graduate-employers/esri-australia/jobs-internships/product-engineering-internship-survey123-0",
+   "location": "Melbourne VIC",
+   "role_type": "intern-other",
+   "discipline": [
+    "software/product"
+   ],
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Esri Australia",
+   "title": "Software Engineering Internship - Survey123",
+   "url": "https://au.prosple.com/graduate-employers/esri-australia/jobs-internships/software-engineering-internship-survey123",
+   "location": "Melbourne VIC",
+   "role_type": "intern-other",
+   "discipline": [
+    "software"
+   ],
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Fleet Space Technologies",
+   "title": "Internship Program / Student Opportunities",
+   "url": "https://fleetspace.com/careers",
+   "location": "Adelaide SA",
+   "role_type": "intern-other",
+   "discipline": [
+    "space",
+    "electrical",
+    "rf",
+    "software",
+    "geophysics"
+   ],
+   "dates": "not stated",
+   "notes": "low",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Gilmour Space Technologies",
+   "title": "University Internship (final-year students, unpaid)",
+   "url": "https://forms.office.com/r/1S1PG9Vx9h",
+   "location": "Gold Coast / Yatala QLD (or Bowen QLD launch site)",
+   "role_type": "intern-other",
+   "discipline": [
+    "aerospace",
+    "electrical",
+    "mechanical",
+    "software",
+    "propulsion",
+    "space"
+   ],
+   "pay": "UNPAID; intern provides own transport, accommodation and workplace insurance",
+   "dates": "3 months full-time",
+   "eligibility": "Final-year students graduating within 12 months; above-average GPA",
+   "notes": "medium",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Inovor Technologies",
+   "title": "Internship Program 2026/27 (Engineering or Hybrid Engineering + Operations/Outreach)",
+   "url": "https://forms.cloud.microsoft/r/um9evmKA2R?origin=lprLink",
+   "location": "Adelaide SA",
+   "role_type": "summer",
+   "discipline": [
+    "aerospace",
+    "electrical",
+    "electronics",
+    "mechanical",
+    "software",
+    "space"
+   ],
+   "dates": "December 2026 - February 2027",
+   "eligibility": "2nd, 3rd or 4th year university students",
+   "notes": "medium",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Inovor Technologies",
+   "title": "Graduate Trainee Program (3-6 months; some placements at DST)",
+   "url": "https://www.seek.com.au/job/86608699",
+   "location": "Adelaide SA",
+   "role_type": "graduate",
+   "discipline": [
+    "aerospace",
+    "electrical",
+    "space",
+    "defence"
+   ],
+   "dates": "3-6 months",
+   "eligibility": "Recent graduates; Australian residents/citizens",
+   "notes": "low",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Jemena",
+   "title": "Expression of Interest - Jemena Intern Program 2026/2027",
+   "url": "https://au.gradconnection.com/employers/jemena-zinfra/jobs/jemena-zinfra-expression-of-interest-jemena-intern-program-20262027/",
+   "location": "Brisbane, Melbourne, Sydney",
+   "role_type": "summer",
+   "discipline": [
+    "electrical/mechanical (energy networks)"
+   ],
+   "closes_text": "~2027-01 ('Closing in 3 months')",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06",
+   "opened": "2026-01-15",
+   "closes": "2026-12-31",
+   "dates": "Program start about Nov 2026",
+   "notes": "EOI. Submit a cover letter, resume and transcript. Jemena Electricity Networks covers Melbourne's north-west. Apply ASAP because the Nov start is close."
+  },
+  {
+   "company": "Jemena-Zinfra",
+   "title": "Expression of Interest - Jemena Intern Program 2026/2027",
+   "url": "https://au.gradconnection.com/employers/jemena-zinfra/jobs/jemena-zinfra-expression-of-interest-jemena-intern-program-20262027/",
+   "location": "Melbourne, Sydney, Brisbane",
+   "role_type": "intern-other",
+   "discipline": [
+    "electrical",
+    "mechatronics",
+    "energy networks"
+   ],
+   "closes_text": "~2027-01 (approx; '3 months')",
+   "pay": "Not captured",
+   "eligibility": "EOI",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06",
+   "dates": "2026/27"
+  },
+  {
+   "company": "Jemena-Zinfra",
+   "title": "Expression of Interest - Zinfra Intern Program 2026/2027",
+   "url": "https://au.gradconnection.com/employers/jemena-zinfra/jobs/jemena-zinfra-expression-of-interest-zinfra-intern-program-20262027/",
+   "location": "Brisbane, Melbourne, Sydney (hybrid)",
+   "role_type": "intern-other",
+   "discipline": [
+    "electrical",
+    "mechanical",
+    "utility services"
+   ],
+   "closes": "2026-10-06",
+   "dates": "2026/27",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "KPMG",
+   "title": "2026/27 KPMG Vacationer Program - Engineering",
+   "url": "https://au.gradconnection.com/internships/engineering/",
+   "location": "Multiple (11 locations)",
+   "role_type": "summer",
+   "discipline": [
+    "engineering (consulting)"
+   ],
+   "closes": "2026-10-08",
+   "notes": "Card URL not captured; search GradConnection for 'KPMG Vacationer Program – Engineering'",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Lucid Consulting Australia",
+   "title": "Undergraduate Electrical Engineer",
+   "url": "https://au.gradconnection.com/employers/lucid-consulting-australia/jobs/lucid-consulting-australia-undergraduate-electrical-engineer/",
+   "location": "Adelaide SA",
+   "role_type": "intern-other",
+   "discipline": [
+    "electrical"
+   ],
+   "closes": "2026-11-07",
+   "dates": "start ~Dec 2026",
+   "notes": "Exact closing date from detail page. Work rights: AU citizen/PR. Marked 'New!'",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06",
+   "eligibility": "Undergraduate EE; citizens/PR/international"
+  },
+  {
+   "company": "Lucid Consulting Australia",
+   "title": "Undergraduate Mechanical Engineer",
+   "url": "https://au.gradconnection.com/employers/lucid-consulting-australia/jobs/lucid-consulting-australia-graduate-mechanical-engineer-20-2-2-2-2/",
+   "location": "Adelaide, Brisbane, Canberra, Darwin, Melbourne, Perth, Sydney",
+   "role_type": "intern-other",
+   "discipline": [
+    "mechanical"
+   ],
+   "closes_text": "~2026-11 ('Closing in a month')",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06",
+   "closes": "2026-11-05",
+   "dates": "Summer"
+  },
+  {
+   "company": "Lucid Consulting Australia",
+   "title": "Undergraduate Fire Services Engineer",
+   "url": "https://au.gradconnection.com/employers/lucid-consulting-australia/jobs/lucid-consulting-australia-undergraduate-fire-services-engineer/",
+   "location": "Adelaide SA",
+   "role_type": "intern-other",
+   "discipline": [
+    "mechanical/fire"
+   ],
+   "notes": "Marked 'New!'",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06",
+   "dates": "Summer"
+  },
+  {
+   "company": "Lucid Consulting Australia",
+   "title": "Undergraduate Hydraulic Engineer",
+   "url": "https://au.gradconnection.com/employers/lucid-consulting-australia/jobs/lucid-consulting-australia-undergraduate-hydraulic-engineer/",
+   "location": "Adelaide",
+   "role_type": "summer",
+   "discipline": [
+    "hydraulics",
+    "building services"
+   ],
+   "dates": "Summer",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Lucid Consulting Australia",
+   "title": "Graduate Electrical Engineer",
+   "url": "https://au.gradconnection.com/employers/lucid-consulting-australia/jobs/lucid-consulting-australia-graduate-electrical-engineer-26-2-2-2-2/",
+   "location": "Multiple",
+   "role_type": "graduate",
+   "discipline": [
+    "electrical",
+    "building services"
+   ],
+   "closes": "2026-11-05",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineering Intern - Clipchamp",
+   "url": "https://au.talent.com/view?id=634357465593086465",
+   "location": "QLD (Brisbane)",
+   "role_type": "intern-other",
+   "discipline": [
+    "software"
+   ],
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Monash University",
+   "title": "Research Assistant - Neuro-Symbolic Reasoning",
+   "url": "https://careers.pageuppeople.com/513/cw/en/job/697933/research-assistant-neurosymbolic-reasoning",
+   "location": "Melbourne VIC (Monash campus)",
+   "role_type": "part-time",
+   "discipline": [
+    "ai",
+    "computing",
+    "research-assistant"
+   ],
+   "closes": "2026-10-15",
+   "pay": "Level A $86,195-$116,981 (pro rata if fractional)",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "MongoDB",
+   "title": "Software Engineering Internship - Summer 2026/2027 (Dec 2026)",
+   "url": "https://au.prosple.com/graduate-employers/mongodb-australia/jobs-internships/software-engineering-internship-summer-20262027",
+   "location": "Sydney NSW",
+   "role_type": "summer",
+   "discipline": [
+    "software"
+   ],
+   "dates": "Dec 2026 start",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Optiver",
+   "title": "Software Developer Internship (Dec 2027)",
+   "url": "https://au.prosple.com/graduate-employers/optiver/jobs-internships/software-developer-internship-4",
+   "location": "Sydney NSW",
+   "role_type": "summer",
+   "discipline": [
+    "software"
+   ],
+   "closes_text": "~2027-01 ('Closing in 3 months')",
+   "dates": "Dec 2027 intake",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "PCL Constructors",
+   "title": "Sydney Solar Design Engineering Intern",
+   "url": "https://au.talent.com/view?id=639278269168356468",
+   "location": "Sydney NSW",
+   "role_type": "intern-other",
+   "discipline": [
+    "electrical/solar"
+   ],
+   "opened": "2026-09-30",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Pluralis Research",
+   "title": "Research Scientist Intern",
+   "url": "https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be/application",
+   "location": "Remote in Australia / USA",
+   "role_type": "intern-other",
+   "discipline": [
+    "AI/ML research (PhD)"
+   ],
+   "opened": "2026-09-01",
+   "dates": "Winter 2026 (US term)",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "PsiQuantum",
+   "title": "Internship Resume Submission - Australia only",
+   "url": "https://boards.greenhouse.io/psiquantum/jobs/7519464003",
+   "location": "Brisbane, QLD (remote within Australia possible)",
+   "role_type": "intern-other",
+   "discipline": [
+    "electrical",
+    "mechanical",
+    "computer science",
+    "physics",
+    "data science",
+    "quantum"
+   ],
+   "pay": "AUD $37-43/hr (about $77,000-$89,500 annualised, by education level)",
+   "dates": "5 weeks (semester breaks) up to 6 months; tracks: Test & Validation Lab at Griffith Uni, software, data science, quantum algorithms",
+   "notes": "Rolling evergreen posting (updated 2026-08-11). Best-fit open role for an EE student. Requires a National Police Check.",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "PsiQuantum",
+   "title": "Intern, Quantum Applications",
+   "url": "https://www.psiquantum.com/apply?gh_jid=7821980003",
+   "location": "Brisbane, QLD (remote anywhere in Australia)",
+   "role_type": "intern-other",
+   "discipline": [
+    "quantum algorithms",
+    "physics",
+    "software"
+   ],
+   "opened": "2026-08-12",
+   "dates": "Not stated",
+   "notes": "Aimed at students doing or holding a postgraduate degree in quantum algorithms, compilation or fault tolerance. Weak fit for an undergraduate EE.",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Quantum Brilliance",
+   "title": "Expressions of Interest - Australia (Canberra or Melbourne Labs)",
+   "url": "https://quantumbrilliance.bamboohr.com/careers/53",
+   "location": "Canberra, ACT / Melbourne, VIC",
+   "role_type": "intern-other",
+   "discipline": [
+    "quantum",
+    "electrical",
+    "physics",
+    "photonics"
+   ],
+   "dates": "n/a",
+   "notes": "General talent pool, not a student role. Listed because it is the only Australian entry point and the board also posts interns (a German 'Quantum Sensing Systems Intern' id 148 was posted 2026-09-02).",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "ReSource Pty Ltd",
+   "title": "Summer Engineering Internships - AI, Machine Vision & Hardware",
+   "url": "https://au.gradconnection.com/employers/resource-pty-ltd/jobs/resource-pty-ltd-summer-engineering-internships-ai-machine-vision-hardware/",
+   "location": "Keilor East, Melbourne VIC (on-site)",
+   "role_type": "summer",
+   "discipline": [
+    "mechatronics",
+    "computer vision",
+    "hardware",
+    "software"
+   ],
+   "opened": "2026-09-26",
+   "closes": "2026-10-26",
+   "pay": "$32–$35 per hour",
+   "eligibility": "2 positions. International applicants accepted. Apply by email with a CV plus a practical project example (address shown on the listing).",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "SG Fleet",
+   "title": "Internship - Software Engineering (Feb 2027)",
+   "url": "https://au.prosple.com/graduate-employers/sg-fleet-au/jobs-internships/internship-software-engineering",
+   "location": "Pymble NSW",
+   "role_type": "intern-other",
+   "discipline": [
+    "software"
+   ],
+   "closes": "2026-10-09",
+   "dates": "Feb 2027 start",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Santos",
+   "title": "Santos Graduate Program (3-year, engineering / geoscience / environmental)",
+   "url": "https://recruitment.santos.com/careers/GraduateCareers",
+   "location": "Adelaide, Brisbane, Perth",
+   "role_type": "graduate",
+   "discipline": [
+    "engineering",
+    "geoscience",
+    "environmental-science"
+   ],
+   "dates": "Three-year rotational program",
+   "notes": "Status taken from the Santos early-career page; no dates published, may be an evergreen portal. Not a student role, recorded because it is open per the source.",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Schweitzer Engineering Laboratories (SEL)",
+   "title": "Engineering Intern",
+   "url": "https://au.prosple.com/graduate-employers/schweitzer-engineering-laboratories-sel-australia/jobs-internships/engineering-intern-3",
+   "location": "Melbourne VIC",
+   "role_type": "intern-other",
+   "discipline": [
+    "electrical/power systems protection"
+   ],
+   "opened": "2026-10-03",
+   "notes": "Talent.com id 639837463500619981. Needs 3-phase power, SEL relays, scripting",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Schweitzer Engineering Laboratories (SEL) Australia",
+   "title": "Engineering Intern (Melbourne)",
+   "url": "https://au.prosple.com/graduate-employers/schweitzer-engineering-laboratories-sel-australia/jobs-internships/engineering-intern-3",
+   "location": "Melbourne VIC",
+   "role_type": "intern-other",
+   "discipline": [
+    "electrical",
+    "power-systems",
+    "protection",
+    "substation-automation"
+   ],
+   "opened": "2026-10-03",
+   "notes": "Protection relays work: 3-phase power, SEL relays, scripting. Strong core fit in Melbourne. Dedupe with open_aggregators.json.",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Schweitzer Engineering Laboratories (SEL) Australia",
+   "title": "Engineering Intern (Perth)",
+   "url": "https://au.prosple.com/graduate-employers/schweitzer-engineering-laboratories-sel-australia/jobs-internships/engineering-intern-4",
+   "location": "Perth WA",
+   "role_type": "intern-other",
+   "discipline": [
+    "electrical",
+    "power-systems",
+    "protection"
+   ],
+   "notes": "Dedupe with open_aggregators.json.",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
+   "title": "Internship - Grid Solutions Tenders & Projects Asia Pacific (6-12 months, part-time/full-time)",
+   "url": "https://jobs.siemens-energy.com/",
+   "location": "Sydney",
+   "role_type": "year-long",
+   "discipline": [
+    "electrical",
+    "mechanical",
+    "business",
+    "project-management",
+    "hvdc",
+    "grid-tech"
+   ],
+   "opened": "2026-07-16",
+   "dates": "Starts Feb 2027, 6-12 months",
+   "notes": "Live status not confirmed: the jobs.siemens-energy.com fetch was rate-limited. A Feb 2027 start suggests the req may still be open. The candidate already has this ad. Check the posting directly. Exact posting URL is unknown (not in the saved doc).",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Siemens Ltd (Australia)",
+   "title": "Mechanical Engineering Intern (1st or 2nd Year Students) – 2027 Commencement",
+   "url": "https://www.seek.com.au/job/94653320",
+   "location": "Yatala, Gold Coast QLD",
+   "role_type": "part-time",
+   "discipline": [
+    "mechanical"
+   ],
+   "opened": "2026-09-15",
+   "pay": "A$63,000 annual (as stated, presumably pro-rata)",
+   "eligibility": "1st or 2nd year students only. The candidate is likely ineligible.",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Silicon Quantum Computing (SQC)",
+   "title": "Expression of Interest: PhD Scholarships, Internships, Student Placements",
+   "url": "https://www.sqc.com.au/career/6499053",
+   "location": "Sydney, NSW (UNSW)",
+   "role_type": "intern-other",
+   "discipline": [
+    "quantum",
+    "electrical",
+    "physics",
+    "nanofabrication",
+    "software"
+   ],
+   "dates": "Next intern/placement intake 'likely around July'",
+   "notes": "Rolling EOI. You can also apply by email to careers@sqc.com.au.",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Southern Launch",
+   "title": "Engineering Internship Program (university)",
+   "url": "https://www.southernlaunch.space/internships",
+   "location": "Adelaide SA",
+   "role_type": "intern-other",
+   "discipline": [
+    "aerospace",
+    "mechanical",
+    "mechatronic",
+    "electronic"
+   ],
+   "dates": "not stated",
+   "eligibility": "3rd or 4th year engineering students",
+   "notes": "medium",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Space Machines Company",
+   "title": "Submit your CV (general expression of interest)",
+   "url": "https://apply.workable.com/spacemachines/jobs/view/36BC17AAE0",
+   "location": "Botany, Sydney NSW",
+   "role_type": "intern-other",
+   "discipline": [
+    "space",
+    "electrical",
+    "firmware",
+    "mechanical"
+   ],
+   "opened": "2026-03-17",
+   "notes": "high",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Spiral Blue",
+   "title": "Open call",
+   "url": "https://jobs.techstars.com/companies/spiral-blue/jobs/64768733-open-call",
+   "location": "Sydney NSW",
+   "role_type": "intern-other",
+   "discipline": [
+    "space",
+    "embedded",
+    "electrical",
+    "software"
+   ],
+   "notes": "low",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Subsea7",
+   "title": "Engineering Summer Intern (until February 2027)",
+   "url": "https://careers.subsea7.com/go/Graduate-Jobs/9311155/",
+   "location": "Perth, WA (not stated in the JD; assumed)",
+   "role_type": "summer",
+   "discipline": [
+    "engineering",
+    "subsea",
+    "general-engineering"
+   ],
+   "opened": "2026-09-07",
+   "dates": "Summer 2026/27, to February 2027",
+   "notes": "Currently studying towards an engineering degree; works under senior/lead engineer on studies, tenders and live projects. Could not confirm the req is still open; check the Graduate Jobs category on careers.subsea7.com.",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Sydney Quantum Academy",
+   "title": "SQA Internship Program (Expression of Interest)",
+   "url": "https://sydneyquantum.org/programs/internships",
+   "location": "Sydney, NSW (open to students Australia-wide)",
+   "role_type": "intern-other",
+   "discipline": [
+    "quantum",
+    "electrical",
+    "physics",
+    "software"
+   ],
+   "pay": "Paid at Fair Work rates (most placements)",
+   "dates": "Varies; part-time or full-time",
+   "notes": "Places students with quantum companies (Diraq, Q-CTRL, etc.). Preference for USyd/UNSW/UTS/Macquarie students, but Melbourne students may apply. Contact info.sqa@sydney.edu.au.",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Tesla",
+   "title": "Embedded Software & Automation Engineering Intern, Energy Service Tooling",
+   "url": "https://au.prosple.com/graduate-employers/tesla-australia/jobs-internships/embedded-software-automation-engineering-intern-energy-service-tooling",
+   "location": "Red Hill (AU)",
+   "role_type": "intern-other",
+   "discipline": [
+    "embedded/electrical"
+   ],
+   "notes": "Two listings exist (slug with and without '-0')",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Tesla Australia (Energy)",
+   "title": "Embedded Software & Automation Engineering Intern, Energy Service Tooling",
+   "url": "https://au.prosple.com/graduate-employers/tesla-australia/jobs-internships/embedded-software-automation-engineering-intern-energy-service-tooling",
+   "location": "Red Hill (Brisbane) QLD",
+   "role_type": "intern-other",
+   "discipline": [
+    "embedded",
+    "electrical",
+    "software",
+    "energy-storage"
+   ],
+   "notes": "Embedded and power-products fit. Dedupe with open_aggregators.json. A '-0' slug variant also exists.",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "TikTok",
+   "title": "Hyper-Edge Technology Development Engineer Intern (Data Application) - 2027 Start",
+   "url": "https://au.gradconnection.com/employers/tiktok/jobs/tiktok-hyper-edge-technology-development-engineer-interndata-application-2027-start/",
+   "location": "Sydney NSW",
+   "role_type": "intern-other",
+   "discipline": [
+    "software/hardware-edge"
+   ],
+   "closes": "2026-10-30",
+   "notes": "Representative of about 20 TikTok Sydney 2027-start intern roles on GradConnection, all closing ~2026-10-30 (SRE, backend, ML, audio algorithm, multimedia C++)",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06",
+   "dates": "2027 start"
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern (Multimedia Framework, C++) - 2027 Start (BS/MS)",
+   "url": "https://au.gradconnection.com/employers/tiktok/jobs/tiktok-software-engineer-intern-multimedia-framework-c-2027-start-bsms-2/",
+   "location": "Sydney NSW",
+   "role_type": "intern-other",
+   "discipline": [
+    "software"
+   ],
+   "closes": "2026-10-30",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "TikTok",
+   "title": "Intelligent Audio Algorithm Research Intern (Audio Innovation) - 2027 Start (PhD)",
+   "url": "https://au.gradconnection.com/employers/tiktok/jobs/tiktok-intelligent-audio-algorithm-research-intern-audio-innovation-2027-startphd/",
+   "location": "Sydney NSW",
+   "role_type": "intern-other",
+   "discipline": [
+    "signal processing (PhD)"
+   ],
+   "closes": "2026-10-30",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "TikTok",
+   "title": "Site Reliability Engineer Intern (Technical Infrastructure - BS/MS) - 2027 Start",
+   "url": "https://au.gradconnection.com/employers/tiktok/jobs/tiktok-site-reliability-engineer-intern-technical-infrastructure-2027-start-bsms-2/",
+   "location": "Sydney",
+   "role_type": "intern-other",
+   "discipline": [
+    "software",
+    "networks",
+    "infrastructure"
+   ],
+   "closes": "2026-10-30",
+   "dates": "2027 start",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Tower Research Capital",
+   "title": "Quantitative Researcher Intern, Bachelor's or Master's",
+   "url": "https://www.tower-research.com/open-positions/",
+   "location": "Sydney (also Singapore / Hong Kong / Shanghai)",
+   "role_type": "intern-other",
+   "discipline": [
+    "quant-research",
+    "maths",
+    "statistics",
+    "cs",
+    "ml"
+   ],
+   "opened": "2026-08-31",
+   "dates": "not stated",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Tower Research Capital",
+   "title": "Quantitative Researcher Intern, PhD or Postdoc",
+   "url": "https://www.tower-research.com/open-positions/?gh_jid=8168634",
+   "location": "Sydney (also Singapore / Hong Kong / Shanghai)",
+   "role_type": "intern-other",
+   "discipline": [
+    "quant-research",
+    "maths",
+    "physics",
+    "cs",
+    "ml"
+   ],
+   "opened": "2026-08-31",
+   "dates": "not stated",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "UNSW Sydney (Faculty of Engineering)",
+   "title": "Taste of Research Scholarship - Summer 2026-27 (Summer Term-T1)",
+   "url": "https://tor.eng.unsw.edu.au/scholarships/tr2027/apply/index.cfm",
+   "location": "Sydney NSW (Kensington)",
+   "role_type": "vacation-research",
+   "discipline": [
+    "engineering",
+    "electrical",
+    "computing",
+    "research"
+   ],
+   "opened": "2026-09-14",
+   "closes": "2026-10-25",
+   "pay": "AUD 6,000 tax-exempt for 60-day project",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "University of Queensland",
+   "title": "UQ Summer Research Program 2027 (incl. EAIT: Electrical Eng & Comp Sci, Mechanical & Mining, Chemical, Civil)",
+   "url": "https://studenthub.uq.edu.au/form.aspx?id=6356280",
+   "location": "Brisbane QLD (St Lucia)",
+   "role_type": "vacation-research",
+   "discipline": [
+    "engineering",
+    "electrical",
+    "computing",
+    "research"
+   ],
+   "opened": "2026-09-21",
+   "closes": "2026-10-11",
+   "pay": "not stated on page",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Zinfra",
+   "title": "Expression of Interest - Zinfra Intern Program 2026/2027",
+   "url": "https://au.gradconnection.com/employers/jemena-zinfra/jobs/jemena-zinfra-expression-of-interest-zinfra-intern-program-20262027/",
+   "location": "Brisbane, Melbourne, Sydney",
+   "role_type": "summer",
+   "discipline": [
+    "electrical/mechanical"
+   ],
+   "closes_text": "~2027-01 ('Closing in 3 months')",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  },
+  {
+   "company": "Zinfra (Jemena group)",
+   "title": "Expression of Interest - Zinfra Intern Program 2026/2027",
+   "url": "https://au.gradconnection.com/employers/jemena-zinfra/jobs/jemena-zinfra-expression-of-interest-zinfra-intern-program-20262027/",
+   "location": "Melbourne, Sydney, Brisbane (hybrid)",
+   "role_type": "summer",
+   "discipline": [
+    "electrical",
+    "mechanical",
+    "computer-science",
+    "business"
+   ],
+   "opened": "2026-01-15",
+   "closes": "2026-12-31",
+   "dates": "Program start about Nov 2026",
+   "notes": "EOI. Zinfra does utility contracting (electrical, gas, water and renewables connections).",
+   "found_via": "research 2026-10-06",
+   "status": "unverified",
+   "checked": "2026-10-06"
+  }
+ ]
+}

@@ -1,0 +1,1023 @@
+{
+ "generated": "2026-10-06",
+ "sources": [
+  {
+   "name": "Prosple / GradAustralia",
+   "category": "graduate_aggregator",
+   "access_method": "Server-rendered HTML search pages (paginate with start=), then each detail page's JSON-LD JobPosting",
+   "url_templates": [
+    "https://au.prosple.com/search-jobs?defaults_applied=1&location=Australia&locations=9692&opportunity_types=2&keywords={kw}&start={offset}",
+    "https://au.prosple.com/search-jobs?defaults_applied=1&location=Australia&locations=9692&opportunity_types=1&keywords={kw}&start={offset}",
+    "https://au.prosple.com/graduate-employers/{employer_slug}/jobs-internships/{opportunity_slug}"
+   ],
+   "method": "GET",
+   "params": {
+    "keywords": "free text, e.g. engineering, electrical engineering, mechatronics, embedded",
+    "locations": "9692 = Australia (verified)",
+    "opportunity_types": "2 = internships/clerkships/vacation/placements (verified); 1 = graduate jobs (assumed, unverified)",
+    "study_fields": "numeric taxonomy IDs; 502 = IT & Computer Science (verified); the engineering IDs are unknown (498 returned 0 results). Use keywords= instead",
+    "start": "offset in steps of 20 (verified: start=20 returns items 21-40)",
+    "recency": "no recency filter; dedupe on opportunity URL"
+   },
+   "response_format": "text/html (SSR). Detail pages embed <script type='application/ld+json'> JobPosting",
+   "field_map": {
+    "list_card_link": "a[href*='/jobs-internships/'] -> href '/graduate-employers/{employer}/jobs-internships/{slug}'",
+    "title": "card link text; title suffix in parentheses = intake e.g. '(Nov 2026)', '(Rolling Intake)', '(Start ASAP)'",
+    "company": "employer name text in card (also employer slug in URL)",
+    "location": "comma-separated city list in card",
+    "closing_text": "'Closing in N days|months' / 'Opening in N months' (relative; convert against fetch time)",
+    "detail.jsonld": "JobPosting: title, hiringOrganization.name, jobLocation, validThrough (closing date, verified 2026-10-16 for AECOM), baseSalary.value (verified 38 AUD/HOUR), employmentType, datePosted (may be absent)",
+    "apply_url": "detail page links to /sign-up?url=<base64 ATS URL>; decode the base64 'url' param to get the employer ATS link (do not follow the sign-up flow)"
+   },
+   "fetchable_from_ci": true,
+   "blocked_reason": null,
+   "fallback": "Claude sweep: site:au.prosple.com/graduate-employers jobs-internships engineering",
+   "notes": "gradaustralia.com.au/search-jobs 302-redirects to au.prosple.com (verified), so treat as ONE source. robots.txt allows /search-jobs and detail pages; it disallows /sign-up/, /apply-direct/, /node/*, /graduate-employers*study_fields=. Most CSS classes are hashed (styled-components), so key on href patterns and JSON-LD rather than classes. University white-label portals (e.g. careers.business.unsw.edu.au, latrobe-gradcareers.prosple.com) serve the same Prosple data. Filter out paid placement providers: Readygrad, Premium Graduate Placements, CareerDC, Gradability, The Intern Group, Australian Internships, Ace Talent Recruitment. Local curl from the research sandbox was denied by the org egress policy for every job host (not representative of a GitHub Actions runner); verification was done via WebFetch on 2026-10-06.",
+   "verified": true
+  },
+  {
+   "name": "GradConnection (now 'SEEK Grad')",
+   "category": "graduate_aggregator",
+   "access_method": "Server-rendered HTML listing pages by discipline/location, paginated with ?page=N; detail pages for exact closing date",
+   "url_templates": [
+    "https://au.gradconnection.com/internships/{discipline}/{location}/?page={n}",
+    "https://au.gradconnection.com/graduate-jobs/{discipline}/{location}/?page={n}",
+    "https://au.gradconnection.com/employers/{employer_slug}/jobs/{job_slug}/",
+    "http://au.gradconnection.com/sitemap.xml"
+   ],
+   "method": "GET",
+   "params": {
+    "discipline": "engineering | engineering-electrical | engineering-mechanical | engineering-civil-structural | engineering-geotechnical (verified); likely also engineering-mechatronics, engineering-software, engineering-aerospace, engineering-chemical, engineering-mining (unverified)",
+    "location": "australia (verified) | sydney | melbourne | brisbane | perth | adelaide | canberra | mackay ...",
+    "page": "1-based, 20 per page; header text 'X - Y of Z results' (verified: engineering/australia = 103, electrical = 50, mechanical = 44)",
+    "recency": "none; 'New!' badge marks fresh items"
+   },
+   "response_format": "text/html (SSR; no __NEXT_DATA__ and no JSON-LD on detail pages)",
+   "field_map": {
+    "card_link": "a[href^='/employers/'][href*='/jobs/'] -> '/employers/{employer}/jobs/{slug}/' (real jobs); '/employers/{employer}/notifyme/{slug}/' = 'Notify Me' placeholders (route to expected[], not open[])",
+    "title": "card title link text",
+    "company": "employer name text in card (also URL segment 1)",
+    "location": "location text, e.g. 'Sydney' or 'Multiple (13 locations)' (detail page has the full list)",
+    "closing_text": "'Closing in N days' | 'Closing in a month' | 'New!' | 'Open'",
+    "job_type": "'Internship' | 'Event' | 'Notify Me'",
+    "detail.closing": "exact, e.g. '7th November 2026, 12:59 pm' (verified on the Lucid page)",
+    "detail.work_rights": "e.g. 'Australian Citizen, Australian Permanent Resident'",
+    "detail.start": "e.g. 'December 2026'"
+   },
+   "fetchable_from_ci": true,
+   "blocked_reason": null,
+   "fallback": "Claude sweep: site:au.gradconnection.com/employers engineering internship",
+   "notes": "robots.txt allows everything except *track-link, *calendar, /universities/*, so never follow track-link apply URLs. Class names weren't extractable via WebFetch; parse with href regexes. Lists include non-AU roles (Jane Street HK/SG), quant trading and virtual experiences (Forage/Deloitte STEM Connect), so filter by location and title. Filter out paid placement providers: Readygrad, Premium Graduate Placements, CareerDC, Gradability, The Intern Group, Australian Internships, Ace Talent Recruitment. Rebranded to SEEK Grad (SEEK-owned), so the domain may migrate; watch for 301s. Local curl from the research sandbox was denied by the org egress policy for every job host (not representative of a GitHub Actions runner); verification was done via WebFetch on 2026-10-06.",
+   "verified": true
+  },
+  {
+   "name": "SEEK",
+   "category": "general_job_board",
+   "access_method": "Internal JSON search API (undocumented). Returned 403 to WebFetch for both the API and the HTML results page",
+   "url_templates": [
+    "https://www.seek.com.au/api/jobsearch/v5/search?siteKey=AU-Main&sourcesystem=houston&where=All+Australia&keywords={kw}&classification=1209&worktype={wt}&daterange={days}&sortmode=ListedDate&page={n}&pageSize=22&locale=en-AU",
+    "https://www.seek.com.au/{kw-slug}-jobs/in-All-Australia?daterange={days}&sortmode=ListedDate",
+    "https://www.seek.com.au/job/{id}"
+   ],
+   "method": "GET",
+   "params": {
+    "classification": "1209 = Engineering (well known; unverified here). Also 6281 = Information & Communication Technology",
+    "worktype": "242 full time, 243 part time, 244 contract/temp, 245 casual/vacation (from memory, unverified)",
+    "daterange": "listed within N days (1,3,7,14,31)",
+    "page": "1-based",
+    "keywords": "e.g. 'graduate engineer', 'engineering intern', 'vacation student'"
+   },
+   "response_format": "application/json",
+   "field_map": {
+    "list": "data[]",
+    "id": "data[].id",
+    "title": "data[].title",
+    "company": "data[].advertiser.description | data[].companyName",
+    "location": "data[].locations[].label (newer) | data[].location + data[].area (older)",
+    "posted": "data[].listingDate (ISO-8601)",
+    "salary": "data[].salaryLabel | data[].salary",
+    "work_type": "data[].workTypes[] | data[].workType",
+    "classification": "data[].classifications[].classification.description",
+    "url": "https://www.seek.com.au/job/{id}",
+    "total": "totalCount"
+   },
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": "HTTP 403 to automated clients (WebFetch) on both /api/jobsearch and HTML search; bot management likely blocks datacenter IPs. Do not attempt to evade.",
+   "fallback": "Probe once per run with a plain UA. On 403, back off for 24h and use the Claude sweep: site:seek.com.au/job (\"engineering intern\" OR \"vacation student\" OR \"undergraduate engineer\" OR \"graduate engineer\"). GradConnection (SEEK Grad) and Talent.com cover much of the same student inventory",
+   "notes": "Field names come from widely documented community usage of the v5 API, not from a response seen today. Local curl from the research sandbox was denied by the org egress policy for every job host (not representative of a GitHub Actions runner); verification was done via WebFetch on 2026-10-06.",
+   "verified": false
+  },
+  {
+   "name": "LinkedIn guest job search",
+   "category": "general_job_board",
+   "access_method": "Unauthenticated 'jobs-guest' HTML-fragment endpoints (no API key). robots.txt disallows them, so WebFetch refused",
+   "url_templates": [
+    "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={kw}&location=Australia&geoId=101452733&f_TPR=r86400&f_E=1&start={offset}",
+    "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={kw}&location=Australia&geoId=101452733&f_TPR=r604800&f_JT=I&start={offset}",
+    "https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{job_id}"
+   ],
+   "method": "GET",
+   "params": {
+    "keywords": "free text",
+    "location": "Australia",
+    "geoId": "101452733 (Australia)",
+    "f_TPR": "r86400 = past 24h, r604800 = past week",
+    "f_E": "1 internship, 2 entry level (comma-join '1,2')",
+    "f_JT": "I = internship job type, F full-time",
+    "start": "offset; 10 cards per fragment (step by 10 or 25)",
+    "sortBy": "DD = most recent"
+   },
+   "response_format": "text/html fragment (list of <li>), detail = HTML fragment",
+   "field_map": {
+    "card": "div.base-card.base-search-card.job-search-card[data-entity-urn='urn:li:jobPosting:{id}']",
+    "url": "a.base-card__full-link[href] (strip query string)",
+    "title": "h3.base-search-card__title",
+    "company": "h4.base-search-card__subtitle > a.hidden-nested-link",
+    "location": "span.job-search-card__location",
+    "posted": "time.job-search-card__listdate[datetime] or time.job-search-card__listdate--new[datetime] (YYYY-MM-DD)",
+    "salary": "span.job-search-card__salary-info",
+    "benefits": "span.job-posting-benefits__text",
+    "detail.title": "h2.top-card-layout__title",
+    "detail.company": "a.topcard__org-name-link",
+    "detail.location": "span.topcard__flavor--bullet",
+    "detail.posted": "span.posted-time-ago__text",
+    "detail.description": "div.show-more-less-html__markup",
+    "detail.criteria": "ul.description__job-criteria-list > li (h3.description__job-criteria-subheader + span.description__job-criteria-text)",
+    "detail.salary": "div.salary.compensation__salary"
+   },
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": "robots.txt disallows generic crawlers (WebFetch: ROBOTS_DISALLOWED). From datacenter IPs LinkedIn typically answers HTTP 429 or 999, or redirects to an authwall, after a few requests",
+   "fallback": "Disabled by default. If enabled: at most ~5 requests per run, 3-5 s apart, stop on 429/999/authwall. Primary route is the Claude sweep: site:au.linkedin.com/jobs/view (intern OR internship OR graduate) engineer",
+   "notes": "Card/detail selectors are the long-stable public guest markup (from prior knowledge; not re-verified today). Local curl from the research sandbox was denied by the org egress policy for every job host (not representative of a GitHub Actions runner); verification was done via WebFetch on 2026-10-06.",
+   "verified": false
+  },
+  {
+   "name": "Talent.com AU",
+   "category": "general_job_board",
+   "access_method": "Server-rendered HTML search (verified real content)",
+   "url_templates": [
+    "https://au.talent.com/jobs?k={kw}&l=Australia&p={page}",
+    "https://au.talent.com/jobs/k-{kw-slug}-l-australia",
+    "https://au.talent.com/view?id={id}"
+   ],
+   "method": "GET",
+   "params": {
+    "k": "keywords",
+    "l": "location",
+    "p": "page (unverified)",
+    "date": "recency filter, e.g. 1/3/7 days (unverified)"
+   },
+   "response_format": "text/html",
+   "field_map": {
+    "card_link": "a[href*='/view?id='] -> job id",
+    "title": "card title text",
+    "company": "company text",
+    "location": "'City, STATE'",
+    "posted": "relative ('3 days ago', '30+ days ago')",
+    "apply_url": "/redirect?id={id}&pid=...&action=f-link (redirects to the source site)"
+   },
+   "fetchable_from_ci": true,
+   "blocked_reason": null,
+   "fallback": "Claude sweep: site:au.talent.com \"engineering intern\"",
+   "notes": "High yield for AU engineering interns (verified: PCL, Cook, APA, SEL, Aurecon, Microsoft Clipchamp, TikTok). No JSON-LD on view pages. Aggregates from employer sites and recruiters, so it duplicates other sources (dedupe on company + title). Local curl from the research sandbox was denied by the org egress policy for every job host (not representative of a GitHub Actions runner); verification was done via WebFetch on 2026-10-06.",
+   "verified": true
+  },
+  {
+   "name": "Adzuna AU (official API)",
+   "category": "general_job_board_api",
+   "access_method": "Official REST API; needs free app_id + app_key from developer.adzuna.com (store as GitHub secrets)",
+   "url_templates": [
+    "https://api.adzuna.com/v1/api/jobs/au/search/{page}?app_id={APP_ID}&app_key={APP_KEY}&what={kw}&where=Australia&category=engineering-jobs&max_days_old=3&sort_by=date&results_per_page=50&content-type=application/json"
+   ],
+   "method": "GET",
+   "params": {
+    "what": "keywords",
+    "what_or": "any-of keywords",
+    "what_exclude": "excluded words",
+    "where": "location",
+    "category": "engineering-jobs | it-jobs | graduate-jobs",
+    "max_days_old": "recency (days)",
+    "sort_by": "date|relevance|salary",
+    "results_per_page": "max 50",
+    "page": "path segment, 1-based",
+    "contract_time": "full_time|part_time"
+   },
+   "response_format": "application/json",
+   "field_map": {
+    "list": "results[]",
+    "id": "results[].id",
+    "title": "results[].title",
+    "company": "results[].company.display_name",
+    "location": "results[].location.display_name (area[] hierarchy)",
+    "posted": "results[].created (ISO)",
+    "url": "results[].redirect_url",
+    "salary": "results[].salary_min / salary_max / salary_is_predicted",
+    "type": "results[].contract_time / contract_type",
+    "category": "results[].category.tag",
+    "total": "count"
+   },
+   "fetchable_from_ci": true,
+   "blocked_reason": null,
+   "fallback": "none needed",
+   "notes": "Not fetched (requires keys). Free tier has per-minute/day/month quotas, so check the dashboard and use about 6-10 calls per run. Field names from the public API docs (prior knowledge).",
+   "verified": false
+  },
+  {
+   "name": "Jooble (official API)",
+   "category": "general_job_board_api",
+   "access_method": "Official REST API; free key on request (jooble.org/api/about)",
+   "url_templates": [
+    "https://au.jooble.org/api/{API_KEY}",
+    "https://jooble.org/api/{API_KEY}"
+   ],
+   "method": "POST",
+   "params": {
+    "body_json": {
+     "keywords": "engineering intern",
+     "location": "Australia",
+     "page": "1",
+     "ResultOnPage": "50",
+     "datecreatedfrom": "YYYY-MM-DD",
+     "companysearch": "false"
+    }
+   },
+   "response_format": "application/json",
+   "field_map": {
+    "total": "totalCount",
+    "list": "jobs[]",
+    "title": "jobs[].title",
+    "company": "jobs[].company",
+    "location": "jobs[].location",
+    "posted": "jobs[].updated",
+    "url": "jobs[].link",
+    "salary": "jobs[].salary",
+    "type": "jobs[].type",
+    "source": "jobs[].source",
+    "snippet": "jobs[].snippet",
+    "id": "jobs[].id"
+   },
+   "fetchable_from_ci": true,
+   "blocked_reason": null,
+   "fallback": "none",
+   "notes": "Not fetched (needs key). Many results are re-syndicated from other boards, so expect heavy duplication.",
+   "verified": false
+  },
+  {
+   "name": "Careerjet AU (publisher API)",
+   "category": "general_job_board_api",
+   "access_method": "Publisher API with affiliate id / API key; the HTML search is robots-disallowed (verified)",
+   "url_templates": [
+    "http://public.api.careerjet.net/search?locale_code=en_AU&keywords={kw}&location=Australia&affid={AFFID}&user_ip={ip}&user_agent={ua}&sort=date&pagesize=50&page={n}",
+    "https://search.api.careerjet.net/v4/query?locale_code=en_AU&keywords={kw}&location=Australia&sort=date&page={n}&page_size=50&user_ip={ip}&user_agent={ua}  (v4, API key via HTTP basic auth)"
+   ],
+   "method": "GET",
+   "params": {
+    "locale_code": "en_AU",
+    "keywords": "",
+    "location": "",
+    "sort": "date",
+    "contract_type": "p|c|t|i (i = internship)",
+    "contract_period": "f|p"
+   },
+   "response_format": "application/json",
+   "field_map": {
+    "list": "jobs[]",
+    "title": "jobs[].title",
+    "company": "jobs[].company",
+    "location": "jobs[].locations",
+    "posted": "jobs[].date",
+    "url": "jobs[].url",
+    "salary": "jobs[].salary",
+    "snippet": "jobs[].description",
+    "site": "jobs[].site"
+   },
+   "fetchable_from_ci": true,
+   "blocked_reason": "HTML /search/jobs is robots.txt-disallowed (WebFetch ROBOTS_DISALLOWED)",
+   "fallback": "Use the API only",
+   "notes": "Not fetched. Endpoint shapes from prior knowledge; confirm the current version at careerjet.com.au/partners/api.",
+   "verified": false
+  },
+  {
+   "name": "Jora AU",
+   "category": "general_job_board",
+   "access_method": "None permitted (SEEK-owned aggregator)",
+   "url_templates": [
+    "https://au.jora.com/j?q={kw}&l=Australia&st=date"
+   ],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": false,
+   "blocked_reason": "robots.txt disallows /j search (WebFetch ROBOTS_DISALLOWED)",
+   "fallback": "Claude sweep: site:au.jora.com engineering intern (or skip; Jora mirrors SEEK, Talent and employer ATS)",
+   "notes": null,
+   "verified": true
+  },
+  {
+   "name": "Indeed AU",
+   "category": "general_job_board",
+   "access_method": "None permitted. The RSS feed (/rss) is robots-disallowed and the Publisher API is closed to new users",
+   "url_templates": [
+    "https://au.indeed.com/jobs?q={kw}&l=Australia&sort=date&fromage=1",
+    "https://au.indeed.com/rss?q={kw}&l=Australia&sort=date"
+   ],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": false,
+   "blocked_reason": "robots.txt disallows /rss and /jobs (verified via WebFetch); Cloudflare/bot challenges on datacenter IPs",
+   "fallback": "Claude sweep: site:au.indeed.com/viewjob engineering intern Australia (low priority; most roles also on employer ATS)",
+   "notes": null,
+   "verified": true
+  },
+  {
+   "name": "Glassdoor AU",
+   "category": "general_job_board",
+   "access_method": "None",
+   "url_templates": [
+    "https://www.glassdoor.com.au/Job/australia-engineering-intern-jobs-SRCH_IL.0,9_IN16_KO10,28.htm"
+   ],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": false,
+   "blocked_reason": "Cloudflare bot protection plus login wall after the first page; partner API discontinued",
+   "fallback": "Skip; covered by the employer ATS sweep",
+   "notes": "Not fetched (known blocked).",
+   "verified": false
+  },
+  {
+   "name": "CareerOne",
+   "category": "general_job_board",
+   "access_method": "Server-rendered Next.js HTML (verified real content), but the ?keywords= query param was ignored (it returned generic jobs)",
+   "url_templates": [
+    "https://www.careerone.com.au/jobs/in-australia",
+    "https://www.careerone.com.au/jobview/detail/{uuid}"
+   ],
+   "method": "GET",
+   "params": {
+    "keyword": "path-based slug likely, e.g. /jobs/{kw-slug}/in-australia (unverified)"
+   },
+   "response_format": "text/html (Next.js)",
+   "field_map": {
+    "card_link": "a[href*='jobview/detail/']",
+    "posted": "relative ('Today', '8d ago', '60d+ ago')"
+   },
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": null,
+   "fallback": "Claude sweep: site:careerone.com.au \"engineering\" intern",
+   "notes": "Low student-role yield and keyword routing unconfirmed. Treat as optional.",
+   "verified": true
+  },
+  {
+   "name": "Employment Hero Jobs",
+   "category": "general_job_board",
+   "access_method": "Hybrid page: listing SSR'd but the search is client-side JS (the q param was ignored)",
+   "url_templates": [
+    "https://employmenthero.com/jobs/",
+    "https://employmenthero.com/jobs/position/{slug}/"
+   ],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": null,
+   "fallback": "Claude sweep: site:employmenthero.com/jobs/position (engineering intern OR graduate engineer)",
+   "notes": "Mostly SME admin/retail roles, low engineering-student yield. Its internal search API wasn't identified.",
+   "verified": true
+  },
+  {
+   "name": "Workforce Australia",
+   "category": "government_board",
+   "access_method": "None permitted",
+   "url_templates": [
+    "https://www.workforceaustralia.gov.au/individuals/jobs/search?searchText={kw}"
+   ],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": false,
+   "blocked_reason": "robots.txt disallows the jobs search (WebFetch ROBOTS_DISALLOWED)",
+   "fallback": "Claude sweep: site:workforceaustralia.gov.au/individuals/jobs/details engineering graduate",
+   "notes": null,
+   "verified": true
+  },
+  {
+   "name": "APSJobs (Commonwealth)",
+   "category": "government_board",
+   "access_method": "Salesforce Experience Cloud (Lightning) SPA; HTML is a JS shell ('Loading' / 'CSS Error')",
+   "url_templates": [
+    "https://www.apsjobs.gov.au/s/job-search?searchString={kw}",
+    "https://www.apsjobs.gov.au/s/job-details?jobId={id}"
+   ],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": false,
+   "blocked_reason": "Needs a JS runtime (Aura/Lightning XHR). No public RSS/API found",
+   "fallback": "(a) Claude sweep: site:apsjobs.gov.au (graduate OR cadet OR \"vacation\" OR intern) engineering. (b) Optional: a weekly Playwright render of the public search page (JS rendering only, no anti-bot evasion). (c) Track APS graduate programs directly (apsjobs graduate portal, DSTG, ASD, Defence, Bureau of Meteorology, Geoscience Australia, ARPANSA)",
+   "notes": "Aura endpoint /s/sfsites/aura needs per-session context tokens; do not reverse-engineer.",
+   "verified": true
+  },
+  {
+   "name": "Careers Victoria (careers.vic.gov.au)",
+   "category": "government_board",
+   "access_method": "Drupal 11 site; search results are rendered client-side (the HTML was a shell)",
+   "url_templates": [
+    "https://www.careers.vic.gov.au/jobs?keywords={kw}",
+    "https://www.careers.vic.gov.au/sitemap.xml"
+   ],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": "JS-rendered search; no feed found",
+   "fallback": "Try sitemap.xml for /job/ URLs (unverified). Otherwise Claude sweep: site:careers.vic.gov.au (graduate OR cadet OR student) engineer",
+   "notes": "VPS graduate program and VicRoads/DTP/Melbourne Water cadetships are often linked out to employer ATS.",
+   "verified": true
+  },
+  {
+   "name": "I Work For NSW",
+   "category": "government_board",
+   "access_method": "HTML (the WebFetch extract had metadata only; results probably JS-rendered)",
+   "url_templates": [
+    "https://iworkfor.nsw.gov.au/jobs/all-keywords/all-agencies/all-organisations-entities/all-categories/all-locations/all-worktypes?keywords={kw}"
+   ],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": null,
+   "fallback": "Claude sweep: site:iworkfor.nsw.gov.au (graduate OR cadet OR intern) engineer",
+   "notes": "Transport for NSW, Sydney Water and NSW Government Graduate Program roles usually also appear on GradConnection/Prosple.",
+   "verified": true
+  },
+  {
+   "name": "SmartJobs QLD",
+   "category": "government_board",
+   "access_method": "Unknown. The legacy /jobtools/jncustomsearch and /jobs/QLD-search paths both 404 (site re-platformed)",
+   "url_templates": [
+    "https://smartjobs.qld.gov.au/"
+   ],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": "Search URL scheme unknown after migration",
+   "fallback": "Claude sweep: site:smartjobs.qld.gov.au engineer (graduate OR cadet OR \"vacation\" OR student)",
+   "notes": null,
+   "verified": false
+  },
+  {
+   "name": "Jobs WA (search.jobs.wa.gov.au)",
+   "category": "government_board",
+   "access_method": "Server-rendered HTML (verified real content on homepage)",
+   "url_templates": [
+    "https://search.jobs.wa.gov.au/jobs/search?keywords={kw}",
+    "https://search.jobs.wa.gov.au/jobs/search/{category-or-region}",
+    "https://search.jobs.wa.gov.au/jobs/{slug}"
+   ],
+   "method": "GET",
+   "params": {
+    "keywords": "unverified param name",
+    "path": "category or region slug (e.g. pilbara)"
+   },
+   "response_format": "text/html",
+   "field_map": {
+    "card_link": "a[href^='/jobs/'] (detail slug)",
+    "salary": "'From $X' text in card"
+   },
+   "fetchable_from_ci": true,
+   "blocked_reason": null,
+   "fallback": "Claude sweep: site:search.jobs.wa.gov.au engineer graduate OR cadet",
+   "notes": "The legacy page.php?pageID=160 redirects to the homepage. Water Corp / Western Power / Main Roads WA grads mostly run on their own ATS.",
+   "verified": true
+  },
+  {
+   "name": "I Work For SA",
+   "category": "government_board",
+   "access_method": "Not inspected",
+   "url_templates": [
+    "https://iworkfor.sa.gov.au/"
+   ],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": null,
+   "fallback": "Claude sweep: site:iworkfor.sa.gov.au engineer (graduate OR cadet OR student)",
+   "notes": "Not fetched (budget).",
+   "verified": false
+  },
+  {
+   "name": "Blackbird portfolio jobs",
+   "category": "vc_portfolio_board",
+   "access_method": "Getro board HTML (SSR); Getro JSON API optional",
+   "url_templates": [
+    "https://jobs.blackbird.vc/jobs?q={kw}",
+    "https://jobs.blackbird.vc/companies/{org_slug}/jobs/{job_id}-{job_slug}",
+    "https://api.getro.com/api/v2/collections/8113e671-81c4-4bd6-86dc-f5e4ee9c41c9/search/jobs"
+   ],
+   "method": "GET",
+   "params": {
+    "q": "keyword (intern, graduate, engineer)",
+    "collection_id": "8113e671-81c4-4bd6-86dc-f5e4ee9c41c9"
+   },
+   "response_format": "text/html (Next.js)",
+   "field_map": {
+    "card_link": "a[href*='/companies/'][href*='/jobs/']",
+    "title": "link text",
+    "company": "/companies/{org_slug}",
+    "location": "location text, e.g. 'Sydney, NSW, Australia'"
+   },
+   "fetchable_from_ci": true,
+   "blocked_reason": null,
+   "fallback": "Claude sweep: site:jobs.blackbird.vc intern",
+   "notes": "Getro board, Next.js SSR. Preferred: GET the board HTML ({board}/jobs?q=intern) and parse links of the form /companies/{org}/jobs/{id}-{slug}. Getro's JSON search (POST api.getro.com/api/v2/collections/{collection_id}/search/jobs with body {\"hitsPerPage\":50,\"page\":0,\"query\":\"intern\",\"filters\":{}}) returned 403 to an unauthenticated GET via WebFetch; POST is untested. Expected JSON: results.jobs[] {id,title,slug,url,created_at,organization{name,slug},locations[],seniority,work_mode}, results.count. Filter locations for Australia/NSW/VIC/QLD/WA/SA/ACT. Unfiltered /jobs lists Eucalyptus, Tracksuit, Halter, Sitemate etc. ?locations=Australia returned 'No jobs matching', so the URL filter syntax differs; filter client-side.",
+   "verified": true
+  },
+  {
+   "name": "AirTree portfolio jobs",
+   "category": "vc_portfolio_board",
+   "access_method": "Getro board HTML (SSR); Getro JSON API optional",
+   "url_templates": [
+    "https://jobs.airtree.vc/jobs?q={kw}",
+    "https://jobs.airtree.vc/companies/{org_slug}/jobs/{job_id}-{job_slug}",
+    "https://api.getro.com/api/v2/collections/cf15be7f-0530-40fb-8134-8eeda5c35570/search/jobs"
+   ],
+   "method": "GET",
+   "params": {
+    "q": "keyword (intern, graduate, engineer)",
+    "collection_id": "cf15be7f-0530-40fb-8134-8eeda5c35570"
+   },
+   "response_format": "text/html (Next.js)",
+   "field_map": {
+    "card_link": "a[href*='/companies/'][href*='/jobs/']",
+    "title": "link text",
+    "company": "/companies/{org_slug}",
+    "location": "location text, e.g. 'Sydney, NSW, Australia'"
+   },
+   "fetchable_from_ci": true,
+   "blocked_reason": null,
+   "fallback": "Claude sweep: site:jobs.airtree.vc intern",
+   "notes": "Getro board, Next.js SSR. Preferred: GET the board HTML ({board}/jobs?q=intern) and parse links of the form /companies/{org}/jobs/{id}-{slug}. Getro's JSON search (POST api.getro.com/api/v2/collections/{collection_id}/search/jobs with body {\"hitsPerPage\":50,\"page\":0,\"query\":\"intern\",\"filters\":{}}) returned 403 to an unauthenticated GET via WebFetch; POST is untested. Expected JSON: results.jobs[] {id,title,slug,url,created_at,organization{name,slug},locations[],seniority,work_mode}, results.count. Filter locations for Australia/NSW/VIC/QLD/WA/SA/ACT. Large board (Eucalyptus, Employment Hero, DroneDeploy...). Many roles are non-AU.",
+   "verified": true
+  },
+  {
+   "name": "Square Peg portfolio jobs",
+   "category": "vc_portfolio_board",
+   "access_method": "Getro board HTML (SSR); Getro JSON API optional",
+   "url_templates": [
+    "https://squarepeg.getro.com/jobs?q={kw}",
+    "https://squarepeg.getro.com/companies/{org_slug}/jobs/{job_id}-{job_slug}"
+   ],
+   "method": "GET",
+   "params": {
+    "q": "keyword (intern, graduate, engineer)",
+    "collection_id": "unknown (read from cdn.getro.com/collections/{id}-{ts} in page HTML)"
+   },
+   "response_format": "text/html (Next.js)",
+   "field_map": {
+    "card_link": "a[href*='/companies/'][href*='/jobs/']",
+    "title": "link text",
+    "company": "/companies/{org_slug}",
+    "location": "location text, e.g. 'Sydney, NSW, Australia'"
+   },
+   "fetchable_from_ci": true,
+   "blocked_reason": null,
+   "fallback": "Claude sweep: site:squarepeg.getro.com intern",
+   "notes": "Getro board, Next.js SSR. Preferred: GET the board HTML ({board}/jobs?q=intern) and parse links of the form /companies/{org}/jobs/{id}-{slug}. Getro's JSON search (POST api.getro.com/api/v2/collections/{collection_id}/search/jobs with body {\"hitsPerPage\":50,\"page\":0,\"query\":\"intern\",\"filters\":{}}) returned 403 to an unauthenticated GET via WebFetch; POST is untested. Expected JSON: results.jobs[] {id,title,slug,url,created_at,organization{name,slug},locations[],seniority,work_mode}, results.count. Filter locations for Australia/NSW/VIC/QLD/WA/SA/ACT. 386 jobs; intern roles mostly SEA (Indonesia/Singapore/Malaysia) and US, so filter on AU locations.",
+   "verified": true
+  },
+  {
+   "name": "Folklore Ventures portfolio jobs",
+   "category": "vc_portfolio_board",
+   "access_method": "Getro board HTML (SSR); Getro JSON API optional",
+   "url_templates": [
+    "https://roles.folklore.vc/jobs?q={kw}",
+    "https://roles.folklore.vc/companies/{org_slug}/jobs/{job_id}-{job_slug}",
+    "https://api.getro.com/api/v2/collections/4265e801-b150-4935-9cb9-68ebc3fd126d/search/jobs"
+   ],
+   "method": "GET",
+   "params": {
+    "q": "keyword (intern, graduate, engineer)",
+    "collection_id": "4265e801-b150-4935-9cb9-68ebc3fd126d"
+   },
+   "response_format": "text/html (Next.js)",
+   "field_map": {
+    "card_link": "a[href*='/companies/'][href*='/jobs/']",
+    "title": "link text",
+    "company": "/companies/{org_slug}",
+    "location": "location text, e.g. 'Sydney, NSW, Australia'"
+   },
+   "fetchable_from_ci": true,
+   "blocked_reason": null,
+   "fallback": "Claude sweep: site:roles.folklore.vc intern",
+   "notes": "Getro board, Next.js SSR. Preferred: GET the board HTML ({board}/jobs?q=intern) and parse links of the form /companies/{org}/jobs/{id}-{slug}. Getro's JSON search (POST api.getro.com/api/v2/collections/{collection_id}/search/jobs with body {\"hitsPerPage\":50,\"page\":0,\"query\":\"intern\",\"filters\":{}}) returned 403 to an unauthenticated GET via WebFetch; POST is untested. Expected JSON: results.jobs[] {id,title,slug,url,created_at,organization{name,slug},locations[],seniority,work_mode}, results.count. Filter locations for Australia/NSW/VIC/QLD/WA/SA/ACT. AU-heavy deep tech (Hullbot, Strong Compute, Auror, Ansarada). jobs.folklore.vc has a TLS hostname mismatch; use roles.folklore.vc.",
+   "verified": true
+  },
+  {
+   "name": "Main Sequence portfolio jobs",
+   "category": "vc_portfolio_board",
+   "access_method": "Unknown. mseq.vc links 'JOBS' to https://jobs.mseq.vc/, but /jobs returned a 404 page with no Getro/Consider markers",
+   "url_templates": [
+    "https://jobs.mseq.vc/"
+   ],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": null,
+   "fallback": "Claude sweep: Main Sequence portfolio intern (Quantum Brilliance, Q-CTRL, Vow, Morse Micro, Fleet Space...)",
+   "notes": "Root page not re-fetched (budget). jobs.mainsequence.vc does not resolve.",
+   "verified": false
+  },
+  {
+   "name": "Startmate Talent Engine",
+   "category": "vc_portfolio_board",
+   "access_method": "Unknown. startmate.com links to https://universe.startmate.com/talent-engine",
+   "url_templates": [
+    "https://universe.startmate.com/talent-engine"
+   ],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": null,
+   "fallback": "Claude sweep: site:universe.startmate.com intern OR graduate",
+   "notes": "jobs.startmate.com has a TLS hostname mismatch. Talent Engine may need login. Not fetched.",
+   "verified": false
+  },
+  {
+   "name": "OneVentures portfolio jobs",
+   "category": "vc_portfolio_board",
+   "access_method": "Not discovered (web-search budget exhausted)",
+   "url_templates": [],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": null,
+   "fallback": "Claude sweep: \"OneVentures\" portfolio jobs board (getro OR consider OR pallet) then register board; else monitor portfolio company ATS directly",
+   "notes": "Unverified; many smaller AU funds have no aggregated job board.",
+   "verified": false
+  },
+  {
+   "name": "Brandon Capital portfolio jobs",
+   "category": "vc_portfolio_board",
+   "access_method": "Not discovered (web-search budget exhausted)",
+   "url_templates": [],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": null,
+   "fallback": "Claude sweep: \"Brandon Capital\" portfolio jobs board (getro OR consider OR pallet) then register board; else monitor portfolio company ATS directly",
+   "notes": "Unverified; many smaller AU funds have no aggregated job board.",
+   "verified": false
+  },
+  {
+   "name": "Breakthrough Victoria portfolio jobs",
+   "category": "vc_portfolio_board",
+   "access_method": "Not discovered (web-search budget exhausted)",
+   "url_templates": [],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": null,
+   "fallback": "Claude sweep: \"Breakthrough Victoria\" portfolio jobs board (getro OR consider OR pallet) then register board; else monitor portfolio company ATS directly",
+   "notes": "Unverified; many smaller AU funds have no aggregated job board.",
+   "verified": false
+  },
+  {
+   "name": "Cicada Innovations portfolio jobs",
+   "category": "vc_portfolio_board",
+   "access_method": "Not discovered (web-search budget exhausted)",
+   "url_templates": [],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": null,
+   "fallback": "Claude sweep: \"Cicada Innovations\" portfolio jobs board (getro OR consider OR pallet) then register board; else monitor portfolio company ATS directly",
+   "notes": "Unverified; many smaller AU funds have no aggregated job board.",
+   "verified": false
+  },
+  {
+   "name": "Antler Australia portfolio jobs",
+   "category": "vc_portfolio_board",
+   "access_method": "Not discovered (web-search budget exhausted)",
+   "url_templates": [],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": null,
+   "fallback": "Claude sweep: \"Antler Australia\" portfolio jobs board (getro OR consider OR pallet) then register board; else monitor portfolio company ATS directly",
+   "notes": "Unverified; many smaller AU funds have no aggregated job board.",
+   "verified": false
+  },
+  {
+   "name": "Investible portfolio jobs",
+   "category": "vc_portfolio_board",
+   "access_method": "Not discovered (web-search budget exhausted)",
+   "url_templates": [],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": null,
+   "fallback": "Claude sweep: \"Investible\" portfolio jobs board (getro OR consider OR pallet) then register board; else monitor portfolio company ATS directly",
+   "notes": "Unverified; many smaller AU funds have no aggregated job board.",
+   "verified": false
+  },
+  {
+   "name": "Giant Leap portfolio jobs",
+   "category": "vc_portfolio_board",
+   "access_method": "Not discovered (web-search budget exhausted)",
+   "url_templates": [],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": null,
+   "fallback": "Claude sweep: \"Giant Leap\" portfolio jobs board (getro OR consider OR pallet) then register board; else monitor portfolio company ATS directly",
+   "notes": "Unverified; many smaller AU funds have no aggregated job board.",
+   "verified": false
+  },
+  {
+   "name": "Artesian portfolio jobs",
+   "category": "vc_portfolio_board",
+   "access_method": "Not discovered (web-search budget exhausted)",
+   "url_templates": [],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": null,
+   "fallback": "Claude sweep: \"Artesian\" portfolio jobs board (getro OR consider OR pallet) then register board; else monitor portfolio company ATS directly",
+   "notes": "Unverified; many smaller AU funds have no aggregated job board.",
+   "verified": false
+  },
+  {
+   "name": "Y Combinator jobs / Work at a Startup",
+   "category": "startup_board",
+   "access_method": "ycombinator.com/jobs/location/australia (public, React/Inertia); WaaS requires login",
+   "url_templates": [
+    "https://www.ycombinator.com/jobs/location/australia",
+    "https://www.workatastartup.com/jobs"
+   ],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": "WaaS returned 406 to WebFetch (login/bot gate). ycombinator.com rate-limited (429) during this session",
+   "fallback": "Claude sweep: site:ycombinator.com/companies jobs Australia intern",
+   "notes": "Low AU intern volume.",
+   "verified": false
+  },
+  {
+   "name": "Wellfound (AngelList Talent)",
+   "category": "startup_board",
+   "access_method": "None",
+   "url_templates": [
+    "https://wellfound.com/location/australia"
+   ],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": false,
+   "blocked_reason": "DataDome bot protection plus login for search",
+   "fallback": "Claude sweep: site:wellfound.com/jobs Australia intern engineer",
+   "notes": "Not fetched (known blocked).",
+   "verified": false
+  },
+  {
+   "name": "Welcome to the Jungle / Otta",
+   "category": "startup_board",
+   "access_method": "Not inspected",
+   "url_templates": [
+    "https://www.welcometothejungle.com/en/jobs?refinementList%5Boffices.country_code%5D%5B%5D=AU"
+   ],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": null,
+   "fallback": "Skip (very low AU presence)",
+   "notes": "Otta merged into WTTJ; search is Algolia-backed client-side.",
+   "verified": false
+  },
+  {
+   "name": "Engineers Australia careers",
+   "category": "professional_body",
+   "access_method": "Not inspected",
+   "url_templates": [
+    "https://www.engineersaustralia.org.au/"
+   ],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": null,
+   "fallback": "Claude sweep: Engineers Australia jobs board student OR graduate",
+   "notes": "Not fetched; EA job board may be member-gated.",
+   "verified": false
+  },
+  {
+   "name": "Internships.com.au",
+   "category": "niche_board",
+   "access_method": "Unknown (robots fetch rate-limited 429)",
+   "url_templates": [
+    "https://www.internships.com.au/"
+   ],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": null,
+   "fallback": "Skip unless it proves to be an employer-paid board",
+   "notes": "Not fetched. Several AU 'internship' brands are student-paid placement agencies; verify the business model before ingesting.",
+   "verified": false
+  },
+  {
+   "name": "University career portals (CareerHub / Symplicity / 12twenty)",
+   "category": "university_portal",
+   "access_method": "Login (SSO) required",
+   "url_templates": [],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": false,
+   "blocked_reason": "Student login required",
+   "fallback": "Not needed for coverage: many AU uni portals are Prosple white-labels (e.g. careers.business.unsw.edu.au, latrobe-gradcareers.prosple.com), so au.prosple.com covers the same employer feed",
+   "notes": null,
+   "verified": false
+  },
+  {
+   "name": "Cadetship / co-op / placement schemes (UTS IBL & cadetships, UNSW Co-op, STEM Industry Placements, Defence Industry Internship Program, SmartSat CRC)",
+   "category": "scheme",
+   "access_method": "Static program pages; annual intake windows. Monitor by page-hash diff, not job parsing",
+   "url_templates": [
+    "https://www.uts.edu.au/ (search: industry based learning / cadetships)",
+    "https://www.unsw.edu.au/ (search: co-op program)",
+    "https://www.defence.gov.au/ (search: Defence Industry Internship Program)",
+    "https://smartsatcrc.com/"
+   ],
+   "method": "GET",
+   "params": {},
+   "response_format": null,
+   "field_map": {},
+   "fetchable_from_ci": "unknown",
+   "blocked_reason": null,
+   "fallback": "Monthly Claude sweep queries (see search_queries) to detect 'applications open'",
+   "notes": "Not fetched (budget). Store canonical program URLs once confirmed and hash the 'key dates' section.",
+   "verified": false
+  }
+ ],
+ "github_lists": [
+  {
+   "repo": "SimplifyJobs/Summer2027-Internships",
+   "raw_url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
+   "alt_raw_url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json (same ~12.7 MB file; repo appears renamed/rolled over)",
+   "format": "JSON array (~16.9k rows): source, category, company_name, id, title, active, terms[], date_updated (unix), date_posted (unix), url, locations[], company_url, is_visible, sponsorship, degrees[]",
+   "last_activity": "max date_updated = 2026-10-06 01:48 UTC (updated daily)",
+   "au_yield": "Very low. 48 rows match AU place names, but almost all are false positives ('Melbourne, FL', 'Brisbane, CA', 'Newcastle upon Tyne, UK'). Only 1 genuine active AU row (Pluralis Research, 'Remote in Australia'). Match on 'Australia' or ', NSW|VIC|QLD|WA|SA|ACT|TAS|NT' and exclude US/UK suffixes",
+   "fetchable_from_ci": true,
+   "verified": true
+  },
+  {
+   "repo": "SimplifyJobs/New-Grad-Positions",
+   "raw_url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json",
+   "format": "same JSON schema minus terms[] (~19.6k rows)",
+   "last_activity": "max date_updated = 2026-10-06 06:27 UTC",
+   "au_yield": "0 genuine active AU rows (all matches were Melbourne FL / Newcastle UK)",
+   "fetchable_from_ci": true,
+   "verified": true
+  },
+  {
+   "repo": "speedyapply/2027-SWE-College-Jobs",
+   "raw_url": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/HEAD/README.md",
+   "format": "README markdown/HTML table (company | role | location | apply link)",
+   "last_activity": "unknown (GitHub API not available in sandbox)",
+   "au_yield": "1 AU-tagged row (Robinhood 'Bellevue, Australia +2', likely a location parse error)",
+   "fetchable_from_ci": true,
+   "verified": true
+  },
+  {
+   "repo": "vanshb03/Summer2027-Internships",
+   "raw_url": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/HEAD/README.md",
+   "format": "README table",
+   "last_activity": "unknown",
+   "au_yield": "0",
+   "fetchable_from_ci": true,
+   "verified": true
+  },
+  {
+   "repo": "jobright-ai/2026-Engineer-Internship",
+   "raw_url": "https://raw.githubusercontent.com/jobright-ai/2026-Engineer-Internship/HEAD/README.md",
+   "format": "README table (non-software engineering incl. EE/ME)",
+   "last_activity": "unknown",
+   "au_yield": "0",
+   "fetchable_from_ci": true,
+   "verified": true
+  },
+  {
+   "repo": "zapplyjobs/Internships-2026",
+   "raw_url": "https://raw.githubusercontent.com/zapplyjobs/Internships-2026/HEAD/README.md",
+   "format": "README table",
+   "last_activity": "unknown",
+   "au_yield": "0",
+   "fetchable_from_ci": true,
+   "verified": true
+  },
+  {
+   "repo": "northwesternfintech/2027QuantInternships",
+   "raw_url": "https://raw.githubusercontent.com/northwesternfintech/2027QuantInternships/HEAD/README.md",
+   "format": "README table",
+   "last_activity": "unknown",
+   "au_yield": "0 (Sydney quant intern roles like Optiver/IMC/Citadel are not tagged AU here)",
+   "fetchable_from_ci": true,
+   "verified": true
+  },
+  {
+   "repo": "(none found) AU/OCE-specific internship list",
+   "raw_url": null,
+   "format": null,
+   "last_activity": null,
+   "au_yield": "GitHub search API and github.com/search are blocked here (sandbox repo-scoping; robots.txt), and ~17 guessed AU repo names 404'd. No maintained AU list confirmed",
+   "fetchable_from_ci": "unknown",
+   "verified": false,
+   "todo": "From CI (GITHUB_TOKEN) run: GET https://api.github.com/search/repositories?q=australia+internships+in:name,description,readme&sort=updated plus variants 'oce internships', 'aus grad', 'sydney internships', 'melbourne internships', 'anz graduate'; keep repos pushed within 30 days"
+  }
+ ],
+ "search_queries": [
+  "site:boards.greenhouse.io Australia (intern OR internship OR \"vacation\" OR graduate) engineer",
+  "site:job-boards.greenhouse.io (Sydney OR Melbourne OR Brisbane OR Perth OR Adelaide) (intern OR internship OR graduate) engineering",
+  "site:jobs.lever.co Australia (intern OR internship OR graduate OR \"new grad\") engineer",
+  "site:jobs.ashbyhq.com Australia (intern OR internship OR \"new grad\" OR graduate) engineer",
+  "site:myworkdayjobs.com Australia (\"vacation student\" OR \"summer intern\" OR internship OR \"vacation program\") engineering",
+  "site:myworkdayjobs.com (Sydney OR Melbourne OR Brisbane OR Perth OR Adelaide OR Canberra) \"graduate\" engineer 2027",
+  "site:jobs.smartrecruiters.com Australia (intern OR internship OR graduate OR \"vacation\") engineer",
+  "site:apply.workable.com Australia (intern OR internship OR graduate) engineer",
+  "site:careers.pageuppeople.com (\"vacation\" OR \"summer\" OR intern OR graduate OR cadet) engineering",
+  "site:apply.jobadder.com OR site:jobs.jobadder.com (intern OR \"undergraduate\" OR graduate) engineer Australia",
+  "site:teamtailor.com Australia (intern OR graduate) engineer",
+  "site:seek.com.au/job (\"engineering intern\" OR \"vacation student\" OR \"undergraduate engineer\" OR \"student engineer\")",
+  "site:au.linkedin.com/jobs/view (intern OR internship OR \"vacation student\") engineer",
+  "site:au.gradconnection.com/employers (electrical OR mechatronics OR mechanical OR embedded) internship 2026/2027",
+  "site:au.prosple.com/graduate-employers jobs-internships engineering \"Nov 2026\"",
+  "site:au.talent.com \"engineering intern\" OR \"engineering internship\"",
+  "\"summer vacation program\" engineering 2026/27 \"applications\" Australia",
+  "\"vacation student\" (electrical OR electronics OR mechatronics) engineering 2026 Australia",
+  "\"2027 graduate program\" (electrical OR mechatronics OR \"power systems\") engineer Australia \"applications open\"",
+  "\"engineering cadetship\" 2027 Australia applications",
+  "(\"UNSW Co-op\" OR \"UTS cadetship\" OR \"industry based learning\") engineering 2027 applications",
+  "\"Defence Industry Internship Program\" 2027",
+  "SmartSat CRC internship OR \"summer scholarship\" 2026 OR 2027",
+  "(embedded OR firmware OR FPGA OR \"hardware engineer\") intern Australia 2026 OR 2027 -\"United States\"",
+  "(robotics OR mechatronics OR \"control systems\") internship Sydney OR Melbourne OR Brisbane 2026 OR 2027",
+  "(\"power systems\" OR \"high voltage\" OR substation OR transmission) \"vacation\" OR intern Australia 2026",
+  "(space OR aerospace OR satellite) internship Australia 2026/2027 (Gilmour OR \"Fleet Space\" OR Skykraft OR \"Space Machines\" OR Quasar OR \"Inovor\")",
+  "quantum (hardware OR engineering) intern Australia (Diraq OR \"Silicon Quantum Computing\" OR \"Quantum Brilliance\" OR Q-CTRL OR \"Quantum Motion\")",
+  "site:jobs.blackbird.vc OR site:jobs.airtree.vc OR site:squarepeg.getro.com OR site:roles.folklore.vc intern",
+  "site:getro.com Australia intern engineer",
+  "site:apsjobs.gov.au (graduate OR cadet OR \"vacation\" OR intern) engineering",
+  "site:iworkfor.nsw.gov.au OR site:careers.vic.gov.au OR site:smartjobs.qld.gov.au (graduate OR cadet OR student) engineer",
+  "site:search.jobs.wa.gov.au OR site:iworkfor.sa.gov.au (graduate OR cadet OR \"vacation\") engineer",
+  "site:ycombinator.com/companies jobs Australia intern",
+  "\"undergraduate\" OR \"student\" engineer part-time Australia \"closing\" October 2026 -recruitment"
+ ],
+ "global_notes": [
+  "Paid placement providers to exclude from 'open' roles: Readygrad, Premium Graduate Placements, CareerDC, Gradability, The Intern Group, Australian Internships, Ace Talent Recruitment",
+  "Relative dates ('Closing in N days') must be converted using the fetch timestamp; prefer detail-page exact dates/JSON-LD validThrough.",
+  "Local curl from the research sandbox was denied by the org egress policy for every job host (not representative of a GitHub Actions runner); verification was done via WebFetch on 2026-10-06."
+ ]
+}
