@@ -178,7 +178,7 @@
   "company": "Five Rings",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Five Rings [page]"
   ],
@@ -337,7 +337,7 @@
   "company": "Subsea7",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Subsea7 [page]"
   ],
@@ -616,14 +616,15 @@
   "title": "Software Engineer Intern"
  },
  "106dacaffd10": {
+  "closed_on": "2026-10-06",
   "company": "Citadel Citadel Securities",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2026-2027 FPGA Engineer Internship"
  },
  "10a3ca5cd7fb": {
@@ -1254,14 +1255,15 @@
   "title": "2026 Intern Conversion - Software Development Engineer I"
  },
  "20ce91403281": {
+  "closed_on": "2026-10-06",
   "company": "Jane Street",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Software Engineer"
  },
  "210ce136bc75": {
@@ -1384,21 +1386,33 @@
   "title": "Notify Me - Arcadis Australia Pacific Graduate Jobs"
  },
  "22b85e65d253": {
+  "closed_on": "2026-10-06",
   "company": "Jane Street",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "closed",
+  "title": "Software Engineer - Internship (2027 May - August)"
+ },
+ "22ef9aedc9ea": {
+  "company": "Susquehanna International Group",
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
-  "title": "Software Engineer - Internship (2027 May - August)"
+  "title": "Graduate Equity Analyst: 2027"
  },
  "2355c90654a9": {
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -1417,14 +1431,15 @@
   "title": "Student Vacation Program - Process Engineer"
  },
  "2361dd153daa": {
+  "closed_on": "2026-10-06",
   "company": "Citadel Citadel Securities",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 Quantitative Trading Full Time"
  },
  "237866a56f8f": {
@@ -1569,14 +1584,15 @@
   "title": "SG Fleet 2027 Internship Program – AI Stream"
  },
  "26ecf28a1948": {
+  "closed_on": "2026-10-06",
   "company": "Tiktok",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Accelerated Development Program - 2026 Start (MBA)"
  },
  "2776908c186a": {
@@ -1619,7 +1635,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -1805,7 +1821,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -1822,6 +1838,17 @@
   ],
   "status": "open",
   "title": "Civil Engineering Internships"
+ },
+ "2d0d9d305d5f": {
+  "company": "Susquehanna International Group",
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Graduate Macro Analyst: 2027"
  },
  "2dd09bad300f": {
   "company": "EY",
@@ -2010,14 +2037,15 @@
   "title": "Research Intern - PhD"
  },
  "3274bbceba5b": {
+  "closed_on": "2026-10-06",
   "company": "The Victorian State Government",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Expression of interest – Victorian Government graduate program 2028"
  },
  "32a65daf2318": {
@@ -2070,7 +2098,7 @@
   "company": "Subsea7",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Subsea7 [page]"
   ],
@@ -2385,14 +2413,15 @@
   "title": "Hyper-Edge Technology Development Engineer Intern (Data Application) - 2027 Start"
  },
  "3976f5f2d08b": {
+  "closed_on": "2026-10-06",
   "company": "Tiktok",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Accelerated Development Program (E-Commerce) - 2026 Start (MBA)"
  },
  "39a182826241": {
@@ -2811,7 +2840,7 @@
   "company": "Arup",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Arup [page]"
   ],
@@ -2824,8 +2853,7 @@
   "last_seen": "2026-10-06",
   "misses": 0,
   "sources": [
-   "Claude web sweep",
-   "Inovor Technologies [page]"
+   "Claude web sweep"
   ],
   "status": "open",
   "title": "Graduate Trainee Program (3-6 months; some placements at DST)"
@@ -3000,7 +3028,7 @@
   "company": "Five Rings",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Five Rings [page]"
   ],
@@ -3066,14 +3094,15 @@
   "title": "Boeing Summer 2027 Internship Program (Paid) – Information Digital Technology & Security (IDT&S)"
  },
  "492d643aa4ca": {
+  "closed_on": "2026-10-06",
   "company": "Gradability",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Business Analysts & Data Analyst Internships"
  },
  "493823359145": {
@@ -3242,14 +3271,15 @@
   "title": "Notify Me - Adobe Internships"
  },
  "4d41a2aab12a": {
+  "closed_on": "2026-10-06",
   "company": "Ghd",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "GHD Graduate Program 2026/27 - Urban Design/Landscape Architecture (Melbourne)"
  },
  "4d4d79ebefeb": {
@@ -3279,7 +3309,7 @@
   "company": "UNSW Sydney - Taste of Research (Engineering) + CQC2T/SQC hub",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "UNSW Sydney - Taste of Research (Engineering) + CQC2T/SQC hub [page]"
   ],
@@ -3406,7 +3436,7 @@
   "company": "Siemens Mobility Australia",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Siemens Mobility Australia [page]"
   ],
@@ -3810,7 +3840,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -4011,7 +4041,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -4019,14 +4049,15 @@
   "title": "Automation / AI Intern for Blade Structural Design Process"
  },
  "60d905140e11": {
+  "closed_on": "2026-10-06",
   "company": "Nestle",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Nestle Youth Entrepreneurship Platform (YEP)"
  },
  "60f952844521": {
@@ -4101,14 +4132,15 @@
   "title": "Site Reliability Engineer Intern (Technical Infrastructure - BS/MS) - 2027 Start"
  },
  "6217993f9e69": {
+  "closed_on": "2026-10-06",
   "company": "Jane Street",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Quantitative Trader"
  },
  "6218888ef461": {
@@ -4208,7 +4240,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -4501,7 +4533,7 @@
   "company": "Siemens Mobility Australia",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Siemens Mobility Australia [page]"
   ],
@@ -4543,14 +4575,15 @@
   "title": "GHD Graduate Program 2026/27 – Brisbane – Graduate Structural Engineer"
  },
  "6df94952f368": {
+  "closed_on": "2026-10-06",
   "company": "Citadel Citadel Securities",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2026-2027 Software Engineering Internship"
  },
  "6ee3b62f9229": {
@@ -4604,7 +4637,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -4860,7 +4893,7 @@
   "company": "CSIRO Data61 Robotics & Autonomous Systems",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "CSIRO Data61 Robotics & Autonomous Systems [page]"
   ],
@@ -5140,7 +5173,7 @@
   "company": "Siemens Mobility Australia",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Siemens Mobility Australia [page]"
   ],
@@ -5208,14 +5241,15 @@
   "title": "Software Development Engineer 1 Intern"
  },
  "7f6e8838956c": {
+  "closed_on": "2026-10-06",
   "company": "Jane Street",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Linux Engineer"
  },
  "7fb901b4544b": {
@@ -5420,7 +5454,7 @@
   "company": "Five Rings",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Five Rings [page]"
   ],
@@ -5559,7 +5593,7 @@
   "company": "Five Rings",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Five Rings [page]"
   ],
@@ -5651,7 +5685,7 @@
   "company": "AARNet",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "AARNet [page]",
    "APR.Intern (Australian Postgraduate Research Internships) [page]"
@@ -6035,14 +6069,15 @@
   "title": "Notify Me - Linfox Internships"
  },
  "922727d0f203": {
+  "closed_on": "2026-10-06",
   "company": "Citadel Citadel Securities",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2026-2027 Quantitative Research Analyst Internship"
  },
  "9296ef459a81": {
@@ -6436,7 +6471,7 @@
   "company": "Arup",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Arup [page]"
   ],
@@ -6670,7 +6705,7 @@
   "company": "Subsea7",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Subsea7 [page]"
   ],
@@ -6750,7 +6785,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -6892,7 +6927,7 @@
   "company": "Arup",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Arup [page]"
   ],
@@ -6939,7 +6974,7 @@
   "company": "BDO",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7181,14 +7216,15 @@
   "title": "Backend Engineer Intern (TikTok LIVE) - 2027 Start (BS/MS)"
  },
  "ae283f869e1a": {
+  "closed_on": "2026-10-06",
   "company": "Rsm",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate - Corporate Finance - Transactions"
  },
  "aeb70233230e": {
@@ -7218,7 +7254,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -7241,7 +7277,7 @@
   "company": "Siemens Mobility Australia",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Siemens Mobility Australia [page]"
   ],
@@ -7440,7 +7476,7 @@
   "company": "CSIRO Space & Astronomy",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "CSIRO Space & Astronomy [page]"
   ],
@@ -7875,7 +7911,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -8004,7 +8040,7 @@
   "company": "Arup",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Arup [page]"
   ],
@@ -8153,7 +8189,7 @@
   "company": "Macquarie University (MQ Photonics, Astronomy, AAO vacation scholarships)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Macquarie University (MQ Photonics, Astronomy, AAO vacation scholarships) [page]"
   ],
@@ -8313,14 +8349,15 @@
   "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program, Microelectronics R&D Intern"
  },
  "cd134209635b": {
+  "closed_on": "2026-10-06",
   "company": "Jane Street",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Trading Desk Operations Engineer"
  },
  "cdaf4602b7b1": {
@@ -8363,7 +8400,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -8422,7 +8459,7 @@
   "company": "Arup",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Arup [page]"
   ],
@@ -8797,7 +8834,7 @@
   "company": "Siemens Mobility Australia",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Siemens Mobility Australia [page]"
   ],
@@ -8855,7 +8892,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -8971,7 +9008,7 @@
   "company": "Arup",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Arup [page]"
   ],
@@ -9051,7 +9088,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -9070,14 +9107,15 @@
   "title": "GHD Graduate Program 2026/27 – Brisbane – Graduate Geotechnical Engineer"
  },
  "e1a4d15b8966": {
+  "closed_on": "2026-10-06",
   "company": "Jane Street",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Cybersecurity Engineer - Security Operations Center (SOC): 2027 Summer Internship"
  },
  "e1e31f0062cc": {
@@ -9174,14 +9212,15 @@
   "title": "Revenue Product Operations Intern (TikTok LIVE-Revenue) - 2027 Start"
  },
  "e30078cbd260": {
+  "closed_on": "2026-10-06",
   "company": "Jane Street",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Quantitative Researcher"
  },
  "e3a3c5ed0dc4": {
@@ -9792,7 +9831,7 @@
   "company": "Arup",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Arup [page]"
   ],
@@ -9918,14 +9957,15 @@
   "title": "University Internship (final-year students, unpaid)"
  },
  "f5803255776b": {
+  "closed_on": "2026-10-06",
   "company": "Citadel Citadel Securities",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2026-2027 Quantitative Trading Internship"
  },
  "f581c4ab4c10": {
@@ -10051,7 +10091,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],
@@ -10109,7 +10149,7 @@
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
   ],

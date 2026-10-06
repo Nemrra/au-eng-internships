@@ -1,5 +1,5 @@
 {
- "count": 299,
+ "count": 263,
  "jobs": [
   {
    "apply_url": null,
@@ -1213,57 +1213,6 @@
    "url": "https://www.optiver.com/join-us/jobs/8450287002/?gh_jid=8450287002"
   },
   {
-   "apply_url": null,
-   "base_score": 82,
-   "closes": null,
-   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
-   "disciplines": [
-    "Controls/Automation",
-    "ML/AI/Data",
-    "Mechanical"
-   ],
-   "employer_id": "siemens-energy-grid-technologies-grid-solutions",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "603cca685f70",
-   "key": "siemens energy grid technologies grid solutions|automation ai intern for blade structural design process",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Automation-AI-Intern-for-Blade-Structural-Design-Process/302765"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [
-    "grid-tech",
-    "hvdc",
-    "transformers",
-    "switchgear",
-    "statcom"
-   ],
-   "snippet": "",
-   "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Automation / AI Intern for Blade Structural Design Process",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Automation-AI-Intern-for-Blade-Structural-Design-Process/302765"
-  },
-  {
    "base_score": 81,
    "closes": null,
    "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
@@ -1834,53 +1783,6 @@
   },
   {
    "apply_url": null,
-   "base_score": 75,
-   "closes": null,
-   "company": "Siemens Mobility Australia",
-   "disciplines": [
-    "Controls/Automation"
-   ],
-   "employer_id": "siemens-mobility-australia",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "da5f70991050",
-   "key": "siemens mobility|project controls scheduling internship rolling stock summer2027",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Siemens Mobility Australia [page]",
-     "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/519904"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "summer",
-   "salary": null,
-   "sectors": [
-    "rail",
-    "signalling",
-    "automation"
-   ],
-   "snippet": "",
-   "source": "Siemens Mobility Australia [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Siemens Mobility Australia [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Project Controls - Scheduling Internship- Rolling Stock (Summer2027)",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/519904"
-  },
-  {
-   "apply_url": null,
    "base_score": 73,
    "closes": null,
    "company": "SEEK (Tech)",
@@ -1992,105 +1894,6 @@
    ],
    "title": "Intern - Engineering",
    "url": "https://au.talent.com/view?id=639278262972386420"
-  },
-  {
-   "apply_url": null,
-   "base_score": 73,
-   "closes": null,
-   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
-   "disciplines": [
-    "Software",
-    "Systems/Integration"
-   ],
-   "employer_id": "siemens-energy-grid-technologies-grid-solutions",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "2867f2023d6a",
-   "key": "siemens energy grid technologies grid solutions|intern turbine software system validation",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Intern-Turbine-Software-System-Validation/303402"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [
-    "grid-tech",
-    "hvdc",
-    "transformers",
-    "switchgear",
-    "statcom"
-   ],
-   "snippet": "",
-   "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Intern - Turbine Software System Validation",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Intern-Turbine-Software-System-Validation/303402"
-  },
-  {
-   "apply_url": null,
-   "base_score": 73,
-   "closes": null,
-   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
-   "disciplines": [
-    "Power/Energy"
-   ],
-   "employer_id": "siemens-energy-grid-technologies-grid-solutions",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "f9caa933757d",
-   "key": "siemens energy grid technologies grid solutions|siemens energy finance excellence summer intern p",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Siemens-Energy-Finance-Excellence-Summer-Intern-P/302991"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "summer",
-   "salary": null,
-   "sectors": [
-    "grid-tech",
-    "hvdc",
-    "transformers",
-    "switchgear",
-    "statcom"
-   ],
-   "snippet": "",
-   "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Siemens Energy Finance Excellence Summer Intern (P)",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Siemens-Energy-Finance-Excellence-Summer-Intern-P/302991"
   },
   {
    "base_score": 72,
@@ -2555,7 +2358,6 @@
    "employment_type": null,
    "first_seen": "2026-10-06",
    "flags": [
-    "from-careers-page",
     "manual"
    ],
    "id": "44206f155820",
@@ -2565,10 +2367,6 @@
     {
      "source": "Claude web sweep",
      "url": "https://www.seek.com.au/job/86608699"
-    },
-    {
-     "source": "Inovor Technologies [page]",
-     "url": "https://www.seek.com.au/job/86608699?ref=search-standalone&type=standard&origin=jobTitle#sol=f1e20eb05ab9ff9f6c05c6e9a62471f2bbaedda0"
     }
    ],
    "location": "Adelaide SA",
@@ -2589,8 +2387,7 @@
    "source_kind": "manual",
    "source_type": "research 2026-10-06",
    "sources": [
-    "Claude web sweep",
-    "Inovor Technologies [page]"
+    "Claude web sweep"
    ],
    "start_date": null,
    "states": [
@@ -2912,60 +2709,6 @@
    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Melbourne-Victoria-Australia/Cadet-Drafter_R2130825"
   },
   {
-   "apply_url": null,
-   "base_score": 67,
-   "closes": null,
-   "company": "CSIRO Space & Astronomy",
-   "disciplines": [
-    "Research"
-   ],
-   "employer_id": "csiro-space-astronomy",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "b6c878d62e0f",
-   "key": "csiro space astronomy|undergraduate studentship symposium",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "CSIRO Space & Astronomy [page]",
-     "url": "https://www.atnf.csiro.au/about-atnf/students-careers/summer-vacation/2024-2025-undergraduate-studentship-symposium/"
-    },
-    {
-     "source": "CSIRO Space & Astronomy [page]",
-     "url": "https://www.atnf.csiro.au/about-atnf/students-careers/summer-vacation/2025-2026-undergraduate-studentship-symposium/"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "vacation-research",
-   "salary": null,
-   "sectors": [
-    "space",
-    "radio-astronomy",
-    "spacecraft-tracking",
-    "research",
-    "rf-electronics",
-    "signal-processing"
-   ],
-   "snippet": "",
-   "source": "CSIRO Space & Astronomy [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "CSIRO Space & Astronomy [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "2024-2025 Undergraduate Studentship Symposium",
-   "url": "https://www.atnf.csiro.au/about-atnf/students-careers/summer-vacation/2024-2025-undergraduate-studentship-symposium/"
-  },
-  {
    "base_score": 66,
    "closes": "2026-11-07",
    "company": "Lucid Consulting Australia",
@@ -3085,101 +2828,6 @@
    ],
    "title": "2026-2027 Software Engineering Internship",
    "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2026-2027-software-engineering-internship-51/"
-  },
-  {
-   "apply_url": null,
-   "base_score": 66,
-   "closes": null,
-   "company": "Siemens Mobility Australia",
-   "disciplines": [
-    "Mechanical"
-   ],
-   "employer_id": "siemens-mobility-australia",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "4fa6fd7be442",
-   "key": "siemens mobility|project management office internship rail infrastructure summer",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Siemens Mobility Australia [page]",
-     "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/520702"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "summer",
-   "salary": null,
-   "sectors": [
-    "rail",
-    "signalling",
-    "automation"
-   ],
-   "snippet": "",
-   "source": "Siemens Mobility Australia [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Siemens Mobility Australia [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Project Management Office Internship- Rail Infrastructure(Summer 2027)",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/520702"
-  },
-  {
-   "apply_url": null,
-   "base_score": 66,
-   "closes": null,
-   "company": "UNSW Sydney - Taste of Research (Engineering) + CQC2T/SQC hub",
-   "disciplines": [
-    "Research"
-   ],
-   "employer_id": "unsw-sydney-taste-of-research-engineering-cqc2t-sqc-hub",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "4d95db9c8829",
-   "key": "unsw sydney taste of research engineering cqc2t sqc hub|undergraduate research opportunities",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "UNSW Sydney - Taste of Research (Engineering) + CQC2T/SQC hub [page]",
-     "url": "https://www.unsw.edu.au/engineering/student-life/undergraduate-research-opportunities"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [
-    "university",
-    "research",
-    "engineering",
-    "quantum"
-   ],
-   "snippet": "",
-   "source": "UNSW Sydney - Taste of Research (Engineering) + CQC2T/SQC hub [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "UNSW Sydney - Taste of Research (Engineering) + CQC2T/SQC hub [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Undergraduate research opportunities",
-   "url": "https://www.unsw.edu.au/engineering/student-life/undergraduate-research-opportunities"
   },
   {
    "apply_url": null,
@@ -3318,149 +2966,6 @@
    ],
    "title": "2027 Applied Science Intern (Machine Learning, Recommender Systems), Amazon International Machine Learning",
    "url": "https://www.amazon.jobs/en/jobs/10456239/2027-applied-science-intern-machine-learning-recommender-systems-amazon-international-machine-learning"
-  },
-  {
-   "apply_url": null,
-   "base_score": 65,
-   "closes": null,
-   "company": "Siemens Mobility Australia",
-   "disciplines": [],
-   "employer_id": "siemens-mobility-australia",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "6d62791b1475",
-   "key": "siemens mobility|project management internship rail traction components summer",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Siemens Mobility Australia [page]",
-     "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/520281"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "summer",
-   "salary": null,
-   "sectors": [
-    "rail",
-    "signalling",
-    "automation"
-   ],
-   "snippet": "",
-   "source": "Siemens Mobility Australia [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Siemens Mobility Australia [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Project Management Internship- Rail Traction Components (Summer 2027)",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/520281"
-  },
-  {
-   "apply_url": null,
-   "base_score": 65,
-   "closes": null,
-   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
-   "disciplines": [
-    "Software"
-   ],
-   "employer_id": "siemens-energy-grid-technologies-grid-solutions",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "af6e3c66bf27",
-   "key": "siemens energy grid technologies grid solutions|intern software development and testing",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Intern-Software-Development-and-Testing/303119"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [
-    "grid-tech",
-    "hvdc",
-    "transformers",
-    "switchgear",
-    "statcom"
-   ],
-   "snippet": "",
-   "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Intern – Software Development and Testing",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Intern-Software-Development-and-Testing/303119"
-  },
-  {
-   "apply_url": null,
-   "base_score": 65,
-   "closes": null,
-   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
-   "disciplines": [
-    "Software"
-   ],
-   "employer_id": "siemens-energy-grid-technologies-grid-solutions",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "e15b598b5b92",
-   "key": "siemens energy grid technologies grid solutions|business intelligence developer intern",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Business-Intelligence-Developer-Intern/300838"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [
-    "grid-tech",
-    "hvdc",
-    "transformers",
-    "switchgear",
-    "statcom"
-   ],
-   "snippet": "",
-   "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Business Intelligence Developer Intern",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Business-Intelligence-Developer-Intern/300838"
   },
   {
    "apply_url": "https://lifeattiktok.com/search/7661873663853349125",
@@ -3801,55 +3306,6 @@
   },
   {
    "apply_url": null,
-   "base_score": 62,
-   "closes": null,
-   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
-   "disciplines": [
-    "Manufacturing/Quality"
-   ],
-   "employer_id": "siemens-energy-grid-technologies-grid-solutions",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "2355c90654a9",
-   "key": "siemens energy grid technologies grid solutions|operations quality intern",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Operations-Quality-Intern/304697"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [
-    "grid-tech",
-    "hvdc",
-    "transformers",
-    "switchgear",
-    "statcom"
-   ],
-   "snippet": "",
-   "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Operations Quality Intern",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Operations-Quality-Intern/304697"
-  },
-  {
-   "apply_url": null,
    "base_score": 61,
    "closes": null,
    "company": "Rockwell Automation Australia",
@@ -4067,7 +3523,7 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2027-quantitative-trading-full-time-87/"
+     "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2027-quantitative-trading-full-time-85/"
     }
    ],
    "location": "Sydney",
@@ -4097,433 +3553,6 @@
    ],
    "title": "2027 Quantitative Trading Full Time",
    "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2027-quantitative-trading-full-time-79/"
-  },
-  {
-   "apply_url": null,
-   "base_score": 61,
-   "closes": null,
-   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
-   "disciplines": [],
-   "employer_id": "siemens-energy-grid-technologies-grid-solutions",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "c24c21ac9a77",
-   "key": "siemens energy grid technologies grid solutions|student and graduate jobs",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-     "url": "https://jobs.siemens-energy.com/en_US/jobs/SearchJobsStudents"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [
-    "grid-tech",
-    "hvdc",
-    "transformers",
-    "switchgear",
-    "statcom"
-   ],
-   "snippet": "",
-   "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Student and Graduate Opportunity Jobs",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/SearchJobsStudents"
-  },
-  {
-   "apply_url": null,
-   "base_score": 61,
-   "closes": null,
-   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
-   "disciplines": [],
-   "employer_id": "siemens-energy-grid-technologies-grid-solutions",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "2ced425839c6",
-   "key": "siemens energy grid technologies grid solutions|data analyst intern real estate",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Data-Analyst-Intern-Real-Estate/301766"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [
-    "grid-tech",
-    "hvdc",
-    "transformers",
-    "switchgear",
-    "statcom"
-   ],
-   "snippet": "",
-   "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Data Analyst Intern - Real Estate",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Data-Analyst-Intern-Real-Estate/301766"
-  },
-  {
-   "apply_url": null,
-   "base_score": 61,
-   "closes": null,
-   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
-   "disciplines": [],
-   "employer_id": "siemens-energy-grid-technologies-grid-solutions",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "dd3e49567309",
-   "key": "siemens energy grid technologies grid solutions|internship business partner master data services",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Internship-Business-Partner-Master-Data-Services/304073"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [
-    "grid-tech",
-    "hvdc",
-    "transformers",
-    "switchgear",
-    "statcom"
-   ],
-   "snippet": "",
-   "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Internship Business Partner Master Data Services",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Internship-Business-Partner-Master-Data-Services/304073"
-  },
-  {
-   "apply_url": null,
-   "base_score": 61,
-   "closes": null,
-   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
-   "disciplines": [],
-   "employer_id": "siemens-energy-grid-technologies-grid-solutions",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "ce68d76b4240",
-   "key": "siemens energy grid technologies grid solutions|hr intern",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/HR-Intern/303469"
-    },
-    {
-     "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/HR-Intern/303161"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [
-    "grid-tech",
-    "hvdc",
-    "transformers",
-    "switchgear",
-    "statcom"
-   ],
-   "snippet": "",
-   "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "HR Intern",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/HR-Intern/303469"
-  },
-  {
-   "apply_url": null,
-   "base_score": 61,
-   "closes": null,
-   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
-   "disciplines": [],
-   "employer_id": "siemens-energy-grid-technologies-grid-solutions",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "5a74b028e3ab",
-   "key": "siemens energy grid technologies grid solutions|engineering graduate internship",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Engineering-Graduate-Internship-Program/303122"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [
-    "grid-tech",
-    "hvdc",
-    "transformers",
-    "switchgear",
-    "statcom"
-   ],
-   "snippet": "",
-   "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Engineering Graduate Internship Program",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Engineering-Graduate-Internship-Program/303122"
-  },
-  {
-   "apply_url": null,
-   "base_score": 61,
-   "closes": null,
-   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
-   "disciplines": [],
-   "employer_id": "siemens-energy-grid-technologies-grid-solutions",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "a453a2876a65",
-   "key": "siemens energy grid technologies grid solutions|talent acquisition coordinator intern",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Talent-Acquisition-Coordinator-Intern/303498"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [
-    "grid-tech",
-    "hvdc",
-    "transformers",
-    "switchgear",
-    "statcom"
-   ],
-   "snippet": "",
-   "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Talent Acquisition Coordinator - Intern",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Talent-Acquisition-Coordinator-Intern/303498"
-  },
-  {
-   "apply_url": null,
-   "base_score": 61,
-   "closes": null,
-   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
-   "disciplines": [],
-   "employer_id": "siemens-energy-grid-technologies-grid-solutions",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "63feebf25daa",
-   "key": "siemens energy grid technologies grid solutions|communications intern",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Communications-Intern/304524"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [
-    "grid-tech",
-    "hvdc",
-    "transformers",
-    "switchgear",
-    "statcom"
-   ],
-   "snippet": "",
-   "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Communications Intern",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Communications-Intern/304524"
-  },
-  {
-   "apply_url": null,
-   "base_score": 61,
-   "closes": null,
-   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
-   "disciplines": [],
-   "employer_id": "siemens-energy-grid-technologies-grid-solutions",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "6fbb2a0fae21",
-   "key": "siemens energy grid technologies grid solutions|intern blades process digitalization power bi analyst",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Intern-Blades-Process-Digitalization-Power-BI-Analyst/304089"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [
-    "grid-tech",
-    "hvdc",
-    "transformers",
-    "switchgear",
-    "statcom"
-   ],
-   "snippet": "",
-   "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Intern – Blades Process Digitalization & Power BI Analyst",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Intern-Blades-Process-Digitalization-Power-BI-Analyst/304089"
-  },
-  {
-   "apply_url": null,
-   "base_score": 61,
-   "closes": null,
-   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
-   "disciplines": [],
-   "employer_id": "siemens-energy-grid-technologies-grid-solutions",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "fc8a83b54b66",
-   "key": "siemens energy grid technologies grid solutions|recruitment intern with german",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Recruitment-Intern-with-German/302804"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "core",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [
-    "grid-tech",
-    "hvdc",
-    "transformers",
-    "switchgear",
-    "statcom"
-   ],
-   "snippet": "",
-   "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Siemens Energy (Grid Technologies / Grid Solutions) [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Recruitment Intern with German",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Recruitment-Intern-with-German/302804"
   },
   {
    "apply_url": null,
@@ -4775,11 +3804,11 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-research-internship-phd-9/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-research-internship-phd-8/"
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-research-internship-phd-8/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-research-internship-phd-9/"
     }
    ],
    "location": "Sydney",
@@ -5339,11 +4368,11 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-systematic-trader-phd-2026-9/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-systematic-trader-phd-2026-7/"
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-systematic-trader-phd-2026-7/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-systematic-trader-phd-2026-9/"
     }
    ],
    "location": "Sydney",
@@ -5390,11 +4419,11 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-systematic-trader-honours-and-masters-2026-6/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-systematic-trader-honours-and-masters-2026-7/"
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-systematic-trader-honours-and-masters-2026-7/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-systematic-trader-honours-and-masters-2026-6/"
     }
    ],
    "location": "Sydney",
@@ -5591,54 +4620,6 @@
    "url": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Australia---Docklands/XMLNAME-2027-Future-Talent-Scholarship-Programme--First-Nations----Australia_RQ108887-2"
   },
   {
-   "apply_url": null,
-   "base_score": 53,
-   "closes": null,
-   "company": "CSIRO Data61 Robotics & Autonomous Systems",
-   "disciplines": [
-    "Networks/Cyber",
-    "Research"
-   ],
-   "employer_id": "csiro-data61-robotics-autonomous-systems",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "755f0d014243",
-   "key": "csiro data61 robotics autonomous systems|david irvine scholarship this aims to create real world solutions for pressing cyber security challenges and develop research with impact",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "CSIRO Data61 Robotics & Autonomous Systems [page]",
-     "url": "https://www.csiro.au/en/careers/Scholarships-student-opportunities/Postgraduate-programs-and-Scholarships/David-Irvine-Scholarship"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "adjacent",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [
-    "field robotics research",
-    "autonomy",
-    "SLAM (Wildcat)"
-   ],
-   "snippet": "",
-   "source": "CSIRO Data61 Robotics & Autonomous Systems [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "CSIRO Data61 Robotics & Autonomous Systems [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "David Irvine Scholarship Program This program aims to create real-world solutions for pressing cyber security challenges and develop research with impact.",
-   "url": "https://www.csiro.au/en/careers/Scholarships-student-opportunities/Postgraduate-programs-and-Scholarships/David-Irvine-Scholarship"
-  },
-  {
    "apply_url": "https://lifeattiktok.com/search/7658162714448054581",
    "base_score": 52,
    "closes": "2026-10-30",
@@ -5683,54 +4664,6 @@
    ],
    "title": "Site Reliability Engineer Intern (Technical Infrastructure - BS/MS) - 2027 Start",
    "url": "https://au.gradconnection.com/employers/tiktok/jobs/tiktok-site-reliability-engineer-intern-technical-infrastructure-2027-start-bsms-2/"
-  },
-  {
-   "apply_url": null,
-   "base_score": 52,
-   "closes": null,
-   "company": "Macquarie University (MQ Photonics, Astronomy, AAO vacation scholarships)",
-   "disciplines": [
-    "Research"
-   ],
-   "employer_id": "macquarie-university-mq-photonics-astronomy-aao-vacation-sch",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "c8a964bd3694",
-   "key": "macquarie university mq photonics astronomy aao vacation scholarships|equs summer research",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Macquarie University (MQ Photonics, Astronomy, AAO vacation scholarships) [page]",
-     "url": "https://equs.org/opportunities/summer-research-program-2021-22"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "adjacent",
-   "role_type": "vacation-research",
-   "salary": null,
-   "sectors": [
-    "university",
-    "research",
-    "photonics",
-    "astronomy-instrumentation"
-   ],
-   "snippet": "",
-   "source": "Macquarie University (MQ Photonics, Astronomy, AAO vacation scholarships) [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Macquarie University (MQ Photonics, Astronomy, AAO vacation scholarships) [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "EQUS Summer Research Program 2021-2022",
-   "url": "https://equs.org/opportunities/summer-research-program-2021-22"
   },
   {
    "apply_url": null,
@@ -8577,52 +7510,6 @@
    "url": "https://au.gradconnection.com/employers/allens/jobs/allens-2026-first-nations-internship-program-2-2/"
   },
   {
-   "apply_url": null,
-   "base_score": 46,
-   "closes": null,
-   "company": "AARNet",
-   "disciplines": [],
-   "employer_id": "aarnet",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "8bae8a53df09",
-   "key": "aarnet|student application process",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "AARNet [page]",
-     "url": "https://aprintern.org.au/apply-now/"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "adjacent",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [
-    "networks",
-    "telecommunications",
-    "research"
-   ],
-   "snippet": "",
-   "source": "AARNet [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "AARNet [page]",
-    "APR.Intern (Australian Postgraduate Research Internships) [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Student Application Process",
-   "url": "https://aprintern.org.au/apply-now/"
-  },
-  {
    "apply_url": "https://careers.gamuda.com.my/job/2027-DT-Infrastructure-Undergraduate-Opportunities-Engineering/12603-en_GB/",
    "base_score": 45,
    "closes": "2026-10-24",
@@ -8698,11 +7585,11 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-researcher-honours-and-masters-2026-7/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-researcher-honours-and-masters-2026-8/"
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-researcher-honours-and-masters-2026-8/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-researcher-honours-and-masters-2026-7/"
     }
    ],
    "location": "Sydney",
@@ -9274,62 +8161,6 @@
   },
   {
    "apply_url": null,
-   "base_score": 42,
-   "closes": null,
-   "company": "Arup",
-   "disciplines": [
-    "Electrical"
-   ],
-   "employer_id": "arup",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "df7cf6252e4e",
-   "key": "arup|graduate electrical engineer intake",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Arup [page]",
-     "url": "https://jobs.arup.com/jobs/graduate-electrical-engineer-2027-intake-35246"
-    },
-    {
-     "source": "Arup [page]",
-     "url": "https://jobs.arup.com/jobs/graduate-electrical-engineer-2027-intake-35233"
-    },
-    {
-     "source": "Arup [page]",
-     "url": "https://jobs.arup.com/jobs/graduate-electrical-engineer-2027-intake-35234"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [
-    "engineering-consulting",
-    "power-systems",
-    "buildings",
-    "infrastructure"
-   ],
-   "snippet": "",
-   "source": "Arup [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Arup [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Graduate Electrical Engineer (2027 Intake)",
-   "url": "https://jobs.arup.com/jobs/graduate-electrical-engineer-2027-intake-35246"
-  },
-  {
-   "apply_url": null,
    "base_score": 41,
    "closes": null,
    "company": "Aurecon",
@@ -9418,53 +8249,6 @@
    ],
    "title": "Graduate Static Equipment and Structures Engineer",
    "url": "https://au.gradconnection.com/employers/wood/jobs/wood-graduate-static-equipment-and-structures-engineer-2/"
-  },
-  {
-   "apply_url": null,
-   "base_score": 41,
-   "closes": null,
-   "company": "Five Rings",
-   "disciplines": [
-    "Quant/Trading",
-    "Research"
-   ],
-   "employer_id": "five-rings",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "0521bacf1855",
-   "key": "five rings|summer intern quantitative researcher phd",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Five Rings [page]",
-     "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "deprioritised",
-   "role_type": "summer",
-   "salary": null,
-   "sectors": [
-    "quant-trading",
-    "software"
-   ],
-   "snippet": "",
-   "source": "Five Rings [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Five Rings [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Summer Intern 2027 - Quantitative Researcher (PhD)",
-   "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008"
   },
   {
    "apply_url": "https://www.livehire.com/job/zinfra/T9C43",
@@ -9722,6 +8506,104 @@
    ],
    "title": "Technical Analyst Graduate Program",
    "url": "https://au.gradconnection.com/employers/fdm-group/jobs/fdm-group-technical-analyst-graduate-program-14-2-2-2/"
+  },
+  {
+   "apply_url": "https://careers.sig.com/jobs/9694/Graduate-Equity-Analyst-2027",
+   "base_score": 37,
+   "closes": "2026-10-30",
+   "company": "Susquehanna International Group",
+   "disciplines": [
+    "Research"
+   ],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "22ef9aedc9ea",
+   "key": "susquehanna international group|graduate equity analyst",
+   "last_seen": "2026-10-06",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-graduate-equity-analyst-2027-8/"
+    },
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-graduate-equity-analyst-2027-10/"
+    },
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-graduate-equity-analyst-2027-9/"
+    }
+   ],
+   "location": "Sydney",
+   "posted": "2026-10-01",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Susquehanna is looking for final year students or recent graduates who are passionate about the financial markets and event driven research to join our 2027 Equity Analyst Graduate Program.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW"
+   ],
+   "title": "Graduate Equity Analyst: 2027",
+   "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-graduate-equity-analyst-2027-8/"
+  },
+  {
+   "apply_url": "https://careers.sig.com/jobs/9696/Graduate-Macro-Analyst-2027",
+   "base_score": 37,
+   "closes": "2026-10-30",
+   "company": "Susquehanna International Group",
+   "disciplines": [
+    "Research"
+   ],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "2d0d9d305d5f",
+   "key": "susquehanna international group|graduate macro analyst",
+   "last_seen": "2026-10-06",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-graduate-macro-analyst-2027-7/"
+    },
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-graduate-macro-analyst-2027-8/"
+    },
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-graduate-macro-analyst-2027-9/"
+    }
+   ],
+   "location": "Sydney",
+   "posted": "2026-10-01",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Susquehanna is looking for final year students or recent graduates who are passionate about the financial markets and event driven research to join our 2027 Macro Analyst Graduate Program.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW"
+   ],
+   "title": "Graduate Macro Analyst: 2027",
+   "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-graduate-macro-analyst-2027-7/"
   },
   {
    "apply_url": "https://www.mako.com/opportunities/job-listing/8654613002?gh_jid=8654613002",
@@ -10231,144 +9113,6 @@
    "url": "https://au.gradconnection.com/employers/fdm-group/jobs/fdm-group-project-grace-software-development-graduate-program-australia-3-3/"
   },
   {
-   "apply_url": null,
-   "base_score": 36,
-   "closes": null,
-   "company": "Five Rings",
-   "disciplines": [
-    "Quant/Trading"
-   ],
-   "employer_id": "five-rings",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "83e704658c13",
-   "key": "five rings|summer trading operations engineer intern",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Five Rings [page]",
-     "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "deprioritised",
-   "role_type": "summer",
-   "salary": null,
-   "sectors": [
-    "quant-trading",
-    "software"
-   ],
-   "snippet": "",
-   "source": "Five Rings [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Five Rings [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Summer 2027 - Trading Operations Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008"
-  },
-  {
-   "apply_url": null,
-   "base_score": 36,
-   "closes": null,
-   "company": "Five Rings",
-   "disciplines": [
-    "Quant/Trading"
-   ],
-   "employer_id": "five-rings",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "89a4737e36a6",
-   "key": "five rings|summer intern quantitative trader",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Five Rings [page]",
-     "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "deprioritised",
-   "role_type": "summer",
-   "salary": null,
-   "sectors": [
-    "quant-trading",
-    "software"
-   ],
-   "snippet": "",
-   "source": "Five Rings [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Five Rings [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Summer Intern 2027 - Quantitative Trader",
-   "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008"
-  },
-  {
-   "apply_url": null,
-   "base_score": 36,
-   "closes": null,
-   "company": "Five Rings",
-   "disciplines": [
-    "Software"
-   ],
-   "employer_id": "five-rings",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "47b4c0f9f816",
-   "key": "five rings|summer intern software developer",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Five Rings [page]",
-     "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "deprioritised",
-   "role_type": "summer",
-   "salary": null,
-   "sectors": [
-    "quant-trading",
-    "software"
-   ],
-   "snippet": "",
-   "source": "Five Rings [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Five Rings [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Summer Intern 2027 - Software Developer",
-   "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008"
-  },
-  {
    "apply_url": "https://www.careersatcouncil.com.au/job/cadet-engineer-20260430/",
    "base_score": 35,
    "closes": "2026-10-11",
@@ -10811,58 +9555,6 @@
    ],
    "title": "2027 DT Infrastructure Graduate Program - Health, Safety, Environment & Sustainability",
    "url": "https://au.gradconnection.com/employers/dt-infrastructure/jobs/dt-infrastructure-2027-dt-infrastructure-graduate-program-health-safety-environment-sustainability/"
-  },
-  {
-   "apply_url": null,
-   "base_score": 33,
-   "closes": null,
-   "company": "Arup",
-   "disciplines": [
-    "Mechanical"
-   ],
-   "employer_id": "arup",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "c3ea52fef743",
-   "key": "arup|graduate mechanical engineer intake",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Arup [page]",
-     "url": "https://jobs.arup.com/jobs/graduate-mechanical-engineer-2027-intake-35257"
-    },
-    {
-     "source": "Arup [page]",
-     "url": "https://jobs.arup.com/jobs/graduate-mechanical-engineer-2027-intake-35232"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [
-    "engineering-consulting",
-    "power-systems",
-    "buildings",
-    "infrastructure"
-   ],
-   "snippet": "",
-   "source": "Arup [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Arup [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Graduate Mechanical Engineer (2027 Intake)",
-   "url": "https://jobs.arup.com/jobs/graduate-mechanical-engineer-2027-intake-35257"
   },
   {
    "base_score": 32,
@@ -12008,70 +10700,31 @@
    "url": "https://au.gradconnection.com/employers/kpmg/jobs/kpmg-2027-kpmg-graduate-program-actuarial-rolling-intake/"
   },
   {
-   "apply_url": "https://careers.afp.gov.au/job-invite/15886/",
+   "apply_url": "https://www.vic.gov.au/victorian-government-graduate-program",
    "base_score": 32,
-   "closes": "2027-02-28",
-   "company": "Australian Federal Police",
+   "closes": "2027-01-01",
+   "company": "Victorian Government",
    "disciplines": [],
    "employer_id": null,
    "employment_type": "Graduate Jobs",
    "first_seen": "2026-10-06",
    "flags": [],
-   "id": "b3d60303d269",
-   "key": "australian federal police|register of interest afp graduate",
+   "id": "f581c4ab4c10",
+   "key": "victorian government|expression of interest victorian government graduate",
    "last_seen": "2026-10-06",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/australian-federal-police/jobs/australian-federal-police-register-of-interest-2028-afp-graduate-program/"
+     "url": "https://au.gradconnection.com/employers/the-victorian-state-government/jobs/victorian-government-expression-of-interest-victorian-government-graduate-program-2028/"
     }
    ],
-   "location": "Canberra",
-   "posted": "2026-04-20",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": "{'min_salary': '70,000', 'max_salary': '70,000', 'details': '$77,264k + 15.4% Superannuation'}",
-   "sectors": [],
-   "snippet": "If you're an upcoming or recent tertiary graduate, join an agency that challenges you, supports your growth, and empowers you to make a difference.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "ACT"
-   ],
-   "title": "Register of Interest - 2028 AFP Graduate Program",
-   "url": "https://au.gradconnection.com/employers/australian-federal-police/jobs/australian-federal-police-register-of-interest-2028-afp-graduate-program/"
-  },
-  {
-   "apply_url": "https://bdoau.wd105.myworkdayjobs.com/BDOEarlyCareers/job/Brisbane-Queensland/Accounting-High-School-Leaver-Program-2027---CA-Fundamentals-Pathway_JR103620",
-   "base_score": 32,
-   "closes": "2026-10-18",
-   "company": "BDO",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "84ea7a9f7827",
-   "key": "bdo|high school leaver",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-high-school-leaver-program-2027-2/"
-    }
-   ],
-   "location": "Adelaide | Brisbane | Melbourne | Perth | Sydney",
-   "posted": "2026-09-28",
+   "location": "Melbourne",
+   "posted": "2026-05-25",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
    "sectors": [],
-   "snippet": "Graduated from High School in the Last 3 Years? Kick-Start Your Career with BDO's High School Leavers Program in 2027!",
+   "snippet": "Start your career with work that makes a difference for the Victorian community.",
    "source": "GradConnection (SEEK Grad) [gradconnection]",
    "source_kind": "aggregator",
    "source_type": "gradconnection",
@@ -12080,58 +10733,10 @@
    ],
    "start_date": null,
    "states": [
-    "NSW",
-    "QLD",
-    "SA",
-    "VIC",
-    "WA"
+    "VIC"
    ],
-   "title": "High School Leaver Program 2027",
-   "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-high-school-leaver-program-2027-2/"
-  },
-  {
-   "apply_url": "www.bdhttps://bdoau.wd105.myworkdayjobs.com/en-GB/BDOEarlyCareers/details/Graduate-Program---Adelaide_JR102557o.com.au/en-au/about/early-careers",
-   "base_score": 32,
-   "closes": "2026-10-11",
-   "company": "BDO",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "a9213fc588ac",
-   "key": "bdo|graduate business services",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-graduate-program-business-services-10-2/"
-    },
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-graduate-program-business-services-11/"
-    }
-   ],
-   "location": "Adelaide",
-   "posted": "2026-09-21",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Graduating in 2026? Lock in a full-time graduate role with BDO! Be part of a graduate cohort, receive tailored learning & development, networking and mentoring opportunities in your first year.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "QLD",
-    "SA"
-   ],
-   "title": "Graduate Program - Business Services",
-   "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-graduate-program-business-services-10-2/"
+   "title": "Expression of interest – Victorian Government graduate program 2028",
+   "url": "https://au.gradconnection.com/employers/the-victorian-state-government/jobs/victorian-government-expression-of-interest-victorian-government-graduate-program-2028/"
   },
   {
    "apply_url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=24170",
@@ -12342,45 +10947,6 @@
    "url": "https://au.gradconnection.com/employers/ey/jobs/ey-2027-ey-graduate-program-actuarial-2-2/"
   },
   {
-   "apply_url": "https://www.vic.gov.au/victorian-government-graduate-program",
-   "base_score": 32,
-   "closes": "2027-01-01",
-   "company": "Victorian Government",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "f581c4ab4c10",
-   "key": "victorian government|expression of interest victorian government graduate",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/the-victorian-state-government/jobs/victorian-government-expression-of-interest-victorian-government-graduate-program-2028/"
-    }
-   ],
-   "location": "Melbourne",
-   "posted": "2026-05-25",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Start your career with work that makes a difference for the Victorian community.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "VIC"
-   ],
-   "title": "Expression of interest – Victorian Government graduate program 2028",
-   "url": "https://au.gradconnection.com/employers/the-victorian-state-government/jobs/victorian-government-expression-of-interest-victorian-government-graduate-program-2028/"
-  },
-  {
    "apply_url": "https://mainfreightaucareers.connxcareers.com/applicant/apply/64f1bba0d136494b8b1da04bdcce7aa1",
    "base_score": 32,
    "closes": "2026-10-23",
@@ -12422,6 +10988,88 @@
    ],
    "title": "Mainfreight Graduate Program",
    "url": "https://au.gradconnection.com/employers/mainfreight/jobs/mainfreight-mainfreight-graduate-program-77/"
+  },
+  {
+   "apply_url": "https://careers.afp.gov.au/job-invite/15886/",
+   "base_score": 32,
+   "closes": "2027-02-28",
+   "company": "Australian Federal Police",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "b3d60303d269",
+   "key": "australian federal police|register of interest afp graduate",
+   "last_seen": "2026-10-06",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/australian-federal-police/jobs/australian-federal-police-register-of-interest-2028-afp-graduate-program/"
+    }
+   ],
+   "location": "Canberra",
+   "posted": "2026-04-20",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": "{'min_salary': '70,000', 'max_salary': '70,000', 'details': '$77,264k + 15.4% Superannuation'}",
+   "sectors": [],
+   "snippet": "If you're an upcoming or recent tertiary graduate, join an agency that challenges you, supports your growth, and empowers you to make a difference.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "ACT"
+   ],
+   "title": "Register of Interest - 2028 AFP Graduate Program",
+   "url": "https://au.gradconnection.com/employers/australian-federal-police/jobs/australian-federal-police-register-of-interest-2028-afp-graduate-program/"
+  },
+  {
+   "apply_url": "https://bdoau.wd105.myworkdayjobs.com/BDOEarlyCareers/job/Brisbane-Queensland/Accounting-High-School-Leaver-Program-2027---CA-Fundamentals-Pathway_JR103620",
+   "base_score": 32,
+   "closes": "2026-10-18",
+   "company": "BDO",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "84ea7a9f7827",
+   "key": "bdo|high school leaver",
+   "last_seen": "2026-10-06",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-high-school-leaver-program-2027-2/"
+    }
+   ],
+   "location": "Adelaide | Brisbane | Melbourne | Perth | Sydney",
+   "posted": "2026-09-28",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Graduated from High School in the Last 3 Years? Kick-Start Your Career with BDO's High School Leavers Program in 2027!",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW",
+    "QLD",
+    "SA",
+    "VIC",
+    "WA"
+   ],
+   "title": "High School Leaver Program 2027",
+   "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-high-school-leaver-program-2027-2/"
   },
   {
    "apply_url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=24170",
@@ -12545,52 +11193,6 @@
    "url": "https://au.gradconnection.com/employers/macquarie-group/jobs/macquarie-group-2027-macquarie-graduate-program-science-spring-intake/"
   },
   {
-   "apply_url": null,
-   "base_score": 32,
-   "closes": null,
-   "company": "Arup",
-   "disciplines": [],
-   "employer_id": "arup",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "4400642314ef",
-   "key": "arup|graduate cae engineer intake",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Arup [page]",
-     "url": "https://jobs.arup.com/jobs/graduate-cae-engineer-2027-intake-35239"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [
-    "engineering-consulting",
-    "power-systems",
-    "buildings",
-    "infrastructure"
-   ],
-   "snippet": "",
-   "source": "Arup [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Arup [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Graduate CAE Engineer (2027 Intake)",
-   "url": "https://jobs.arup.com/jobs/graduate-cae-engineer-2027-intake-35239"
-  },
-  {
    "apply_url": "https://www.bhp.com/careers/graduate-student-programs/australia",
    "base_score": 31,
    "closes": "2027-02-28",
@@ -12689,55 +11291,6 @@
    "url": "https://studenthub.uq.edu.au/form.aspx?id=6356280"
   },
   {
-   "apply_url": null,
-   "base_score": 28,
-   "closes": null,
-   "company": "Arup",
-   "disciplines": [
-    "Aerospace/Space",
-    "Civil/Construction"
-   ],
-   "employer_id": "arup",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "d08cc6540a9f",
-   "key": "arup|graduate civil engineer aviation intake",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Arup [page]",
-     "url": "https://jobs.arup.com/jobs/graduate-civil-engineer-aviation-2027-intake-35242"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [
-    "engineering-consulting",
-    "power-systems",
-    "buildings",
-    "infrastructure"
-   ],
-   "snippet": "",
-   "source": "Arup [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Arup [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Graduate Civil Engineer (Aviation) (2027 Intake)",
-   "url": "https://jobs.arup.com/jobs/graduate-civil-engineer-aviation-2027-intake-35242"
-  },
-  {
    "apply_url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28423",
    "base_score": 21,
    "closes": "2026-10-17",
@@ -12788,63 +11341,6 @@
    ],
    "title": "GHD Graduate Program 2026/27 – Brisbane – Graduate Structural Engineer",
    "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28423"
-  },
-  {
-   "apply_url": null,
-   "base_score": 21,
-   "closes": null,
-   "company": "Arup",
-   "disciplines": [
-    "Civil/Construction",
-    "Mechanical"
-   ],
-   "employer_id": "arup",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "a7e42f78c1eb",
-   "key": "arup|graduate structural engineer intake",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Arup [page]",
-     "url": "https://jobs.arup.com/jobs/graduate-structural-engineer-2027-intake-35238"
-    },
-    {
-     "source": "Arup [page]",
-     "url": "https://jobs.arup.com/jobs/graduate-structural-engineer-2027-intake-35218"
-    },
-    {
-     "source": "Arup [page]",
-     "url": "https://jobs.arup.com/jobs/graduate-structural-engineer-2027-intake-35214"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [
-    "engineering-consulting",
-    "power-systems",
-    "buildings",
-    "infrastructure"
-   ],
-   "snippet": "",
-   "source": "Arup [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Arup [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Graduate Structural Engineer (2027 Intake)",
-   "url": "https://jobs.arup.com/jobs/graduate-structural-engineer-2027-intake-35238"
   },
   {
    "apply_url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28878/?utm_medium=jobshare&utm_source=External+Job+Share",
@@ -13041,106 +11537,6 @@
    "url": "https://au.gradconnection.com/employers/ghd/jobs/ghd-ghd-graduate-program-202627-brisbane-geotechnical-engineering/"
   },
   {
-   "apply_url": null,
-   "base_score": 20,
-   "closes": null,
-   "company": "Arup",
-   "disciplines": [
-    "Civil/Construction"
-   ],
-   "employer_id": "arup",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "9c7a191458d1",
-   "key": "arup|graduate civil engineer intake",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Arup [page]",
-     "url": "https://jobs.arup.com/jobs/graduate-civil-engineer-2027-intake-35248"
-    },
-    {
-     "source": "Arup [page]",
-     "url": "https://jobs.arup.com/jobs/graduate-civil-engineer-2027-intake-35241"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [
-    "engineering-consulting",
-    "power-systems",
-    "buildings",
-    "infrastructure"
-   ],
-   "snippet": "",
-   "source": "Arup [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Arup [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Graduate Civil Engineer (2027 Intake)",
-   "url": "https://jobs.arup.com/jobs/graduate-civil-engineer-2027-intake-35248"
-  },
-  {
-   "apply_url": null,
-   "base_score": 20,
-   "closes": null,
-   "company": "Arup",
-   "disciplines": [
-    "Civil/Construction"
-   ],
-   "employer_id": "arup",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "f2d74bcc4ae1",
-   "key": "arup|graduate geotechnical engineer intake",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Arup [page]",
-     "url": "https://jobs.arup.com/jobs/graduate-geotechnical-engineer-2027-intake-35258"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [
-    "engineering-consulting",
-    "power-systems",
-    "buildings",
-    "infrastructure"
-   ],
-   "snippet": "",
-   "source": "Arup [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Arup [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Graduate Geotechnical Engineer (2027 Intake)",
-   "url": "https://jobs.arup.com/jobs/graduate-geotechnical-engineer-2027-intake-35258"
-  },
-  {
    "apply_url": "https://readygrad.com.au/gc-internship-program",
    "base_score": 18,
    "closes": "2026-10-20",
@@ -13189,53 +11585,6 @@
    "url": "https://au.gradconnection.com/employers/readygrad/jobs/readygrad-cyber-security-internship-program-2026-11/"
   },
   {
-   "apply_url": null,
-   "base_score": 18,
-   "closes": null,
-   "company": "Subsea7",
-   "disciplines": [
-    "Software"
-   ],
-   "employer_id": "subsea7",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "093705c62890",
-   "key": "subsea7|software development graduate engineer",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Subsea7 [page]",
-     "url": "https://careers.subsea7.com/job/Merida-Software-Development-Graduate-Engineer/1351407155/"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "deprioritised",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [
-    "oil-gas",
-    "subsea",
-    "offshore-engineering"
-   ],
-   "snippet": "",
-   "source": "Subsea7 [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Subsea7 [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Software Development Graduate Engineer",
-   "url": "https://careers.subsea7.com/job/Merida-Software-Development-Graduate-Engineer/1351407155/"
-  },
-  {
    "apply_url": "https://readygrad.com.au/gc-internship-program",
    "base_score": 16,
    "closes": "2026-10-20",
@@ -13281,96 +11630,6 @@
    ],
    "title": "Electrical Engineering Internship Program 2026",
    "url": "https://au.gradconnection.com/employers/readygrad/jobs/readygrad-electrical-engineering-internship-program-2026-11/"
-  },
-  {
-   "apply_url": null,
-   "base_score": 14,
-   "closes": null,
-   "company": "Subsea7",
-   "disciplines": [],
-   "employer_id": "subsea7",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "a254a81a2237",
-   "key": "subsea7|graduate engineers sutton",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Subsea7 [page]",
-     "url": "https://careers.subsea7.com/job/London-%28Sutton%29-Graduate-Engineers-2027-Sutton/1366219555/"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "deprioritised",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [
-    "oil-gas",
-    "subsea",
-    "offshore-engineering"
-   ],
-   "snippet": "",
-   "source": "Subsea7 [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Subsea7 [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Graduate Engineers 2027 - Sutton",
-   "url": "https://careers.subsea7.com/job/London-%28Sutton%29-Graduate-Engineers-2027-Sutton/1366219555/"
-  },
-  {
-   "apply_url": null,
-   "base_score": 14,
-   "closes": null,
-   "company": "Subsea7",
-   "disciplines": [],
-   "employer_id": "subsea7",
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "from-careers-page"
-   ],
-   "id": "3347a0e58916",
-   "key": "subsea7|graduate engineer development scheme",
-   "last_seen": "2026-10-06",
-   "links": [
-    {
-     "source": "Subsea7 [page]",
-     "url": "https://careers.subsea7.com/job/Houston-Graduate-Engineer-Development-Scheme-TX-77001/1367891755/"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "deprioritised",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [
-    "oil-gas",
-    "subsea",
-    "offshore-engineering"
-   ],
-   "snippet": "",
-   "source": "Subsea7 [page]",
-   "source_kind": "page",
-   "source_type": "page",
-   "sources": [
-    "Subsea7 [page]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Graduate Engineer Development Scheme",
-   "url": "https://careers.subsea7.com/job/Houston-Graduate-Engineer-Development-Scheme-TX-77001/1367891755/"
   },
   {
    "apply_url": "https://gap.gradability.com.au/SeekGrad",

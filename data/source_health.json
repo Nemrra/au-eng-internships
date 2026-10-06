@@ -145,8 +145,9 @@
  },
  "{\"company\": \"BScientific\", \"host\": \"career4.successfactors.com\", \"type\": \"sf_classic\"}": {
   "employer": "Boston Scientific (Australia)",
-  "fails": 3,
-  "last_error": "no adapter for sf_classic"
+  "fails": 4,
+  "last_error": "no adapter for sf_classic",
+  "retry_after": "2026-10-13"
  },
  "{\"company\": \"BoschGroup\", \"type\": \"smartrecruiters\"}": {
   "employer": "Bosch Australia",
@@ -156,22 +157,24 @@
  },
  "{\"company\": \"C0001224766P1\", \"host\": \"career10.successfactors.com\", \"type\": \"sf_classic\"}": {
   "employer": "Australian Synchrotron (ANSTO Melbourne, Clayton)",
-  "fails": 2,
+  "fails": 3,
   "last_error": "no adapter for sf_classic"
  },
  "{\"company\": \"C0002469119P\", \"host\": \"career10.successfactors.com\", \"type\": \"sf_classic\"}": {
   "employer": "Codan",
-  "fails": 3,
-  "last_error": "no adapter for sf_classic"
+  "fails": 4,
+  "last_error": "no adapter for sf_classic",
+  "retry_after": "2026-10-13"
  },
  "{\"company\": \"C0004019159P\", \"host\": \"career10.successfactors.com\", \"type\": \"sf_classic\"}": {
   "employer": "INPEX Australia",
-  "fails": 3,
-  "last_error": "no adapter for sf_classic"
+  "fails": 4,
+  "last_error": "no adapter for sf_classic",
+  "retry_after": "2026-10-13"
  },
  "{\"company\": \"CSIRO\", \"host\": \"career10.successfactors.com\", \"type\": \"sf_classic\"}": {
   "employer": "CSIRO Space & Astronomy",
-  "fails": 2,
+  "fails": 3,
   "last_error": "no adapter for sf_classic"
  },
  "{\"company\": \"Canva\", \"type\": \"smartrecruiters\"}": {
@@ -188,13 +191,15 @@
  },
  "{\"company\": \"LiMySLive\", \"host\": \"career5.successfactors.eu\", \"type\": \"sf_classic\"}": {
   "employer": "Liebherr-Australia",
-  "fails": 3,
-  "last_error": "no adapter for sf_classic"
+  "fails": 4,
+  "last_error": "no adapter for sf_classic",
+  "retry_after": "2026-10-13"
  },
  "{\"company\": \"Wartsila\", \"host\": \"career2.successfactors.eu\", \"type\": \"sf_classic\"}": {
   "employer": "Wärtsilä Energy Australia",
-  "fails": 3,
-  "last_error": "no adapter for sf_classic"
+  "fails": 4,
+  "last_error": "no adapter for sf_classic",
+  "retry_after": "2026-10-13"
  },
  "{\"company\": \"aarnet\", \"type\": \"livehire\"}": {
   "employer": "AARNet",
@@ -234,8 +239,9 @@
  },
  "{\"company\": \"csenergylt\", \"host\": \"career10.successfactors.com\", \"type\": \"sf_classic\"}": {
   "employer": "CS Energy",
-  "fails": 3,
-  "last_error": "no adapter for sf_classic"
+  "fails": 4,
+  "last_error": "no adapter for sf_classic",
+  "retry_after": "2026-10-13"
  },
  "{\"company\": \"deputy\", \"type\": \"lever\"}": {
   "employer": "Deputy",
@@ -263,8 +269,9 @@
  },
  "{\"company\": \"hatchassocP\", \"host\": \"career4.successfactors.com\", \"type\": \"sf_classic\"}": {
   "employer": "Hatch",
-  "fails": 3,
-  "last_error": "no adapter for sf_classic"
+  "fails": 4,
+  "last_error": "no adapter for sf_classic",
+  "retry_after": "2026-10-13"
  },
  "{\"company\": \"immutable\", \"type\": \"lever\"}": {
   "employer": "Immutable",
@@ -286,8 +293,9 @@
  },
  "{\"company\": \"kdrvictori\", \"host\": \"career10.successfactors.com\", \"type\": \"sf_classic\"}": {
   "employer": "Keolis Downer (incl. Yarra Trams)",
-  "fails": 3,
-  "last_error": "no adapter for sf_classic"
+  "fails": 4,
+  "last_error": "no adapter for sf_classic",
+  "retry_after": "2026-10-13"
  },
  "{\"company\": \"lycopodium\", \"type\": \"livehire\"}": {
   "employer": "Lycopodium",
@@ -339,13 +347,15 @@
  },
  "{\"company\": \"queensla01\", \"host\": \"career10.successfactors.com\", \"type\": \"sf_classic\"}": {
   "employer": "Queensland Rail",
-  "fails": 3,
-  "last_error": "no adapter for sf_classic"
+  "fails": 4,
+  "last_error": "no adapter for sf_classic",
+  "retry_after": "2026-10-13"
  },
  "{\"company\": \"rweProd\", \"host\": \"career5.successfactors.eu\", \"type\": \"sf_classic\"}": {
   "employer": "RWE Renewables Australia",
-  "fails": 3,
-  "last_error": "no adapter for sf_classic"
+  "fails": 4,
+  "last_error": "no adapter for sf_classic",
+  "retry_after": "2026-10-13"
  },
  "{\"company\": \"seek\", \"type\": \"smartrecruiters\"}": {
   "employer": "SEEK (Tech)",
@@ -361,8 +371,9 @@
  },
  "{\"company\": \"tasmaniannP\", \"host\": \"career10.successfactors.com\", \"type\": \"sf_classic\"}": {
   "employer": "TasNetworks",
-  "fails": 3,
-  "last_error": "no adapter for sf_classic"
+  "fails": 4,
+  "last_error": "no adapter for sf_classic",
+  "retry_after": "2026-10-13"
  },
  "{\"company\": \"turnertownsend\", \"type\": \"smartrecruiters\"}": {
   "employer": "Turner & Townsend",
@@ -372,8 +383,9 @@
  },
  "{\"company\": \"v0\", \"type\": \"lever\"}": {
   "employer": "Appen",
-  "fails": 3,
-  "last_error": "HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/v0?mode=json"
+  "fails": 4,
+  "last_error": "HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/v0?mode=json",
+  "retry_after": "2026-10-13"
  },
  "{\"company\": \"watercorporation\", \"type\": \"livehire\"}": {
   "employer": "Water Corporation (WA)",
@@ -389,7 +401,7 @@
  },
  "{\"domain\": \"lockheedmartin.com\", \"sub\": \"lockheedmartin\", \"type\": \"eightfold\"}": {
   "employer": "Lockheed Martin Australia (incl. STELaRLab, Space)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://lockheedmartin.eightfold.ai/api/apply/v2/jobs?domain=lockheedmartin.com&location=Australia&query=intern&num=50",
   "retry_after": "2026-10-13"
  },
@@ -1181,7 +1193,7 @@
  },
  "{\"host\": \"wabtec.wd1.myworkdayjobs.com\", \"site\": \"wabtec_careers\", \"tenant\": \"wabtec\", \"type\": \"workday\"}": {
   "employer": "Wabtec Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://wabtec.wd1.myworkdayjobs.com/wday/cxs/wabtec/wabtec_careers/jobs",
   "retry_after": "2026-10-13"
  },
@@ -1355,44 +1367,49 @@
  },
  "{\"sub\": \"app\", \"type\": \"eightfold\"}": {
   "employer": "Microsoft",
-  "fails": 3,
-  "last_error": "blocked: HTTP 403 for https://app.eightfold.ai/api/apply/v2/jobs?domain=app.com&location=Australia&query=intern&num=50"
+  "fails": 4,
+  "last_error": "blocked: HTTP 403 for https://app.eightfold.ai/api/apply/v2/jobs?domain=app.com&location=Australia&query=intern&num=50",
+  "retry_after": "2026-10-13"
  },
  "{\"sub\": \"arcadis\", \"type\": \"eightfold\"}": {
   "employer": "Arcadis",
-  "fails": 3,
-  "last_error": "blocked: HTTP 403 for https://arcadis.eightfold.ai/api/apply/v2/jobs?domain=arcadis.com&location=Australia&query=intern&num=50"
+  "fails": 4,
+  "last_error": "blocked: HTTP 403 for https://arcadis.eightfold.ai/api/apply/v2/jobs?domain=arcadis.com&location=Australia&query=intern&num=50",
+  "retry_after": "2026-10-13"
  },
  "{\"sub\": \"bostonscientific\", \"type\": \"eightfold\"}": {
   "employer": "Boston Scientific (Australia)",
-  "fails": 3,
-  "last_error": "blocked: HTTP 403 for https://bostonscientific.eightfold.ai/api/apply/v2/jobs?domain=bostonscientific.com&location=Australia&query=intern&num=50"
+  "fails": 4,
+  "last_error": "blocked: HTTP 403 for https://bostonscientific.eightfold.ai/api/apply/v2/jobs?domain=bostonscientific.com&location=Australia&query=intern&num=50",
+  "retry_after": "2026-10-13"
  },
  "{\"sub\": \"fleetspace\", \"type\": \"hibob\"}": {
   "employer": "Fleet Space Technologies",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 401 for https://fleetspace.careers.hibob.com/api/job-ad",
   "retry_after": "2026-10-13"
  },
  "{\"sub\": \"fortive\", \"type\": \"eightfold\"}": {
   "employer": "Tektronix (Fortive)",
-  "fails": 3,
-  "last_error": "blocked: HTTP 403 for https://fortive.eightfold.ai/api/apply/v2/jobs?domain=fortive.com&location=Australia&query=intern&num=50"
+  "fails": 4,
+  "last_error": "blocked: HTTP 403 for https://fortive.eightfold.ai/api/apply/v2/jobs?domain=fortive.com&location=Australia&query=intern&num=50",
+  "retry_after": "2026-10-13"
  },
  "{\"sub\": \"lockheedmartin\", \"type\": \"eightfold\"}": {
   "employer": "Lockheed Martin Australia (incl. STELaRLab, Space)",
-  "fails": 3,
-  "last_error": "blocked: HTTP 403 for https://lockheedmartin.eightfold.ai/api/apply/v2/jobs?domain=lockheedmartin.com&location=Australia&query=intern&num=50"
+  "fails": 4,
+  "last_error": "blocked: HTTP 403 for https://lockheedmartin.eightfold.ai/api/apply/v2/jobs?domain=lockheedmartin.com&location=Australia&query=intern&num=50",
+  "retry_after": "2026-10-13"
  },
  "{\"sub\": \"planetinnovation\", \"type\": \"hibob\"}": {
   "employer": "Planet Innovation",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 401 for https://planetinnovation.careers.hibob.com/api/job-ad",
   "retry_after": "2026-10-13"
  },
  "{\"sub\": \"planetinnovation.careers.hibob.com\", \"type\": \"hibob\"}": {
   "employer": "Planet Innovation",
-  "fails": 4,
+  "fails": 5,
   "last_error": "SSLError: HTTPSConnectionPool(host='planetinnovation.careers.hibob.com.careers.hibob.com', port=443): Max retries exceeded with url: /api/job-ad (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAIL",
   "retry_after": "2026-10-13"
  },
@@ -1410,13 +1427,15 @@
  },
  "{\"sub\": \"quinbrook\", \"type\": \"hibob\"}": {
   "employer": "Quinbrook Infrastructure Partners",
-  "fails": 3,
-  "last_error": "blocked: HTTP 401 for https://quinbrook.careers.hibob.com/api/job-ad"
+  "fails": 4,
+  "last_error": "blocked: HTTP 401 for https://quinbrook.careers.hibob.com/api/job-ad",
+  "retry_after": "2026-10-13"
  },
  "{\"sub\": \"ralliant\", \"type\": \"eightfold\"}": {
   "employer": "Tektronix (Fortive)",
-  "fails": 3,
-  "last_error": "blocked: HTTP 403 for https://ralliant.eightfold.ai/api/apply/v2/jobs?domain=ralliant.com&location=Australia&query=intern&num=50"
+  "fails": 4,
+  "last_error": "blocked: HTTP 403 for https://ralliant.eightfold.ai/api/apply/v2/jobs?domain=ralliant.com&location=Australia&query=intern&num=50",
+  "retry_after": "2026-10-13"
  },
  "{\"sub\": \"saludamedical\", \"type\": \"bamboohr\"}": {
   "employer": "Saluda Medical",
@@ -1750,13 +1769,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://5b.com.au/careers/\"}": {
   "employer": "5B",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://5b.com.au/careers/",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://acenrenewables.com.au/careers/\"}": {
   "employer": "ACEN Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://acenrenewables.com.au/work-with-us/current-vacancies/",
   "retry_after": "2026-10-13"
  },
@@ -1797,13 +1816,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://allumeenergy.com/careers\"}": {
   "employer": "Allume Energy",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://allumeenergy.com/careers",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://amperecomputing.com/company/careers\"}": {
   "employer": "Ampere Computing",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://careers.amperecomputing.com/",
   "retry_after": "2026-10-13"
  },
@@ -1821,7 +1840,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://annalise.ai/careers/\"}": {
   "employer": "Annalise.ai",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://annalise.ai/careers/",
   "retry_after": "2026-10-13"
  },
@@ -1874,13 +1893,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://au.medical.canon/\"}": {
   "employer": "Canon Medical Systems ANZ",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='au.medical.canon', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='au.medical.canon', port=443): Failed to resolve 'au.medic",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://au.sungrowpower.com/\"}": {
   "employer": "Sungrow Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='au.sungrowpower.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='au.sungrowpower.com', port=443): Failed to resolve 'au",
   "retry_after": "2026-10-13"
  },
@@ -1898,7 +1917,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://automation.omron.com/en/au/\"}": {
   "employer": "Omron Electronics Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://automation.omron.com/en/au/",
   "retry_after": "2026-10-13"
  },
@@ -1910,13 +1929,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://bigbuild.vic.gov.au/jobs/training-programs/graduate-programs\"}": {
   "employer": "Department of Transport and Planning (VIC) / Victorian Infrastructure Delivery Authority (rail signalling, engineering)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://bigbuild.vic.gov.au/jobs/training-programs/graduate-programs",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://bigbuild.vic.gov.au/jobs/training-programs/graduate-programs/suburban-rail-loop-graduate-program-experience\"}": {
   "employer": "Suburban Rail Loop Authority (VIC)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://bigbuild.vic.gov.au/jobs/training-programs/graduate-programs/suburban-rail-loop-graduate-program-experience",
   "retry_after": "2026-10-13"
  },
@@ -1928,7 +1947,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://block.xyz/careers/early-career\"}": {
   "employer": "Block / Afterpay",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://block.xyz/careers/early-career",
   "retry_after": "2026-10-13"
  },
@@ -1946,7 +1965,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://bomcareers.nga.net.au/\"}": {
   "employer": "Bureau of Meteorology",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 405 Client Error: Not Allowed for url: https://bomcareers.nga.net.au/",
   "retry_after": "2026-10-13"
  },
@@ -2084,31 +2103,31 @@
  },
  "{\"type\": \"page\", \"url\": \"https://careers.qantas.com/\"}": {
   "employer": "Qantas Group (Qantas Engineering, Jetstar, QantasLink)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='careers.qantas.com', port=443): Max retries exceeded with url: / (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='careers.qantas.com', port=443): Read timed out. (read ",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://careers.qantas.com/teams-engineering\"}": {
   "employer": "Qantas Group (Qantas Engineering, Jetstar, QantasLink)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='careers.qantas.com', port=443): Max retries exceeded with url: /teams-engineering (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='careers.qantas.com', port=443): Read ",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://careers.qualcomm.com\"}": {
   "employer": "Qualcomm",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: robots.txt disallows https://careers.qualcomm.com",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://careers.qualcomm.com/api/apply/v2/jobs?domain=qualcomm.com&location=Australia\"}": {
   "employer": "Qualcomm",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: robots.txt disallows https://careers.qualcomm.com/api/apply/v2/jobs?domain=qualcomm.com&location=Australia",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://careers.salesforce.com/en/futureforce/\"}": {
   "employer": "Salesforce",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.salesforce.com/404/",
   "retry_after": "2026-10-13"
  },
@@ -2180,31 +2199,31 @@
  },
  "{\"type\": \"page\", \"url\": \"https://careers.vic.gov.au/\"}": {
   "employer": "VicGrid (DEECA)",
-  "fails": 5,
+  "fails": 6,
   "last_error": "blocked: HTTP 403 for https://www.careers.vic.gov.au/",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://careers.vic.gov.au/jobs?keywords=Energy%20Safe%20Victoria\"}": {
   "employer": "Energy Safe Victoria",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.careers.vic.gov.au/jobs?keywords=Energy%20Safe%20Victoria",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://careers.vic.gov.au/jobs?keywords=VicGrid\"}": {
   "employer": "VicGrid (DEECA)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.careers.vic.gov.au/jobs?keywords=VicGrid",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://careers.wisetechglobal.com/\"}": {
   "employer": "WiseTech Global",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='careers.wisetechglobal.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='careers.wisetechglobal.com', port=443): Failed ",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://careers.wisetechglobal.com/graduates-and-interns\"}": {
   "employer": "WiseTech Global",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='careers.wisetechglobal.com', port=443): Max retries exceeded with url: /graduates-and-interns (Caused by NameResolutionError(\"HTTPSConnection(host='careers.wisetechglobal.com",
   "retry_after": "2026-10-13"
  },
@@ -2216,7 +2235,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://chevron.wd5.myworkdayjobs.com/wday/cxs/chevron/jobs/jobs\"}": {
   "employer": "Chevron Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 400 Client Error: Bad Request for url: https://chevron.wd5.myworkdayjobs.com/wday/cxs/chevron/jobs/jobs",
   "retry_after": "2026-10-13"
  },
@@ -2264,7 +2283,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://elbitsystems.com/careers/\"}": {
   "employer": "Elbit Systems of Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.elbitsystems.com/careers/",
   "retry_after": "2026-10-13"
  },
@@ -2330,7 +2349,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://fbr.com.au/view/careers\"}": {
   "employer": "FBR (Fastbrick Robotics)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.fbr.com.au/system/pagenotfound",
   "retry_after": "2026-10-13"
  },
@@ -2348,19 +2367,19 @@
  },
  "{\"type\": \"page\", \"url\": \"https://fluenceenergy.com/careers/\"}": {
   "employer": "Fluence Energy (Australia)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://fluenceenergy.com/careers/",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://forms.cloud.microsoft/r/um9evmKA2R?origin=lprLink\"}": {
   "employer": "Inovor Technologies",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: robots.txt disallows https://forms.cloud.microsoft/r/um9evmKA2R?origin=lprLink",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://forms.office.com/r/1S1PG9Vx9h\"}": {
   "employer": "Gilmour Space Technologies",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: robots.txt disallows https://forms.office.com/r/1S1PG9Vx9h",
   "retry_after": "2026-10-13"
  },
@@ -2377,7 +2396,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://genusplusgroup.com.au/careers/\"}": {
   "employer": "Genus Plus Group (Genus Infrastructure)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "SSLError: HTTPSConnectionPool(host='genusplusgroup.com.au', port=443): Max retries exceeded with url: /careers/ (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate veri",
   "retry_after": "2026-10-13"
  },
@@ -2395,7 +2414,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://harrison.ai/careers/\"}": {
   "employer": "harrison.ai",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://harrison.ai/careers/",
   "retry_after": "2026-10-13"
  },
@@ -2460,13 +2479,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://iworkfor.nsw.gov.au/\"}": {
   "employer": "EnergyCo NSW",
-  "fails": 5,
+  "fails": 6,
   "last_error": "blocked: HTTP 403 for https://iworkfor.nsw.gov.au/",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://iworkfor.nsw.gov.au/jobs/all-keywords/all-agencies/all-organisations-entities/all-categories/all-locations/all-worktypes?agencyId=&keyword=energyco\"}": {
   "employer": "EnergyCo NSW",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://iworkfor.nsw.gov.au/jobs/all-keywords/all-agencies/all-organisations-entities/all-categories/all-locations/all-worktypes?agencyId=&keyword=energyco",
   "retry_after": "2026-10-13"
  },
@@ -2532,7 +2551,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://jobs.infineon.com/api/apply/v2/jobs?domain=infineon.com&location=Australia\"}": {
   "employer": "Infineon Technologies",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: robots.txt disallows https://jobs.infineon.com/api/apply/v2/jobs?domain=infineon.com&location=Australia",
   "retry_after": "2026-10-13"
  },
@@ -2604,7 +2623,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://jobs.worley.com\"}": {
   "employer": "Worley",
-  "fails": 5,
+  "fails": 6,
   "last_error": "blocked: robots.txt disallows https://jobs.worley.com",
   "retry_after": "2026-10-13"
  },
@@ -2645,19 +2664,19 @@
  },
  "{\"type\": \"page\", \"url\": \"https://linktr.ee/s/careers\"}": {
   "employer": "Linktree",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: robots.txt disallows https://linktr.ee/s/careers",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://lionco.com/careers/\"}": {
   "employer": "Lion",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.lionco.com/careers/",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://liquidinstruments.com/careers/\"}": {
   "employer": "Liquid Instruments",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://liquidinstruments.com/careers/",
   "retry_after": "2026-10-13"
  },
@@ -2687,7 +2706,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://maxkelsen.com/careers\"}": {
   "employer": "Max Kelsen",
-  "fails": 4,
+  "fails": 5,
   "last_error": "SSLError: HTTPSConnectionPool(host='maxkelsen.com', port=443): Max retries exceeded with url: /careers (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed",
   "retry_after": "2026-10-13"
  },
@@ -2735,7 +2754,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://ocius.com.au/careers/\"}": {
   "employer": "Ocius Technology",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://ocius.com.au/careers/",
   "retry_after": "2026-10-13"
  },
@@ -2789,7 +2808,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://qdsa.org.au/\"}": {
   "employer": "Queensland Defence Science Alliance",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='qdsa.org.au', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='qdsa.org.au', port=443): Failed to resolve 'qdsa.org.au' ([Err",
   "retry_after": "2026-10-13"
  },
@@ -2801,7 +2820,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://quantium.com/careers/graduates/\"}": {
   "employer": "Quantium",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://quantium.com/careers/graduates/",
   "retry_after": "2026-10-13"
  },
@@ -2843,14 +2862,14 @@
  },
  "{\"type\": \"page\", \"url\": \"https://repositpower.com/careers/\"}": {
   "employer": "Reposit Power",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://repositpower.com/careers/",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://research.qut.edu.au/qcr/\"}": {
   "employer": "QUT Centre for Robotics",
-  "fails": 1,
-  "last_error": "blocked: HTTP 403 for https://research.qut.edu.au/qcr/",
+  "fails": 0,
+  "last_error": "",
   "last_ok": "2026-10-06"
  },
  "{\"type\": \"page\", \"url\": \"https://rhed.amsi.org.au/?p=3571\"}": {
@@ -2867,7 +2886,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://rode.com/en/about/careers\"}": {
   "employer": "RODE Microphones",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://rode.com/en-us/about/careers",
   "retry_after": "2026-10-13"
  },
@@ -2885,19 +2904,19 @@
  },
  "{\"type\": \"page\", \"url\": \"https://search.jobs.wa.gov.au/jobs?keywords=Water%20Corporation%20student\"}": {
   "employer": "Water Corporation (WA)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://search.jobs.wa.gov.au/jobs?keywords=Water%20Corporation%20student",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://search.jobs.wa.gov.au/jobs?keywords=student\"}": {
   "employer": "Public Transport Authority of WA",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://search.jobs.wa.gov.au/jobs?keywords=student",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://seeingmachines.com/careers/\"}": {
   "employer": "Seeing Machines",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://seeingmachines.com/careers/",
   "retry_after": "2026-10-13"
  },
@@ -2920,7 +2939,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://silverpond.com.au/careers\"}": {
   "employer": "Silverpond",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://silverpond.com.au/careers",
   "retry_after": "2026-10-13"
  },
@@ -2938,25 +2957,25 @@
  },
  "{\"type\": \"page\", \"url\": \"https://smartjobs.qld.gov.au/jobs/QLD-search?keywords=cadet\"}": {
   "employer": "Department of Transport and Main Roads (QLD)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://smartjobs.qld.gov.au/jobtools/QLD-search?keywords=cadet",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://smartsatcrc.com/\"}": {
   "employer": "SmartSat CRC",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://smartsatcrc.com/",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://southeastwater.com.au/about/careers\"}": {
   "employer": "South East Water",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://southeastwater.com.au/about/careers",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://space.gov.au/career-building-blocks\"}": {
   "employer": "Australian Space Agency (Department of Industry, Science and Resources)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.space.gov.au', port=443): Max retries exceeded with url: /career-building-blocks (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.space.gov.au', port=443): Read",
   "retry_after": "2026-10-13"
  },
@@ -2968,7 +2987,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://squadronenergy.com/careers\"}": {
   "employer": "Squadron Energy",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://squadronenergy.com/careers",
   "retry_after": "2026-10-13"
  },
@@ -3016,7 +3035,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://ultra-maritime.com/careers/\"}": {
   "employer": "Ultra Maritime Australia (Ultra Electronics Australia / Avalon Systems)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "RetryError: HTTPSConnectionPool(host='ultra-maritime.com', port=443): Max retries exceeded with url: /careers/ (Caused by ResponseError('too many 500 error responses'))",
   "retry_after": "2026-10-13"
  },
@@ -3039,8 +3058,8 @@
  },
  "{\"type\": \"page\", \"url\": \"https://wildlifedrones.net/\"}": {
   "employer": "Wildlife Drones",
-  "fails": 4,
-  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='wildlifedrones.net', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='wildlifedrones.net', port=443) at 0x7f7fd4e2a3c0>, 'Con",
+  "fails": 5,
+  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='wildlifedrones.net', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='wildlifedrones.net', port=443) at 0x7f4a50496120>, 'Con",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://wkf.ms/3LLvDxU\"}": {
@@ -3069,13 +3088,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.acciona.com.au/careers\"}": {
   "employer": "Acciona",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.acciona.com.au/careers",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.acciona.com.au/careers/\"}": {
   "employer": "Acciona Energia Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.acciona.com.au/careers",
   "retry_after": "2026-10-13"
  },
@@ -3087,13 +3106,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.aemo.com.au/about/careers/internships\"}": {
   "employer": "AEMO (Australian Energy Market Operator)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.aemo.com.au/about/careers/internships",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.aer.gov.au/about/careers\"}": {
   "employer": "Australian Energy Regulator (AER) / AEMC",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.aer.gov.au', port=443): Max retries exceeded with url: /about/careers (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.aer.gov.au', port=443): Read timed out. (",
   "retry_after": "2026-10-13"
  },
@@ -3105,7 +3124,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.aims.gov.au/careers\"}": {
   "employer": "Australian Institute of Marine Science (AIMS)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.aims.gov.au', port=443): Max retries exceeded with url: /careers (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.aims.gov.au', port=443): Read timed out. (read",
   "retry_after": "2026-10-13"
  },
@@ -3128,13 +3147,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.alintaenergy.com.au/about-us/careers/graduate-program\"}": {
   "employer": "Alinta Energy",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.alintaenergy.com.au/about-us/careers/graduate-program",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.amazon.jobs/en/locations/australia\"}": {
   "employer": "Amazon / AWS",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.amazon.jobs/en/locations/australia",
   "retry_after": "2026-10-13"
  },
@@ -3248,7 +3267,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.arc.gov.au/\"}": {
   "employer": "ARC Industrial Transformation Training Centres / Research Hubs (various; e.g. energy storage, autonomous systems, semiconductors)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.arc.gov.au', port=443): Max retries exceeded with url: / (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.arc.gov.au', port=443): Read timed out. (read timeout=",
   "retry_after": "2026-10-13"
  },
@@ -3260,13 +3279,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.archistar.ai/careers\"}": {
   "employer": "Archistar",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.archistar.ai/careers",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.arpansa.gov.au/about-us/careers\"}": {
   "employer": "ARPANSA (Australian Radiation Protection and Nuclear Safety Agency)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.arpansa.gov.au', port=443): Max retries exceeded with url: /about-us/careers (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.arpansa.gov.au', port=443): Read t",
   "retry_after": "2026-10-13"
  },
@@ -3278,7 +3297,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.artc.com.au/careers/graduates/\"}": {
   "employer": "Australian Rail Track Corporation (ARTC)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.artc.com.au/careers/graduates/",
   "retry_after": "2026-10-13"
  },
@@ -3290,7 +3309,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.asa.gov.au/careers\"}": {
   "employer": "Australian Submarine Agency (ASA)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.asa.gov.au', port=443): Max retries exceeded with url: /careers (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.asa.gov.au', port=443): Read timed out. (read t",
   "retry_after": "2026-10-13"
  },
@@ -3302,25 +3321,25 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.asc.com.au/careers/\"}": {
   "employer": "ASC Pty Ltd",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.asc.com.au/careers/",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.asd.gov.au/careers\"}": {
   "employer": "Australian Signals Directorate (ASD, incl. ACSC)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.asd.gov.au', port=443): Max retries exceeded with url: /careers (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.asd.gov.au', port=443): Read timed out. (read t",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.asd.gov.au/careers/im-starting-my-career\"}": {
   "employer": "Australian Signals Directorate (ASD, incl. ACSC)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.asd.gov.au', port=443): Max retries exceeded with url: /careers/im-starting-my-career (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.asd.gov.au', port=443): R",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.asio.gov.au/careers\"}": {
   "employer": "Australian Security Intelligence Organisation (ASIO)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.asio.gov.au', port=443): Max retries exceeded with url: /careers (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.asio.gov.au', port=443): Read timed out. (read",
   "retry_after": "2026-10-13"
  },
@@ -3338,7 +3357,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.atkinsrealis.com/en/careers\"}": {
   "employer": "AtkinsRealis",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.atkinsrealis.com/en/careers",
   "retry_after": "2026-10-13"
  },
@@ -3380,7 +3399,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.aurizon.com.au/careers/graduates-and-students\"}": {
   "employer": "Aurizon",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.aurizon.com.au/404-error",
   "retry_after": "2026-10-13"
  },
@@ -3434,13 +3453,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.barwonwater.vic.gov.au/about-us/careers\"}": {
   "employer": "Barwon Water",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.barwonwater.vic.gov.au/about-us/careers",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.beachenergy.com.au/careers\"}": {
   "employer": "Beach Energy",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://beachenergy.com.au/careers",
   "retry_after": "2026-10-13"
  },
@@ -3458,7 +3477,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.beckhoff.com/en-au/company/career/\"}": {
   "employer": "Beckhoff Automation Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.beckhoff.com/en-au/company/career/",
   "retry_after": "2026-10-13"
  },
@@ -3476,7 +3495,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.bhp.com/careers/graduate-student-programs/australia\"}": {
   "employer": "BHP",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.bhp.com/careers/graduate-student-programs/australia",
   "retry_after": "2026-10-13"
  },
@@ -3488,8 +3507,8 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.bionicsinstitute.org/\"}": {
   "employer": "Bionics Institute",
-  "fails": 0,
-  "last_error": "",
+  "fails": 1,
+  "last_error": "blocked: HTTP 403 for https://www.bionicsinstitute.org/",
   "last_ok": "2026-10-06"
  },
  "{\"type\": \"page\", \"url\": \"https://www.blackmagicdesign.com/company/careers\"}": {
@@ -3511,7 +3530,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.bluglass.com\"}": {
   "employer": "BluGlass",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.bluglass.com/",
   "retry_after": "2026-10-13"
  },
@@ -3523,19 +3542,19 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.bne.com.au/corporate/careers\"}": {
   "employer": "Brisbane Airport Corporation",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.bne.com.au/corporate/careers",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.bom.gov.au/about-the-bureau/careers\"}": {
   "employer": "Bureau of Meteorology",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.bom.gov.au/about-the-bureau/careers",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.bom.gov.au/about-the-bureau/careers/graduate-meteorology\"}": {
   "employer": "Bureau of Meteorology",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.bom.gov.au/about-the-bureau/careers/graduate-meteorology",
   "retry_after": "2026-10-13"
  },
@@ -3565,7 +3584,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.bruker.com/en/about/careers.html\"}": {
   "employer": "Bruker (Australia)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.bruker.com/en/about/careers.html",
   "retry_after": "2026-10-13"
  },
@@ -3577,43 +3596,43 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.careers.vic.gov.au/\"}": {
   "employer": "Careers.vic (Victorian public sector job board - incl. DTP, DEECA/VicGrid, VIDA, SRLA)",
-  "fails": 6,
+  "fails": 7,
   "last_error": "blocked: HTTP 403 for https://www.careers.vic.gov.au/",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.careers.vic.gov.au/jobs?keywords=V%2FLine\"}": {
   "employer": "V/Line",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.careers.vic.gov.au/jobs?keywords=V%2FLine",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.careers.vic.gov.au/jobs?keywords=intern%20engineer\"}": {
   "employer": "Office of Projects Victoria",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.careers.vic.gov.au/jobs?keywords=intern%20engineer",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.careers.vic.gov.au/jobs?keywords=student\"}": {
   "employer": "Careers.vic (Victorian public sector job board - incl. DTP, DEECA/VicGrid, VIDA, SRLA)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.careers.vic.gov.au/jobs?keywords=student",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.careers.vic.gov.au/jobs?keywords={keyword}\"}": {
   "employer": "Careers.vic (Victorian public sector job board - incl. DTP, DEECA/VicGrid, VIDA, SRLA)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.careers.vic.gov.au/jobs?keywords=%7Bkeyword%7D",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.carsales.com.au/about/careers/\"}": {
   "employer": "Carsales (CAR Group)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.carsales.com.au/404/",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.casa.gov.au/about-us/careers-casa\"}": {
   "employer": "Civil Aviation Safety Authority (CASA)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.casa.gov.au', port=443): Max retries exceeded with url: /about-us/careers-casa (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.casa.gov.au', port=443): Read ti",
   "retry_after": "2026-10-13"
  },
@@ -3667,25 +3686,25 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.cisco.com/c/en/us/about/careers/students-and-new-grads.html\"}": {
   "employer": "Cisco",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.cisco.com/c/en/us/about/careers/students-and-new-grads.html",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.citadelsecurities.com/careers/\"}": {
   "employer": "Citadel Securities",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.citadelsecurities.com/careers/",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.citadelsecurities.com/careers/open-opportunities/?location=sydney&type=students\"}": {
   "employer": "Citadel Securities",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.citadelsecurities.com/careers/open-opportunities/?location=sydney&type=students",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.citadelsecurities.com/careers/students/\"}": {
   "employer": "Citadel Securities",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.citadelsecurities.com/careers/students/",
   "retry_after": "2026-10-13"
  },
@@ -3697,7 +3716,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.cocacolaep.com/au/careers/\"}": {
   "employer": "Coca-Cola Europacific Partners (AU)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.cocacolaep.com/au/careers/",
   "retry_after": "2026-10-13"
  },
@@ -3749,19 +3768,19 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.cpbcon.com.au/careers\"}": {
   "employer": "CPB Contractors",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.cpbcon.com.au/careers",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.cpp.com.au/careers\"}": {
   "employer": "Consolidated Power Projects (CPP)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.cpp.com.au/careers",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.cqc2t.org/\"}": {
   "employer": "ARC CoE for Quantum Computation & Communication Technology (CQC2T)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.cqc2t.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.cqc2t.org', port=443): Failed to resolve 'www.cqc2t.org'",
   "retry_after": "2026-10-13"
  },
@@ -3779,7 +3798,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.csiro.au/en/careers/studentships\"}": {
   "employer": "CSIRO Space & Astronomy",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.csiro.au/en/careers/studentships",
   "retry_after": "2026-10-13"
  },
@@ -3809,19 +3828,19 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.curtin.edu.au/about/careers-at-curtin/\"}": {
   "employer": "Curtin University (incl. Curtin Institute of Radio Astronomy, Space Science & Technology Centre)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.curtin.edu.au/about/careers-at-curtin/",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.cyborgdynamics.com.au/\"}": {
   "employer": "Cyborg Dynamics Engineering",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.cyborgdynamics.com.au', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.cyborgdynamics.com.au', port=443): Failed to",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.cylite.com\"}": {
   "employer": "Cylite",
-  "fails": 4,
+  "fails": 5,
   "last_error": "SSLError: HTTPSConnectionPool(host='www.cylite.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)')))",
   "retry_after": "2026-10-13"
  },
@@ -3839,43 +3858,43 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.de.com.au/careers\"}": {
   "employer": "Delta Electricity (Vales Point)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.deltapae.com.au",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.deakin.edu.au/about-deakin/careers-at-deakin\"}": {
   "employer": "Deakin University (incl. IISRI robotics)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.deakin.edu.au/about-deakin/careers-at-deakin",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.defence.gov.au/business-industry\"}": {
   "employer": "Defence Industry Internship Program (DIIP, federal)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.defence.gov.au', port=443): Max retries exceeded with url: /business-industry (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.defence.gov.au', port=443): Read ",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.defence.gov.au/jobs-careers\"}": {
   "employer": "Defence Science and Technology Group (DSTG)",
-  "fails": 6,
+  "fails": 7,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.defence.gov.au', port=443): Max retries exceeded with url: /jobs-careers (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.defence.gov.au', port=443): Read timed",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.defence.gov.au/jobs-careers/stem-cadetship\"}": {
   "employer": "Department of Defence - STEM Cadetship / Graduate programs (APS)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.defence.gov.au', port=443): Max retries exceeded with url: /jobs-careers/stem-cadetship (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.defence.gov.au', port=4",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.defence.gov.au/jobs-careers/student-pathways\"}": {
   "employer": "Department of Defence (Graduate Program, STEM Cadetship, Defence University Sponsorship, AGO/DIO)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.defence.gov.au', port=443): Max retries exceeded with url: /jobs-careers/student-pathways (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.defence.gov.au', port",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.defenceinnovationnetwork.com/\"}": {
   "employer": "Defence Innovation Network (NSW)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "SSLError: HTTPSConnectionPool(host='www.defenceinnovationnetwork.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate v",
   "retry_after": "2026-10-13"
  },
@@ -3899,7 +3918,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.dewcsystems.com.au/\"}": {
   "employer": "DEWC Systems",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.dewcsystems.com.au', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.dewcsystems.com.au', port=443): Failed to resol",
   "retry_after": "2026-10-13"
  },
@@ -3917,19 +3936,19 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.downergroup.com/careers\"}": {
   "employer": "Downer Group",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://downergroup.com/careers",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.downergroup.com/graduates-and-students\"}": {
   "employer": "Downer Group",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://downergroup.com/graduates-and-students",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.draeger.com/en_aunz/Careers\"}": {
   "employer": "Draeger Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.draeger.com/en_aunz/Careers",
   "retry_after": "2026-10-13"
  },
@@ -3953,13 +3972,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.dst.defence.gov.au/careers\"}": {
   "employer": "Defence Science and Technology Group (DSTG)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.dst.defence.gov.au/careers",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.dst.defence.gov.au/node/54\"}": {
   "employer": "Defence Science and Technology Group (DSTG)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.dst.defence.gov.au/node/54",
   "retry_after": "2026-10-13"
  },
@@ -3971,8 +3990,8 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.dynamichearing.com/\"}": {
   "employer": "Dynamic Hearing",
-  "fails": 4,
-  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.dynamichearing.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dynamichearing.com', port=443) at 0x7f7fe4f19e5",
+  "fails": 5,
+  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.dynamichearing.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dynamichearing.com', port=443) at 0x7f4a60fdad2",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.dynonobel.com/careers\"}": {
@@ -3989,7 +4008,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.elecnor.com.au/careers\"}": {
   "employer": "Elecnor Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.elecnor.com.au/careers",
   "retry_after": "2026-10-13"
  },
@@ -4019,13 +4038,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.energyq.com.au/careers\"}": {
   "employer": "Energy Queensland (Energex, Ergon Energy Network, Ergon Energy Retail, Yurika)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.energyq.com.au/careers",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.energyq.com.au/external-links/jobs-portal-landing-page\"}": {
   "employer": "Energy Queensland (Energex, Ergon Energy Network, Ergon Energy Retail, Yurika)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.energyq.com.au/external-links/jobs-portal-landing-page",
   "retry_after": "2026-10-13"
  },
@@ -4037,7 +4056,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.eos-aus.com/careers/\"}": {
   "employer": "EOS - Electro Optic Systems",
-  "fails": 5,
+  "fails": 6,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://eos-aus.com/careers/",
   "retry_after": "2026-10-13"
  },
@@ -4073,7 +4092,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.fanuc.com.au/\"}": {
   "employer": "FANUC Oceania",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.fanuc.com.au', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.fanuc.com.au', port=443): Failed to resolve 'www.fanu",
   "retry_after": "2026-10-13"
  },
@@ -4085,19 +4104,19 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.ferra.com.au/\"}": {
   "employer": "Ferra Engineering",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.ferra.com.au', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.ferra.com.au', port=443): Failed to resolve 'www.ferr",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.festo.com/au/en/e/about-festo/careers-id_3826/\"}": {
   "employer": "Festo Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.festo.com/au/en/e/about-festo/careers-id_3826/",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.finance.gov.au/about-us/news/2026/applications-are-now-open-2027-australian-government-graduate-program\"}": {
   "employer": "Australian Government Graduate Program (AGGP) - STEM, Data, Digital, Engineering-relevant streams",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.finance.gov.au', port=443): Max retries exceeded with url: /about-us/news/2026/applications-are-now-open-2027-australian-government-graduate-program (Caused by ReadTimeou",
   "retry_after": "2026-10-13"
  },
@@ -4121,7 +4140,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.flinders.edu.au/medical-device-partnering-program\"}": {
   "employer": "Medical Device Partnering Program (MDPP)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.flinders.edu.au/medical-device-partnering-program",
   "retry_after": "2026-10-13"
  },
@@ -4133,7 +4152,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.fronius.com/en-au/australia/about-fronius/careers\"}": {
   "employer": "Fronius Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.fronius.com/en-au/australia/about-fronius/careers",
   "retry_after": "2026-10-13"
  },
@@ -4186,25 +4205,25 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.google.com/about/careers/applications/jobs/results/?location=Australia\"}": {
   "employer": "Google",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: robots.txt disallows https://www.google.com/about/careers/applications/jobs/results/?location=Australia",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.google.com/about/careers/applications/jobs/results/?location=Australia&employment_type=INTERN&target_level=EARLY\"}": {
   "employer": "Google",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: robots.txt disallows https://www.google.com/about/careers/applications/jobs/results/?location=Australia&employment_type=INTERN&target_level=EARLY",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.google.com/about/careers/applications/students/\"}": {
   "employer": "Google",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: robots.txt disallows https://www.google.com/about/careers/applications/students/",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.gradientinstitute.org/careers/\"}": {
   "employer": "Gradient Institute",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.gradientinstitute.org/careers",
   "retry_after": "2026-10-13"
  },
@@ -4231,7 +4250,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.gww.com.au/about/careers\"}": {
   "employer": "Greater Western Water",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.gww.com.au', port=443): Max retries exceeded with url: /about/careers (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.gww.com.au', port=443): Read timed out. (",
   "retry_after": "2026-10-13"
  },
@@ -4255,7 +4274,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.hensoldt.net/careers/\"}": {
   "employer": "Hensoldt Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.hensoldt.net/careers",
   "retry_after": "2026-10-13"
  },
@@ -4297,7 +4316,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.hudsonrivertrading.com/campus-recruiting/\"}": {
   "employer": "Hudson River Trading",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.hudsonrivertrading.com/campus-recruiting/",
   "retry_after": "2026-10-13"
  },
@@ -4321,7 +4340,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.hypersonix.com.au/\"}": {
   "employer": "Hypersonix Launch Systems",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.hypersonix.com.au/",
   "retry_after": "2026-10-13"
  },
@@ -4333,7 +4352,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.iberdrola.com.au/careers/graduateprogram\"}": {
   "employer": "Iberdrola Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.iberdrola.com.au/careers/graduateprogram",
   "retry_after": "2026-10-13"
  },
@@ -4368,13 +4387,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.igo.com.au/careers\"}": {
   "employer": "IGO Limited",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.igo.com.au/careers",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.imc.com/ap/careers/students-and-graduates\"}": {
   "employer": "IMC Trading",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.imc.com/ap/careers/students-and-graduates",
   "retry_after": "2026-10-13"
  },
@@ -4397,13 +4416,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.industry.gov.au/careers\"}": {
   "employer": "Department of Industry, Science and Resources (incl. Australian Space Agency, National Measurement Institute)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.industry.gov.au', port=443): Max retries exceeded with url: /careers (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.industry.gov.au', port=443): Read timed ou",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.industry.gov.au/careers/graduate-program-stem-stream\"}": {
   "employer": "Department of Industry, Science and Resources (incl. Australian Space Agency, National Measurement Institute)",
-  "fails": 5,
+  "fails": 6,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.industry.gov.au', port=443): Max retries exceeded with url: /careers/graduate-program-stem-stream (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.industry.gov.",
   "retry_after": "2026-10-13"
  },
@@ -4415,7 +4434,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.infrabuild.com/careers\"}": {
   "employer": "InfraBuild",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.infrabuild.com/careers/",
   "retry_after": "2026-10-13"
  },
@@ -4487,19 +4506,19 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.jobs.act.gov.au/\"}": {
   "employer": "ACT Government (jobs.act.gov.au; graduate program)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.jobs.act.gov.au/",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.jobs.tas.gov.au/\"}": {
   "employer": "Tasmanian Government (jobs.tas.gov.au)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.jobs.tas.gov.au/",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.johnholland.com.au/careers\"}": {
   "employer": "John Holland",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.johnholland.com.au', port=443): Max retries exceeded with url: /careers (Caused by NameResolutionError(\"HTTPSConnection(host='www.johnholland.com.au', port=443): Failed t",
   "retry_after": "2026-10-13"
  },
@@ -4529,7 +4548,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.latrobe.edu.au/jobs\"}": {
   "employer": "La Trobe University",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.latrobe.edu.au/jobs",
   "retry_after": "2026-10-13"
  },
@@ -4601,7 +4620,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.lyro.io/\"}": {
   "employer": "Lyro Robotics",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.lyro.io', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.lyro.io', port=443): Failed to establish a new connection: ",
   "retry_after": "2026-10-13"
  },
@@ -4631,13 +4650,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.marqo.ai/careers\"}": {
   "employer": "Marqo",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.marqo.ai/careers",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.mavensecurities.com/careers/\"}": {
   "employer": "Maven Securities",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.mavensecurities.com/careers/",
   "retry_after": "2026-10-13"
  },
@@ -4673,19 +4692,19 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.metacareers.com/careerprograms/students\"}": {
   "employer": "Meta",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 400 Client Error: Bad Request for url: https://www.metacareers.com/careerprograms/students",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.metacareers.com/jobs?offices[0]=Sydney%2C%20Australia\"}": {
   "employer": "Meta",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 400 Client Error: Bad Request for url: https://www.metacareers.com/jobs?offices%5B0%5D=Sydney%2C%20Australia",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.metacareers.com/jobs?offices[0]=Sydney%2C%20Australia&roles[0]=Internship\"}": {
   "employer": "Meta",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 400 Client Error: Bad Request for url: https://www.metacareers.com/jobs?offices%5B0%5D=Sydney%2C%20Australia&roles%5B0%5D=Internship",
   "retry_after": "2026-10-13"
  },
@@ -4709,7 +4728,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.moglabs.com\"}": {
   "employer": "MOGLabs",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.moglabs.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.moglabs.com', port=443): Failed to resolve 'www.moglab",
   "retry_after": "2026-10-13"
  },
@@ -4721,13 +4740,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.monash.edu/engineering\"}": {
   "employer": "Monash Robotics / Monash Engineering research labs",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.monash.edu/engineering",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.monash.edu/study/fees-scholarships/scholarships/summer-winter\"}": {
   "employer": "Monash University (incl. Monash Robotics, MCN host, Engineering)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.monash.edu/study/fees-scholarships/scholarships/summer-winter",
   "retry_after": "2026-10-13"
  },
@@ -4739,7 +4758,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.mq.edu.au/about/careers-at-macquarie\"}": {
   "employer": "Macquarie University (MQ Photonics, Astronomy, AAO vacation scholarships)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.mq.edu.au/about/careers-at-macquarie",
   "retry_after": "2026-10-13"
  },
@@ -4763,7 +4782,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.myob.com/au/about/careers\"}": {
   "employer": "MYOB",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.myob.com/au/about/careers",
   "retry_after": "2026-10-13"
  },
@@ -4781,19 +4800,19 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.nanosonics.com.au/about-us/careers\"}": {
   "employer": "Nanosonics",
-  "fails": 4,
+  "fails": 5,
   "last_error": "TooManyRedirects: Exceeded 30 redirects.",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.nautronix.com\"}": {
   "employer": "Nautronix",
-  "fails": 4,
+  "fails": 5,
   "last_error": "SSLError: HTTPSConnectionPool(host='www.nautronix.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:10",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.naval-group.com.au/\"}": {
   "employer": "Naval Group Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.naval-group.com.au/",
   "retry_after": "2026-10-13"
  },
@@ -4829,13 +4848,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.newcastle.edu.au/about-uon/our-university/careers-at-uon\"}": {
   "employer": "University of Newcastle",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.newcastle.edu.au/about-uon/our-university/careers-at-uon",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.nhp.com.au/careers\"}": {
   "employer": "NHP Electrical Engineering Products",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: robots.txt disallows https://www.nhp.com.au/careers",
   "retry_after": "2026-10-13"
  },
@@ -4853,7 +4872,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.nokia.com/about-us/careers/\"}": {
   "employer": "Nokia Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.nokia.com/about-us/careers/",
   "retry_after": "2026-10-13"
  },
@@ -4871,7 +4890,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.nsrltd.com/careers\"}": {
   "employer": "Northern Star Resources",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.nsrltd.com/careers/",
   "retry_after": "2026-10-13"
  },
@@ -4889,13 +4908,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.olympus.com.au/\"}": {
   "employer": "Olympus Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: robots.txt disallows https://www.olympus.com.au/",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.oni.gov.au/careers\"}": {
   "employer": "Office of National Intelligence (ONI)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.oni.gov.au', port=443): Max retries exceeded with url: /careers (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.oni.gov.au', port=443): Read timed out. (read t",
   "retry_after": "2026-10-13"
  },
@@ -4931,7 +4950,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.oventus.com.au/\"}": {
   "employer": "Oventus Medical",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.oventus.com.au', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.oventus.com.au', port=443): Failed to resolve 'www.",
   "retry_after": "2026-10-13"
  },
@@ -4984,13 +5003,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.pls.com.au/careers\"}": {
   "employer": "Pilbara Minerals (PLS)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.pls.com.au', port=443): Max retries exceeded with url: /careers (Caused by NameResolutionError(\"HTTPSConnection(host='www.pls.com.au', port=443): Failed to resolve 'www.p",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.powerwater.com.au/about/careers\"}": {
   "employer": "Power and Water Corporation (NT)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.powerwater.com.au/about/careers",
   "retry_after": "2026-10-13"
  },
@@ -5044,13 +5063,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.qut.edu.au/about/careers\"}": {
   "employer": "QUT (Vacation Research Experience Scheme; QUT Centre for Robotics)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.qut.edu.au/about/careers",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.qut.edu.au/study/research-degrees/qut-vacation-research-experience-scheme\"}": {
   "employer": "QUT (Vacation Research Experience Scheme; QUT Centre for Robotics)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.qut.edu.au/study/research-degrees/qut-vacation-research-experience-scheme",
   "retry_after": "2026-10-13"
  },
@@ -5068,7 +5087,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.rea-group.com/careers/graduates-and-interns/\"}": {
   "employer": "REA Group",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.rea-group.com/careers/graduates-and-interns/",
   "retry_after": "2026-10-13"
  },
@@ -5086,7 +5105,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.relectrify.com/careers\"}": {
   "employer": "Relectrify",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Page not found: /careers for url: https://www.relectrify.com/careers",
   "retry_after": "2026-10-13"
  },
@@ -5110,7 +5129,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.rmit.edu.au/about/careers-at-rmit\"}": {
   "employer": "RMIT University (incl. RMIT summer research / vacation scholarships)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.rmit.edu.au/about/careers-at-rmit",
   "retry_after": "2026-10-13"
  },
@@ -5128,13 +5147,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.rokt.com/careers\"}": {
   "employer": "Rokt",
-  "fails": 4,
+  "fails": 5,
   "last_error": "TooManyRedirects: Exceeded 30 redirects.",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.royhill.com.au/careers\"}": {
   "employer": "Hancock Prospecting / Roy Hill",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: http://www.hancockironore.com.au/careers",
   "retry_after": "2026-10-13"
  },
@@ -5170,7 +5189,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.safran-group.com/jobs\"}": {
   "employer": "Safran Electronics & Defense Australasia",
-  "fails": 5,
+  "fails": 6,
   "last_error": "blocked: HTTP 403 for https://www.safran-group.com/jobs",
   "retry_after": "2026-10-13"
  },
@@ -5200,7 +5219,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.sawater.com.au/careers\"}": {
   "employer": "SA Water",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.sawater.com.au/careers",
   "retry_after": "2026-10-13"
  },
@@ -5218,13 +5237,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.sea-electric.com/careers/\"}": {
   "employer": "SEA Electric",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.sea-electric.com/careers/",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.selectronic.com.au/\"}": {
   "employer": "Selectronic Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.selectronic.com.au', port=443): Max retries exceeded with url: / (Caused by ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))",
   "retry_after": "2026-10-13"
  },
@@ -5242,7 +5261,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.sew-eurodrive.com.au/\"}": {
   "employer": "SEW-Eurodrive Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.sew-eurodrive.com.au/",
   "retry_after": "2026-10-13"
  },
@@ -5284,25 +5303,25 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.smec.com/en_au/careers\"}": {
   "employer": "SMEC (Surbana Jurong)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.smec.com/en_au/careers",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.south32.net/careers\"}": {
   "employer": "South32",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.south32.net/careers",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.southernlaunch.space/internships\"}": {
   "employer": "Southern Launch",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.southernlaunch.space/internships",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.sqc.com.au/career/6499053\"}": {
   "employer": "Silicon Quantum Computing (SQC)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://sqc.com/career/6499053",
   "retry_after": "2026-10-13"
  },
@@ -5332,19 +5351,19 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.stowe.com.au/careers\"}": {
   "employer": "Stowe Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.stowe.com.au', port=443): Max retries exceeded with url: /careers (Caused by NameResolutionError(\"HTTPSConnection(host='www.stowe.com.au', port=443): Failed to resolve 'w",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.suncable.energy/careers\"}": {
   "employer": "SunCable",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.suncable.energy/careers",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.superloop.com/careers.html\"}": {
   "employer": "Superloop",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.superloop.com/careers.html",
   "retry_after": "2026-10-13"
  },
@@ -5392,13 +5411,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.sydneyairport.com.au/corporate/careers\"}": {
   "employer": "Sydney Airport",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.sydneyairport.com.au/corporate/careers",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.sydneywater.com.au/about-us/careers.html\"}": {
   "employer": "Sydney Water",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.sydneywater.com.au/about-us/careers.html",
   "retry_after": "2026-10-13"
  },
@@ -5440,13 +5459,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.tesla.com/careers/search/?site=AU\"}": {
   "employer": "Tesla Australia (Energy: Megapack, Powerwall, VPP)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.tesla.com/careers/search/?site=AU",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.tesla.com/cua-api/apps/careers/state\"}": {
   "employer": "Tesla Australia (Energy: Megapack, Powerwall, VPP)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.tesla.com/cua-api/apps/careers/state",
   "retry_after": "2026-10-13"
  },
@@ -5476,7 +5495,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.tmr.qld.gov.au/about-us/employment-and-careers\"}": {
   "employer": "Department of Transport and Main Roads (QLD)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.tmr.qld.gov.au/about-us/employment-and-careers",
   "retry_after": "2026-10-13"
  },
@@ -5494,7 +5513,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.toyota.com.au/careers\"}": {
   "employer": "Toyota Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.toyota.com.au/careers",
   "retry_after": "2026-10-13"
  },
@@ -5512,7 +5531,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.trakkasystems.com/\"}": {
   "employer": "Trakka Systems",
-  "fails": 4,
+  "fails": 5,
   "last_error": "RetryError: HTTPSConnectionPool(host='trakkasystems.com', port=443): Max retries exceeded with url: / (Caused by ResponseError('too many 429 error responses'))",
   "retry_after": "2026-10-13"
  },
@@ -5553,8 +5572,8 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.umowlai.com.au/careers\"}": {
   "employer": "Umow Lai",
-  "fails": 4,
-  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.umowlai.com.au', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.umowlai.com.au', port=443) at 0x7f7fb4828b60",
+  "fails": 5,
+  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.umowlai.com.au', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.umowlai.com.au', port=443) at 0x7f4a50f32a50",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.unitywater.com/careers\"}": {
@@ -5571,7 +5590,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.unsw.edu.au/careers\"}": {
   "employer": "UNSW Sydney - Taste of Research (Engineering) + CQC2T/SQC hub",
-  "fails": 5,
+  "fails": 6,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.unsw.edu.au/careers",
   "retry_after": "2026-10-13"
  },
@@ -5601,19 +5620,19 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.utas.edu.au/jobs\"}": {
   "employer": "University of Tasmania",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.utas.edu.au/jobs",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.uts.edu.au/about/employment-uts\"}": {
   "employer": "University of Technology Sydney (FEIT, Robotics Institute, UTS Tech Lab)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.uts.edu.au/about/employment-uts",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.uwa.edu.au/careers\"}": {
   "employer": "University of Western Australia (UWA Summer Research Scholarships)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.uwa.edu.au/careers",
   "retry_after": "2026-10-13"
  },
@@ -5625,14 +5644,14 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.vaxxas.com/careers/\"}": {
   "employer": "Vaxxas",
-  "fails": 0,
-  "last_error": "",
+  "fails": 1,
+  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.vaxxas.com', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.vaxxas.com', port=443) at 0x7f4a60c316a0>, 'Con",
   "last_ok": "2026-10-06"
  },
  "{\"type\": \"page\", \"url\": \"https://www.vaxxas.com/careers/current-opportunities-jobs/\"}": {
   "employer": "Vaxxas",
-  "fails": 0,
-  "last_error": "",
+  "fails": 1,
+  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.vaxxas.com', port=443): Max retries exceeded with url: /careers/current-opportunities-jobs/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.vaxxas.com', port=44",
   "last_ok": "2026-10-06"
  },
  "{\"type\": \"page\", \"url\": \"https://www.ventia.com/careers\"}": {
@@ -5733,13 +5752,13 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.westernsydney.com.au/careers\"}": {
   "employer": "Western Sydney International Airport (WSA Co)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.westernsydney.com.au', port=443): Max retries exceeded with url: /careers (Caused by NameResolutionError(\"HTTPSConnection(host='www.westernsydney.com.au', port=443): Fail",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.woodplc.com/careers\"}": {
   "employer": "Wood (Wood plc)",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.woodgroup.com/careers",
   "retry_after": "2026-10-13"
  },
@@ -5751,7 +5770,7 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.wsp.com/en-au/careers/early-career\"}": {
   "employer": "WSP",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://www.wsp.com/en-au/careers/early-career",
   "retry_after": "2026-10-13"
  },
@@ -5763,19 +5782,19 @@
  },
  "{\"type\": \"page\", \"url\": \"https://www.xero.com/au/about/careers/early-careers/\"}": {
   "employer": "Xero",
-  "fails": 4,
+  "fails": 5,
   "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.xero.com/au/about/careers/early-careers/",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.xtek.net/\"}": {
   "employer": "XTEK",
-  "fails": 4,
-  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.xtek.net', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.xtek.net', port=443) at 0x7f7fe42c3650>, 'Connection to w",
+  "fails": 5,
+  "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.xtek.net', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.xtek.net', port=443) at 0x7f4a706ca690>, 'Connection to w",
   "retry_after": "2026-10-13"
  },
  "{\"type\": \"page\", \"url\": \"https://www.yaskawa.com.au/\"}": {
   "employer": "Yaskawa Australia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "ConnectionError: HTTPSConnectionPool(host='www.yaskawa.com.au', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.yaskawa.com.au', port=443): Failed to resolve 'www.",
   "retry_after": "2026-10-13"
  },
@@ -5817,7 +5836,7 @@
  },
  "{\"type\": \"prosple\"}": {
   "employer": "Prosple / GradAustralia",
-  "fails": 4,
+  "fails": 5,
   "last_error": "blocked: HTTP 403 for https://au.prosple.com/search-jobs?defaults_applied=1&location=Australia&locations=9692&opportunity_types=2&keywords=engineering&start=0",
   "retry_after": "2026-10-13"
  },
