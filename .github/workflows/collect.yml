@@ -33,9 +33,6 @@ jobs:
           # discovery: once a day (16:17 UTC = ~3am Melbourne), on manual request, or when collector code changes
           if [ "$(date -u +%H)" = "16" ] || [ "${{ inputs.discover }}" = "true" ] || [ "${{ github.event_name }}" = "push" ]; then FLAGS="--discover"; fi
           python -m collector.run $FLAGS
-      - name: Debug dump (temporary)
-        if: github.event_name == 'push'
-        run: python tools/debug_dump.py || true
       - name: Commit data
         run: |
           git config user.name "au-eng-internships-bot"

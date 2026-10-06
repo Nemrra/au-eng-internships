@@ -617,11 +617,41 @@ GC_DISCIPLINES = ["engineering", "engineering-electrical", "engineering-software
                   "data-science-and-analytics", "information-technology", "mathematics", "physics", "science"]
 
 
+def _gc_state_groups(html):
+    i = html.find('"campaignGroups":[')
+    if i < 0:
+        return []
+    s = html[i + len('"campaignGroups":['):]
+    dec = json.JSONDecoder()
+    groups, pos = [], 0
+    while pos < len(s):
+        while pos < len(s) and s[pos] in " ,\n\t":
+            pos += 1
+        if pos >= len(s) or s[pos] != "{":
+            break
+        # JS literal `undefined` is not JSON; patch the next chunk lazily
+        try:
+            g, end = dec.raw_decode(s, pos)
+        except json.JSONDecodeError:
+            chunk_end = s.find(']}]', pos)
+            s = s[:pos] + re.sub(r"(?<=[:\[,])\s*undefined\b", "null", s[pos:])
+            try:
+                g, end = dec.raw_decode(s, pos)
+            except json.JSONDecodeError:
+                break
+        groups.append(g)
+        pos = end
+    return groups
+
+
 def gradconnection(spec, emp):
     out, seen = [], set()
-    for kind in ("internships", "graduate-jobs"):
+    for kind in ("internships", "graduate-jobs", "casual-jobs"):
         for disc in GC_DISCIPLINES:
-            for pg in range(1, 6):
+            if kind == "casual-jobs" and disc not in ("engineering", "engineering-electrical", "engineering-software",
+                                                      "computer-science", "science"):
+                continue
+            for pg in range(1, 8):
                 url = f"https://au.gradconnection.com/{kind}/{disc}/" + (f"?page={pg}" if pg > 1 else "")
                 try:
                     r = http.get(url, check_robots=True)
@@ -629,23 +659,45 @@ def gradconnection(spec, emp):
                     raise
                 except Exception:
                     break
-                soup = BeautifulSoup(r.text, "html.parser")
-                links = soup.find_all("a", href=re.compile(r"^/employers/[^/]+/(jobs|notifyme)/[^/]+/?"))
+                groups = _gc_state_groups(r.text)
                 new = 0
-                for a in links:
-                    href = urljoin("https://au.gradconnection.com", a["href"].split("?")[0])
-                    t = a.get_text(" ", strip=True)
-                    if not t or len(t) < 4 or href in seen:
-                        continue
-                    seen.add(href)
-                    new += 1
-                    card = a.find_parent(["li", "article"]) or a.parent.parent.parent
-                    ctext = card.get_text(" | ", strip=True) if card else ""
-                    m = re.search(r"/employers/([^/]+)/", href)
-                    out.append(dict(native_id=href, title=t, company=m.group(1).replace("-", " ").title() if m else None,
-                                    location=ctext[:300], url=href, closes=closing_from_text(ctext),
-                                    card_text=ctext[:600], notify_only="/notifyme/" in href,
-                                    gc_kind=kind))
+                for g in groups:
+                    org = g.get("customer_organization") or {}
+                    for c in g.get("campaigns") or []:
+                        cid = c.get("id")
+                        if not cid or cid in seen:
+                            continue
+                        seen.add(cid)
+                        new += 1
+                        slug = c.get("slug") or ""
+                        notify = "notify" in (c.get("item_type") or "").lower() or (c.get("title") or "").lower().startswith("notify me")
+                        href = (f"https://au.gradconnection.com/employers/{org.get('slug','')}/"
+                                f"{'notifyme' if notify else 'jobs'}/{slug}/")
+                        iv = c.get("interval") or {}
+                        locs = c.get("locations") or ([c["location_name"]] if c.get("location_name") else [])
+                        sal = c.get("salary") if c.get("show_salary") else None
+                        rec = dict(native_id=cid, title=c.get("title"), company=org.get("name"),
+                                   location=" | ".join(locs), url=href,
+                                   apply_url=c.get("origin_target_url") or None,
+                                   posted=_iso(iv.get("start")), closes=_iso(iv.get("end")),
+                                   salary=str(sal) if sal else None, description=strip_html(c.get("description")),
+                                   employment_type=c.get("job_type"), notify_only=notify, gc_kind=kind,
+                                   org_slug=org.get("slug"), work_rights=c.get("work_rights"),
+                                   card_text=" ".join(c.get("display_disciplines") or []))
+                        out.append(rec)
+                soup = BeautifulSoup(r.text, "html.parser")
+                link_re = r"^/employers/[^/]+/(jobs|notifyme)/[^/]+/?" if not groups else r"^/employers/[^/]+/notifyme/[^/]+/?"
+                if True:
+                    for a in soup.find_all("a", href=re.compile(link_re)):
+                        href = urljoin("https://au.gradconnection.com", a["href"].split("?")[0])
+                        t = a.get_text(" ", strip=True)
+                        if not t or href in seen:
+                            continue
+                        seen.add(href)
+                        new += 1
+                        m = re.search(r"/employers/([^/]+)/", href)
+                        out.append(dict(native_id=href, title=t, company=m.group(1).replace("-", " ").title() if m else None,
+                                        location="", url=href, notify_only="/notifyme/" in href, gc_kind=kind))
                 if new == 0:
                     break
     return out

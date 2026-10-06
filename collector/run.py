@@ -192,7 +192,7 @@ def main():
                 auto_expected.append({"company": r.get("company"), "program": re.sub(r"^Notify Me\s*-\s*", "", title),
                                       "url": url, "source": "GradConnection notify-me", "seen": TODAY})
                 continue
-            if spec["type"] == "gradconnection" and re.search(r"/employers/[^/]+-(sg|hk|nz|my|in|uk|ph|id|vn|th|jp|cn)/", url):
+            if spec["type"] == "gradconnection" and re.search(r"-(sg|hk|nz|my|in|uk|ph|id|vn|th|jp|cn|us)$", r.get("org_slug") or "x"):
                 continue
             agg_student_site = spec["type"] in ("prosple", "gradconnection")
             if not (agg_student_site or is_student_or_grad(title, desc)):
@@ -209,9 +209,7 @@ def main():
                 default_au = kind == "page" or not loc
             loc_all = " ".join([loc, card if kind == "aggregator" else ""])
             if spec["type"] in ("prosple", "gradconnection"):
-                if NON_AU_ONLY.search(loc_all) and not au_states(loc_all):
-                    continue
-                au_ok = True
+                au_ok = bool(au_states(loc)) if loc.strip() else not NON_AU_ONLY.search(title + " " + company)
             else:
                 au_ok = is_australian(loc_all, default_au=default_au)
             if not au_ok:
@@ -235,7 +233,7 @@ def main():
                 "key": job_key(company, title), "title": title, "company": company,
                 "employer_id": (emp or {}).get("id"), "priority": priority,
                 "sectors": (emp or {}).get("sectors", []), "location": loc[:300], "states": au_states(loc_all) or ["AU"],
-                "url": url, "source": sname, "source_kind": kind, "source_type": spec["type"],
+                "url": url, "apply_url": r.get("apply_url"), "source": sname, "source_kind": kind, "source_type": spec["type"],
                 "posted": r.get("posted"), "closes": r.get("closes"), "salary": r.get("salary"),
                 "employment_type": r.get("employment_type"), "start_date": r.get("start_date"),
                 "role_type": rtype, "disciplines": discs, "flags": flags, "description": desc[:6000],
@@ -264,7 +262,7 @@ def main():
     # ------------------------------------------------------------ detail pages for new aggregator items
     budget = 300
     for r in recs:
-        if r["source_type"] not in ("prosple", "gradconnection") or budget <= 0:
+        if r["source_type"] not in ("prosple",) or budget <= 0:
             continue
         d = details_cache.get(r["url"])
         if d is None:
@@ -316,7 +314,7 @@ def main():
                 links.append({"url": x["url"], "source": x["source"]})
             if x["source"] not in sources:
                 sources.append(x["source"])
-            for f in ("closes", "salary", "posted", "employment_type", "start_date"):
+            for f in ("closes", "salary", "posted", "employment_type", "start_date", "apply_url"):
                 if not p.get(f) and x.get(f):
                     p[f] = x[f]
             if x.get("posted") and p.get("posted") and x["posted"] < p["posted"]:
