@@ -1,6 +1,90 @@
 {
  "programs": [
   {
+   "company": "ACOR Consultants",
+   "program": "ACOR Consultants Internships",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/acor-consultants/notifyme/notify-me-acor-consultants-internships/"
+  },
+  {
+   "company": "ACOR Consultants",
+   "program": "ACOR Consultants Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/acor-consultants/notifyme/notify-me-acor-consultants-graduate-jobs-7/"
+  },
+  {
+   "company": "AECOM",
+   "program": "AECOM Internships",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/aecom/notifyme/notify-me-aecom-internships-5/"
+  },
+  {
+   "company": "AECOM",
+   "program": "AECOM Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/aecom/notifyme/notify-me-aecom-graduate-jobs-17/"
+  },
+  {
+   "company": "AFL - Australian Football League",
+   "program": "AFL - Australian Football League Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/afl-australian-football-league/notifyme/notify-me-afl-australian-football-league-graduat-3/"
+  },
+  {
+   "company": "AIA",
+   "program": "AIA Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/aia-hong-kong-macau-hk/notifyme/notify-me-aia-graduate-jobs/"
+  },
+  {
+   "company": "APA Group",
+   "program": "APA Group Internships",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/apa-group/notifyme/notify-me-apa-group-internships-4/"
+  },
+  {
+   "company": "APA Group",
+   "program": "APA Group Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/apa-group/notifyme/notify-me-apa-group-graduate-jobs-8/"
+  },
+  {
+   "company": "ASC",
+   "program": "ASC Internships",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/asc/notifyme/notify-me-asc-internships/"
+  },
+  {
+   "company": "ASC",
+   "program": "ASC Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/asc/notifyme/notify-me-asc-graduate-jobs-3/"
+  },
+  {
+   "company": "ASIO",
+   "program": "ASIO Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/asio/notifyme/notify-me-asio-graduate-jobs/"
+  },
+  {
+   "company": "ASX",
+   "program": "ASX Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/asx/notifyme/notify-me-asx-graduate-jobs-6/"
+  },
+  {
    "company": "Accenture",
    "program": "Accenture Internships",
    "seen": "2026-10-06",
@@ -15,20 +99,6 @@
    "url": "https://au.gradconnection.com/employers/accenture/notifyme/notify-me-accenture-graduate-jobs-16/"
   },
   {
-   "company": "Acor Consultants",
-   "program": "ACOR Consultants Internships",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/acor-consultants/notifyme/notify-me-acor-consultants-internships/"
-  },
-  {
-   "company": "Acor Consultants",
-   "program": "ACOR Consultants Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/acor-consultants/notifyme/notify-me-acor-consultants-graduate-jobs-7/"
-  },
-  {
    "company": "Adobe",
    "program": "Adobe Internships",
    "seen": "2026-10-06",
@@ -41,34 +111,6 @@
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/adobe/notifyme/notify-me-adobe-graduate-jobs/"
-  },
-  {
-   "company": "Aecom",
-   "program": "AECOM Internships",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/aecom/notifyme/notify-me-aecom-internships-5/"
-  },
-  {
-   "company": "Aecom",
-   "program": "AECOM Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/aecom/notifyme/notify-me-aecom-graduate-jobs-17/"
-  },
-  {
-   "company": "Afl Australian Football League",
-   "program": "AFL - Australian Football League Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/afl-australian-football-league/notifyme/notify-me-afl-australian-football-league-graduat-3/"
-  },
-  {
-   "company": "Aia Hong Kong Macau Hk",
-   "program": "AIA Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/aia-hong-kong-macau-hk/notifyme/notify-me-aia-graduate-jobs/"
   },
   {
    "company": "Akuna Capital",
@@ -97,27 +139,6 @@
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/alinta-energy/notifyme/notify-me-alinta-energy-graduate-jobs-5/"
-  },
-  {
-   "company": "Aon",
-   "program": "Aon Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/aon/notifyme/notify-me-aon-graduate-jobs-4/"
-  },
-  {
-   "company": "Apa Group",
-   "program": "APA Group Internships",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/apa-group/notifyme/notify-me-apa-group-internships-4/"
-  },
-  {
-   "company": "Apa Group",
-   "program": "APA Group Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/apa-group/notifyme/notify-me-apa-group-graduate-jobs-8/"
   },
   {
    "company": "Arcadis Australia Pacific",
@@ -155,41 +176,6 @@
    "url": "https://au.gradconnection.com/employers/asahi-beverages/notifyme/notify-me-asahi-beverages-graduate-jobs-6/"
   },
   {
-   "company": "Asc",
-   "program": "ASC Internships",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/asc/notifyme/notify-me-asc-internships/"
-  },
-  {
-   "company": "Asc",
-   "program": "ASC Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/asc/notifyme/notify-me-asc-graduate-jobs-3/"
-  },
-  {
-   "company": "Asic",
-   "program": "Australian Securities and Investments Commission Internships",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/asic/notifyme/notify-me-australian-securities-and-investments--4/"
-  },
-  {
-   "company": "Asio",
-   "program": "ASIO Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/asio/notifyme/notify-me-asio-graduate-jobs/"
-  },
-  {
-   "company": "Asx",
-   "program": "ASX Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/asx/notifyme/notify-me-asx-graduate-jobs-6/"
-  },
-  {
    "company": "Atlassian",
    "program": "Atlassian Internships",
    "seen": "2026-10-06",
@@ -202,6 +188,13 @@
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/atlassian/notifyme/notify-me-atlassian-graduate-jobs-4/"
+  },
+  {
+   "company": "AusNet",
+   "program": "AusNet Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/ausnet-services/notifyme/notify-me-ausnet-graduate-jobs-5/"
   },
   {
    "company": "Ausgrid",
@@ -218,13 +211,6 @@
    "url": "https://au.gradconnection.com/employers/ausgrid/notifyme/notify-me-ausgrid-graduate-jobs-4/"
   },
   {
-   "company": "Ausnet Services",
-   "program": "AusNet Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/ausnet-services/notifyme/notify-me-ausnet-graduate-jobs-5/"
-  },
-  {
    "company": "Australian Defence Force",
    "program": "Australian Defence Force Graduate Jobs",
    "seen": "2026-10-06",
@@ -239,11 +225,18 @@
    "url": "https://au.gradconnection.com/employers/australian-government-graduate-program/notifyme/notify-me-australian-government-graduate-program-4/"
   },
   {
-   "company": "Australian Office Of Financial Management",
-   "program": "Australian Office of Financial Management Graduate Jobs",
+   "company": "Australian Securities and Investments Commission",
+   "program": "Australian Securities and Investments Commission Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/australian-office-of-financial-management/notifyme/notify-me-australian-office-of-financial-managemen/"
+   "url": "https://au.gradconnection.com/employers/asic/notifyme/notify-me-australian-securities-and-investments--4/"
+  },
+  {
+   "company": "Australian Securities and Investments Commission",
+   "program": "Australian Securities and Investments Commission Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/asic/notifyme/notify-me-australian-securities-and-investments--5/"
   },
   {
    "company": "Australian Signals Directorate",
@@ -267,7 +260,35 @@
    "url": "https://au.gradconnection.com/employers/australian-taxation-office/notifyme/notify-me-australian-taxation-office-graduate-jo-4/"
   },
   {
-   "company": "Bank Of America",
+   "company": "BNY",
+   "program": "BNY Internships",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/bny-sg/notifyme/notify-me-bny-internships-6/"
+  },
+  {
+   "company": "BNY",
+   "program": "BNY Internships",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/bny-hk/notifyme/notify-me-bny-internships-5/"
+  },
+  {
+   "company": "BNY",
+   "program": "BNY Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/bny-hk/notifyme/notify-me-bny-graduate-jobs-2/"
+  },
+  {
+   "company": "BNY",
+   "program": "BNY Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/bny-sg/notifyme/notify-me-bny-graduate-jobs/"
+  },
+  {
+   "company": "Bank of America",
    "program": "Bank of America Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
@@ -281,46 +302,46 @@
    "url": "https://au.gradconnection.com/employers/bapcor/notifyme/notify-me-bapcor-graduate-jobs/"
   },
   {
-   "company": "Beon Citipower Powercor And United Energy",
+   "company": "Beon, CitiPower, Powercor and United Energy",
    "program": "Beon, CitiPower, Powercor and United Energy Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/beon-citipower-powercor-and-united-energy/notifyme/notify-me-beon-citipower-powercor-and-united-ene-7/"
   },
   {
-   "company": "Beon Citipower Powercor And United Energy",
+   "company": "Beon, CitiPower, Powercor and United Energy",
    "program": "Beon, CitiPower, Powercor and United Energy Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/beon-citipower-powercor-and-united-energy/notifyme/notify-me-beon-citipower-powercor-and-united-ene-9/"
   },
   {
-   "company": "Bny Hk",
-   "program": "BNY Internships",
+   "company": "CIMIC Group",
+   "program": "CIMIC Group Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/bny-hk/notifyme/notify-me-bny-internships-5/"
+   "url": "https://au.gradconnection.com/employers/cimic-group/notifyme/notify-me-cimic-group-internships-2/"
   },
   {
-   "company": "Bny Hk",
-   "program": "BNY Graduate Jobs",
+   "company": "CIMIC Group",
+   "program": "CIMIC Group Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/bny-hk/notifyme/notify-me-bny-graduate-jobs-2/"
+   "url": "https://au.gradconnection.com/employers/cimic-group/notifyme/notify-me-cimic-group-graduate-jobs-3/"
   },
   {
-   "company": "Bny Sg",
-   "program": "BNY Internships",
+   "company": "CPB Contractors",
+   "program": "CPB Contractors Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/bny-sg/notifyme/notify-me-bny-internships-6/"
+   "url": "https://au.gradconnection.com/employers/cpb-contractors/notifyme/notify-me-cpb-contractors-internships-4/"
   },
   {
-   "company": "Bp",
-   "program": "bp Graduate Jobs",
+   "company": "CPB Contractors",
+   "program": "CPB Contractors Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/bp/notifyme/notify-me-bp-graduate-jobs-5/"
+   "url": "https://au.gradconnection.com/employers/cpb-contractors/notifyme/notify-me-cpb-contractors-graduate-jobs-3/"
   },
   {
    "company": "Canva",
@@ -344,13 +365,6 @@
    "url": "https://au.gradconnection.com/employers/capgemini/notifyme/notify-me-capgemini-internships-7/"
   },
   {
-   "company": "Cathay Pacific Hk",
-   "program": "Cathay Pacific Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/cathay-pacific-hk/notifyme/notify-me-cathay-pacific-graduate-jobs/"
-  },
-  {
    "company": "Cement Australia",
    "program": "Cement Australia Graduate Jobs",
    "seen": "2026-10-06",
@@ -372,18 +386,11 @@
    "url": "https://au.gradconnection.com/employers/chevron-australia/notifyme/notify-me-chevron-australia-graduate-jobs/"
   },
   {
-   "company": "Cimic Group",
-   "program": "CIMIC Group Internships",
+   "company": "Chrome Consulting",
+   "program": "Chrome Consulting Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/cimic-group/notifyme/notify-me-cimic-group-internships-2/"
-  },
-  {
-   "company": "Cimic Group",
-   "program": "CIMIC Group Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/cimic-group/notifyme/notify-me-cimic-group-graduate-jobs-3/"
+   "url": "https://au.gradconnection.com/employers/chrome-consulting/notifyme/notify-me-chrome-consulting-graduate-jobs/"
   },
   {
    "company": "Cisco",
@@ -407,7 +414,7 @@
    "url": "https://au.gradconnection.com/employers/civilian-engineer-development-program/notifyme/notify-me-civilian-engineer-development-program--2/"
   },
   {
-   "company": "Coles",
+   "company": "Coles Group",
    "program": "Coles Group Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
@@ -421,7 +428,7 @@
    "url": "https://au.gradconnection.com/employers/comcare/notifyme/notify-me-comcare-graduate-jobs/"
   },
   {
-   "company": "Commonwealth Bank",
+   "company": "CommBank",
    "program": "CommBank Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
@@ -442,25 +449,25 @@
    "url": "https://au.gradconnection.com/employers/costa/notifyme/notify-me-costa-graduate-jobs-2/"
   },
   {
-   "company": "Cpb Contractors",
-   "program": "CPB Contractors Internships",
+   "company": "DBS",
+   "program": "DBS Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/cpb-contractors/notifyme/notify-me-cpb-contractors-internships-4/"
+   "url": "https://au.gradconnection.com/employers/dbs-hk/notifyme/notify-me-dbs-graduate-jobs-2/"
   },
   {
-   "company": "Cpb Contractors",
-   "program": "CPB Contractors Graduate Jobs",
+   "company": "DXC Technology",
+   "program": "DXC Technology Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/cpb-contractors/notifyme/notify-me-cpb-contractors-graduate-jobs-3/"
+   "url": "https://au.gradconnection.com/employers/dxc-technology/notifyme/notify-me-dxc-technology-internships-3/"
   },
   {
-   "company": "Daimler Truck",
-   "program": "Daimler Truck Internships",
+   "company": "DXC Technology",
+   "program": "DXC Technology Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/daimler-truck/notifyme/notify-me-daimler-truck-internships-5/"
+   "url": "https://au.gradconnection.com/employers/dxc-technology/notifyme/notify-me-dxc-technology-graduate-jobs-12/"
   },
   {
    "company": "Danone",
@@ -470,13 +477,6 @@
    "url": "https://au.gradconnection.com/employers/danone/notifyme/notify-me-danone-graduate-jobs-2/"
   },
   {
-   "company": "Dbs Hk",
-   "program": "DBS Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/dbs-hk/notifyme/notify-me-dbs-graduate-jobs-2/"
-  },
-  {
    "company": "Deloitte",
    "program": "Deloitte Graduate Jobs",
    "seen": "2026-10-06",
@@ -484,74 +484,74 @@
    "url": "https://au.gradconnection.com/employers/deloitte/notifyme/notify-me-deloitte-graduate-jobs-12/"
   },
   {
-   "company": "Department Of Defence",
+   "company": "Department of Defence",
    "program": "Department of Defence Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/department-of-defence/notifyme/notify-me-department-of-defence-internships/"
   },
   {
-   "company": "Department Of Defence",
+   "company": "Department of Defence",
    "program": "Department of Defence Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/department-of-defence/notifyme/notify-me-department-of-defence-graduate-jobs-7/"
   },
   {
-   "company": "Department Of Health Disability And Ageing",
+   "company": "Department of Health, Disability and Ageing",
    "program": "Department of Health, Disability and Ageing Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/department-of-health-disability-and-ageing/notifyme/notify-me-department-of-health-disability-and-agei/"
   },
   {
-   "company": "Department Of The Prime Minister And Cabinet",
-   "program": "Department of the Prime Minister and Cabinet Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/department-of-the-prime-minister-and-cabinet/notifyme/notify-me-department-of-the-prime-minister-and-c-4/"
-  },
-  {
-   "company": "Department Of Transport And Planning",
+   "company": "Department of Transport and Planning",
    "program": "Department of Transport and Planning Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/department-of-transport-and-planning/notifyme/notify-me-department-of-transport-and-planning-int/"
   },
   {
-   "company": "Deutsche Bank Hk",
+   "company": "Department of the Prime Minister and Cabinet",
+   "program": "Department of the Prime Minister and Cabinet Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/department-of-the-prime-minister-and-cabinet/notifyme/notify-me-department-of-the-prime-minister-and-c-4/"
+  },
+  {
+   "company": "Deutsche Bank Hong Kong",
    "program": "Deutsche Bank Hong Kong Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/deutsche-bank-hk/notifyme/notify-me-deutsche-bank-hong-kong-internships-4/"
   },
   {
-   "company": "Deutsche Bank Sg",
+   "company": "Deutsche Bank Hong Kong",
+   "program": "Deutsche Bank Hong Kong Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/deutsche-bank-hk/notifyme/notify-me-deutsche-bank-hong-kong-graduate-jobs-2/"
+  },
+  {
+   "company": "Deutsche Bank Singapore",
+   "program": "Deutsche Bank Singapore Internships",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/deutsche-bank-sg/notifyme/notify-me-deutsche-bank-singapore-internships-3/"
+  },
+  {
+   "company": "Deutsche Bank Singapore",
    "program": "Deutsche Bank Singapore Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/deutsche-bank-sg/notifyme/notify-me-deutsche-bank-singapore-graduate-jobs-2/"
   },
   {
-   "company": "Duluxgroup",
+   "company": "DuluxGroup",
    "program": "DuluxGroup Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/duluxgroup/notifyme/notify-me-duluxgroup-graduate-jobs-5/"
-  },
-  {
-   "company": "Dxc Technology",
-   "program": "DXC Technology Internships",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/dxc-technology/notifyme/notify-me-dxc-technology-internships-3/"
-  },
-  {
-   "company": "Dxc Technology",
-   "program": "DXC Technology Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/dxc-technology/notifyme/notify-me-dxc-technology-graduate-jobs-12/"
   },
   {
    "company": "Evolution Mining",
@@ -568,32 +568,53 @@
    "url": "https://au.gradconnection.com/employers/evolution-mining/notifyme/notify-me-evolution-mining-graduate-jobs-5/"
   },
   {
-   "company": "Fdm Group Hk",
+   "company": "FDM Group Hong Kong",
    "program": "FDM Group Hong Kong Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/fdm-group-hk/notifyme/notify-me-fdm-group-hong-kong-graduate-jobs-3/"
   },
   {
-   "company": "Fdm Group Sg",
+   "company": "FDM Group Malaysia",
+   "program": "FDM Group Malaysia Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/fdm-group-malaysia-my/notifyme/notify-me-fdm-group-malaysia-graduate-jobs-2/"
+  },
+  {
+   "company": "FDM Group Singapore",
    "program": "FDM Group Singapore Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/fdm-group-sg/notifyme/notify-me-fdm-group-singapore-internships/"
   },
   {
-   "company": "Fdm Group Sg",
+   "company": "FDM Group Singapore",
    "program": "FDM Group Singapore Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/fdm-group-sg/notifyme/notify-me-fdm-group-singapore-graduate-jobs-3/"
   },
   {
-   "company": "Fti Consulting",
+   "company": "FTI Consulting",
    "program": "FTI Consulting Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/fti-consulting/notifyme/notify-me-fti-consulting-internships-5/"
+  },
+  {
+   "company": "FTI Consulting",
+   "program": "FTI Consulting Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/fti-consulting/notifyme/notify-me-fti-consulting-graduate-jobs-4/"
+  },
+  {
+   "company": "Fenwick",
+   "program": "Fenwick Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/fenwick/notifyme/notify-me-fenwick-graduate-jobs-2/"
   },
   {
    "company": "Fujitsu",
@@ -603,11 +624,18 @@
    "url": "https://au.gradconnection.com/employers/fujitsu/notifyme/notify-me-fujitsu-graduate-jobs-4/"
   },
   {
-   "company": "Ghd",
+   "company": "GHD",
    "program": "GHD Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/ghd/notifyme/notify-me-ghd-internships-8/"
+  },
+  {
+   "company": "Give A Grad A Go",
+   "program": "Give A Grad A Go Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/give-a-grad-a-go/notifyme/notify-me-give-a-grad-a-go-graduate-jobs-13/"
   },
   {
    "company": "Glencore",
@@ -631,7 +659,21 @@
    "url": "https://au.gradconnection.com/employers/google/notifyme/notify-me-google-internships/"
   },
   {
-   "company": "Hang Seng Bank Hk",
+   "company": "HKEX",
+   "program": "HKEX Internships",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/hkex-hk/notifyme/notify-me-hkex-internships-3/"
+  },
+  {
+   "company": "HKEX",
+   "program": "HKEX Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/hkex-hk/notifyme/notify-me-hkex-graduate-jobs-4/"
+  },
+  {
+   "company": "Hang Seng Bank",
    "program": "Hang Seng Bank Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
@@ -652,14 +694,14 @@
    "url": "https://au.gradconnection.com/employers/hatch/notifyme/notify-me-hatch-graduate-jobs-6/"
   },
   {
-   "company": "Heat And Control",
+   "company": "Heat and Control",
    "program": "Heat and Control Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/heat-and-control/notifyme/notify-me-heat-and-control-graduate-jobs/"
   },
   {
-   "company": "Heidelberg Materials",
+   "company": "Heidelberg Materials Australia",
    "program": "Heidelberg Materials Australia Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
@@ -673,28 +715,14 @@
    "url": "https://au.gradconnection.com/employers/hilton-foods-australia/notifyme/notify-me-hilton-foods-australia-internships-2/"
   },
   {
-   "company": "Hkex Hk",
-   "program": "HKEX Internships",
+   "company": "Holcim",
+   "program": "Holcim Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/hkex-hk/notifyme/notify-me-hkex-internships-3/"
+   "url": "https://au.gradconnection.com/employers/holcim/notifyme/notify-me-holcim-graduate-jobs-3/"
   },
   {
-   "company": "Hkex Hk",
-   "program": "HKEX Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/hkex-hk/notifyme/notify-me-hkex-graduate-jobs-4/"
-  },
-  {
-   "company": "Hktdc Hk",
-   "program": "The Hong Kong Trade Development Council (HKTDC) Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/hktdc-hk/notifyme/notify-me-the-hong-kong-trade-development-council/"
-  },
-  {
-   "company": "Honeywell",
+   "company": "Honeywell Technologies",
    "program": "Honeywell Technologies Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
@@ -715,74 +743,102 @@
    "url": "https://au.gradconnection.com/employers/hydro-tasmania/notifyme/notify-me-hydro-tasmania-graduate-jobs-3/"
   },
   {
-   "company": "Iag",
+   "company": "IAG",
    "program": "IAG Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/iag/notifyme/notify-me-iag-graduate-jobs-8/"
   },
   {
-   "company": "Imc",
+   "company": "IMC",
    "program": "IMC Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/imc/notifyme/notify-me-imc-internships-6/"
   },
   {
-   "company": "Imc",
+   "company": "IMC",
    "program": "IMC Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/imc/notifyme/notify-me-imc-graduate-jobs-7/"
   },
   {
-   "company": "Imi Sg",
+   "company": "IMI Singapore",
    "program": "IMI Singapore Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/imi-sg/notifyme/notify-me-imi-singapore-internships/"
   },
   {
-   "company": "Infosys Ltd",
-   "program": "Infosys Graduate Jobs",
+   "company": "IMI Singapore",
+   "program": "IMI Singapore Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/infosys-ltd/notifyme/notify-me-infosys-graduate-jobs/"
+   "url": "https://au.gradconnection.com/employers/imi-sg/notifyme/notify-me-imi-singapore-graduate-jobs/"
   },
   {
-   "company": "Ipart Nsw",
+   "company": "IPART NSW",
    "program": "IPART NSW Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/ipart-nsw/notifyme/notify-me-ipart-nsw-graduate-jobs/"
   },
   {
-   "company": "Iph",
+   "company": "IPH",
    "program": "IPH Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/iph/notifyme/notify-me-iph-graduate-jobs/"
   },
   {
-   "company": "Jane Street Sg",
+   "company": "Infosys",
+   "program": "Infosys Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/infosys-ltd/notifyme/notify-me-infosys-graduate-jobs/"
+  },
+  {
+   "company": "JDS",
+   "program": "JDS Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/jds/notifyme/notify-me-jds-graduate-jobs-5/"
+  },
+  {
+   "company": "Jane Street",
    "program": "Jane Street Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/jane-street-sg/notifyme/notify-me-jane-street-internships-3/"
   },
   {
-   "company": "Jane Street Sg",
+   "company": "Jane Street",
+   "program": "Jane Street Internships",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/jane-street-hk/notifyme/notify-me-jane-street-internships-4/"
+  },
+  {
+   "company": "Jane Street",
    "program": "Jane Street Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/jane-street-sg/notifyme/notify-me-jane-street-graduate-jobs-5/"
   },
   {
-   "company": "Jds",
-   "program": "JDS Graduate Jobs",
+   "company": "Jane Street",
+   "program": "Jane Street Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/jds/notifyme/notify-me-jds-graduate-jobs-5/"
+   "url": "https://au.gradconnection.com/employers/jane-street-hk/notifyme/notify-me-jane-street-graduate-jobs-7/"
+  },
+  {
+   "company": "KPMG",
+   "program": "KPMG Internships",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/kpmg/notifyme/notify-me-kpmg-internships-4/"
   },
   {
    "company": "Kmart Group",
@@ -797,6 +853,20 @@
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/kraft-heinz/notifyme/notify-me-kraft-heinz-graduate-jobs-3/"
+  },
+  {
+   "company": "L'ORÉAL Singapore",
+   "program": "L'ORÉAL Singapore Internships",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/loreal-sg/notifyme/notify-me-loreal-singapore-internships/"
+  },
+  {
+   "company": "L'ORÉAL Singapore",
+   "program": "L'ORÉAL Singapore Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/loreal-sg/notifyme/notify-me-loreal-singapore-graduate-jobs/"
   },
   {
    "company": "Leidos",
@@ -820,32 +890,11 @@
    "url": "https://au.gradconnection.com/employers/lendlease/notifyme/notify-me-lendlease-internships-10/"
   },
   {
-   "company": "Linfox",
-   "program": "Linfox Internships",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/linfox/notifyme/notify-me-linfox-internships-5/"
-  },
-  {
    "company": "Lockheed Martin",
    "program": "Lockheed Martin Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/lockheed-martin/notifyme/notify-me-lockheed-martin-graduate-jobs/"
-  },
-  {
-   "company": "Loreal Sg",
-   "program": "L'ORÉAL Singapore Internships",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/loreal-sg/notifyme/notify-me-loreal-singapore-internships/"
-  },
-  {
-   "company": "Loreal Sg",
-   "program": "L'ORÉAL Singapore Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/loreal-sg/notifyme/notify-me-loreal-singapore-graduate-jobs/"
   },
   {
    "company": "Macquarie Group",
@@ -855,35 +904,28 @@
    "url": "https://au.gradconnection.com/employers/macquarie-group/notifyme/notify-me-macquarie-group-internships-7/"
   },
   {
-   "company": "Marsh Mclennan Hk",
-   "program": "Marsh McLennan Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/marsh-mclennan-hk/notifyme/notify-me-marsh-mclennan-graduate-jobs-6/"
-  },
-  {
-   "company": "Marsh Mclennan Sg",
+   "company": "Marsh McLennan",
    "program": "Marsh McLennan Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/marsh-mclennan-sg/notifyme/notify-me-marsh-mclennan-internships-2/"
   },
   {
-   "company": "Marsh Mclennan Sg",
+   "company": "Marsh McLennan",
    "program": "Marsh McLennan Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/marsh-mclennan-sg/notifyme/notify-me-marsh-mclennan-graduate-jobs-5/"
   },
   {
-   "company": "Minter Ellison",
-   "program": "MinterEllison Internships",
+   "company": "Marsh McLennan",
+   "program": "Marsh McLennan Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/minter-ellison/notifyme/notify-me-minterellison-internships-3/"
+   "url": "https://au.gradconnection.com/employers/marsh-mclennan-hk/notifyme/notify-me-marsh-mclennan-graduate-jobs-6/"
   },
   {
-   "company": "Minter Ellison",
+   "company": "MinterEllison",
    "program": "MinterEllison Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
@@ -897,25 +939,67 @@
    "url": "https://au.gradconnection.com/employers/mirvac/notifyme/notify-me-mirvac-internships-3/"
   },
   {
-   "company": "Mondelez International",
+   "company": "Mondelēz International",
    "program": "Mondelēz International Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/mondelez-international/notifyme/notify-me-mondelez-international-graduate-jobs-4/"
   },
   {
-   "company": "Nab",
+   "company": "NAB",
    "program": "NAB Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/nab/notifyme/notify-me-nab-internships-2/"
   },
   {
-   "company": "Nab",
+   "company": "NAB",
    "program": "NAB Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/nab/notifyme/notify-me-nab-graduate-jobs-3/"
+  },
+  {
+   "company": "NEXTDC",
+   "program": "NEXTDC Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/nextdc-limited/notifyme/notify-me-nextdc-graduate-jobs-3/"
+  },
+  {
+   "company": "NRW Holdings",
+   "program": "NRW Holdings Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/nrw-holdings/notifyme/notify-me-nrw-civil-mining-graduate-jobs/"
+  },
+  {
+   "company": "NSW Government",
+   "program": "NSW Government Internships",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/nsw-government/notifyme/notify-me-nsw-government-internships-28/"
+  },
+  {
+   "company": "NSW Government",
+   "program": "NSW Government Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/nsw-government/notifyme/notify-me-nsw-government-graduate-jobs-17/"
+  },
+  {
+   "company": "NTT DATA",
+   "program": "NTT DATA Internships",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/ntt/notifyme/notify-me-ntt-data-internships-2/"
+  },
+  {
+   "company": "NTT DATA",
+   "program": "NTT DATA Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/ntt/notifyme/notify-me-ntt-data-graduate-jobs-2/"
   },
   {
    "company": "National Indigenous Australians Agency",
@@ -925,14 +1009,7 @@
    "url": "https://au.gradconnection.com/employers/national-indigenous-australians-agency/notifyme/notify-me-national-indigenous-australians-agency-3/"
   },
   {
-   "company": "Nbn",
-   "program": "nbn Internships",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/nbn/notifyme/notify-me-nbn-internships-2/"
-  },
-  {
-   "company": "Nestle",
+   "company": "Nestlé",
    "program": "Nestlé Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
@@ -953,70 +1030,21 @@
    "url": "https://au.gradconnection.com/employers/newmont/notifyme/notify-me-newmont-graduate-jobs-5/"
   },
   {
-   "company": "Nextdc Limited",
-   "program": "NEXTDC Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/nextdc-limited/notifyme/notify-me-nextdc-graduate-jobs-3/"
-  },
-  {
-   "company": "Nib",
-   "program": "nib Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/nib/notifyme/notify-me-nib-graduate-jobs/"
-  },
-  {
-   "company": "Nrw Holdings",
-   "program": "NRW Holdings Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/nrw-holdings/notifyme/notify-me-nrw-civil-mining-graduate-jobs/"
-  },
-  {
-   "company": "Nsw Government",
-   "program": "NSW Government Internships",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/nsw-government/notifyme/notify-me-nsw-government-internships-28/"
-  },
-  {
-   "company": "Nsw Government",
-   "program": "NSW Government Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/nsw-government/notifyme/notify-me-nsw-government-graduate-jobs-17/"
-  },
-  {
-   "company": "Ntt",
-   "program": "NTT DATA Internships",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/ntt/notifyme/notify-me-ntt-data-internships-2/"
-  },
-  {
-   "company": "Ntt",
-   "program": "NTT DATA Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/ntt/notifyme/notify-me-ntt-data-graduate-jobs-2/"
-  },
-  {
-   "company": "Obrien",
+   "company": "O'Brien",
    "program": "O'Brien Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/obrien/notifyme/notify-me-obrien-graduate-jobs-2/"
   },
   {
-   "company": "Okx Hk",
+   "company": "OKX Hong Kong",
    "program": "OKX Hong Kong Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/okx-hk/notifyme/notify-me-okx-hong-kong-graduate-jobs-2/"
   },
   {
-   "company": "Okx Sg",
+   "company": "OKX Singapore",
    "program": "OKX Singapore Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
@@ -1072,18 +1100,25 @@
    "url": "https://au.gradconnection.com/employers/orica/notifyme/notify-me-orica-graduate-jobs-2/"
   },
   {
-   "company": "Partners In Performance",
+   "company": "P&G",
+   "program": "P&G Internships",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/pg/notifyme/notify-me-pg-internships-4/"
+  },
+  {
+   "company": "PEXA",
+   "program": "PEXA Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/pexa/notifyme/notify-me-pexa-graduate-jobs-2/"
+  },
+  {
+   "company": "Partners in Performance",
    "program": "Partners in Performance Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/partners-in-performance/notifyme/notify-me-partners-in-performance-graduate-jobs-6/"
-  },
-  {
-   "company": "Perpetual",
-   "program": "Perpetual Internships",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/perpetual/notifyme/notify-me-perpetual-internships/"
   },
   {
    "company": "Perpetual",
@@ -1093,27 +1128,6 @@
    "url": "https://au.gradconnection.com/employers/perpetual/notifyme/notify-me-perpetual-graduate-jobs-3/"
   },
   {
-   "company": "Pexa",
-   "program": "PEXA Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/pexa/notifyme/notify-me-pexa-graduate-jobs-2/"
-  },
-  {
-   "company": "Pg",
-   "program": "P&G Internships",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/pg/notifyme/notify-me-pg-internships-4/"
-  },
-  {
-   "company": "Pinnacle",
-   "program": "Pinnacle Internships",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/pinnacle/notifyme/notify-me-pinnacle-internships-3/"
-  },
-  {
    "company": "Pinnacle",
    "program": "Pinnacle Graduate Jobs",
    "seen": "2026-10-06",
@@ -1121,21 +1135,14 @@
    "url": "https://au.gradconnection.com/employers/pinnacle/notifyme/notify-me-pinnacle-graduate-jobs-12/"
   },
   {
-   "company": "Pitcher Partners",
-   "program": "Pitcher Partners Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/pitcher-partners/notifyme/notify-me-pitcher-partners-graduate-jobs-3/"
-  },
-  {
-   "company": "Powerlink",
+   "company": "Powerlink Queensland",
    "program": "Powerlink Queensland Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/powerlink/notifyme/notify-me-powerlink-queensland-internships-2/"
   },
   {
-   "company": "Powerlink",
+   "company": "Powerlink Queensland",
    "program": "Powerlink Queensland Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
@@ -1156,35 +1163,35 @@
    "url": "https://au.gradconnection.com/employers/protiviti/notifyme/notify-me-protiviti-graduate-jobs-11/"
   },
   {
-   "company": "Public Transport Authority Of Wa",
+   "company": "Public Transport Authority of WA",
    "program": "Public Transport Authority of WA Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/public-transport-authority-of-wa/notifyme/notify-me-public-transport-authority-of-wa-inter-3/"
   },
   {
-   "company": "Public Transport Authority Of Wa",
+   "company": "Public Transport Authority of WA",
    "program": "Public Transport Authority of WA Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/public-transport-authority-of-wa/notifyme/notify-me-public-transport-authority-of-wa-gradu-4/"
   },
   {
-   "company": "Pwc",
+   "company": "PwC",
    "program": "PwC Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/pwc/notifyme/notify-me-pwc-internships-9/"
   },
   {
-   "company": "Pwc",
+   "company": "PwC",
    "program": "PwC Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/pwc/notifyme/notify-me-pwc-graduate-jobs-9/"
   },
   {
-   "company": "Qbe",
+   "company": "QBE Insurance",
    "program": "QBE Insurance Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
@@ -1205,6 +1212,20 @@
    "url": "https://au.gradconnection.com/employers/queensland-treasury/notifyme/notify-me-queensland-treasury-graduate-jobs-3/"
   },
   {
+   "company": "RACV",
+   "program": "RACV Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/racv/notifyme/notify-me-racv-graduate-jobs/"
+  },
+  {
+   "company": "RWE",
+   "program": "RWE Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/rwe-sg/notifyme/notify-me-rwe-graduate-jobs/"
+  },
+  {
    "company": "Rabobank",
    "program": "Rabobank Internships",
    "seen": "2026-10-06",
@@ -1219,14 +1240,7 @@
    "url": "https://au.gradconnection.com/employers/rabobank/notifyme/notify-me-rabobank-graduate-jobs-7/"
   },
   {
-   "company": "Racv",
-   "program": "RACV Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/racv/notifyme/notify-me-racv-graduate-jobs/"
-  },
-  {
-   "company": "Rba",
+   "company": "Reserve Bank of Australia",
    "program": "Reserve Bank of Australia Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
@@ -1241,24 +1255,38 @@
   },
   {
    "company": "Rio Tinto",
+   "program": "Rio Tinto Internships",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/rio-tinto-sg/notifyme/notify-me-rio-tinto-internships-3/"
+  },
+  {
+   "company": "Rio Tinto",
+   "program": "Rio Tinto Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/rio-tinto-sg/notifyme/notify-me-rio-tinto-graduate-jobs-3/"
+  },
+  {
+   "company": "Rio Tinto",
    "program": "Rio Tinto Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/rio-tinto/notifyme/notify-me-rio-tinto-graduate-jobs-5/"
   },
   {
-   "company": "Rwe Sg",
-   "program": "RWE Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/rwe-sg/notifyme/notify-me-rwe-graduate-jobs/"
-  },
-  {
-   "company": "Seek Grad",
+   "company": "SEEK Grad",
    "program": "SEEK Grad Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/seek-grad/notifyme/notify-me-seek-grad-graduate-jobs-2/"
+  },
+  {
+   "company": "SMEC",
+   "program": "SMEC Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/smec/notifyme/notify-me-smec-graduate-jobs-2/"
   },
   {
    "company": "Services Australia",
@@ -1268,18 +1296,11 @@
    "url": "https://au.gradconnection.com/employers/services-australia/notifyme/notify-me-services-australia-graduate-jobs-4/"
   },
   {
-   "company": "Siemens",
+   "company": "Siemens Ltd.",
    "program": "Siemens Ltd. Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/siemens/notifyme/notify-me-siemens-ltd-graduate-jobs/"
-  },
-  {
-   "company": "Silver Fern Farms Nz",
-   "program": "Silver Fern Farms Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/silver-fern-farms-nz/notifyme/notify-me-silver-fern-farms-graduate-jobs/"
   },
   {
    "company": "Simplot",
@@ -1289,28 +1310,28 @@
    "url": "https://au.gradconnection.com/employers/simplot/notifyme/notify-me-simplot-graduate-jobs-2/"
   },
   {
-   "company": "Singtel Sg",
+   "company": "Singtel Singapore",
    "program": "Singtel Singapore Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/singtel-sg/notifyme/notify-me-singtel-singapore-internships-3/"
   },
   {
-   "company": "Singtel Sg",
+   "company": "Singtel Singapore",
    "program": "Singtel Singapore Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/singtel-sg/notifyme/notify-me-singtel-singapore-graduate-jobs-3/"
   },
   {
-   "company": "Societe Generale Hk",
+   "company": "Societe Generale",
    "program": "Societe Generale Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/societe-generale-hk/notifyme/notify-me-societe-generale-internships-3/"
   },
   {
-   "company": "Societe Generale Hk",
+   "company": "Societe Generale",
    "program": "Societe Generale Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
@@ -1364,6 +1385,20 @@
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/sydney-water/notifyme/notify-me-sydney-water-graduate-jobs-4/"
+  },
+  {
+   "company": "TBH",
+   "program": "TBH Internships",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/tbh/notifyme/notify-me-tbh-internships-2/"
+  },
+  {
+   "company": "TPG Telecom",
+   "program": "TPG Telecom Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/tpg-telecom/notifyme/notify-me-tpg-telecom-graduate-jobs/"
   },
   {
    "company": "Tata Consultancy Services",
@@ -1422,7 +1457,14 @@
    "url": "https://au.gradconnection.com/employers/the-data-school/notifyme/notify-me-the-data-school-graduate-jobs-3/"
   },
   {
-   "company": "The University Of Melbourne",
+   "company": "The Hong Kong Trade Development Council (HKTDC)",
+   "program": "The Hong Kong Trade Development Council (HKTDC) Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/hktdc-hk/notifyme/notify-me-the-hong-kong-trade-development-council/"
+  },
+  {
+   "company": "The University of Melbourne",
    "program": "The University of Melbourne Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
@@ -1457,63 +1499,56 @@
    "url": "https://au.gradconnection.com/employers/toyota/notifyme/notify-me-toyota-graduate-jobs-3/"
   },
   {
-   "company": "Tpg Telecom",
-   "program": "TPG Telecom Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/tpg-telecom/notifyme/notify-me-tpg-telecom-graduate-jobs/"
-  },
-  {
-   "company": "Transport For Nsw",
+   "company": "Transport for NSW",
    "program": "Transport for NSW Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/transport-for-nsw/notifyme/notify-me-transport-for-nsw-internships-2/"
   },
   {
-   "company": "Transport For Nsw",
+   "company": "Transport for NSW",
    "program": "Transport for NSW Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/transport-for-nsw/notifyme/notify-me-transport-for-nsw-graduate-jobs-4/"
   },
   {
-   "company": "Turner Townsend",
+   "company": "Turner & Townsend",
    "program": "Turner & Townsend Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/turner-townsend/notifyme/notify-me-turner-townsend-graduate-jobs-7/"
   },
   {
-   "company": "Ubs",
+   "company": "UBS",
    "program": "UBS Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/ubs/notifyme/notify-me-ubs-internships-6/"
   },
   {
-   "company": "Ubs",
+   "company": "UBS",
    "program": "UBS Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/ubs/notifyme/notify-me-ubs-graduate-jobs-7/"
   },
   {
-   "company": "Ubs Sg",
+   "company": "UBS Singapore",
    "program": "UBS Singapore Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/ubs-sg/notifyme/notify-me-ubs-singapore-internships-3/"
   },
   {
-   "company": "Ubs Sg",
+   "company": "UBS Singapore",
    "program": "UBS Singapore Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/ubs-sg/notifyme/notify-me-ubs-singapore-graduate-jobs-3/"
   },
   {
-   "company": "Ugl",
+   "company": "UGL",
    "program": "UGL Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
@@ -1527,49 +1562,42 @@
    "url": "https://au.gradconnection.com/employers/ventia/notifyme/notify-me-ventia-graduate-jobs-6/"
   },
   {
-   "company": "Vicroads",
-   "program": "VicRoads Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/vicroads/notifyme/notify-me-vicroads-graduate-jobs/"
-  },
-  {
-   "company": "Victorias Big Build",
+   "company": "Victoria’s Big Build (Victorian Infrastructure Delivery Authority)",
    "program": "Victoria’s Big Build (Major Transport Infrastructure Authority) Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/victorias-big-build/notifyme/notify-me-victorias-big-build-major-transport-in-2/"
   },
   {
-   "company": "Viva Energy Au",
-   "program": "Viva Energy Graduate Jobs",
-   "seen": "2026-10-06",
-   "source": "GradConnection notify-me",
-   "url": "https://au.gradconnection.com/employers/viva-energy-au/notifyme/notify-me-viva-energy-graduate-jobs-5/"
-  },
-  {
-   "company": "Vivcourt",
+   "company": "VivCourt",
    "program": "VivCourt Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/vivcourt/notifyme/notify-me-vivcourt-internships-4/"
   },
   {
-   "company": "Vivcourt",
+   "company": "VivCourt",
    "program": "VivCourt Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/vivcourt/notifyme/notify-me-vivcourt-graduate-jobs-4/"
   },
   {
-   "company": "Wa Government",
+   "company": "Viva Energy",
+   "program": "Viva Energy Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/viva-energy-au/notifyme/notify-me-viva-energy-graduate-jobs-5/"
+  },
+  {
+   "company": "WA Government",
    "program": "WA Government Internships",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/wa-government/notifyme/notify-me-wa-government-internships/"
   },
   {
-   "company": "Wa Government",
+   "company": "WA Government",
    "program": "WA Government Graduate Jobs",
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
@@ -1597,6 +1625,13 @@
    "url": "https://au.gradconnection.com/employers/wood/notifyme/notify-me-wood-internships-3/"
   },
   {
+   "company": "Woodside Energy",
+   "program": "Woodside Energy Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/woodside/notifyme/notify-me-woodside-energy-graduate-jobs-2/"
+  },
+  {
    "company": "Yancoal",
    "program": "Yancoal Internships",
    "seen": "2026-10-06",
@@ -1609,6 +1644,34 @@
    "seen": "2026-10-06",
    "source": "GradConnection notify-me",
    "url": "https://au.gradconnection.com/employers/yancoal/notifyme/notify-me-yancoal-graduate-jobs-3/"
+  },
+  {
+   "company": "bp",
+   "program": "bp Internships",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/bp/notifyme/notify-me-bp-internships-7/"
+  },
+  {
+   "company": "bp",
+   "program": "bp Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/bp/notifyme/notify-me-bp-graduate-jobs-5/"
+  },
+  {
+   "company": "nbn",
+   "program": "nbn Internships",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/nbn/notifyme/notify-me-nbn-internships-2/"
+  },
+  {
+   "company": "nib",
+   "program": "nib Graduate Jobs",
+   "seen": "2026-10-06",
+   "source": "GradConnection notify-me",
+   "url": "https://au.gradconnection.com/employers/nib/notifyme/notify-me-nib-graduate-jobs/"
   }
  ]
 }

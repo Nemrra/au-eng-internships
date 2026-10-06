@@ -13,7 +13,7 @@
   "ashby": {
    "err": 4,
    "ok": 15,
-   "raw": 2166
+   "raw": 2168
   },
   "atlassian": {
    "err": 0,
@@ -48,7 +48,7 @@
   "gradconnection": {
    "err": 0,
    "ok": 1,
-   "raw": 561
+   "raw": 856
   },
   "greenhouse": {
    "err": 0,
@@ -81,9 +81,9 @@
    "raw": 398
   },
   "page": {
-   "err": 203,
-   "ok": 373,
-   "raw": 638
+   "err": 202,
+   "ok": 374,
+   "raw": 642
   },
   "pageup": {
    "err": 0,
@@ -116,7 +116,7 @@
    "raw": 4
   },
   "sf_classic": {
-   "err": 11,
+   "err": 13,
    "ok": 0,
    "raw": 0
   },
@@ -138,7 +138,7 @@
   "talent": {
    "err": 0,
    "ok": 1,
-   "raw": 260
+   "raw": 262
   },
   "teamtailor": {
    "err": 0,
@@ -148,12 +148,12 @@
   "workable": {
    "err": 0,
    "ok": 6,
-   "raw": 107
+   "raw": 109
   },
   "workday": {
    "err": 1,
    "ok": 92,
-   "raw": 3650
+   "raw": 3644
   }
  },
  "closed_this_run": 0,
@@ -176,7 +176,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.7,
+   "secs": 2.0,
    "source": "ACEN Australia [page]",
    "spec": {
     "type": "page",
@@ -188,7 +188,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.8,
+   "secs": 0.6,
    "source": "ACT Government (jobs.act.gov.au; graduate program) [page]",
    "spec": {
     "type": "page",
@@ -200,7 +200,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.5,
+   "secs": 0.3,
    "source": "AEMO (Australian Energy Market Operator) [page]",
    "spec": {
     "type": "page",
@@ -212,7 +212,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 6.9,
+   "secs": 7.3,
    "source": "ARC CoE for Quantum Computation & Communication Technology (CQC2T) [page]",
    "spec": {
     "type": "page",
@@ -224,7 +224,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 111.9,
+   "secs": 111.4,
    "source": "ARC Industrial Transformation Training Centres / Research Hubs (various; e.g. energy storage, autonomous systems, semiconductors) [page]",
    "spec": {
     "type": "page",
@@ -236,7 +236,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 112.3,
+   "secs": 111.9,
    "source": "ARPANSA (Australian Radiation Protection and Nuclear Safety Agency) [page]",
    "spec": {
     "type": "page",
@@ -260,7 +260,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.3,
+   "secs": 1.0,
    "source": "Acciona Energia Australia [page]",
    "spec": {
     "type": "page",
@@ -272,7 +272,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.5,
+   "secs": 0.4,
    "source": "Acciona [page]",
    "spec": {
     "type": "page",
@@ -284,7 +284,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.5,
+   "secs": 0.4,
    "source": "Alinta Energy [page]",
    "spec": {
     "type": "page",
@@ -296,7 +296,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.8,
+   "secs": 0.6,
    "source": "Allume Energy [page]",
    "spec": {
     "type": "page",
@@ -308,7 +308,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.1,
+   "secs": 3.0,
    "source": "Amazon / AWS [page]",
    "spec": {
     "type": "page",
@@ -320,7 +320,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.5,
+   "secs": 0.2,
    "source": "Ampere Computing [page]",
    "spec": {
     "type": "page",
@@ -332,7 +332,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.2,
+   "secs": 2.1,
    "source": "Annalise.ai [page]",
    "spec": {
     "type": "page",
@@ -344,7 +344,7 @@
    "kind": "ats",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.2,
+   "secs": 0.4,
    "source": "Appen [lever]",
    "spec": {
     "company": "v0",
@@ -356,7 +356,7 @@
    "kind": "ats",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.7,
+   "secs": 0.4,
    "source": "Arcadis [eightfold]",
    "spec": {
     "sub": "arcadis",
@@ -368,7 +368,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.2,
+   "secs": 0.1,
    "source": "Archistar [page]",
    "spec": {
     "type": "page",
@@ -380,7 +380,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.2,
+   "secs": 0.1,
    "source": "AtkinsRealis [page]",
    "spec": {
     "type": "page",
@@ -392,7 +392,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.4,
+   "secs": 2.2,
    "source": "Aurizon [page]",
    "spec": {
     "type": "page",
@@ -404,7 +404,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 112.2,
+   "secs": 112.9,
    "source": "Australian Energy Regulator (AER) / AEMC [page]",
    "spec": {
     "type": "page",
@@ -428,7 +428,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 118.8,
+   "secs": 114.7,
    "source": "Australian Institute of Marine Science (AIMS) [page]",
    "spec": {
     "type": "page",
@@ -440,7 +440,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.9,
+   "secs": 4.6,
    "source": "Australian Rail Track Corporation (ARTC) [page]",
    "spec": {
     "type": "page",
@@ -452,7 +452,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 113.5,
+   "secs": 113.6,
    "source": "Australian Security Intelligence Organisation (ASIO) [page]",
    "spec": {
     "type": "page",
@@ -460,23 +460,11 @@
    }
   },
   {
-   "error": "ConnectionError: HTTPSConnectionPool(host='www.asd.gov.au', port=443): Max retries exceeded with url: /careers/im-starting-my-career (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.asd.gov.au', port=443): R",
-   "kind": "page",
-   "ok": false,
-   "raw_count": 0,
-   "secs": 111.9,
-   "source": "Australian Signals Directorate (ASD, incl. ACSC) [page]",
-   "spec": {
-    "type": "page",
-    "url": "https://www.asd.gov.au/careers/im-starting-my-career"
-   }
-  },
-  {
    "error": "ConnectionError: HTTPSConnectionPool(host='www.asd.gov.au', port=443): Max retries exceeded with url: /careers (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.asd.gov.au', port=443): Read timed out. (read t",
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 112.2,
+   "secs": 111.7,
    "source": "Australian Signals Directorate (ASD, incl. ACSC) [page]",
    "spec": {
     "type": "page",
@@ -484,11 +472,23 @@
    }
   },
   {
+   "error": "ConnectionError: HTTPSConnectionPool(host='www.asd.gov.au', port=443): Max retries exceeded with url: /careers/im-starting-my-career (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.asd.gov.au', port=443): R",
+   "kind": "page",
+   "ok": false,
+   "raw_count": 0,
+   "secs": 112.4,
+   "source": "Australian Signals Directorate (ASD, incl. ACSC) [page]",
+   "spec": {
+    "type": "page",
+    "url": "https://www.asd.gov.au/careers/im-starting-my-career"
+   }
+  },
+  {
    "error": "ConnectionError: HTTPSConnectionPool(host='www.space.gov.au', port=443): Max retries exceeded with url: /career-building-blocks (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.space.gov.au', port=443): Read",
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 114.6,
+   "secs": 113.7,
    "source": "Australian Space Agency (Department of Industry, Science and Resources) [page]",
    "spec": {
     "type": "page",
@@ -500,11 +500,24 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 112.6,
+   "secs": 112.7,
    "source": "Australian Submarine Agency (ASA) [page]",
    "spec": {
     "type": "page",
     "url": "https://www.asa.gov.au/careers"
+   }
+  },
+  {
+   "error": "no adapter for sf_classic",
+   "kind": "ats",
+   "ok": false,
+   "raw_count": 0,
+   "secs": 0.0,
+   "source": "Australian Synchrotron (ANSTO Melbourne, Clayton) [sf_classic]",
+   "spec": {
+    "company": "C0001224766P1",
+    "host": "career10.successfactors.com",
+    "type": "sf_classic"
    }
   },
   {
@@ -536,7 +549,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.8,
+   "secs": 2.1,
    "source": "Beach Energy [page]",
    "spec": {
     "type": "page",
@@ -548,7 +561,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.0,
+   "secs": 0.5,
    "source": "Beckhoff Automation Australia [page]",
    "spec": {
     "type": "page",
@@ -560,7 +573,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.6,
+   "secs": 0.1,
    "source": "Block / Afterpay [page]",
    "spec": {
     "type": "page",
@@ -572,7 +585,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 2.8,
+   "secs": 2.3,
    "source": "BluGlass [page]",
    "spec": {
     "type": "page",
@@ -584,7 +597,7 @@
    "kind": "ats",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.4,
+   "secs": 0.5,
    "source": "Boston Scientific (Australia) [eightfold]",
    "spec": {
     "sub": "bostonscientific",
@@ -609,7 +622,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.1,
+   "secs": 0.9,
    "source": "Brisbane Airport Corporation [page]",
    "spec": {
     "type": "page",
@@ -621,7 +634,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.5,
+   "secs": 0.7,
    "source": "Bruker (Australia) [page]",
    "spec": {
     "type": "page",
@@ -633,7 +646,7 @@
    "kind": "ats",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.2,
+   "secs": 0.1,
    "source": "Buildkite [ashby]",
    "spec": {
     "org": "buildkite",
@@ -653,18 +666,6 @@
    }
   },
   {
-   "error": "HTTPError: 405 Client Error: Not Allowed for url: https://bomcareers.nga.net.au/",
-   "kind": "page",
-   "ok": false,
-   "raw_count": 0,
-   "secs": 0.7,
-   "source": "Bureau of Meteorology [page]",
-   "spec": {
-    "type": "page",
-    "url": "https://bomcareers.nga.net.au/"
-   }
-  },
-  {
    "error": "blocked: HTTP 403 for https://www.bom.gov.au/about-the-bureau/careers",
    "kind": "page",
    "ok": false,
@@ -677,11 +678,23 @@
    }
   },
   {
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.cpbcon.com.au/careers",
+   "error": "HTTPError: 405 Client Error: Not Allowed for url: https://bomcareers.nga.net.au/",
    "kind": "page",
    "ok": false,
    "raw_count": 0,
    "secs": 0.9,
+   "source": "Bureau of Meteorology [page]",
+   "spec": {
+    "type": "page",
+    "url": "https://bomcareers.nga.net.au/"
+   }
+  },
+  {
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.cpbcon.com.au/careers",
+   "kind": "page",
+   "ok": false,
+   "raw_count": 0,
+   "secs": 0.7,
    "source": "CPB Contractors [page]",
    "spec": {
     "type": "page",
@@ -706,7 +719,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 2.3,
+   "secs": 2.6,
    "source": "CSIRO Space & Astronomy [page]",
    "spec": {
     "type": "page",
@@ -714,11 +727,24 @@
    }
   },
   {
+   "error": "no adapter for sf_classic",
+   "kind": "ats",
+   "ok": false,
+   "raw_count": 0,
+   "secs": 0.0,
+   "source": "CSIRO Space & Astronomy [sf_classic]",
+   "spec": {
+    "company": "CSIRO",
+    "host": "career10.successfactors.com",
+    "type": "sf_classic"
+   }
+  },
+  {
    "error": "ConnectionError: HTTPSConnectionPool(host='au.medical.canon', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='au.medical.canon', port=443): Failed to resolve 'au.medic",
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 7.5,
+   "secs": 6.4,
    "source": "Canon Medical Systems ANZ [page]",
    "spec": {
     "type": "page",
@@ -730,7 +756,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.6,
+   "secs": 0.5,
    "source": "Careers.vic (Victorian public sector job board - incl. DTP, DEECA/VicGrid, VIDA, SRLA) [page]",
    "spec": {
     "type": "page",
@@ -742,7 +768,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.1,
+   "secs": 0.9,
    "source": "Careers.vic (Victorian public sector job board - incl. DTP, DEECA/VicGrid, VIDA, SRLA) [page]",
    "spec": {
     "type": "page",
@@ -766,7 +792,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.9,
+   "secs": 1.1,
    "source": "Carsales (CAR Group) [page]",
    "spec": {
     "type": "page",
@@ -778,7 +804,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.3,
+   "secs": 0.7,
    "source": "Chevron Australia [page]",
    "spec": {
     "type": "page",
@@ -790,7 +816,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.6,
+   "secs": 0.5,
    "source": "Cisco [page]",
    "spec": {
     "type": "page",
@@ -802,7 +828,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.5,
+   "secs": 0.4,
    "source": "Citadel Securities [page]",
    "spec": {
     "type": "page",
@@ -814,7 +840,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.1,
+   "secs": 0.7,
    "source": "Citadel Securities [page]",
    "spec": {
     "type": "page",
@@ -826,7 +852,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.7,
+   "secs": 1.4,
    "source": "Citadel Securities [page]",
    "spec": {
     "type": "page",
@@ -838,7 +864,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 112.5,
+   "secs": 112.2,
    "source": "Civil Aviation Safety Authority (CASA) [page]",
    "spec": {
     "type": "page",
@@ -850,42 +876,17 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.4,
+   "secs": 0.2,
    "source": "Coca-Cola Europacific Partners (AU) [page]",
    "spec": {
     "type": "page",
     "url": "https://www.cocacolaep.com/au/careers/"
    }
-  },
-  {
-   "error": "no adapter for sf_classic",
-   "kind": "ats",
-   "ok": false,
-   "raw_count": 0,
-   "secs": 0.0,
-   "source": "Codan [sf_classic]",
-   "spec": {
-    "company": "C0002469119P",
-    "host": "career10.successfactors.com",
-    "type": "sf_classic"
-   }
-  },
-  {
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.cpp.com.au/careers",
-   "kind": "page",
-   "ok": false,
-   "raw_count": 0,
-   "secs": 1.4,
-   "source": "Consolidated Power Projects (CPP) [page]",
-   "spec": {
-    "type": "page",
-    "url": "https://www.cpp.com.au/careers"
-   }
   }
  ],
- "jobs_open": 304,
- "new_today": 304,
- "run_at": "2026-10-06T07:32:18+00:00",
- "sources_ok": 643,
- "sources_total": 876
+ "jobs_open": 298,
+ "new_today": 298,
+ "run_at": "2026-10-06T07:41:40+00:00",
+ "sources_ok": 644,
+ "sources_total": 878
 }
