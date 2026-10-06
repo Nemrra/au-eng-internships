@@ -142,6 +142,16 @@ def build_doc(rec, e):
     return doc
 
 
+def meta_version(dump, name, doc):
+    """Version of a meta doc: DUMP/versions.json (written from the list output) wins, else the doc's rev."""
+    v = load(os.path.join(dump, "versions.json"), {}).get(f"meta/{name}")
+    if v:
+        return int(v)
+    if doc:
+        return int(doc.get("rev") or 1)
+    return None
+
+
 def docs(a):
     new_records = load(os.path.join(a.work, "new_records.json"), {})
     p = load(os.path.join(a.work, "plan.json"), {})
@@ -192,7 +202,7 @@ def docs(a):
     # meta/dropped (keep the newest 3000)
     if new_dropped:
         ids = dict(sorted(dropped.items(), key=lambda kv: kv[1].get("on", ""), reverse=True)[:3000])
-        drev = dropped_doc.get("rev")
+        drev = meta_version(a.dbdump, "dropped", dropped_doc)
         fp = os.path.join(out, "meta_dropped.json")
         json.dump({"ids": ids, "rev": (drev or 0) + 1}, open(fp, "w"))
         w = {"op": "set", "collection": "meta", "doc_id": "dropped", "file_path": os.path.abspath(fp)}
@@ -203,7 +213,7 @@ def docs(a):
     lr = load(os.path.join(ROOT, "data/last_run.json"), {})
     status_doc = load(os.path.join(a.dbdump, "meta", "status.json"), {})
     open_after = p.get("db_open", 0) + len(new_kept) - len(p.get("closures", []))
-    srev = status_doc.get("rev")
+    srev = meta_version(a.dbdump, "status", status_doc)
     st = {
         "updated_at": NOW.isoformat(timespec="seconds"), "collector_run_at": lr.get("run_at"),
         "sources_ok": lr.get("sources_ok"), "sources_total": lr.get("sources_total"), "employers": status_doc.get("employers", 682),
@@ -218,8 +228,6 @@ def docs(a):
     w = {"op": "set", "collection": "meta", "doc_id": "status", "file_path": os.path.abspath(fp)}
     if srev:
         w["if_version"] = srev
-    elif status_doc:
-        w["if_version"] = 1
     writes.append(w)
     for f in glob.glob(os.path.join(a.work, "writes_*.json")):
         os.remove(f)
