@@ -1,0 +1,14 @@
+name: collect
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["collector/**", "registry/**", ".github/workflows/collect.yml"]
+permissions:
+  contents: write
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo "placeholder"
