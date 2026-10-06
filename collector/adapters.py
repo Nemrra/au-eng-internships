@@ -97,7 +97,9 @@ def greenhouse(spec, emp):
     r = http.get(f"https://boards-api.greenhouse.io/v1/boards/{tok}/jobs", params={"content": "true"})
     out = []
     for j in r.json().get("jobs", []):
-        locs = [j.get("location", {}).get("name") or ""] + [o.get("name", "") for o in j.get("offices", []) or []]
+        locs = [j.get("location", {}).get("name") or ""]
+        if not locs[0]:
+            locs += [o.get("name", "") for o in j.get("offices", []) or []]
         out.append(dict(native_id=j.get("id"), title=j.get("title"), location=" | ".join(l for l in locs if l),
                         url=j.get("absolute_url"), posted=_iso(j.get("first_published") or j.get("updated_at")),
                         description=strip_html(j.get("content"))))

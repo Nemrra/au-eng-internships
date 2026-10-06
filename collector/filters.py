@@ -34,27 +34,70 @@ NON_AU_ONLY = re.compile(r"\b(USA|United States|United Kingdom|Singapore|India|N
                          r"Remote - US|US Remote)\b", re.I)
 
 
-def au_states(loc_text):
-    """Return sorted AU state codes mentioned, [] if none, or ['AU'] for country-level match."""
-    if not loc_text:
-        return []
-    t = FOREIGN_GUARDS.sub(" ", loc_text)
+FOREIGN_MARK = re.compile(
+    r"\b(USA|U\.S\.A?\.?|United States|America|UK|U\.K\.|United Kingdom|England|Scotland|Wales|Canada|Ireland|India|"
+    r"Singapore|China|Hong Kong|Japan|Germany|France|Netherlands|New Zealand|Israel|Mexico|Brazil|Philippines|Malaysia|"
+    r"Indonesia|Korea|Taiwan|Vietnam|Thailand|Poland|Spain|Italy|Sweden|Switzerland|Norway|Denmark|Finland|Belgium|"
+    r"Austria|Czech|Romania|Hungary|Portugal|Turkey|UAE|Dubai|Saudi|Qatar|South Africa|Chile|Argentina|Colombia|"
+    r"Florida|Texas|California|Washington|Georgia|Massachusetts|Virginia|Colorado|Arizona|Ohio|Michigan|Illinois|"
+    r"Pennsylvania|New York|New Jersey|Oregon|Utah|Alabama|Maryland|Minnesota|Missouri|North Carolina|South Carolina|"
+    r"Tennessee|Kentucky|Indiana|Wisconsin|Connecticut|Nevada|Kansas|Oklahoma|Louisiana|Iowa|Idaho|Hawaii|Alaska|"
+    r"Remote - US|US Remote|Remote US|NYC|SF|Bay Area|Seattle|Redmond|Bellevue|Austin|Boston|Chicago|Atlanta|Denver|"
+    r"Houston|Dallas|San Francisco|San Jose|Palo Alto|Mountain View|Sunnyvale|Santa Clara|Los Angeles|San Diego|"
+    r"Costa Mesa|Irvine|Arlington|Huntsville|Everett|Tukwila|London|Aberdeen|Manchester|Cambridge|Oxford|Bristol|"
+    r"Edinburgh|Glasgow|Dublin|Toronto|Vancouver|Montreal|Ottawa|Paris|Munich|Berlin|Hamburg|Amsterdam|Zurich|"
+    r"Stockholm|Bangalore|Bengaluru|Hyderabad|Mumbai|Pune|Chennai|Delhi|Gurgaon|Shanghai|Beijing|Shenzhen|Tokyo|"
+    r"Seoul|Taipei|Kuala Lumpur|Jakarta|Manila|Ho Chi Minh|Bangkok|Auckland|Wellington|Christchurch|Tel Aviv|Haifa)\b"
+    r"|,\s*(AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|"
+    r"OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WV|WI|WY|DC)\b|\bUS,\s*[A-Z]{2}\b|^US\b|\bUS\s*[-–]")
+STRONG_ABBR = {"NSW", "VIC", "QLD", "TAS", "ACT", "NT"}
+
+
+def _segment_states(seg):
+    t = FOREIGN_GUARDS.sub(" ", seg)
+    has_au_word = bool(re.search(r"\bAustralia\b|\bAustralian\b", t))
+    if FOREIGN_MARK.search(t) and not has_au_word:
+        return set()
     states = set()
     for name, code in AU_CITIES.items():
         if re.search(r"\b" + re.escape(name) + r"\b", t):
             states.add(code)
     for name, code in AU_STATES.items():
         if len(name) <= 3:
-            # abbreviations only in a location-ish context: ", VIC" / "VIC 3000" / "(VIC)" / "VIC,"
-            if re.search(r"(?:,\s*|\(|\b-\s*)" + name + r"\b|\b" + name + r"\s+\d{4}\b|^" + name + r"$", t):
+            ctx = re.search(r"(?:,\s*|\(|\b-\s*|\s)" + name + r"\b|\b" + name + r"\s+\d{4}\b|^" + name + r"\b", t)
+            if not ctx:
+                continue
+            if name in STRONG_ABBR or states or has_au_word or re.search(r"\b\d{4}\b", t):
                 states.add(code)
         elif re.search(r"\b" + name + r"\b", t):
-            if name == "Victoria" and re.search(r"Victoria(\s+(Station|Street|Park|Road))", t):
+            if name == "Victoria" and re.search(r"Victoria\s+(Station|Street|Park|Road|Island)", t):
                 continue
-            states.add(code)
-    if not states and re.search(r"\bAustralia\b|\bAUS\b|\bAU\b", t):
+            if name == "Western Australia" or name == "South Australia" or name not in ("Victoria", "Queensland", "Tasmania") or has_au_word or not FOREIGN_MARK.search(t):
+                states.add(code)
+    if not states and (has_au_word or re.search(r"\bAUS\b|,\s*AU\b|\bAU$", t)):
         states.add("AU")
+    return states
+
+
+def au_states(loc_text):
+    """Return sorted AU state codes mentioned, [] if none, or ['AU'] for country-level match.
+    Evaluates each location segment separately so 'Seattle, WA | Sydney, NSW' still counts Sydney only."""
+    if not loc_text:
+        return []
+    states = set()
+    for seg in re.split(r"\s*[|;/]\s*|\s{2,}|\n", loc_text):
+        if seg.strip():
+            states |= _segment_states(seg)
+    if "AU" in states and len(states) > 1:
+        states.discard("AU")
     return sorted(states)
+
+
+FOREIGN_TITLE = re.compile(
+    r"[-–(,]\s*(NYC|New York|London|Aberdeen|Singapore|Hong Kong|Chicago|Amsterdam|Seattle|Austin|Boston|Houston|"
+    r"Toronto|Dublin|Paris|Munich|Mumbai|Bangalore|Bengaluru|Shanghai|Beijing|Tokyo|Seoul|Taipei|Auckland|"
+    r"US|USA|UK|EMEA|Americas|India|China|Japan|Canada|Europe|Ireland|Germany|Netherlands|NZ|New Zealand|"
+    r"Malaysia|Philippines|Indonesia|Vietnam|Thailand)\b", re.I)
 
 
 def is_australian(loc_text, default_au=False):

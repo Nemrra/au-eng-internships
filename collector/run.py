@@ -6,7 +6,7 @@ from datetime import datetime, timezone, timedelta
 from . import adapters, http
 from .classify import classify_url
 from .discover import discover_one
-from .filters import (au_states, disciplines, is_australian, is_student_or_grad, is_technical, role_type,
+from .filters import (FOREIGN_TITLE, au_states, disciplines, is_australian, is_student_or_grad, is_technical, role_type,
                       EXCLUDE_TITLE, PLACEMENT_AGENCIES, NON_AU_ONLY)
 from .resolve import specs_for, spec_key
 from .sources import AGGREGATORS
@@ -117,13 +117,15 @@ def main():
     dead = {k for k, v in health.items() if v.get("fails", 0) >= 4 and v.get("last_error", "").startswith(("HTTPError: 404", "HTTPError: 410"))
             and v.get("retry_after", "") > TODAY}
 
-    tasks = []
+    tasks, claimed = [], set()
     for emp in employers:
         specs, pages = specs_for(emp, discovered.get(emp["id"]), dead)
-        for s in specs:
-            tasks.append(("ats", emp, s))
-        for p in pages:
-            tasks.append(("page", emp, p))
+        for sp in specs + pages:
+            k = spec_key(sp)
+            if k in claimed:
+                continue
+            claimed.add(k)
+            tasks.append(("page" if sp["type"] == "page" else "ats", emp, sp))
     for agg in AGGREGATORS:
         tasks.append(("aggregator", agg, dict(agg["spec"])))
     print(f"{len(tasks)} source tasks for {len(employers)} employers", flush=True)
@@ -169,7 +171,7 @@ def main():
             }
 
     # ------------------------------------------------------------ normalise + filter
-    recs = []
+    recs, auto_expected = [], []
     for (kind, ctx, spec), raws, err, dur in results:
         sname = f"{ctx.get('name')} [{spec['type']}]"
         for r in raws:
@@ -183,6 +185,14 @@ def main():
             desc = r.get("description") or ""
             card = r.get("card_text") or ""
             if EXCLUDE_TITLE.search(title):
+                continue
+            if FOREIGN_TITLE.search(title) and not au_states(title):
+                continue
+            if r.get("notify_only"):
+                auto_expected.append({"company": r.get("company"), "program": re.sub(r"^Notify Me\s*-\s*", "", title),
+                                      "url": url, "source": "GradConnection notify-me", "seen": TODAY})
+                continue
+            if spec["type"] == "gradconnection" and re.search(r"/employers/[^/]+-(sg|hk|nz|my|in|uk|ph|id|vn|th|jp|cn)/", url):
                 continue
             agg_student_site = spec["type"] in ("prosple", "gradconnection")
             if not (agg_student_site or is_student_or_grad(title, desc)):
@@ -252,7 +262,7 @@ def main():
         })
 
     # ------------------------------------------------------------ detail pages for new aggregator items
-    budget = 80
+    budget = 300
     for r in recs:
         if r["source_type"] not in ("prosple", "gradconnection") or budget <= 0:
             continue
@@ -276,16 +286,25 @@ def main():
                 r["disciplines"] = disciplines(r["title"] + " " + r["description"][:3000])
             if d.get("location"):
                 r["location"] = d["location"][:300]
-                r["states"] = au_states(d["location"]) or r["states"]
+                st = au_states(d["location"])
+                if not st:
+                    r["drop"] = True
+                r["states"] = st or r["states"]
             if d.get("company") and r["source_type"] == "prosple":
                 r["company"] = d["company"]
                 r["key"] = job_key(r["company"], r["title"])
     # Drop aggregator listings already closed according to detail page
-    recs = [r for r in recs if not (r.get("closes") and r["closes"] < TODAY)]
+    recs = [r for r in recs if not r.get("drop") and not (r.get("closes") and r["closes"] < TODAY)]
 
     # ------------------------------------------------------------ dedupe
-    groups = {}
+    groups, url_key = {}, {}
+    recs.sort(key=lambda x: KIND_RANK.get(x["source_kind"], 0), reverse=True)
     for r in recs:
+        u = re.sub(r"[?#].*$", "", r["url"] or "").rstrip("/").lower()
+        if u in url_key:
+            r["key"] = url_key[u]
+        else:
+            url_key[u] = r["key"]
         groups.setdefault(r["key"], []).append(r)
     jobs = {}
     for key, rs in groups.items():
@@ -353,6 +372,10 @@ def main():
     save(os.path.join(DATA, "source_health.json"), health)
     save(os.path.join(DATA, "details_cache.json"), details_cache, compact=True)
     save(os.path.join(DATA, "page_watch.json"), page_watch)
+    ae = {}
+    for a in auto_expected:
+        ae.setdefault(a["url"], a)
+    save(os.path.join(DATA, "expected_auto.json"), {"programs": sorted(ae.values(), key=lambda x: (x.get("company") or ""))})
     src_status.sort(key=lambda s: (s["ok"], s["source"]))
     ok = sum(1 for s in src_status if s["ok"])
     summary = {
