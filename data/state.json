@@ -575,7 +575,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -667,7 +667,7 @@
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -777,6 +777,17 @@
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 – Brisbane – Geotechnical Engineering"
+ },
+ "133e2bc9f384": {
+  "company": "Premium Graduate Placements",
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Up your Engineering Game with a Chemical Engineering Internship – Apply Now"
  },
  "136cb521b431": {
   "closed_on": "2026-10-06",
@@ -1060,7 +1071,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1673,12 +1684,12 @@
   "closed_on": "2026-10-07",
   "company": "The Brattle Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
-  "misses": 3,
+  "last_seen": "2026-10-07",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Sydney Research Analyst Graduate Program"
  },
  "289fffa6f01a": {
@@ -1779,7 +1790,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2363,7 +2374,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3163,7 +3174,7 @@
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3269,7 +3280,7 @@
   "company": "The Royal Children's Hospital",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3577,6 +3588,17 @@
   "status": "closed",
   "title": "Research Scientist Intern - E-commerce Recommendation - Multiple Teams"
  },
+ "526938e87d19": {
+  "company": "ResMed",
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "misses": 0,
+  "sources": [
+   "ResMed [workday]"
+  ],
+  "status": "open",
+  "title": "Student V&V Engineer"
+ },
  "52a14d15cc34": {
   "closed_on": "2026-10-06",
   "company": "National Indigenous Australians Agency",
@@ -3768,7 +3790,7 @@
   "company": "McGrathNicol",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3779,7 +3801,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3822,14 +3844,15 @@
   "title": "Internship Program / Student Opportunities"
  },
  "5854359e3fc7": {
+  "closed_on": "2026-10-07",
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Cyber Security Internship Program 2026"
  },
  "58c08aa0d2b8": {
@@ -3871,7 +3894,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4047,7 +4070,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4314,6 +4337,17 @@
   ],
   "status": "open",
   "title": "2026 ENG&IT Student Experience Grant"
+ },
+ "6347c8749483": {
+  "company": "BDO",
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Graduate Program - Transfer Pricing (Brisbane)"
  },
  "6390d2bcc067": {
   "company": "Boeing Defence Australia (incl. Boeing Australia / Boeing Aerostructures Australia / BR&T-Australia)",
@@ -4774,14 +4808,15 @@
   "title": "Software Engineer Intern"
  },
  "6fdb75b57eee": {
+  "closed_on": "2026-10-07",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Sales & Leadership Graduate - Canberra"
  },
  "7014728cb0fd": {
@@ -5204,6 +5239,17 @@
   ],
   "status": "closed",
   "title": "Machine Learning Engineer Graduate - E-Commerce Risk Control"
+ },
+ "7b0a9673804a": {
+  "company": "White Acorn Capital",
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Graduate/Junior Analyst - Private Credit Fund"
  },
  "7b445f340213": {
   "company": "BHP",
@@ -5812,6 +5858,17 @@
   "status": "open",
   "title": "Mainfreight Graduate Program"
  },
+ "8b7e034c95c6": {
+  "company": "BDO",
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Graduate Program - Superannuation"
+ },
  "8bae8a53df09": {
   "closed_on": "2026-10-07",
   "company": "AARNet",
@@ -5852,7 +5909,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6366,11 +6423,22 @@
   "status": "closed",
   "title": "Multi-Cloud CDN Scheduling Platform Engineer Graduate - CDN Platform"
  },
+ "9719732e9da6": {
+  "company": "BDO",
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Graduate Program - Risk Advisory"
+ },
  "97606f23406c": {
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6463,7 +6531,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6902,6 +6970,17 @@
   "status": "open",
   "title": "2027 Cyber Graduate Program (Melbourne, Sydney)"
  },
+ "a2a7d332b319": {
+  "company": "Deputy",
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "misses": 0,
+  "sources": [
+   "Deputy [lever]"
+  ],
+  "status": "open",
+  "title": "Creative Production Intern"
+ },
  "a3198a19baa4": {
   "closed_on": "2026-10-06",
   "company": "Northrop Grumman Australia",
@@ -7132,12 +7211,12 @@
   "closed_on": "2026-10-07",
   "company": "BDO",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
-  "misses": 3,
+  "last_seen": "2026-10-07",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Program - Business Services"
  },
  "a94344ff3c41": {
@@ -7568,8 +7647,7 @@
   "last_seen": "2026-10-07",
   "misses": 0,
   "sources": [
-   "GHD [oracle]",
-   "GradConnection (SEEK Grad) [gradconnection]"
+   "GHD [oracle]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
@@ -8383,6 +8461,17 @@
   "status": "closed",
   "title": "EQUS Summer Research Program 2021-2022"
  },
+ "c8aefcb54dec": {
+  "company": "ResMed",
+  "first_seen": "2026-10-07",
+  "last_seen": "2026-10-07",
+  "misses": 0,
+  "sources": [
+   "ResMed [workday]"
+  ],
+  "status": "open",
+  "title": "Student Electronics Engineer"
+ },
  "c8ca4a588d0e": {
   "closed_on": "2026-10-06",
   "company": "Google",
@@ -9070,7 +9159,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9300,14 +9389,15 @@
   "title": "Business Intelligence Developer Intern"
  },
  "e16c5ed725fa": {
+  "closed_on": "2026-10-07",
   "company": "GHD",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GHD [oracle]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "GHD Graduate Program 2026/27 – Brisbane – Graduate Geotechnical Engineer"
  },
  "e1a4d15b8966": {
@@ -10103,15 +10193,16 @@
   "title": "2026/27 KPMG Vacationer Program - Engineering"
  },
  "f46810d0f6dd": {
+  "closed_on": "2026-10-07",
   "company": "Zinfra (Jemena group)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-06",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Claude web sweep",
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Expression of Interest - Zinfra Intern Program 2026/2027"
  },
  "f4b61f4ee246": {
