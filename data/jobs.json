@@ -1,6 +1,56 @@
 {
- "count": 263,
+ "count": 264,
  "jobs": [
+  {
+   "apply_url": null,
+   "base_score": 0,
+   "closes": "2026-10-21",
+   "company": "Premium Graduate Placements",
+   "disciplines": [
+    "Civil/Construction"
+   ],
+   "employer_id": null,
+   "employment_type": "Internships",
+   "first_seen": "2026-10-08",
+   "flags": [
+    "placement-agency"
+   ],
+   "id": "bf3df65f8752",
+   "key": "premium graduate placements|civil engineering internships multiple locations across 7 streams",
+   "last_seen": "2026-10-08",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/premium-graduate-placements/jobs/premium-graduate-placements-civil-engineering-internships-program-multiple-locations-across-7-streams-51/"
+    }
+   ],
+   "location": "Adelaide | Brisbane | Canberra | Darwin | Gold Coast | Hobart | Melbourne | Perth | Regional ACT | Regional New South Wales | Regional Northern Territory | Regional Queensland | Regional South Australia | Regional Tasmania | Regional Victoria | Regional Western Australia | Sydney",
+   "posted": "2026-09-30",
+   "priority": "adjacent",
+   "role_type": "intern-other",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Premium Graduate is Australia’s leading graduate employability specialist connecting students and graduates to top host companies around Australia. Since 2014 we have successfully transitioned early career seekers from education to the workplace with extraordinary employment outcomes.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "ACT",
+    "NSW",
+    "NT",
+    "QLD",
+    "SA",
+    "TAS",
+    "VIC",
+    "WA"
+   ],
+   "title": "Civil Engineering Internships Program – Multiple Locations across 7 Streams",
+   "url": "https://au.gradconnection.com/employers/premium-graduate-placements/jobs/premium-graduate-placements-civil-engineering-internships-program-multiple-locations-across-7-streams-51/"
+  },
   {
    "apply_url": null,
    "base_score": 95,
@@ -20,7 +70,7 @@
    "flags": [],
    "id": "c8aefcb54dec",
    "key": "resmed|student electronics engineer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "ResMed [workday]",
@@ -75,7 +125,7 @@
    "flags": [],
    "id": "a25e52879704",
    "key": "boeing boeing defence boeing aerostructures insitu pacific br t a|intern information technology",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Boeing Australia (Boeing Defence Australia, Boeing Aerostructures Australia, Insitu Pacific, BR&T-A) [workday]",
@@ -130,7 +180,7 @@
    "flags": [],
    "id": "526938e87d19",
    "key": "resmed|student v v engineer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "ResMed [workday]",
@@ -178,7 +228,7 @@
    "flags": [],
    "id": "a2a7d332b319",
    "key": "deputy|creative production intern",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Deputy [lever]",
@@ -222,7 +272,7 @@
    "flags": [],
    "id": "4b9ae753f85d",
    "key": "royal children s hospital|biomedical engineer graduate",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -261,7 +311,7 @@
    "flags": [],
    "id": "c58b25f89106",
    "key": "mcgrathnicol|deals performance graduate brisbane sydney",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -290,31 +340,31 @@
    "url": "https://au.gradconnection.com/employers/mcgrathnicol/jobs/mcgrathnicol-2027-deals-performance-graduate-program-sydney-melbourne-4-2/"
   },
   {
-   "apply_url": "https://bdoau.wd105.myworkdayjobs.com/en-GB/BDOEarlyCareers/job/Canberra-Australian-Capital-Territory/Graduate-Program---Canberra_JR102560",
+   "apply_url": "https://www.careersatcouncil.com.au/job/trainee-ranger-20260910/",
    "base_score": 32,
-   "closes": "2026-10-18",
-   "company": "BDO",
+   "closes": "2026-10-12",
+   "company": "Careers at Council",
    "disciplines": [],
    "employer_id": null,
    "employment_type": "Graduate Jobs",
    "first_seen": "2026-10-07",
    "flags": [],
-   "id": "9719732e9da6",
-   "key": "bdo|graduate risk advisory",
-   "last_seen": "2026-10-07",
+   "id": "59a2feba57db",
+   "key": "careers at council|trainee ranger",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-graduate-program-risk-advisory-9/"
+     "url": "https://au.gradconnection.com/employers/careers-at-council/jobs/careers-at-council-trainee-ranger/"
     }
    ],
-   "location": "Canberra",
-   "posted": "2026-09-29",
+   "location": "New South Wales | Regional New South Wales | Sydney",
+   "posted": "2026-09-11",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
    "sectors": [],
-   "snippet": "Graduating in 2026? Lock in a full-time graduate role with BDO! Be part of a graduate cohort, receive tailored learning & development, networking and mentoring opportunities in your first year!",
+   "snippet": "Parkes Shire Council PARKES, New South Wales",
    "source": "GradConnection (SEEK Grad) [gradconnection]",
    "source_kind": "aggregator",
    "source_type": "gradconnection",
@@ -323,37 +373,37 @@
    ],
    "start_date": null,
    "states": [
-    "ACT"
+    "NSW"
    ],
-   "title": "Graduate Program - Risk Advisory",
-   "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-graduate-program-risk-advisory-9/"
+   "title": "Trainee Ranger",
+   "url": "https://au.gradconnection.com/employers/careers-at-council/jobs/careers-at-council-trainee-ranger/"
   },
   {
-   "apply_url": "https://bdoau.wd105.myworkdayjobs.com/en-GB/BDOEarlyCareers/job/Brisbane-Queensland/Graduate-Program---Brisbane_JR102572",
+   "apply_url": null,
    "base_score": 32,
    "closes": "2026-10-18",
-   "company": "BDO",
+   "company": "White Acorn Capital",
    "disciplines": [],
    "employer_id": null,
    "employment_type": "Graduate Jobs",
    "first_seen": "2026-10-07",
    "flags": [],
-   "id": "8b7e034c95c6",
-   "key": "bdo|graduate superannuation",
-   "last_seen": "2026-10-07",
+   "id": "7b0a9673804a",
+   "key": "white acorn capital|graduate junior analyst private credit fund",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-graduate-program-superannuation-2/"
+     "url": "https://au.gradconnection.com/employers/white-acorn-capital/jobs/white-acorn-capital-graduatejunior-analyst-private-credit-fund/"
     }
    ],
-   "location": "Brisbane",
-   "posted": "2026-09-24",
+   "location": "Sydney",
+   "posted": "2026-09-18",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
    "sectors": [],
-   "snippet": "Graduating in 2026? Lock in a full-time graduate role with BDO! Be part of a graduate cohort, receive tailored learning & development, networking and mentoring opportunities in your first year!",
+   "snippet": "Join White Acorn Capital’s investment management team in an analytical & investor-focused role, gaining hands-on exposure to live credit transactions, investment analysis, capital raising & wholesale investor engagement.",
    "source": "GradConnection (SEEK Grad) [gradconnection]",
    "source_kind": "aggregator",
    "source_type": "gradconnection",
@@ -362,49 +412,10 @@
    ],
    "start_date": null,
    "states": [
-    "QLD"
+    "NSW"
    ],
-   "title": "Graduate Program - Superannuation",
-   "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-graduate-program-superannuation-2/"
-  },
-  {
-   "apply_url": "https://bdoau.wd105.myworkdayjobs.com/en-GB/BDOEarlyCareers/job/Brisbane-Queensland/Graduate-Program---Brisbane_JR102572",
-   "base_score": 32,
-   "closes": "2026-10-25",
-   "company": "BDO",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-07",
-   "flags": [],
-   "id": "6347c8749483",
-   "key": "bdo|graduate transfer pricing brisbane",
-   "last_seen": "2026-10-07",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-graduate-program-transfer-pricing-brisbane/"
-    }
-   ],
-   "location": "Brisbane",
-   "posted": "2026-09-29",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Graduating in 2026? Lock in a full-time graduate role with BDO! Be part of a graduate cohort, receive tailored learning & development, networking and mentoring opportunities in your first year!",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "QLD"
-   ],
-   "title": "Graduate Program - Transfer Pricing (Brisbane)",
-   "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-graduate-program-transfer-pricing-brisbane/"
+   "title": "Graduate/Junior Analyst - Private Credit Fund",
+   "url": "https://au.gradconnection.com/employers/white-acorn-capital/jobs/white-acorn-capital-graduatejunior-analyst-private-credit-fund/"
   },
   {
    "apply_url": "https://apply.workable.com/vulcan/j/E52619010E",
@@ -418,7 +429,7 @@
    "flags": [],
    "id": "4953764d7bdf",
    "key": "vulcan steel|graduate business operations carole park",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -447,48 +458,6 @@
   },
   {
    "apply_url": null,
-   "base_score": 21,
-   "closes": "2026-11-07",
-   "company": "NRW Holdings",
-   "disciplines": [
-    "Civil/Construction",
-    "Mechanical"
-   ],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-07",
-   "flags": [],
-   "id": "3268255bcaa9",
-   "key": "nrw holdings|graduate civil engineer",
-   "last_seen": "2026-10-07",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/nrw-holdings/jobs/nrw-holdings-graduate-civil-engineer/"
-    }
-   ],
-   "location": "Perth",
-   "posted": "2026-10-06",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Gain hands-on experience across civil and infrastructure projects while developing your technical and project delivery skills.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "WA"
-   ],
-   "title": "Graduate Civil Engineer",
-   "url": "https://au.gradconnection.com/employers/nrw-holdings/jobs/nrw-holdings-graduate-civil-engineer/"
-  },
-  {
-   "apply_url": null,
    "base_score": 20,
    "closes": null,
    "company": "Mott MacDonald",
@@ -501,7 +470,7 @@
    "flags": [],
    "id": "877c32caf450",
    "key": "mott macdonald|graduate civil engineer water adelaide sa",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Mott MacDonald [sf_rmk]",
@@ -534,6 +503,194 @@
    "url": "https://apply.mottmac.com/job/Adelaide-Graduate-Civil-Engineer-Water-Adelaide%2C-SA-SA/1364785857/"
   },
   {
+   "apply_url": "https://gap.gradability.com.au/SeekGrad",
+   "base_score": 6,
+   "closes": "2026-10-08",
+   "company": "Gradability",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Internships",
+   "first_seen": "2026-10-07",
+   "flags": [
+    "placement-agency"
+   ],
+   "id": "b45528051ec1",
+   "key": "gradability|business commerce internships",
+   "last_seen": "2026-10-08",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/gradability/jobs/gradability-business-commerce-internships-2/"
+    }
+   ],
+   "location": "Adelaide | Brisbane | Canberra | Hobart | Melbourne | Sydney",
+   "posted": "2026-09-17",
+   "priority": "adjacent",
+   "role_type": "intern-other",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Gradability places graduates into real Australian workplaces. We handle the whole process, matching, prep, and placement, so you're not figuring this out alone.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "ACT",
+    "NSW",
+    "QLD",
+    "SA",
+    "TAS",
+    "VIC"
+   ],
+   "title": "Business & Commerce Internships",
+   "url": "https://au.gradconnection.com/employers/gradability/jobs/gradability-business-commerce-internships-2/"
+  },
+  {
+   "apply_url": "https://gap.gradability.com.au/SeekGrad",
+   "base_score": 6,
+   "closes": "2026-10-08",
+   "company": "Gradability",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Internships",
+   "first_seen": "2026-10-07",
+   "flags": [
+    "placement-agency"
+   ],
+   "id": "8037e03b1020",
+   "key": "gradability|information technology internships",
+   "last_seen": "2026-10-08",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/gradability/jobs/gradability-information-technology-internships-2/"
+    }
+   ],
+   "location": "Adelaide | Brisbane | Canberra | Hobart | Melbourne | Sydney",
+   "posted": "2026-09-17",
+   "priority": "adjacent",
+   "role_type": "intern-other",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Gradability places graduates into real Australian workplaces. We handle the whole process, matching, prep, and placement, so you're not figuring this out alone.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "ACT",
+    "NSW",
+    "QLD",
+    "SA",
+    "TAS",
+    "VIC"
+   ],
+   "title": "Information Technology Internships",
+   "url": "https://au.gradconnection.com/employers/gradability/jobs/gradability-information-technology-internships-2/"
+  },
+  {
+   "apply_url": "https://gap.gradability.com.au/SeekGrad",
+   "base_score": 6,
+   "closes": "2026-10-08",
+   "company": "Gradability",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Internships",
+   "first_seen": "2026-10-07",
+   "flags": [
+    "placement-agency"
+   ],
+   "id": "35771da8b7ca",
+   "key": "gradability|marketing internships",
+   "last_seen": "2026-10-08",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/gradability/jobs/gradability-marketing-internships-3/"
+    }
+   ],
+   "location": "Adelaide | Brisbane | Canberra | Hobart | Melbourne | Sydney",
+   "posted": "2026-09-17",
+   "priority": "adjacent",
+   "role_type": "intern-other",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Gradability places graduates into real Australian workplaces. We handle the whole process, matching, prep, and placement, so you're not figuring this out alone.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "ACT",
+    "NSW",
+    "QLD",
+    "SA",
+    "TAS",
+    "VIC"
+   ],
+   "title": "Marketing Internships",
+   "url": "https://au.gradconnection.com/employers/gradability/jobs/gradability-marketing-internships-3/"
+  },
+  {
+   "apply_url": null,
+   "base_score": 0,
+   "closes": "2026-10-21",
+   "company": "Premium Graduate Placements",
+   "disciplines": [
+    "Chemical/Process"
+   ],
+   "employer_id": null,
+   "employment_type": "Internships",
+   "first_seen": "2026-10-07",
+   "flags": [
+    "placement-agency"
+   ],
+   "id": "133e2bc9f384",
+   "key": "premium graduate placements|up your engineering game with a chemical engineering internship apply now",
+   "last_seen": "2026-10-08",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/premium-graduate-placements/jobs/premium-graduate-placements-up-your-engineering-game-with-a-chemical-engineering-internship-apply-now-51/"
+    }
+   ],
+   "location": "Adelaide | Brisbane | Canberra | Darwin | Gold Coast | Hobart | Melbourne | Perth | Regional ACT | Regional New South Wales | Regional Northern Territory | Regional Queensland | Regional South Australia | Regional Tasmania | Regional Victoria | Regional Western Australia | Sydney",
+   "posted": "2026-09-30",
+   "priority": "adjacent",
+   "role_type": "intern-other",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Premium Graduate is Australia’s leading graduate employability specialist connecting students and graduates to top host companies around Australia. Since 2014 we have successfully transitioned early career seekers from education to the workplace with extraordinary employment outcomes.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "ACT",
+    "NSW",
+    "NT",
+    "QLD",
+    "SA",
+    "TAS",
+    "VIC",
+    "WA"
+   ],
+   "title": "Up your Engineering Game with a Chemical Engineering Internship – Apply Now",
+   "url": "https://au.gradconnection.com/employers/premium-graduate-placements/jobs/premium-graduate-placements-up-your-engineering-game-with-a-chemical-engineering-internship-apply-now-51/"
+  },
+  {
    "apply_url": null,
    "base_score": 95,
    "closes": null,
@@ -559,7 +716,7 @@
    ],
    "id": "f8e086ed98c6",
    "key": "andromeda robotics|engineering summer intern 3 month contract",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Andromeda Robotics [workable]",
@@ -615,7 +772,7 @@
    ],
    "id": "99ed0b5e5160",
    "key": "citadel securities|fpga engineer internship",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -635,11 +792,11 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2026-2027-fpga-engineer-internship-51/"
+     "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2026-2027-fpga-engineer-internship-53/"
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2026-2027-fpga-engineer-internship-53/"
+     "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2026-2027-fpga-engineer-internship-51/"
     }
    ],
    "location": "Sydney NSW",
@@ -690,7 +847,7 @@
    ],
    "id": "55afb609ac5d",
    "key": "inovor technologies|internship engineering or hybrid engineering operations outreach",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -752,7 +909,7 @@
    ],
    "id": "f58f960f6494",
    "key": "psiquantum|intern quantum applications",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "PsiQuantum [greenhouse]",
@@ -819,7 +976,7 @@
    ],
    "id": "76cd7affd184",
    "key": "schweitzer engineering laboratories sel|engineering intern",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Schweitzer Engineering Laboratories (SEL) Australia [workday]",
@@ -880,7 +1037,7 @@
    ],
    "id": "aa3e360c12cc",
    "key": "jemena|expression of interest jemena intern",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -935,7 +1092,7 @@
    ],
    "id": "1af04fd86918",
    "key": "aemo australian energy market operator|expression of interest aemo internships",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "AEMO (Australian Energy Market Operator) [greenhouse]",
@@ -997,7 +1154,7 @@
    ],
    "id": "2e58a20fd497",
    "key": "anduril|guidance navigation control engineer intern",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Anduril Australia [greenhouse]",
@@ -1054,7 +1211,7 @@
    "flags": [],
    "id": "2eb7b7cc663a",
    "key": "imc trading|machine learning research intern summer sydney",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "IMC Trading [greenhouse]",
@@ -1109,7 +1266,7 @@
    "flags": [],
    "id": "7fb901b4544b",
    "key": "quantum brilliance|quantum sensing systems intern",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Quantum Brilliance [bamboohr]",
@@ -1163,7 +1320,7 @@
    "flags": [],
    "id": "a1ee391dac3e",
    "key": "resmed|student software engineer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "ResMed [workday]",
@@ -1214,7 +1371,7 @@
    ],
    "id": "580f69007a84",
    "key": "fleet space technologies|internship student opportunities",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -1264,7 +1421,7 @@
    ],
    "id": "9e825cc77e36",
    "key": "psiquantum|internship resume submission only",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -1314,7 +1471,7 @@
    ],
    "id": "e8986af670d0",
    "key": "silicon quantum computing sqc|expression of interest phd scholarships internships student placements",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -1364,7 +1521,7 @@
    ],
    "id": "e20a12820797",
    "key": "southern launch|engineering internship university",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -1413,7 +1570,7 @@
    ],
    "id": "432db81cf1b2",
    "key": "space machines company|submit your cv general expression of interest",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -1462,7 +1619,7 @@
    ],
    "id": "978ffd59a913",
    "key": "spiral blue|open call",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -1511,7 +1668,7 @@
    "flags": [],
    "id": "70b305701c9c",
    "key": "cisco|network engineer intern",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Cisco [workday]",
@@ -1564,7 +1721,7 @@
    ],
    "id": "f567bcaafd37",
    "key": "gilmour space technologies|university internship final year students unpaid",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -1612,7 +1769,7 @@
    "flags": [],
    "id": "0e1f7acd5ac3",
    "key": "optiver|expressions of interest graduate quantitative trader",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Optiver [greenhouse]",
@@ -1660,7 +1817,7 @@
    ],
    "id": "97736696a3d9",
    "key": "quantum brilliance|expressions of interest canberra or melbourne labs",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -1712,7 +1869,7 @@
    "flags": [],
    "id": "378240d5308c",
    "key": "optiver|expressions of interest graduate quantitative researcher",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Optiver [greenhouse]",
@@ -1761,7 +1918,7 @@
    ],
    "id": "e2aa4a6909b2",
    "key": "siemens energy grid technologies grid solutions|internship grid solutions tenders projects asia pacific 6 12 months part time full time",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -1813,7 +1970,7 @@
    ],
    "id": "8c6371d7aaa7",
    "key": "resource|summer engineering internships ai machine vision hardware",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -1862,7 +2019,7 @@
    ],
    "id": "eed1d158c77e",
    "key": "tower research capital|quantitative researcher intern bachelor s or master s",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -1914,7 +2071,7 @@
    ],
    "id": "172cda6b36ec",
    "key": "aemo australian energy market operator|expression of interest internship pool",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -1971,7 +2128,7 @@
    "flags": [],
    "id": "a9b4c5ba944a",
    "key": "barrett communications|graduate engineer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Barrett Communications [workday]",
@@ -2020,7 +2177,7 @@
    "flags": [],
    "id": "48a09f1c410a",
    "key": "gm design gm specialty vehicles|planning co op portfolio planning dealer development",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GM Australia Design / GM Specialty Vehicles [workday]",
@@ -2069,7 +2226,7 @@
    "flags": [],
    "id": "c9a6c9990ee0",
    "key": "gm design gm specialty vehicles|sales distribution operations intern",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GM Australia Design / GM Specialty Vehicles [workday]",
@@ -2119,7 +2276,7 @@
    ],
    "id": "d4d4bc55dba6",
    "key": "tesla|embedded software automation engineering intern energy service tooling",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -2163,7 +2320,7 @@
    ],
    "id": "6163e7e19c06",
    "key": "zinfra|expression of interest zinfra intern",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -2215,7 +2372,7 @@
    ],
    "id": "949fe9849067",
    "key": "amazon|applied science intern computer vision amazon international machine learning",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -2258,7 +2415,7 @@
    "flags": [],
    "id": "f002917560c4",
    "key": "citadel securities|quantitative trading internship",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -2282,7 +2439,7 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2026-2027-quantitative-trading-internship-86/"
+     "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2026-2027-quantitative-trading-internship-80/"
     }
    ],
    "location": "Sydney",
@@ -2329,7 +2486,7 @@
    "flags": [],
    "id": "32f41c4ba6b9",
    "key": "seek tech|graduate software engineer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "SEEK (Tech) [smartrecruiters]",
@@ -2378,7 +2535,7 @@
    ],
    "id": "36b0560615a3",
    "key": "apa group|intern engineering",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -2444,7 +2601,7 @@
    ],
    "id": "3beda2e6a608",
    "key": "sydney quantum academy|sqa internship expression of interest",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -2490,7 +2647,7 @@
    ],
    "id": "147ca6305dee",
    "key": "aemo australian energy market operator|expression of interest aemo graduate",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "AEMO (Australian Energy Market Operator) [greenhouse]",
@@ -2548,7 +2705,7 @@
    "flags": [],
    "id": "f8c01c0477ca",
    "key": "johnson controls|graduate engineer industrial refrigeration gordon brothers",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Johnson Controls Australia [workday]",
@@ -2593,7 +2750,7 @@
    "flags": [],
    "id": "ba35aa9c6a50",
    "key": "susquehanna international group sig|title analytics internship fall",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Susquehanna International Group (SIG) [icims]",
@@ -2643,7 +2800,7 @@
    "flags": [],
    "id": "83a6fcb9d069",
    "key": "gm design gm specialty vehicles|hspo warehouse operations logistics intern",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GM Australia Design / GM Specialty Vehicles [workday]",
@@ -2689,7 +2846,7 @@
    ],
    "id": "8b4f24e6f6fd",
    "key": "lucid consulting|undergraduate electrical engineer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -2740,7 +2897,7 @@
    ],
    "id": "1a1de4f28727",
    "key": "schweitzer engineering laboratories sel|engineering intern perth",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -2776,57 +2933,6 @@
    "apply_url": null,
    "base_score": 70,
    "closes": null,
-   "company": "Barrett Communications",
-   "disciplines": [
-    "Civil/Construction",
-    "Defence",
-    "Manufacturing/Quality",
-    "Mechanical",
-    "Research",
-    "Semiconductors/FPGA",
-    "Systems/Integration"
-   ],
-   "employer_id": "barrett-communications",
-   "employment_type": "Full time",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "0d5383e94b37",
-   "key": "barrett communications|graduate commercial analyst",
-   "last_seen": "2026-10-07",
-   "links": [
-    {
-     "source": "Barrett Communications [workday]",
-     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Melbourne-Australia/Commerical-Analyst_R68895"
-    }
-   ],
-   "location": "Melbourne, Australia | Australia",
-   "posted": "2026-09-22",
-   "priority": "core",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [
-    "HF/VHF radio",
-    "RF design",
-    "embedded"
-   ],
-   "snippet": "Company Overview At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer busine",
-   "source": "Barrett Communications [workday]",
-   "source_kind": "ats",
-   "source_type": "workday",
-   "sources": [
-    "Barrett Communications [workday]"
-   ],
-   "start_date": "2026-09-22",
-   "states": [
-    "VIC"
-   ],
-   "title": "Graduate - Commercial Analyst",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Melbourne-Australia/Commerical-Analyst_R68895"
-  },
-  {
-   "apply_url": null,
-   "base_score": 70,
-   "closes": null,
    "company": "CSIRO (all business units incl. Data61, Energy, Manufacturing, Space & Astronomy, Agriculture & Food, Environment, Health & Biosecurity, Minerals, CSIRO Futures, NCMI, Science Connect)",
    "disciplines": [
     "ML/AI/Data",
@@ -2841,7 +2947,7 @@
    ],
    "id": "e27745c50b8c",
    "key": "csiro all business units incl data61 energy manufacturing space astronomy agriculture food environment health biosecurity minerals csiro futures ncmi science connect|next generation graduates scholarship honours and masters",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "CSIRO (all business units incl. Data61, Energy, Manufacturing, Space & Astronomy, Agriculture & Food, Environment, Health & Biosecurity, Minerals, CSIRO Futures, NCMI, Science Connect) [sf_rmk]",
@@ -2878,6 +2984,57 @@
    "url": "https://jobs.csiro.au/job/Various-Next-Generation-Graduates-Scholarship-Program-Honours-and-Masters/1063724066/"
   },
   {
+   "apply_url": null,
+   "base_score": 70,
+   "closes": null,
+   "company": "Barrett Communications",
+   "disciplines": [
+    "Civil/Construction",
+    "Defence",
+    "Manufacturing/Quality",
+    "Mechanical",
+    "Research",
+    "Semiconductors/FPGA",
+    "Systems/Integration"
+   ],
+   "employer_id": "barrett-communications",
+   "employment_type": "Full time",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "0d5383e94b37",
+   "key": "barrett communications|graduate commercial analyst",
+   "last_seen": "2026-10-08",
+   "links": [
+    {
+     "source": "Barrett Communications [workday]",
+     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Melbourne-Australia/Commerical-Analyst_R68895"
+    }
+   ],
+   "location": "Melbourne, Australia | Australia",
+   "posted": "2026-09-22",
+   "priority": "core",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [
+    "HF/VHF radio",
+    "RF design",
+    "embedded"
+   ],
+   "snippet": "Company Overview At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer busine",
+   "source": "Barrett Communications [workday]",
+   "source_kind": "ats",
+   "source_type": "workday",
+   "sources": [
+    "Barrett Communications [workday]"
+   ],
+   "start_date": "2026-09-22",
+   "states": [
+    "VIC"
+   ],
+   "title": "Graduate - Commercial Analyst",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Melbourne-Australia/Commerical-Analyst_R68895"
+  },
+  {
    "base_score": 70,
    "closes": null,
    "company": "Inovor Technologies",
@@ -2894,7 +3051,7 @@
    ],
    "id": "44206f155820",
    "key": "inovor technologies|graduate trainee 3 6 months some placements at dst",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -2943,7 +3100,7 @@
    "flags": [],
    "id": "313982c163bf",
    "key": "citadel securities|quantitative research analyst internship",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -2959,15 +3116,15 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2026-2027-quantitative-research-analyst-internship-59/"
-    },
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2026-2027-quantitative-research-analyst-internship-58/"
-    },
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
      "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2026-2027-quantitative-research-analyst-internship-57/"
+    },
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2026-2027-quantitative-research-analyst-internship-60/"
+    },
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2026-2027-quantitative-research-analyst-internship-61/"
     }
    ],
    "location": "Sydney",
@@ -3013,7 +3170,7 @@
    ],
    "id": "ef8fdeb5d460",
    "key": "optiver|software developer internship dec",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -3061,7 +3218,7 @@
    "flags": [],
    "id": "77e5a8454937",
    "key": "susquehanna international group|quantitative systematic trading internship phd",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -3113,7 +3270,7 @@
    ],
    "id": "e89ac0875d48",
    "key": "monash university|research assistant neuro symbolic reasoning",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -3154,7 +3311,7 @@
    "flags": [],
    "id": "6b563709be57",
    "key": "monash university incl monash robotics mcn host engineering|masters by research scholarship in engineering science ionic liquids for safe long lasting sodium metal batteries",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Monash University (incl. Monash Robotics, MCN host, Engineering) [pageup]",
@@ -3202,7 +3359,7 @@
    ],
    "id": "55339489a22f",
    "key": "lucid consulting|undergraduate hydraulic engineer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -3253,7 +3410,7 @@
    "flags": [],
    "id": "18d58fbe14c0",
    "key": "citadel securities|software engineering internship",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -3277,7 +3434,7 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2026-2027-software-engineering-internship-54/"
+     "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2026-2027-software-engineering-internship-56/"
     }
    ],
    "location": "Sydney",
@@ -3320,7 +3477,7 @@
    "flags": [],
    "id": "4ffbb7ecafd1",
    "key": "optus optus satellite|optus summer internship",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Optus (Optus Satellite) [sf_rmk]",
@@ -3368,7 +3525,7 @@
    ],
    "id": "ee1c30d0feee",
    "key": "aemo australian energy market operator|expression of interest grid connection engineer graduate",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -3418,7 +3575,7 @@
    ],
    "id": "ba7e8b24408f",
    "key": "amazon|applied science intern machine learning recommender systems amazon international machine learning",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -3462,7 +3619,7 @@
    ],
    "id": "4496f73a51be",
    "key": "lucid consulting|graduate electrical engineer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -3525,7 +3682,7 @@
    ],
    "id": "394670b5da86",
    "key": "tiktok|hyper edge technology development engineer intern data application start",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -3570,7 +3727,7 @@
    ],
    "id": "9d9510674ac8",
    "key": "tiktok|intelligent audio algorithm research intern audio innovation start phd",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -3610,7 +3767,7 @@
    "flags": [],
    "id": "fe619ad83a28",
    "key": "alstom|cadet communications",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Alstom Australia [sf_rmk]",
@@ -3659,7 +3816,7 @@
    "flags": [],
    "id": "c776afcca76a",
    "key": "kbr|graduate landscape architect",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "KBR [workday]",
@@ -3709,7 +3866,7 @@
    ],
    "id": "a5912ee24073",
    "key": "lucid consulting|undergraduate mechanical engineer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -3766,7 +3923,7 @@
    ],
    "id": "4b213a9e7eb2",
    "key": "lucid consulting|undergraduate fire services engineer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -3818,7 +3975,7 @@
    ],
    "id": "1e287abeb344",
    "key": "unsw sydney faculty of engineering|taste of research scholarship summer summer term t1",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -3857,7 +4014,7 @@
    "flags": [],
    "id": "72b6f5b0747a",
    "key": "optus optus satellite|early career talent consultant",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Optus (Optus Satellite) [sf_rmk]",
@@ -3901,7 +4058,7 @@
    "flags": [],
    "id": "ec76d0138e92",
    "key": "rockwell automation|intern remote support lcs",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Rockwell Automation Australia [workday]",
@@ -3951,7 +4108,7 @@
    ],
    "id": "af0a78c27940",
    "key": "amazon|rme graduate engineer reliability maintenance engineering",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -3994,7 +4151,7 @@
    ],
    "id": "0748b10550b9",
    "key": "australian institute for machine learning adelaide university csiro|csiro nggp honours scholarship advanced computer vision aiml",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -4037,7 +4194,7 @@
    ],
    "id": "e7d289d14104",
    "key": "pluralis research|research scientist intern",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -4084,7 +4241,7 @@
    "flags": [],
    "id": "1d5f0dcfd88f",
    "key": "citadel securities|quantitative trading full time",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -4108,7 +4265,7 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2027-quantitative-trading-full-time-85/"
+     "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2027-quantitative-trading-full-time-87/"
     }
    ],
    "location": "Sydney",
@@ -4153,7 +4310,7 @@
    ],
    "id": "63101cbf7718",
    "key": "university of melbourne feit jobs board|eng it student experience grant",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "University of Melbourne (FEIT + jobs board) [page]",
@@ -4198,7 +4355,7 @@
    ],
    "id": "9a3666ee579f",
    "key": "university of melbourne feit jobs board|feit student financial assessment",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "University of Melbourne (FEIT + jobs board) [page]",
@@ -4243,7 +4400,7 @@
    ],
    "id": "04636e9058fe",
    "key": "university of melbourne feit jobs board|feit student club affiliation",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "University of Melbourne (FEIT + jobs board) [page]",
@@ -4288,7 +4445,7 @@
    ],
    "id": "bdee66e0e4c0",
    "key": "university of melbourne feit jobs board|feit student club funding",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "University of Melbourne (FEIT + jobs board) [page]",
@@ -4334,7 +4491,7 @@
    ],
    "id": "cb3e363bbf82",
    "key": "aecom|summer internship electrical engineering nov",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -4381,7 +4538,7 @@
    "flags": [],
    "id": "6abf7d18a3b5",
    "key": "susquehanna international group|quantitative research internship phd",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -4389,11 +4546,11 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-research-internship-phd-8/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-research-internship-phd-9/"
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-research-internship-phd-9/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-research-internship-phd-8/"
     }
    ],
    "location": "Sydney",
@@ -4430,7 +4587,7 @@
    "flags": [],
    "id": "640f8b5c1d4b",
    "key": "ey|ey vacationer data analytics",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -4477,7 +4634,7 @@
    ],
    "id": "53345c619456",
    "key": "dematic kion group|graduate mechanical engineer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -4527,7 +4684,7 @@
    "flags": [],
    "id": "3fcf074eff9e",
    "key": "wood|graduate rotating equipment reliability engineer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -4572,7 +4729,7 @@
    "flags": [],
    "id": "783ec9b18925",
    "key": "optiver|expressions of interest graduate software developer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Optiver [greenhouse]",
@@ -4618,7 +4775,7 @@
    "flags": [],
    "id": "4345ce690553",
    "key": "tiktok|machine learning engineer intern trust and safety engineering start",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -4659,7 +4816,7 @@
    "flags": [],
    "id": "a29c0a726b88",
    "key": "tiktok|machine learning engineer intern tiktok live start phd",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -4700,7 +4857,7 @@
    "flags": [],
    "id": "e78196da8954",
    "key": "sg fleet group|sg fleet internship data analytics stream",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -4741,7 +4898,7 @@
    "flags": [],
    "id": "266d773dbf4c",
    "key": "sg fleet group|sg fleet internship ai stream",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -4782,7 +4939,7 @@
    "flags": [],
    "id": "3a9f6181ead2",
    "key": "susquehanna international group sig|title associate linux windows engineer new grad",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Susquehanna International Group (SIG) [icims]",
@@ -4830,7 +4987,7 @@
    ],
    "id": "6616371895aa",
    "key": "apple|apple internship information systems and technology aus",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -4888,7 +5045,7 @@
    "flags": [],
    "id": "2b88f28daf8d",
    "key": "susquehanna international group|quantitative systematic trader phd",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -4939,7 +5096,7 @@
    "flags": [],
    "id": "0ff29546c62e",
    "key": "susquehanna international group|quantitative systematic trader honours and master s",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -4989,7 +5146,7 @@
    ],
    "id": "e3a3c5ed0dc4",
    "key": "mongodb|software engineering internship summer dec",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -5030,7 +5187,7 @@
    "flags": [],
    "id": "fec21aafbc88",
    "key": "robinhood|software engineering intern backend summer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "speedyapply 2027 college jobs (GitHub) [readme_list]",
@@ -5073,7 +5230,7 @@
    "flags": [],
    "id": "17343557caf7",
    "key": "fdm group|software engineering graduate",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -5118,7 +5275,7 @@
    "flags": [],
    "id": "893bd9e2e4c1",
    "key": "bp pulse|future talent scholarship first nations",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "bp pulse Australia [workday]",
@@ -5165,7 +5322,7 @@
    ],
    "id": "61d4f3b385d8",
    "key": "tiktok|site reliability engineer intern technical infrastructure bs ms start",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -5207,7 +5364,7 @@
    "flags": [],
    "id": "060ccd851af5",
    "key": "stryker south pacific|summer internship mechanical engineer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Stryker (South Pacific) [workday]",
@@ -5254,7 +5411,7 @@
    ],
    "id": "c4e6204e9f08",
    "key": "amog consulting|engineering summer vacation student internship",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -5296,7 +5453,7 @@
    ],
    "id": "5a455342cf38",
    "key": "csiro|research assistant in agriculture",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -5325,48 +5482,6 @@
   },
   {
    "base_score": 50,
-   "closes": "2026-10-07",
-   "company": "Anduril Industries Australia",
-   "disciplines": [
-    "Software"
-   ],
-   "employer_id": null,
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "manual"
-   ],
-   "id": "6dc15aedd7f1",
-   "key": "anduril industries|software engineering intern start asap",
-   "last_seen": "2026-10-07",
-   "links": [
-    {
-     "source": "Claude web sweep",
-     "url": "https://au.prosple.com/graduate-employers/anduril-industries-australia/jobs-internships/software-engineering-intern"
-    }
-   ],
-   "location": "Sydney NSW",
-   "posted": null,
-   "priority": "adjacent",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [],
-   "snippet": "",
-   "source": "Claude web sweep",
-   "source_kind": "manual",
-   "source_type": "research 2026-10-06",
-   "sources": [
-    "Claude web sweep"
-   ],
-   "start_date": null,
-   "states": [
-    "NSW"
-   ],
-   "title": "Software Engineering Intern (Start ASAP)",
-   "url": "https://au.prosple.com/graduate-employers/anduril-industries-australia/jobs-internships/software-engineering-intern"
-  },
-  {
-   "base_score": 50,
    "closes": null,
    "company": "Apple",
    "disciplines": [
@@ -5381,7 +5496,7 @@
    ],
    "id": "493823359145",
    "key": "apple|secure kernel engineering intern sydney",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -5431,7 +5546,7 @@
    ],
    "id": "722a7e396421",
    "key": "ey|vacationer engineering nov",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -5477,7 +5592,7 @@
    ],
    "id": "b175f7f5e77e",
    "key": "ey|ey vacationer engineering",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -5523,7 +5638,7 @@
    ],
    "id": "1bfda332512a",
    "key": "ey|ey vacationer technology",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -5570,7 +5685,7 @@
    ],
    "id": "93d89579e247",
    "key": "esri|product engineering internship survey123",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -5612,7 +5727,7 @@
    ],
    "id": "84f0f6d883ab",
    "key": "esri|software engineering internship survey123",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -5652,7 +5767,7 @@
    ],
    "id": "f3a375b8c9ed",
    "key": "kpmg|kpmg vacationer engineering",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -5694,7 +5809,7 @@
    ],
    "id": "d16c0093dbc0",
    "key": "sg fleet|internship software engineering feb",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -5736,7 +5851,7 @@
    ],
    "id": "d4f3d1f4e565",
    "key": "siemens|mechanical engineering intern 1st or 2nd year students commencement",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -5779,7 +5894,7 @@
    ],
    "id": "31c7558b072f",
    "key": "tiktok|software engineer intern multimedia framework c start bs ms",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -5819,7 +5934,7 @@
    "flags": [],
    "id": "a0e57569d288",
    "key": "ey|ey vacationer climate change and sustainability services",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -5860,7 +5975,7 @@
    "flags": [],
    "id": "b55d347386fc",
    "key": "tiktok|backend software engineer intern data trust and safety start bs ms",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -5905,7 +6020,7 @@
    "flags": [],
    "id": "eba75857b33d",
    "key": "tiktok|software engineer multimedia intern tiktok live start bs ms",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -5946,7 +6061,7 @@
    "flags": [],
    "id": "decaad4e8584",
    "key": "tiktok|software engineer intern multimedia arch live start bs ms",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -5987,7 +6102,7 @@
    "flags": [],
    "id": "4c7b1a2179ce",
    "key": "tiktok|backend software engineer intern platform engineering start bs ms",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -6028,7 +6143,7 @@
    "flags": [],
    "id": "d138a54f7633",
    "key": "tiktok|frontend software engineer intern tiktok foundation start bs ms",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -6069,7 +6184,7 @@
    "flags": [],
    "id": "f27f6ab24384",
    "key": "tiktok|backend software engineer intern tiktok foundation start",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -6110,7 +6225,7 @@
    "flags": [],
    "id": "ffb9c2dae0f5",
    "key": "tiktok|software engineer intern tiktok live start bs ms",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -6151,7 +6266,7 @@
    "flags": [],
    "id": "7d1dc9115b0d",
    "key": "tiktok|ios software engineer intern tiktok live foundation start",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -6192,7 +6307,7 @@
    "flags": [],
    "id": "6d86161aadf3",
    "key": "tiktok|software development engineer in test intern qa start bs ms",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -6233,7 +6348,7 @@
    "flags": [],
    "id": "ae23ad766790",
    "key": "tiktok|backend engineer intern tiktok live start bs ms",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -6272,7 +6387,7 @@
    "flags": [],
    "id": "6bced9dfc9c9",
    "key": "ey|ey first nations vacationer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -6316,7 +6431,7 @@
    "flags": [],
    "id": "17bda8fd28ad",
    "key": "anz|anz summer intern expression of interest",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -6359,7 +6474,7 @@
    "flags": [],
    "id": "ca7f4a523ffc",
    "key": "tiktok|frontend engineer intern tiktok live start bs ms",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -6400,7 +6515,7 @@
    "flags": [],
    "id": "02514d0efe9e",
    "key": "tiktok|software development engineer in test intern tiktok live start bs ms",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -6439,7 +6554,7 @@
    "flags": [],
    "id": "47c64be7336a",
    "key": "ey|ey vacationer computer science",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -6484,7 +6599,7 @@
    "flags": [],
    "id": "06f91261208c",
    "key": "sg fleet group|sg fleet internship software engineering stream",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -6523,7 +6638,7 @@
    "flags": [],
    "id": "51a8e6d0f5f5",
    "key": "ey|ey vacationer actuarial",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -6561,53 +6676,9 @@
    "employment_type": "Internships",
    "first_seen": "2026-10-06",
    "flags": [],
-   "id": "89fe91242db3",
-   "key": "ey|ey vacationer mathematics",
-   "last_seen": "2026-10-07",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/ey/jobs/ey-202627-ey-vacationer-program-mathematics-2-2/"
-    }
-   ],
-   "location": "Adelaide | Brisbane | Canberra | Melbourne | Perth | Sydney",
-   "posted": "2026-06-24",
-   "priority": "adjacent",
-   "role_type": "summer",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Join the EY Vacationer Program and explore what your future career could look like. Gain real‑world exposure, build your skills, and set yourself up for a world of opportunities.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "ACT",
-    "NSW",
-    "QLD",
-    "SA",
-    "VIC",
-    "WA"
-   ],
-   "title": "2026/27 EY Vacationer Program – Mathematics",
-   "url": "https://au.gradconnection.com/employers/ey/jobs/ey-202627-ey-vacationer-program-mathematics-2-2/"
-  },
-  {
-   "apply_url": "https://www.ey.com/en_au/careers/students-apply-here",
-   "base_score": 50,
-   "closes": "2026-10-16",
-   "company": "EY",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Internships",
-   "first_seen": "2026-10-06",
-   "flags": [],
    "id": "b6e901e32c57",
    "key": "ey|ey vacationer economics",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -6650,7 +6721,7 @@
    "flags": [],
    "id": "c8617a96df34",
    "key": "ey|ey vacationer finance",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -6691,9 +6762,53 @@
    "employment_type": "Internships",
    "first_seen": "2026-10-06",
    "flags": [],
+   "id": "89fe91242db3",
+   "key": "ey|ey vacationer mathematics",
+   "last_seen": "2026-10-08",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/ey/jobs/ey-202627-ey-vacationer-program-mathematics-2-2/"
+    }
+   ],
+   "location": "Adelaide | Brisbane | Canberra | Melbourne | Perth | Sydney",
+   "posted": "2026-06-24",
+   "priority": "adjacent",
+   "role_type": "summer",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Join the EY Vacationer Program and explore what your future career could look like. Gain real‑world exposure, build your skills, and set yourself up for a world of opportunities.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "ACT",
+    "NSW",
+    "QLD",
+    "SA",
+    "VIC",
+    "WA"
+   ],
+   "title": "2026/27 EY Vacationer Program – Mathematics",
+   "url": "https://au.gradconnection.com/employers/ey/jobs/ey-202627-ey-vacationer-program-mathematics-2-2/"
+  },
+  {
+   "apply_url": "https://www.ey.com/en_au/careers/students-apply-here",
+   "base_score": 50,
+   "closes": "2026-10-16",
+   "company": "EY",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Internships",
+   "first_seen": "2026-10-06",
+   "flags": [],
    "id": "1c945a9fd111",
    "key": "ey|ey vacationer science",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -6739,7 +6854,7 @@
    "flags": [],
    "id": "673b9512f93f",
    "key": "susquehanna international group sig|title associate network engineer new grad",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Susquehanna International Group (SIG) [icims]",
@@ -6787,7 +6902,7 @@
    "flags": [],
    "id": "2355d0f18a41",
    "key": "ampol incl ampcharge energy transition|student vacation process engineer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Ampol (incl. AmpCharge, energy transition) [smartrecruiters]",
@@ -6832,7 +6947,7 @@
    "flags": [],
    "id": "914b94429c05",
    "key": "lucid consulting|graduate mechanical fire services engineer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -6883,7 +6998,7 @@
    "flags": [],
    "id": "8a728d452917",
    "key": "australiansuper|australiansuper graduate technology digital data enterprise stream",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -6891,11 +7006,7 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-australiansuper-2027-graduate-program-technology-digital-data-enterprise-stream-2-2-2-2-2-2/"
-    },
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-australiansuper-2027-graduate-program-technology-digital-data-enterprise-stream-2-2-2-2-2/"
+     "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-australiansuper-2027-graduate-program-technology-digital-data-enterprise-stream/"
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -6903,11 +7014,7 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-australiansuper-2027-graduate-program-technology-digital-data-enterprise-stream/"
-    },
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-australiansuper-2027-graduate-program-technology-digital-data-enterprise-stream-2-2-2/"
+     "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-australiansuper-2027-graduate-program-technology-digital-data-enterprise-stream-2-2-2-2-2/"
     }
    ],
    "location": "Melbourne",
@@ -6947,7 +7054,7 @@
    ],
    "id": "8c295f4090a8",
    "key": "amazon web services|network development engineer graduate",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -6976,48 +7083,6 @@
   },
   {
    "base_score": 47,
-   "closes": "2026-10-07",
-   "company": "Anduril Industries Australia",
-   "disciplines": [
-    "Mechanical"
-   ],
-   "employer_id": null,
-   "employment_type": null,
-   "first_seen": "2026-10-06",
-   "flags": [
-    "manual"
-   ],
-   "id": "2edaf16bb83a",
-   "key": "anduril industries|mechanical engineering intern start asap",
-   "last_seen": "2026-10-07",
-   "links": [
-    {
-     "source": "Claude web sweep",
-     "url": "https://au.prosple.com/graduate-employers/anduril-industries-australia/jobs-internships/mechanical-engineering-intern"
-    }
-   ],
-   "location": "Sydney NSW",
-   "posted": null,
-   "priority": "adjacent",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [],
-   "snippet": "",
-   "source": "Claude web sweep",
-   "source_kind": "manual",
-   "source_type": "research 2026-10-06",
-   "sources": [
-    "Claude web sweep"
-   ],
-   "start_date": null,
-   "states": [
-    "NSW"
-   ],
-   "title": "Mechanical Engineering Intern (Start ASAP)",
-   "url": "https://au.prosple.com/graduate-employers/anduril-industries-australia/jobs-internships/mechanical-engineering-intern"
-  },
-  {
-   "base_score": 47,
    "closes": null,
    "company": "Cummins",
    "disciplines": [
@@ -7031,7 +7096,7 @@
    ],
    "id": "10e92d51f164",
    "key": "cummins|undergraduate projects design engineering internship",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -7072,7 +7137,7 @@
    "flags": [],
    "id": "e43d6477cafd",
    "key": "tiktok|site reliability engineer intern video edge global engineering start",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -7113,7 +7178,7 @@
    "flags": [],
    "id": "5b9e53ea6cab",
    "key": "acs foundation|intern quality assurance analyst",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -7141,6 +7206,53 @@
    "url": "https://au.gradconnection.com/employers/acs-foundation/jobs/acs-foundation-intern-quality-assurance-analyst/"
   },
   {
+   "apply_url": "https://careers.gamuda.com.my/job/2027-DT-Infrastructure-Undergraduate-Opportunities-Commercial/12641-en_GB/",
+   "base_score": 47,
+   "closes": "2026-10-24",
+   "company": "DT Infrastructure",
+   "disciplines": [
+    "Mechanical"
+   ],
+   "employer_id": null,
+   "employment_type": "Internships",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "bbbf4e020d2a",
+   "key": "dt infrastructure|dt infrastructure undergraduate opportunities commercial",
+   "last_seen": "2026-10-08",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/dt-infrastructure/jobs/dt-infrastructure-2027-dt-infrastructure-undergraduate-opportunities-commercial/"
+    }
+   ],
+   "location": "Adelaide | Brisbane | Hobart | Melbourne | Perth | Regional New South Wales | Regional Northern Territory | Regional Queensland | Regional South Australia | Regional Tasmania | Regional Victoria | Regional Western Australia | Sydney",
+   "posted": "2026-09-27",
+   "priority": "adjacent",
+   "role_type": "intern-other",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Start your career before you graduate. Gain real infrastructure experience while you study, build your professional capability and create a pathway into your future career at DTI.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW",
+    "NT",
+    "QLD",
+    "SA",
+    "TAS",
+    "VIC",
+    "WA"
+   ],
+   "title": "2027 DT Infrastructure Undergraduate Opportunities - Commercial",
+   "url": "https://au.gradconnection.com/employers/dt-infrastructure/jobs/dt-infrastructure-2027-dt-infrastructure-undergraduate-opportunities-commercial/"
+  },
+  {
    "apply_url": null,
    "base_score": 47,
    "closes": "2026-11-01",
@@ -7152,7 +7264,7 @@
    "flags": [],
    "id": "b25f8e852ba3",
    "key": "lucid consulting|graduate asset management consultant",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -7209,7 +7321,7 @@
    "flags": [],
    "id": "a46484513b4a",
    "key": "lucid consulting|graduate hydraulic engineer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -7253,7 +7365,7 @@
   {
    "apply_url": "https://www.careersatcouncil.com.au/job/resource-recovery-officer-cadet/",
    "base_score": 47,
-   "closes": "2026-11-11",
+   "closes": "2026-11-12",
    "company": "Careers at Council",
    "disciplines": [],
    "employer_id": null,
@@ -7262,7 +7374,7 @@
    "flags": [],
    "id": "c034db8cfe8c",
    "key": "careers at council|resource recovery officer cadet",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -7270,7 +7382,7 @@
     }
    ],
    "location": "New South Wales | Regional New South Wales | Sydney",
-   "posted": "2026-09-30",
+   "posted": "2026-10-01",
    "priority": "adjacent",
    "role_type": "cadetship",
    "salary": null,
@@ -7302,7 +7414,7 @@
    ],
    "id": "7d664f852937",
    "key": "amazon|pm intern supply chain operations",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -7343,7 +7455,7 @@
    ],
    "id": "ea2f5ab8fa40",
    "key": "amazon|process improvement intern aces operations",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -7385,7 +7497,7 @@
    ],
    "id": "4ab9712861c9",
    "key": "aurecon|internship student consultant project management darwin",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -7436,7 +7548,7 @@
    ],
    "id": "b1aca86a81c9",
    "key": "dt infrastructure gamuda|dt infrastructure graduate engineering",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -7487,7 +7599,7 @@
    "flags": [],
    "id": "e2ded6c4bd0d",
    "key": "tiktok|revenue product operations intern tiktok live revenue start",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -7526,7 +7638,7 @@
    "flags": [],
    "id": "d380b83769e4",
    "key": "tiktok|agent development engineer intern media network start bs ms",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -7565,7 +7677,7 @@
    "flags": [],
    "id": "8f6a33c44279",
    "key": "tiktok|algorithm engineer intern tiktok live revenue start phd",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -7604,7 +7716,7 @@
    "flags": [],
    "id": "de7a42286432",
    "key": "nestl|nestle youth entrepreneurship platform yep",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -7654,7 +7766,7 @@
    "flags": [],
    "id": "9ab4256d6049",
    "key": "acs foundation|graduate it support internship",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -7693,7 +7805,7 @@
    "flags": [],
    "id": "724e2e793fff",
    "key": "sg fleet group|sg fleet internship voice of customer digital",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -7721,6 +7833,84 @@
    "url": "https://au.gradconnection.com/employers/sg-fleet-group/jobs/sg-fleet-group-sg-fleet-internship-programme-digital-2-2/"
   },
   {
+   "apply_url": "https://au.seek.com/job/94419628",
+   "base_score": 46,
+   "closes": "2026-10-09",
+   "company": "SG Fleet Group",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Internships",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "7257152c5d98",
+   "key": "sg fleet group|sg fleet internship it stream",
+   "last_seen": "2026-10-08",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/sg-fleet-group/jobs/sg-fleet-group-sg-fleet-internship-program-2026-operations-stream-2-2/"
+    }
+   ],
+   "location": "Sydney",
+   "posted": "2026-09-07",
+   "priority": "adjacent",
+   "role_type": "intern-other",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Paid internship at SG Fleet. Real projects, career growth. Apply by 9 October, 2026. Program commences in February 2027. Open to final-year uni students.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW"
+   ],
+   "title": "SG Fleet Internship Program 2026 – IT Stream",
+   "url": "https://au.gradconnection.com/employers/sg-fleet-group/jobs/sg-fleet-group-sg-fleet-internship-program-2026-operations-stream-2-2/"
+  },
+  {
+   "apply_url": "https://au.seek.com/job/94447051",
+   "base_score": 46,
+   "closes": "2026-10-09",
+   "company": "SG Fleet Group",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Internships",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "ca6fdc8f1951",
+   "key": "sg fleet group|sg fleet internship credit",
+   "last_seen": "2026-10-08",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/sg-fleet-group/jobs/sg-fleet-group-sg-fleet-internship-program-2026-financeaccounting-stream-3/"
+    }
+   ],
+   "location": "Sydney",
+   "posted": "2026-09-07",
+   "priority": "adjacent",
+   "role_type": "intern-other",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Paid internship at SG Fleet. Real projects, career growth. Apply by 9 October 2026. Open to final-year uni students.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW"
+   ],
+   "title": "SG Fleet 2027 Internship Program - Credit",
+   "url": "https://au.gradconnection.com/employers/sg-fleet-group/jobs/sg-fleet-group-sg-fleet-internship-program-2026-financeaccounting-stream-3/"
+  },
+  {
    "apply_url": "https://au.seek.com/job/94454195",
    "base_score": 46,
    "closes": "2026-10-09",
@@ -7732,7 +7922,7 @@
    "flags": [],
    "id": "ad0808eeb032",
    "key": "sg fleet group|sg fleet internship data and reporting analyst client relationships",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -7760,6 +7950,45 @@
    "url": "https://au.gradconnection.com/employers/sg-fleet-group/jobs/sg-fleet-group-sg-fleet-internship-program-2026-software-engineering-stream-2-2/"
   },
   {
+   "apply_url": "https://au.seek.com/job/94446433",
+   "base_score": 46,
+   "closes": "2026-10-09",
+   "company": "SG Fleet Group",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Internships",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "6f8c4d7d462f",
+   "key": "sg fleet group|sg fleet internship treasury operations stream",
+   "last_seen": "2026-10-08",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/sg-fleet-group/jobs/sg-fleet-group-sg-fleet-internship-program-2026-treasury-operations-stream-2/"
+    }
+   ],
+   "location": "Sydney",
+   "posted": "2026-09-07",
+   "priority": "adjacent",
+   "role_type": "intern-other",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Paid internship at SG Fleet. Real projects, career growth. Apply by 9 October, 2026. Program starts Feb 2026. Open to final-year uni students.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW"
+   ],
+   "title": "SG Fleet Internship Program 2026 - Treasury Operations Stream",
+   "url": "https://au.gradconnection.com/employers/sg-fleet-group/jobs/sg-fleet-group-sg-fleet-internship-program-2026-treasury-operations-stream-2/"
+  },
+  {
    "apply_url": "https://candidate.aurion.cloud/trea/production/portal1/redirect/to/dmFjYW5jaWVzLzI5MTI0OTA2NDkxOTU4OTl-MS9lZGl0",
    "base_score": 46,
    "closes": "2026-11-12",
@@ -7771,7 +8000,7 @@
    "flags": [],
    "id": "8f8c54b8082d",
    "key": "department of treasury|treasury internship",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -7812,7 +8041,7 @@
    "flags": [],
    "id": "9eee0c69241c",
    "key": "allens|first nations corporate services internship",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -7843,123 +8072,6 @@
    "url": "https://au.gradconnection.com/employers/allens/jobs/allens-2026-first-nations-internship-program-2-2/"
   },
   {
-   "apply_url": "https://au.seek.com/job/94447051",
-   "base_score": 46,
-   "closes": "2026-10-09",
-   "company": "SG Fleet Group",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Internships",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "ca6fdc8f1951",
-   "key": "sg fleet group|sg fleet internship credit",
-   "last_seen": "2026-10-07",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/sg-fleet-group/jobs/sg-fleet-group-sg-fleet-internship-program-2026-financeaccounting-stream-3/"
-    }
-   ],
-   "location": "Sydney",
-   "posted": "2026-09-07",
-   "priority": "adjacent",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Paid internship at SG Fleet. Real projects, career growth. Apply by 9 October 2026. Open to final-year uni students.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "NSW"
-   ],
-   "title": "SG Fleet 2027 Internship Program - Credit",
-   "url": "https://au.gradconnection.com/employers/sg-fleet-group/jobs/sg-fleet-group-sg-fleet-internship-program-2026-financeaccounting-stream-3/"
-  },
-  {
-   "apply_url": "https://au.seek.com/job/94419628",
-   "base_score": 46,
-   "closes": "2026-10-09",
-   "company": "SG Fleet Group",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Internships",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "7257152c5d98",
-   "key": "sg fleet group|sg fleet internship it stream",
-   "last_seen": "2026-10-07",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/sg-fleet-group/jobs/sg-fleet-group-sg-fleet-internship-program-2026-operations-stream-2-2/"
-    }
-   ],
-   "location": "Sydney",
-   "posted": "2026-09-07",
-   "priority": "adjacent",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Paid internship at SG Fleet. Real projects, career growth. Apply by 9 October, 2026. Program commences in February 2027. Open to final-year uni students.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "NSW"
-   ],
-   "title": "SG Fleet Internship Program 2026 – IT Stream",
-   "url": "https://au.gradconnection.com/employers/sg-fleet-group/jobs/sg-fleet-group-sg-fleet-internship-program-2026-operations-stream-2-2/"
-  },
-  {
-   "apply_url": "https://au.seek.com/job/94446433",
-   "base_score": 46,
-   "closes": "2026-10-09",
-   "company": "SG Fleet Group",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Internships",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "6f8c4d7d462f",
-   "key": "sg fleet group|sg fleet internship treasury operations stream",
-   "last_seen": "2026-10-07",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/sg-fleet-group/jobs/sg-fleet-group-sg-fleet-internship-program-2026-treasury-operations-stream-2/"
-    }
-   ],
-   "location": "Sydney",
-   "posted": "2026-09-07",
-   "priority": "adjacent",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Paid internship at SG Fleet. Real projects, career growth. Apply by 9 October, 2026. Program starts Feb 2026. Open to final-year uni students.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "NSW"
-   ],
-   "title": "SG Fleet Internship Program 2026 - Treasury Operations Stream",
-   "url": "https://au.gradconnection.com/employers/sg-fleet-group/jobs/sg-fleet-group-sg-fleet-internship-program-2026-treasury-operations-stream-2/"
-  },
-  {
    "apply_url": "https://careers.gamuda.com.my/job/2027-DT-Infrastructure-Undergraduate-Opportunities-Engineering/12603-en_GB/",
    "base_score": 45,
    "closes": "2026-10-24",
@@ -7977,7 +8089,7 @@
    ],
    "id": "f3913b92acbb",
    "key": "dt infrastructure|dt infrastructure undergraduate opportunities engineering",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -8027,7 +8139,7 @@
    "flags": [],
    "id": "ee0db8378632",
    "key": "susquehanna international group|quantitative researcher honours and master s",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -8078,7 +8190,7 @@
    "flags": [],
    "id": "37c51346e246",
    "key": "susquehanna international group|quantitative researcher phd",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -8114,6 +8226,48 @@
    "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-researcher-phd-2026-7/"
   },
   {
+   "apply_url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4732401005",
+   "base_score": 45,
+   "closes": "2026-10-16",
+   "company": "The Brattle Group",
+   "disciplines": [
+    "Power/Energy",
+    "Research"
+   ],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "2897f71502bd",
+   "key": "brattle group|sydney research analyst graduate",
+   "last_seen": "2026-10-08",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/the-brattle-group/jobs/the-brattle-group-research-analyst-graduate-program-2027-2-2-2/"
+    }
+   ],
+   "location": "Sydney",
+   "posted": "2026-09-17",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Our Research Analysts (RAs) are involved in diverse, challenging assignments within financial economics, managerial accounting, corporate finance, energy, competition, and regulatory economics.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW"
+   ],
+   "title": "Sydney Research Analyst Graduate Program",
+   "url": "https://au.gradconnection.com/employers/the-brattle-group/jobs/the-brattle-group-research-analyst-graduate-program-2027-2-2-2/"
+  },
+  {
    "apply_url": null,
    "base_score": 44,
    "closes": null,
@@ -8130,7 +8284,7 @@
    "flags": [],
    "id": "b7f3c0bb190e",
    "key": "medtronic australasia|graduate clinical specialist cardiac rhythm management",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Medtronic (Australasia) [workday]",
@@ -8164,59 +8318,6 @@
    "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Canberra-Australian-Capital-Territory-Australia/Graduate-Clinical-Specialist---Cardiac-Rhythm-Management_R76938-1"
   },
   {
-   "apply_url": null,
-   "base_score": 43,
-   "closes": null,
-   "company": "KBR",
-   "disciplines": [
-    "Civil/Construction",
-    "Controls/Automation",
-    "Mechanical",
-    "Software",
-    "Systems/Integration"
-   ],
-   "employer_id": "kbr",
-   "employment_type": "Full time",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "cac783044195",
-   "key": "kbr|graduate lcnc developer",
-   "last_seen": "2026-10-07",
-   "links": [
-    {
-     "source": "KBR [workday]",
-     "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Brisbane-Queensland-Australia/Graduate-LCNC-Developer_R2127204"
-    }
-   ],
-   "location": "Brisbane, Queensland, Australia | Australia",
-   "posted": "2026-09-10",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [
-    "engineering-consulting",
-    "oil-gas",
-    "defence-government",
-    "EPCM",
-    "defence",
-    "engineering-services",
-    "systems-engineering"
-   ],
-   "snippet": "Title: Graduate LCNC Developer We’re looking for a curious and motivated Graduate LCNC Developer to join our growing digital team and help shape the future of our Power Platform environment. In this role, you’ll support the development, maintenance, and optimisation of data integration and automation solutions across Power Apps and the broader Power Platform. As a Graduate LCNC developer, you’ll w",
-   "source": "KBR [workday]",
-   "source_kind": "ats",
-   "source_type": "workday",
-   "sources": [
-    "KBR [workday]"
-   ],
-   "start_date": "2026-09-10",
-   "states": [
-    "QLD"
-   ],
-   "title": "Graduate LCNC Developer",
-   "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Brisbane-Queensland-Australia/Graduate-LCNC-Developer_R2127204"
-  },
-  {
    "apply_url": "https://adr.to/s3w26ai",
    "base_score": 43,
    "closes": "2026-10-11",
@@ -8231,7 +8332,7 @@
    "flags": [],
    "id": "6fdb75b57eee",
    "key": "mm electrical merchandising|sales leadership graduate canberra",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -8259,6 +8360,47 @@
    "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-electrical-merchandising-sales-leadership-graduate/"
   },
   {
+   "apply_url": "https://jobs.smartrecruiters.com/Ampol/6000000001456183-student-vacation-program-process-engineer",
+   "base_score": 42,
+   "closes": "2026-10-16",
+   "company": "Ampol",
+   "disciplines": [
+    "Chemical/Process"
+   ],
+   "employer_id": null,
+   "employment_type": "Internships",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "858dd182eaf6",
+   "key": "ampol|student vacation process engineer",
+   "last_seen": "2026-10-08",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/ampol/jobs/ampol-student-vacation-program-process-engineer-2/"
+    }
+   ],
+   "location": "Brisbane",
+   "posted": "2026-10-01",
+   "priority": "adjacent",
+   "role_type": "summer",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Our Student Vacation Program offers the opportunity to apply your studies in a real-world environment, build your skills and explore a potential career with Ampol!",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "QLD"
+   ],
+   "title": "Student Vacation Program - Process Engineer",
+   "url": "https://au.gradconnection.com/employers/ampol/jobs/ampol-student-vacation-program-process-engineer-2/"
+  },
+  {
    "apply_url": "https://aurecongroup.wd3.myworkdayjobs.com/aurecon/job/Perth/Electrical-Engineer_R35249-1",
    "base_score": 42,
    "closes": "2026-10-22",
@@ -8272,7 +8414,7 @@
    "flags": [],
    "id": "837bb66e225a",
    "key": "aurecon|graduate electrical engineer buildings perth",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -8319,7 +8461,7 @@
    "flags": [],
    "id": "abbf2a030155",
    "key": "kpmg|kpmg graduate technology digital rolling intake",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -8367,7 +8509,7 @@
    "flags": [],
    "id": "c2ed9c46b5eb",
    "key": "fdm group|project grace data engineering graduate",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -8409,7 +8551,7 @@
    "flags": [],
    "id": "11e39a6ab913",
    "key": "tiktok|machine learning engineer graduate trust and safety engineering start",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -8454,7 +8596,7 @@
    "flags": [],
    "id": "0e7373b1848b",
    "key": "ey|ey graduate data analytics",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -8499,7 +8641,7 @@
    "flags": [],
    "id": "0785082deaf6",
    "key": "mcgrathnicol|data analytics graduate canberra",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -8541,7 +8683,7 @@
    "flags": [],
    "id": "22502a0e0a23",
    "key": "wood|graduate static equipment and structures engineer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -8582,7 +8724,7 @@
    "flags": [],
    "id": "75c10b2dc2a1",
    "key": "jemena zinfra|expression of interest zinfra graduate",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -8625,7 +8767,7 @@
    "flags": [],
    "id": "ffc1abe88f52",
    "key": "jemena zinfra|expression of interest jemena graduate",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -8657,7 +8799,7 @@
   {
    "apply_url": "https://www.careersatcouncil.com.au/job/trainee-bush-regeneration-20260831/",
    "base_score": 40,
-   "closes": "2026-10-18",
+   "closes": "2026-10-19",
    "company": "Careers at Council",
    "disciplines": [
     "Power/Energy"
@@ -8668,7 +8810,7 @@
    "flags": [],
    "id": "619fba03669e",
    "key": "careers at council|trainee bush regeneration",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -8676,7 +8818,7 @@
     }
    ],
    "location": "New South Wales | Regional New South Wales | Sydney",
-   "posted": "2026-08-31",
+   "posted": "2026-09-01",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -8709,7 +8851,7 @@
    "flags": [],
    "id": "707ea3d0616a",
    "key": "ghd|graduate environmental scientist",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GHD [oracle]",
@@ -8755,7 +8897,7 @@
    "flags": [],
    "id": "e979a610e3db",
    "key": "tiktok|audio algorithm researcher graduate immersive intelligent start phd",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -8797,7 +8939,7 @@
    "flags": [],
    "id": "06823c866db6",
    "key": "fdm group|technical analyst graduate",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -8840,7 +8982,7 @@
    "flags": [],
    "id": "56b25df94a5b",
    "key": "mako trading|graduate trader sydney",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -8882,7 +9024,7 @@
    ],
    "id": "36ef0cf06ab2",
    "key": "amazon|software development graduate melbourne",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -8929,7 +9071,7 @@
    ],
    "id": "5ce7a63a8187",
    "key": "amazon|software development graduate stores brisbane",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -8972,7 +9114,7 @@
    ],
    "id": "7b9b4ee944fb",
    "key": "amazon web services|software development graduate aws sydney",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -9013,7 +9155,7 @@
    "flags": [],
    "id": "0751876ceb94",
    "key": "tiktok|backend software engineer graduate trust and safety engineering start",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -9058,7 +9200,7 @@
    "flags": [],
    "id": "a94344ff3c41",
    "key": "tiktok|frontend engineer graduate tiktok live sydney start bs ms",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -9099,7 +9241,7 @@
    "flags": [],
    "id": "c37e823867bb",
    "key": "tiktok|software engineer graduate multimedia arch live start bs ms",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -9140,7 +9282,7 @@
    "flags": [],
    "id": "4ad65e027568",
    "key": "tiktok|backend software engineer graduate multimedia platform start bs ms",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -9181,7 +9323,7 @@
    "flags": [],
    "id": "7110e8739f51",
    "key": "tiktok|backend software engineer graduate tiktok foundation start bs ms",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -9222,7 +9364,7 @@
    "flags": [],
    "id": "50b2fc045b3c",
    "key": "tiktok|frontend software engineer graduate tiktok foundation start bs ms",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -9263,7 +9405,7 @@
    "flags": [],
    "id": "e44688c72054",
    "key": "tiktok|mobile software engineer graduate tiktok foundation start bs ms",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -9304,7 +9446,7 @@
    "flags": [],
    "id": "1865bf9e69d7",
    "key": "fdm group|project grace software development graduate",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -9348,7 +9490,7 @@
    ],
    "id": "6bfb322e8ae1",
    "key": "careers at council parkes shire council|cadet engineer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -9356,7 +9498,7 @@
     }
    ],
    "location": "Parkes, NSW",
-   "posted": "2026-04-30",
+   "posted": "2026-05-01",
    "priority": "adjacent",
    "role_type": "cadetship",
    "salary": null,
@@ -9391,7 +9533,7 @@
    "flags": [],
    "id": "25a0d2303dc3",
    "key": "tiktok|network engineer graduate technical infrastructures start bs ms",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -9433,7 +9575,7 @@
    "flags": [],
    "id": "32a65daf2318",
    "key": "tiktok|site reliability engineer graduate technical infrastructure start bs ms",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -9474,7 +9616,7 @@
    "flags": [],
    "id": "c2978f4ded29",
    "key": "stryker south pacific|quality engineering graduate september",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Stryker (South Pacific) [workday]",
@@ -9520,7 +9662,7 @@
    "flags": [],
    "id": "464054f4a7ea",
    "key": "kpmg|kpmg graduate engineering rolling intake",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -9568,7 +9710,7 @@
    "flags": [],
    "id": "508f665329f4",
    "key": "tiktok|site reliability engineer graduate video edge global engineering start",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -9613,7 +9755,7 @@
    "flags": [],
    "id": "03519c6e741c",
    "key": "acs foundation|graduate quality assurance analyst",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -9654,7 +9796,7 @@
    "flags": [],
    "id": "4c5076195121",
    "key": "dt infrastructure|dt infrastructure graduate commercial",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -9701,7 +9843,7 @@
    "flags": [],
    "id": "10a3ca5cd7fb",
    "key": "dt infrastructure|dt infrastructure graduate health safety environment sustainability",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -9747,7 +9889,7 @@
    ],
    "id": "17770c5cd680",
    "key": "santos|santos graduate 3 year engineering geoscience environmental",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -9793,7 +9935,7 @@
    ],
    "id": "62ec40710df3",
    "key": "subsea7|engineering summer intern until february",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -9827,7 +9969,7 @@
   {
    "apply_url": "https://www.careersatcouncil.com.au/job/trainee-wastewater-treatment-plant-operator/",
    "base_score": 32,
-   "closes": "2026-10-09",
+   "closes": "2026-10-10",
    "company": "Careers at Council",
    "disciplines": [],
    "employer_id": null,
@@ -9836,7 +9978,7 @@
    "flags": [],
    "id": "3636ed1bdc2b",
    "key": "careers at council|trainee wastewater treatment plant operator",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -9844,7 +9986,7 @@
     }
    ],
    "location": "New South Wales | Regional New South Wales | Sydney",
-   "posted": "2026-09-09",
+   "posted": "2026-09-10",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -9866,7 +10008,7 @@
   {
    "apply_url": "https://www.careersatcouncil.com.au/job/water-and-wastewater-trainee-20260908/",
    "base_score": 32,
-   "closes": "2026-10-11",
+   "closes": "2026-10-12",
    "company": "Careers at Council",
    "disciplines": [],
    "employer_id": null,
@@ -9875,7 +10017,7 @@
    "flags": [],
    "id": "3e0785a8f390",
    "key": "careers at council|water and wastewater trainee",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -9883,7 +10025,7 @@
     }
    ],
    "location": "New South Wales | Regional New South Wales | Sydney",
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -9914,7 +10056,7 @@
    "flags": [],
    "id": "17354d3c99cb",
    "key": "macquarie group|macquarie graduate engineering spring intake",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -9944,7 +10086,7 @@
   {
    "apply_url": "https://www.careersatcouncil.com.au/job/graduate-engineering-officer/",
    "base_score": 32,
-   "closes": "2026-10-15",
+   "closes": "2026-10-16",
    "company": "Careers at Council",
    "disciplines": [],
    "employer_id": null,
@@ -9953,7 +10095,7 @@
    "flags": [],
    "id": "d845ff8ac2e9",
    "key": "careers at council|graduate engineering officer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -9961,7 +10103,7 @@
     }
    ],
    "location": "Perth | Regional Western Australia | Western Australia",
-   "posted": "2026-10-01",
+   "posted": "2026-10-02",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -9983,7 +10125,7 @@
   {
    "apply_url": "https://www.careersatcouncil.com.au/job/trainee-water-and-wastewater-treatment-plant-operator-20260923/",
    "base_score": 32,
-   "closes": "2026-10-23",
+   "closes": "2026-10-24",
    "company": "Careers at Council",
    "disciplines": [],
    "employer_id": null,
@@ -9992,7 +10134,7 @@
    "flags": [],
    "id": "e0db24f7bc87",
    "key": "careers at council|trainee water and wastewater treatment plant operator",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10000,7 +10142,7 @@
     }
    ],
    "location": "New South Wales | Regional New South Wales | Sydney",
-   "posted": "2026-09-23",
+   "posted": "2026-09-24",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -10031,7 +10173,7 @@
    "flags": [],
    "id": "985d078d5b59",
    "key": "ey|ey graduate climate change and sustainability services",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10072,7 +10214,7 @@
    "flags": [],
    "id": "05e5f98ad748",
    "key": "ey|ey graduate engineering",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10116,7 +10258,7 @@
    "flags": [],
    "id": "1805e19abd5c",
    "key": "tbh|graduate discover an alternative career with tbh it s more than you expect",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10160,7 +10302,7 @@
    "flags": [],
    "id": "1d70de13b2c0",
    "key": "teach for|teaching and leadership graduate expression of interest",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10203,7 +10345,7 @@
    "flags": [],
    "id": "90a962580f5f",
    "key": "kpmg|kpmg graduate environmental social and governance esg rolling intake",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10249,7 +10391,7 @@
    "flags": [],
    "id": "c6231e595694",
    "key": "nbn|nbn graduate expression of interest",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10295,7 +10437,7 @@
    "flags": [],
    "id": "dfd8766ae98f",
    "key": "ghd|ghd graduate brisbane graduate planner",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10339,7 +10481,7 @@
    "flags": [],
    "id": "4e1e3c1d5567",
    "key": "tiktok|hyper edge technology development engineer graduate data application start",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10378,7 +10520,7 @@
    "flags": [],
    "id": "5a5849f50e76",
    "key": "tiktok|multimedia engineer graduate multimedia platform start bs ms",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10417,7 +10559,7 @@
    "flags": [],
    "id": "5387c25ba353",
    "key": "ey|ey first nations graduate",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10465,7 +10607,7 @@
    "flags": [],
    "id": "2dd09bad300f",
    "key": "ey|ey graduate computer science",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10508,7 +10650,7 @@
    "flags": [],
    "id": "a09744efb6b3",
    "key": "kpmg|kpmg graduate business consulting risk rolling intake",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10554,7 +10696,7 @@
    "flags": [],
    "id": "e689e271d565",
    "key": "capgemini|capgemini graduate aunz march general application",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10598,7 +10740,7 @@
    "flags": [],
    "id": "5d3cf069a2eb",
    "key": "anz|anz graduate expression of interest",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10641,7 +10783,7 @@
    "flags": [],
    "id": "2b3d3186e3fa",
    "key": "fdm group|business intelligence consultant graduate",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10681,7 +10823,7 @@
    "flags": [],
    "id": "54f35f465e10",
    "key": "ey|ey graduate technology",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10724,7 +10866,7 @@
    "flags": [],
    "id": "0f763dd708a1",
    "key": "ey|ey graduate roam",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10765,7 +10907,7 @@
    "flags": [],
    "id": "ea7c1729743c",
    "key": "australiansuper|expression of interest australiansuper graduate",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10793,6 +10935,162 @@
    "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-expression-of-interest-australiansuper-2027-graduate-program/"
   },
   {
+   "apply_url": "https://www.vic.gov.au/victorian-government-graduate-program",
+   "base_score": 32,
+   "closes": "2027-01-01",
+   "company": "Victorian Government",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "f581c4ab4c10",
+   "key": "victorian government|expression of interest victorian government graduate",
+   "last_seen": "2026-10-08",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/the-victorian-state-government/jobs/victorian-government-expression-of-interest-victorian-government-graduate-program-2028/"
+    }
+   ],
+   "location": "Melbourne",
+   "posted": "2026-05-25",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Start your career with work that makes a difference for the Victorian community.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "VIC"
+   ],
+   "title": "Expression of interest – Victorian Government graduate program 2028",
+   "url": "https://au.gradconnection.com/employers/the-victorian-state-government/jobs/victorian-government-expression-of-interest-victorian-government-graduate-program-2028/"
+  },
+  {
+   "apply_url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=24170",
+   "base_score": 32,
+   "closes": "2026-10-13",
+   "company": "Macquarie Group",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "a96befaf2bed",
+   "key": "macquarie group|macquarie graduate math spring intake",
+   "last_seen": "2026-10-08",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/macquarie-group/jobs/macquarie-group-2027-macquarie-graduate-program-math-spring-intake/"
+    }
+   ],
+   "location": "Sydney",
+   "posted": "2026-09-22",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "More is possible for your future with a career at Macquarie. We invite math students to join our 2027 Graduate Program in Sydney.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW"
+   ],
+   "title": "2027 Macquarie Graduate Program – Math – Spring Intake",
+   "url": "https://au.gradconnection.com/employers/macquarie-group/jobs/macquarie-group-2027-macquarie-graduate-program-math-spring-intake/"
+  },
+  {
+   "apply_url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=24170",
+   "base_score": 32,
+   "closes": "2026-10-13",
+   "company": "Macquarie Group",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "6846ee69416f",
+   "key": "macquarie group|macquarie graduate science spring intake",
+   "last_seen": "2026-10-08",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/macquarie-group/jobs/macquarie-group-2027-macquarie-graduate-program-science-spring-intake/"
+    }
+   ],
+   "location": "Sydney",
+   "posted": "2026-09-22",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "More is possible for your future with a career at Macquarie. We invite science students to join our 2027 Graduate Program in Sydney.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW"
+   ],
+   "title": "2027 Macquarie Graduate Program – Science – Spring Intake",
+   "url": "https://au.gradconnection.com/employers/macquarie-group/jobs/macquarie-group-2027-macquarie-graduate-program-science-spring-intake/"
+  },
+  {
+   "apply_url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=24170",
+   "base_score": 32,
+   "closes": "2026-10-13",
+   "company": "Macquarie Group",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "8f70bc0ce80b",
+   "key": "macquarie group|macquarie graduate technology and data spring intake",
+   "last_seen": "2026-10-08",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/macquarie-group/jobs/macquarie-group-2027-macquarie-graduate-program-technology-and-data-spring-intake/"
+    }
+   ],
+   "location": "Sydney",
+   "posted": "2026-09-22",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "More is possible for your future with a career in Technology at Macquarie. We invite technology and data students to join our 2027 Graduate Program in Sydney.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW"
+   ],
+   "title": "2027 Macquarie Graduate Program – Technology and data – Spring Intake",
+   "url": "https://au.gradconnection.com/employers/macquarie-group/jobs/macquarie-group-2027-macquarie-graduate-program-technology-and-data-spring-intake/"
+  },
+  {
    "apply_url": "https://mainfreightaucareers.connxcareers.com/applicant/apply/64f1bba0d136494b8b1da04bdcce7aa1",
    "base_score": 32,
    "closes": "2026-10-23",
@@ -10804,7 +11102,7 @@
    "flags": [],
    "id": "8b7162aa0e30",
    "key": "mainfreight|mainfreight graduate",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10836,31 +11134,31 @@
    "url": "https://au.gradconnection.com/employers/mainfreight/jobs/mainfreight-mainfreight-graduate-program-77/"
   },
   {
-   "apply_url": "https://www.ey.com/en_au/careers/students-apply-here",
+   "apply_url": "https://au.smrtr.io/fqMn",
    "base_score": 32,
-   "closes": "2026-10-16",
-   "company": "EY",
+   "closes": "2026-10-31",
+   "company": "KPMG",
    "disciplines": [],
    "employer_id": null,
    "employment_type": "Graduate Jobs",
    "first_seen": "2026-10-06",
    "flags": [],
-   "id": "c6762ce477bb",
-   "key": "ey|ey graduate actuarial",
-   "last_seen": "2026-10-07",
+   "id": "58c08aa0d2b8",
+   "key": "kpmg|kpmg graduate actuarial rolling intake",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/ey/jobs/ey-2027-ey-graduate-program-actuarial-2-2/"
+     "url": "https://au.gradconnection.com/employers/kpmg/jobs/kpmg-2027-kpmg-graduate-program-actuarial-rolling-intake/"
     }
    ],
-   "location": "Sydney",
-   "posted": "2026-06-24",
+   "location": "Adelaide | Brisbane | Canberra | Darwin | Hobart | Melbourne | Perth | Regional New South Wales | Regional Queensland | Regional Victoria | Sydney",
+   "posted": "2026-03-10",
    "priority": "adjacent",
    "role_type": "graduate",
-   "salary": null,
+   "salary": "{'min_salary': '60,000', 'max_salary': '80,000', 'details': ''}",
    "sectors": [],
-   "snippet": "If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.",
+   "snippet": "Turn data and uncertainty into insight. Use actuarial and analytical skills to model risk, assess scenarios and support smarter decisions across financial services and beyond.",
    "source": "GradConnection (SEEK Grad) [gradconnection]",
    "source_kind": "aggregator",
    "source_type": "gradconnection",
@@ -10869,10 +11167,17 @@
    ],
    "start_date": null,
    "states": [
-    "NSW"
+    "ACT",
+    "NSW",
+    "NT",
+    "QLD",
+    "SA",
+    "TAS",
+    "VIC",
+    "WA"
    ],
-   "title": "2027 EY Graduate Program – Actuarial",
-   "url": "https://au.gradconnection.com/employers/ey/jobs/ey-2027-ey-graduate-program-actuarial-2-2/"
+   "title": "2027 KPMG Graduate Program – Actuarial - Rolling Intake",
+   "url": "https://au.gradconnection.com/employers/kpmg/jobs/kpmg-2027-kpmg-graduate-program-actuarial-rolling-intake/"
   },
   {
    "apply_url": "https://www.ey.com/en_au/careers/students-apply-here",
@@ -10886,7 +11191,7 @@
    "flags": [],
    "id": "25d2308783ec",
    "key": "ey|ey graduate economics",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10929,7 +11234,7 @@
    "flags": [],
    "id": "b47234745958",
    "key": "ey|ey graduate finance",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -10973,7 +11278,7 @@
    "flags": [],
    "id": "10de295f29d8",
    "key": "ey|ey graduate science",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -11014,9 +11319,48 @@
    "employment_type": "Graduate Jobs",
    "first_seen": "2026-10-06",
    "flags": [],
+   "id": "c6762ce477bb",
+   "key": "ey|ey graduate actuarial",
+   "last_seen": "2026-10-08",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/ey/jobs/ey-2027-ey-graduate-program-actuarial-2-2/"
+    }
+   ],
+   "location": "Sydney",
+   "posted": "2026-06-24",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW"
+   ],
+   "title": "2027 EY Graduate Program – Actuarial",
+   "url": "https://au.gradconnection.com/employers/ey/jobs/ey-2027-ey-graduate-program-actuarial-2-2/"
+  },
+  {
+   "apply_url": "https://www.ey.com/en_au/careers/students-apply-here",
+   "base_score": 32,
+   "closes": "2026-10-16",
+   "company": "EY",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-06",
+   "flags": [],
    "id": "dae12eefa610",
    "key": "ey|ey graduate mathematics",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -11059,7 +11403,7 @@
    "flags": [],
    "id": "84ea7a9f7827",
    "key": "bdo|high school leaver",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -11091,252 +11435,6 @@
    "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-high-school-leaver-program-2027-2/"
   },
   {
-   "apply_url": "www.bdhttps://bdoau.wd105.myworkdayjobs.com/en-GB/BDOEarlyCareers/details/Graduate-Program---Adelaide_JR102557o.com.au/en-au/about/early-careers",
-   "base_score": 32,
-   "closes": "2026-10-11",
-   "company": "BDO",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "a9213fc588ac",
-   "key": "bdo|graduate business services",
-   "last_seen": "2026-10-07",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-graduate-program-business-services-10-2/"
-    },
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-graduate-program-business-services-11/"
-    }
-   ],
-   "location": "Adelaide",
-   "posted": "2026-09-21",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Graduating in 2026? Lock in a full-time graduate role with BDO! Be part of a graduate cohort, receive tailored learning & development, networking and mentoring opportunities in your first year.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "QLD",
-    "SA"
-   ],
-   "title": "Graduate Program - Business Services",
-   "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-graduate-program-business-services-10-2/"
-  },
-  {
-   "apply_url": "https://www.vic.gov.au/victorian-government-graduate-program",
-   "base_score": 32,
-   "closes": "2027-01-01",
-   "company": "Victorian Government",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "f581c4ab4c10",
-   "key": "victorian government|expression of interest victorian government graduate",
-   "last_seen": "2026-10-07",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/the-victorian-state-government/jobs/victorian-government-expression-of-interest-victorian-government-graduate-program-2028/"
-    }
-   ],
-   "location": "Melbourne",
-   "posted": "2026-05-25",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Start your career with work that makes a difference for the Victorian community.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "VIC"
-   ],
-   "title": "Expression of interest – Victorian Government graduate program 2028",
-   "url": "https://au.gradconnection.com/employers/the-victorian-state-government/jobs/victorian-government-expression-of-interest-victorian-government-graduate-program-2028/"
-  },
-  {
-   "apply_url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=24170",
-   "base_score": 32,
-   "closes": "2026-10-13",
-   "company": "Macquarie Group",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "a96befaf2bed",
-   "key": "macquarie group|macquarie graduate math spring intake",
-   "last_seen": "2026-10-07",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/macquarie-group/jobs/macquarie-group-2027-macquarie-graduate-program-math-spring-intake/"
-    }
-   ],
-   "location": "Sydney",
-   "posted": "2026-09-22",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "More is possible for your future with a career at Macquarie. We invite math students to join our 2027 Graduate Program in Sydney.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "NSW"
-   ],
-   "title": "2027 Macquarie Graduate Program – Math – Spring Intake",
-   "url": "https://au.gradconnection.com/employers/macquarie-group/jobs/macquarie-group-2027-macquarie-graduate-program-math-spring-intake/"
-  },
-  {
-   "apply_url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=24170",
-   "base_score": 32,
-   "closes": "2026-10-13",
-   "company": "Macquarie Group",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "6846ee69416f",
-   "key": "macquarie group|macquarie graduate science spring intake",
-   "last_seen": "2026-10-07",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/macquarie-group/jobs/macquarie-group-2027-macquarie-graduate-program-science-spring-intake/"
-    }
-   ],
-   "location": "Sydney",
-   "posted": "2026-09-22",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "More is possible for your future with a career at Macquarie. We invite science students to join our 2027 Graduate Program in Sydney.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "NSW"
-   ],
-   "title": "2027 Macquarie Graduate Program – Science – Spring Intake",
-   "url": "https://au.gradconnection.com/employers/macquarie-group/jobs/macquarie-group-2027-macquarie-graduate-program-science-spring-intake/"
-  },
-  {
-   "apply_url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=24170",
-   "base_score": 32,
-   "closes": "2026-10-13",
-   "company": "Macquarie Group",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "8f70bc0ce80b",
-   "key": "macquarie group|macquarie graduate technology and data spring intake",
-   "last_seen": "2026-10-07",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/macquarie-group/jobs/macquarie-group-2027-macquarie-graduate-program-technology-and-data-spring-intake/"
-    }
-   ],
-   "location": "Sydney",
-   "posted": "2026-09-22",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "More is possible for your future with a career in Technology at Macquarie. We invite technology and data students to join our 2027 Graduate Program in Sydney.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "NSW"
-   ],
-   "title": "2027 Macquarie Graduate Program – Technology and data – Spring Intake",
-   "url": "https://au.gradconnection.com/employers/macquarie-group/jobs/macquarie-group-2027-macquarie-graduate-program-technology-and-data-spring-intake/"
-  },
-  {
-   "apply_url": "https://au.smrtr.io/fqMn",
-   "base_score": 32,
-   "closes": "2026-10-31",
-   "company": "KPMG",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "58c08aa0d2b8",
-   "key": "kpmg|kpmg graduate actuarial rolling intake",
-   "last_seen": "2026-10-07",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/kpmg/jobs/kpmg-2027-kpmg-graduate-program-actuarial-rolling-intake/"
-    }
-   ],
-   "location": "Adelaide | Brisbane | Canberra | Darwin | Hobart | Melbourne | Perth | Regional New South Wales | Regional Queensland | Regional Victoria | Sydney",
-   "posted": "2026-03-10",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": "{'min_salary': '60,000', 'max_salary': '80,000', 'details': ''}",
-   "sectors": [],
-   "snippet": "Turn data and uncertainty into insight. Use actuarial and analytical skills to model risk, assess scenarios and support smarter decisions across financial services and beyond.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "ACT",
-    "NSW",
-    "NT",
-    "QLD",
-    "SA",
-    "TAS",
-    "VIC",
-    "WA"
-   ],
-   "title": "2027 KPMG Graduate Program – Actuarial - Rolling Intake",
-   "url": "https://au.gradconnection.com/employers/kpmg/jobs/kpmg-2027-kpmg-graduate-program-actuarial-rolling-intake/"
-  },
-  {
    "apply_url": "https://careers.afp.gov.au/job-invite/15886/",
    "base_score": 32,
    "closes": "2027-02-28",
@@ -11348,7 +11446,7 @@
    "flags": [],
    "id": "b3d60303d269",
    "key": "australian federal police|register of interest afp graduate",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -11393,7 +11491,7 @@
    ],
    "id": "de76de934404",
    "key": "bhp|bhp internship expression of interest",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -11446,7 +11544,7 @@
    ],
    "id": "02b7daedb293",
    "key": "university of queensland|uq summer research incl eait electrical eng comp sci mechanical mining chemical civil",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "Claude web sweep",
@@ -11488,7 +11586,7 @@
    "flags": [],
    "id": "6ddf2fd64713",
    "key": "ghd|ghd graduate brisbane graduate structural engineer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GHD [oracle]",
@@ -11539,7 +11637,7 @@
    "flags": [],
    "id": "e9bf0f09ecc4",
    "key": "ghd|ghd graduate wa graduate hydrology and water resources",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GHD [oracle]",
@@ -11577,24 +11675,28 @@
    "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28878"
   },
   {
-   "apply_url": null,
+   "apply_url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27688/?utm_medium=jobshare&utm_source=External+Job+Share",
    "base_score": 20,
-   "closes": null,
+   "closes": "2026-10-25",
    "company": "GHD",
    "disciplines": [
     "Civil/Construction"
    ],
    "employer_id": "ghd",
-   "employment_type": null,
+   "employment_type": "Graduate Jobs",
    "first_seen": "2026-10-06",
    "flags": [],
    "id": "b46a699c40df",
    "key": "ghd|ghd graduate darwin civil engineer",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GHD [oracle]",
      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27688"
+    },
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/ghd/jobs/ghd-ghd-graduate-program-202627-queensland-graduate-civil-engineer-construction-phase-services-2-2-2-2-3-2-2-2-2-3-2-2-2-2-2-2-2-2/"
     }
    ],
    "location": "DARWIN, NORTHERN TERRITORY, Australia | AU",
@@ -11608,16 +11710,17 @@
     "water",
     "infrastructure"
    ],
-   "snippet": "",
+   "snippet": "Want to help solve the world’s big problems? Join our Graduate program in 2027 and work for an inclusive company committed to your development through our two year graduate program.",
    "source": "GHD [oracle]",
    "source_kind": "ats",
    "source_type": "oracle",
    "sources": [
-    "GHD [oracle]"
+    "GHD [oracle]",
+    "GradConnection (SEEK Grad) [gradconnection]"
    ],
    "start_date": null,
    "states": [
-    "AU"
+    "NT"
    ],
    "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer",
    "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27688"
@@ -11636,7 +11739,7 @@
    "flags": [],
    "id": "12fe60d6c083",
    "key": "ghd|ghd graduate brisbane geotechnical engineering",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -11684,7 +11787,7 @@
    ],
    "id": "071fabab0176",
    "key": "readygrad|electrical engineering internship",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -11731,7 +11834,7 @@
    ],
    "id": "e016ea0437ba",
    "key": "gradability|mechanical engineering internships",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -11779,7 +11882,7 @@
    ],
    "id": "c0b156bddc75",
    "key": "readygrad|mechanical engineering internship",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -11824,7 +11927,7 @@
    ],
    "id": "4f210c27de51",
    "key": "gradability|engineering project management internships",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -11870,7 +11973,7 @@
    ],
    "id": "95a17cdba464",
    "key": "readygrad|engineering project management internship",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -11902,52 +12005,6 @@
    "url": "https://au.gradconnection.com/employers/readygrad/jobs/readygrad-engineering-project-management-internship-program-2026-11/"
   },
   {
-   "apply_url": "https://gap.gradability.com.au/SeekGrad",
-   "base_score": 6,
-   "closes": "2026-10-16",
-   "company": "Gradability",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Internships",
-   "first_seen": "2026-10-06",
-   "flags": [
-    "placement-agency"
-   ],
-   "id": "492d643aa4ca",
-   "key": "gradability|business analysts data analyst internships",
-   "last_seen": "2026-10-07",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/gradability/jobs/gradability-business-analysts-data-analyst-internships/"
-    }
-   ],
-   "location": "Adelaide | Brisbane | Canberra | Hobart | Melbourne | Sydney",
-   "posted": "2026-09-25",
-   "priority": "adjacent",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Gradability places graduates into real Australian workplaces. We handle the whole process, matching, prep, and placement, so you're not figuring this out alone.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "ACT",
-    "NSW",
-    "QLD",
-    "SA",
-    "TAS",
-    "VIC"
-   ],
-   "title": "Business Analysts & Data Analyst Internships",
-   "url": "https://au.gradconnection.com/employers/gradability/jobs/gradability-business-analysts-data-analyst-internships/"
-  },
-  {
    "apply_url": "https://lendlease.wd3.myworkdayjobs.com/LendleaseCareers/job/Sydney---CBD-New-South-Wales-Australia/Lendlease-2027-Graduate-Program_REQ-7064749",
    "base_score": 2,
    "closes": "2027-04-05",
@@ -11961,7 +12018,7 @@
    "flags": [],
    "id": "2ee44fe776f1",
    "key": "lendlease|graduate contract administrator",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -12011,7 +12068,7 @@
    "flags": [],
    "id": "7b445f340213",
    "key": "bhp|bhp graduate expression of interest",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -12060,7 +12117,7 @@
    ],
    "id": "e6da3c2d04d0",
    "key": "gradability|structural engineering internships",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -12108,7 +12165,7 @@
    ],
    "id": "2cf7f30865bb",
    "key": "gradability|civil engineering internships",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-08",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
