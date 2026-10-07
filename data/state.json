@@ -667,8 +667,8 @@
  "10cf2b347be0": {
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-07",
-  "misses": 2,
+  "last_seen": "2026-10-08",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -783,7 +783,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1424,14 +1424,15 @@
   "title": "Software Engineer - Internship (2027 May - August)"
  },
  "22ef9aedc9ea": {
+  "closed_on": "2026-10-08",
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Equity Analyst: 2027"
  },
  "2355c90654a9": {
@@ -1871,14 +1872,15 @@
   "title": "Civil Engineering Internships"
  },
  "2d0d9d305d5f": {
+  "closed_on": "2026-10-08",
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Macro Analyst: 2027"
  },
  "2dd09bad300f": {
@@ -1955,7 +1957,7 @@
   "company": "Anduril Industries Australia",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Claude web sweep"
   ],
@@ -2021,14 +2023,15 @@
   "title": "Notify Me - Lendlease Internships"
  },
  "319d1b92d2e1": {
+  "closed_on": "2026-10-08",
   "company": "Aurecon",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Aurecon [workday]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Structural Engineer - Industrial Structures, Brisbane"
  },
  "31bc6bac6431": {
@@ -2071,7 +2074,7 @@
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3165,8 +3168,8 @@
   "closed_on": "2026-10-06",
   "company": "Gradability",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-07",
-  "misses": 1,
+  "last_seen": "2026-10-08",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3295,7 +3298,7 @@
   "company": "The Royal Children's Hospital",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3912,7 +3915,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4361,7 +4364,7 @@
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4712,7 +4715,7 @@
   "company": "Anduril Industries Australia",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Claude web sweep"
   ],
@@ -5263,7 +5266,7 @@
   "company": "White Acorn Capital",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5892,7 +5895,7 @@
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6458,7 +6461,7 @@
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6700,14 +6703,15 @@
   "title": "Boeing Summer 2027 Internship Program (Paid) – Communications Intern"
  },
  "9be6eda4da4b": {
+  "closed_on": "2026-10-08",
   "company": "KBR",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "KBR [workday]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Cadet Drafter"
  },
  "9c11fcdc0968": {
@@ -6756,6 +6760,17 @@
   ],
   "status": "open",
   "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program, Software Engineering Artificial Intelligence Intern"
+ },
+ "9d11f9a9e475": {
+  "company": "Gradability",
+  "first_seen": "2026-10-08",
+  "last_seen": "2026-10-08",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Human Resources Internships"
  },
  "9d9510674ac8": {
   "company": "TikTok",
@@ -7006,8 +7021,8 @@
  "a2a57ed4532d": {
   "company": "McGrathNicol",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-07",
-  "misses": 2,
+  "last_seen": "2026-10-08",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7256,7 +7271,7 @@
   "company": "BDO",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7691,8 +7706,7 @@
   "last_seen": "2026-10-08",
   "misses": 0,
   "sources": [
-   "GHD [oracle]",
-   "GradConnection (SEEK Grad) [gradconnection]"
+   "GHD [oracle]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
@@ -7910,6 +7924,17 @@
   "status": "closed",
   "title": "Software Engineer Graduate - Data Arch - E-commerce"
  },
+ "b931ca22589d": {
+  "company": "Johnson Controls Australia",
+  "first_seen": "2026-10-08",
+  "last_seen": "2026-10-08",
+  "misses": 0,
+  "sources": [
+   "Johnson Controls Australia [workday]"
+  ],
+  "status": "open",
+  "title": "Graduate Engineer"
+ },
  "b97471da2f59": {
   "closed_on": "2026-10-06",
   "company": "Stripe",
@@ -8027,6 +8052,17 @@
   "status": "closed",
   "title": "Software Engineer - Early Careers"
  },
+ "bd620a0586cc": {
+  "company": "Meta",
+  "first_seen": "2026-10-08",
+  "last_seen": "2026-10-08",
+  "misses": 0,
+  "sources": [
+   "speedyapply 2027 college jobs (GitHub) [readme_list]"
+  ],
+  "status": "open",
+  "title": "Software Engineering Intern"
+ },
  "bde33ddf2ec9": {
   "closed_on": "2026-10-06",
   "company": "Obrien",
@@ -8113,7 +8149,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-08",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8589,7 +8625,7 @@
   "company": "KBR",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "KBR [workday]"
   ],
