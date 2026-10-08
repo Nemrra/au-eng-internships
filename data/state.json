@@ -575,12 +575,12 @@
   "closed_on": "2026-10-07",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
-  "misses": 3,
+  "last_seen": "2026-10-08",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Gwydir Career Start 2026/2027"
  },
  "0f763dd708a1": {
@@ -668,7 +668,7 @@
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-08",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -783,7 +783,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1427,12 +1427,12 @@
   "closed_on": "2026-10-08",
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-07",
-  "misses": 3,
+  "last_seen": "2026-10-08",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Equity Analyst: 2027"
  },
  "2355c90654a9": {
@@ -1688,7 +1688,7 @@
   "company": "The Brattle Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-08",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1812,6 +1812,18 @@
   "status": "open",
   "title": "Quantitative Systematic Trader - PhD: 2026"
  },
+ "2c710b442db5": {
+  "company": "GHD",
+  "first_seen": "2026-10-08",
+  "last_seen": "2026-10-08",
+  "misses": 0,
+  "sources": [
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "GHD Graduate Program 2026/27 – Cairns – Graduate Mechanical Engineer"
+ },
  "2c82881064e3": {
   "closed_on": "2026-10-06",
   "company": "Costa",
@@ -1875,12 +1887,12 @@
   "closed_on": "2026-10-08",
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-07",
-  "misses": 3,
+  "last_seen": "2026-10-08",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Macro Analyst: 2027"
  },
  "2dd09bad300f": {
@@ -1954,14 +1966,15 @@
   "title": "Machine Learning Research Intern - Summer 2027 - Sydney"
  },
  "2edaf16bb83a": {
+  "closed_on": "2026-10-08",
   "company": "Anduril Industries Australia",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Claude web sweep"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Mechanical Engineering Intern (Start ASAP)"
  },
  "2ee44fe776f1": {
@@ -2073,8 +2086,8 @@
  "3268255bcaa9": {
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
-  "misses": 2,
+  "last_seen": "2026-10-08",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2286,7 +2299,7 @@
   "company": "Gradability",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2391,12 +2404,12 @@
   "closed_on": "2026-10-07",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
-  "misses": 3,
+  "last_seen": "2026-10-08",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Trainee Early Childhood Educator [Sandhills Early Childhood Centre, Byron Bay]"
  },
  "372a9d79084e": {
@@ -3298,7 +3311,7 @@
   "company": "The Royal Children's Hospital",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3808,12 +3821,12 @@
   "closed_on": "2026-10-08",
   "company": "McGrathNicol",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
-  "misses": 3,
+  "last_seen": "2026-10-08",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "2027 Restructuring Graduate Program (Perth)"
  },
  "57648df86771": {
@@ -3915,7 +3928,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4363,8 +4376,8 @@
  "6347c8749483": {
   "company": "BDO",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
-  "misses": 2,
+  "last_seen": "2026-10-08",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4712,14 +4725,15 @@
   "title": "Software Development Engineer in Test Intern (QA) - 2027 Start (BS/MS)"
  },
  "6dc15aedd7f1": {
+  "closed_on": "2026-10-08",
   "company": "Anduril Industries Australia",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Claude web sweep"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Software Engineering Intern (Start ASAP)"
  },
  "6ddf2fd64713": {
@@ -4834,7 +4848,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-08",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5007,7 +5021,7 @@
   "company": "Optus (Optus Satellite)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-08",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Optus (Optus Satellite) [sf_rmk]"
   ],
@@ -5266,7 +5280,7 @@
   "company": "White Acorn Capital",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5465,7 +5479,7 @@
   "company": "Gradability",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5894,8 +5908,8 @@
  "8b7e034c95c6": {
   "company": "BDO",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
-  "misses": 2,
+  "last_seen": "2026-10-08",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6197,6 +6211,17 @@
   "status": "closed",
   "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program, Software Engineering Artificial Intelligence Intern"
  },
+ "90464445b5d6": {
+  "company": "Optus (Optus Satellite)",
+  "first_seen": "2026-10-08",
+  "last_seen": "2026-10-08",
+  "misses": 0,
+  "sources": [
+   "Optus (Optus Satellite) [sf_rmk]"
+  ],
+  "status": "open",
+  "title": "Early Careers Talent Consultant"
+ },
  "9049730092ff": {
   "closed_on": "2026-10-06",
   "company": "Heat And Control",
@@ -6460,8 +6485,8 @@
  "9719732e9da6": {
   "company": "BDO",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
-  "misses": 2,
+  "last_seen": "2026-10-08",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6566,12 +6591,12 @@
   "closed_on": "2026-10-07",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
-  "misses": 3,
+  "last_seen": "2026-10-08",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Business Administration Trainee"
  },
  "97ebef994b8a": {
@@ -6765,7 +6790,7 @@
   "company": "Gradability",
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-08",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7270,8 +7295,8 @@
   "closed_on": "2026-10-07",
   "company": "BDO",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-07",
-  "misses": 2,
+  "last_seen": "2026-10-08",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7693,7 +7718,7 @@
   "company": "Gradability",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8149,7 +8174,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-08",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8622,14 +8647,15 @@
   "title": "Frontend Engineer Intern (TikTok LIVE) - 2027 Start (BS/MS)"
  },
  "cac783044195": {
+  "closed_on": "2026-10-08",
   "company": "KBR",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-07",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "KBR [workday]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate LCNC Developer"
  },
  "cade1f981222": {
@@ -9251,12 +9277,12 @@
   "closed_on": "2026-10-07",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07",
-  "misses": 3,
+  "last_seen": "2026-10-08",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Trainee Administration Officer - Environmental Systems and Assets"
  },
  "dd3dd01de28e": {
