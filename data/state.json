@@ -575,8 +575,8 @@
   "closed_on": "2026-10-07",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-08",
-  "misses": 1,
+  "last_seen": "2026-10-09",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -645,7 +645,7 @@
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-08",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -783,12 +783,12 @@
   "closed_on": "2026-10-09",
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-08",
-  "misses": 3,
+  "last_seen": "2026-10-09",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Up your Engineering Game with a Chemical Engineering Internship – Apply Now"
  },
  "136cb521b431": {
@@ -1074,7 +1074,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1429,7 +1429,7 @@
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-08",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1685,15 +1685,15 @@
   "title": "2027 Early Career Mechanical Engineer"
  },
  "2897f71502bd": {
-  "closed_on": "2026-10-07",
+  "closed_on": "2026-10-09",
   "company": "The Brattle Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-08",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Sydney Research Analyst Graduate Program"
  },
  "289fffa6f01a": {
@@ -1889,7 +1889,7 @@
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-08",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2088,7 +2088,7 @@
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-09",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2297,14 +2297,15 @@
   "title": "Boeing Summer 2027 Internship Program (Paid) – Security & Fire Operation (S&FO)"
  },
  "35771da8b7ca": {
+  "closed_on": "2026-10-09",
   "company": "Gradability",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Marketing Internships"
  },
  "35fb626cbdbc": {
@@ -2405,8 +2406,8 @@
   "closed_on": "2026-10-07",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-08",
-  "misses": 1,
+  "last_seen": "2026-10-09",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3183,7 +3184,7 @@
   "company": "Gradability",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3205,8 +3206,8 @@
  "4953764d7bdf": {
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-08",
-  "misses": 1,
+  "last_seen": "2026-10-09",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3311,8 +3312,8 @@
  "4b9ae753f85d": {
   "company": "The Royal Children's Hospital",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-08",
-  "misses": 1,
+  "last_seen": "2026-10-09",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3347,7 +3348,7 @@
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-08",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3811,7 +3812,7 @@
   "company": "Mako Trading Australia Pty Ltd",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-08",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3835,7 +3836,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4378,7 +4379,7 @@
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4849,7 +4850,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5019,14 +5020,15 @@
   "title": "Machine Learning Engineer Intern"
  },
  "72b6f5b0747a": {
+  "closed_on": "2026-10-09",
   "company": "Optus (Optus Satellite)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-08",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Optus (Optus Satellite) [sf_rmk]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Early Career Talent Consultant"
  },
  "73cff6c6bd14": {
@@ -5477,14 +5479,15 @@
   "title": "Notify Me - NTT DATA Internships"
  },
  "8037e03b1020": {
+  "closed_on": "2026-10-09",
   "company": "Gradability",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Information Technology Internships"
  },
  "8072fa3f5326": {
@@ -5910,7 +5913,7 @@
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5958,7 +5961,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6487,7 +6490,7 @@
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6592,8 +6595,8 @@
   "closed_on": "2026-10-07",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-08",
-  "misses": 1,
+  "last_seen": "2026-10-09",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6788,14 +6791,15 @@
   "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program, Software Engineering Artificial Intelligence Intern"
  },
  "9d11f9a9e475": {
+  "closed_on": "2026-10-09",
   "company": "Gradability",
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-08",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Human Resources Internships"
  },
  "9d9510674ac8": {
@@ -7297,7 +7301,7 @@
   "company": "BDO",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-08",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7360,6 +7364,17 @@
   ],
   "status": "closed",
   "title": "Machine Learning Engineer Graduate - E-Commerce Governance - PhD"
+ },
+ "aa3a56f53572": {
+  "company": "Premium Graduate Placements",
+  "first_seen": "2026-10-09",
+  "last_seen": "2026-10-09",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Find your Perfect Environmental Engineering Internship – Apply Today"
  },
  "aa3e360c12cc": {
   "company": "Jemena",
@@ -7431,6 +7446,17 @@
   ],
   "status": "closed",
   "title": "Notify Me - IMC Internships"
+ },
+ "abed416d3c21": {
+  "company": "Premium Graduate Placements",
+  "first_seen": "2026-10-09",
+  "last_seen": "2026-10-09",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "IT/Tech Internships Program – Join Australia’s Top Technology Program"
  },
  "ac00fa9f4388": {
   "closed_on": "2026-10-06",
@@ -7716,14 +7742,15 @@
   "title": "Notify Me - nib Graduate Jobs"
  },
  "b45528051ec1": {
+  "closed_on": "2026-10-09",
   "company": "Gradability",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Business & Commerce Internships"
  },
  "b46a699c40df": {
@@ -8024,8 +8051,8 @@
  "bbbf4e020d2a": {
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-08",
-  "misses": 1,
+  "last_seen": "2026-10-09",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8176,12 +8203,12 @@
   "closed_on": "2026-10-09",
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-08",
-  "misses": 3,
+  "last_seen": "2026-10-09",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Civil Engineering Internships Program – Multiple Locations across 7 Streams"
  },
  "bfa762deabb0": {
@@ -8459,7 +8486,7 @@
   "company": "McGrathNicol",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9280,8 +9307,8 @@
   "closed_on": "2026-10-07",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-08",
-  "misses": 1,
+  "last_seen": "2026-10-09",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10307,7 +10334,7 @@
   "company": "KPMG",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-08",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Claude web sweep"
   ],
