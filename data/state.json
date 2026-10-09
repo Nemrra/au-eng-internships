@@ -642,14 +642,15 @@
   "title": "2026-2027 FPGA Engineer Internship"
  },
  "10a3ca5cd7fb": {
+  "closed_on": "2026-10-09",
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-08",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 DT Infrastructure Graduate Program - Health, Safety, Environment & Sustainability"
  },
  "10c0987e6316": {
@@ -756,6 +757,17 @@
   "status": "closed",
   "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program - Software Engineering Artificial Intelligence Intern"
  },
+ "122f664b9b4b": {
+  "company": "Premium Graduate Placements",
+  "first_seen": "2026-10-09",
+  "last_seen": "2026-10-09",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Mechanical Engineering Internships – Roles Available across Multiple Locations"
+ },
  "128a5ab69ece": {
   "closed_on": "2026-10-06",
   "company": "Microsoft",
@@ -784,7 +796,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-09",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1074,7 +1086,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1164,6 +1176,17 @@
   ],
   "status": "open",
   "title": "2026/27 EY Vacationer Program - Technology"
+ },
+ "1c4aa9f91b40": {
+  "company": "Premium Graduate Placements",
+  "first_seen": "2026-10-09",
+  "last_seen": "2026-10-09",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Engineering Internships– Available Across 17 Engineering Disciplines"
  },
  "1c945a9fd111": {
   "company": "EY",
@@ -1425,15 +1448,15 @@
   "title": "Software Engineer - Internship (2027 May - August)"
  },
  "22ef9aedc9ea": {
-  "closed_on": "2026-10-08",
+  "closed_on": "2026-10-09",
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-08",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Equity Analyst: 2027"
  },
  "2355c90654a9": {
@@ -1885,15 +1908,15 @@
   "title": "Civil Engineering Internships"
  },
  "2d0d9d305d5f": {
-  "closed_on": "2026-10-08",
+  "closed_on": "2026-10-09",
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-08",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Macro Analyst: 2027"
  },
  "2dd09bad300f": {
@@ -2088,7 +2111,7 @@
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-09",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3184,7 +3207,7 @@
   "company": "Gradability",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3207,7 +3230,7 @@
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-09",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3345,14 +3368,15 @@
   "title": "Notify Me - FTI Consulting Internships"
  },
  "4c5076195121": {
+  "closed_on": "2026-10-09",
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-08",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 DT Infrastructure Graduate Program - Commercial"
  },
  "4c7b1a2179ce": {
@@ -3809,14 +3833,15 @@
   "title": "Software Engineer - Early Career"
  },
  "56b25df94a5b": {
+  "closed_on": "2026-10-09",
   "company": "Mako Trading Australia Pty Ltd",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-08",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Trader, Sydney"
  },
  "56eb6109f9e2": {
@@ -3824,7 +3849,7 @@
   "company": "McGrathNicol",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-09",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3836,7 +3861,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4376,14 +4401,15 @@
   "title": "2026 ENG&IT Student Experience Grant"
  },
  "6347c8749483": {
+  "closed_on": "2026-10-09",
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program - Transfer Pricing (Brisbane)"
  },
  "6390d2bcc067": {
@@ -4850,7 +4876,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5910,14 +5936,15 @@
   "title": "Mainfreight Graduate Program"
  },
  "8b7e034c95c6": {
+  "closed_on": "2026-10-09",
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program - Superannuation"
  },
  "8bae8a53df09": {
@@ -5961,7 +5988,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6487,14 +6514,15 @@
   "title": "Multi-Cloud CDN Scheduling Platform Engineer Graduate - CDN Platform"
  },
  "9719732e9da6": {
+  "closed_on": "2026-10-09",
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program - Risk Advisory"
  },
  "97606f23406c": {
@@ -6794,12 +6822,12 @@
   "closed_on": "2026-10-09",
   "company": "Gradability",
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-08",
-  "misses": 3,
+  "last_seen": "2026-10-09",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Human Resources Internships"
  },
  "9d9510674ac8": {
@@ -7121,7 +7149,7 @@
   "company": "Lucid Consulting Australia",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7297,15 +7325,15 @@
   "title": "Graduate Rail Systems Engineer (2027 Intake)"
  },
  "a9213fc588ac": {
-  "closed_on": "2026-10-07",
+  "closed_on": "2026-10-09",
   "company": "BDO",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-08",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program - Business Services"
  },
  "a94344ff3c41": {
@@ -7369,7 +7397,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-09",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7451,7 +7479,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-09",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8204,7 +8232,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-09",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8483,14 +8511,15 @@
   "title": "Engineering Summer Vacation Student Internship 2026-27"
  },
  "c58b25f89106": {
+  "closed_on": "2026-10-09",
   "company": "McGrathNicol",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-08",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 Deals & Performance Graduate Program (Brisbane, Sydney)"
  },
  "c5a992362d06": {
@@ -10331,14 +10360,15 @@
   "title": "2027 DT Infrastructure Undergraduate Opportunities - Engineering"
  },
  "f3a375b8c9ed": {
+  "closed_on": "2026-10-09",
   "company": "KPMG",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-08",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Claude web sweep"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2026/27 KPMG Vacationer Program - Engineering"
  },
  "f46810d0f6dd": {
@@ -10460,6 +10490,17 @@
   ],
   "status": "closed",
   "title": "Software Engineer Graduate - Recommendation Architecture - Feeds Infrastructure"
+ },
+ "f760c8d670af": {
+  "company": "Gradability",
+  "first_seen": "2026-10-09",
+  "last_seen": "2026-10-09",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Information Systems Internships"
  },
  "f7e48e8966fc": {
   "closed_on": "2026-10-06",
