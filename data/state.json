@@ -236,7 +236,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-09",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -258,7 +258,7 @@
   "company": "SG Fleet Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -597,8 +597,8 @@
   "closed_on": "2026-10-07",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-09",
-  "misses": 1,
+  "last_seen": "2026-10-10",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -667,8 +667,8 @@
   "closed_on": "2026-10-09",
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-09",
-  "misses": 1,
+  "last_seen": "2026-10-10",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -688,14 +688,15 @@
   "title": "Notify Me - APA Group Graduate Jobs"
  },
  "10cf2b347be0": {
+  "closed_on": "2026-10-10",
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Data & Technical Support Specialist – Utility Metering"
  },
  "10de295f29d8": {
@@ -817,12 +818,12 @@
   "closed_on": "2026-10-10",
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-09",
-  "misses": 3,
+  "last_seen": "2026-10-10",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Up your Engineering Game with a Chemical Engineering Internship – Apply Now"
  },
  "136cb521b431": {
@@ -1473,8 +1474,8 @@
   "closed_on": "2026-10-09",
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-09",
-  "misses": 1,
+  "last_seen": "2026-10-10",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1650,7 +1651,7 @@
   "company": "SG Fleet Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1734,7 +1735,7 @@
   "company": "The Brattle Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1933,8 +1934,8 @@
   "closed_on": "2026-10-09",
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-09",
-  "misses": 1,
+  "last_seen": "2026-10-10",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2130,14 +2131,15 @@
   "title": "Research Intern - PhD"
  },
  "3268255bcaa9": {
+  "closed_on": "2026-10-10",
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-09",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Civil Engineer"
  },
  "3274bbceba5b": {
@@ -2451,8 +2453,8 @@
   "closed_on": "2026-10-07",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-09",
-  "misses": 1,
+  "last_seen": "2026-10-10",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3229,7 +3231,7 @@
   "company": "Gradability",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-10",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3242,8 +3244,7 @@
   "last_seen": "2026-10-10",
   "misses": 0,
   "sources": [
-   "Claude web sweep",
-   "Apple [page]"
+   "Claude web sweep"
   ],
   "status": "open",
   "title": "Secure Kernel Engineering Intern, Sydney"
@@ -3251,8 +3252,8 @@
  "4953764d7bdf": {
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-09",
-  "misses": 1,
+  "last_seen": "2026-10-10",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3357,8 +3358,8 @@
  "4b9ae753f85d": {
   "company": "The Royal Children's Hospital",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-09",
-  "misses": 2,
+  "last_seen": "2026-10-10",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3393,8 +3394,8 @@
   "closed_on": "2026-10-09",
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-09",
-  "misses": 1,
+  "last_seen": "2026-10-10",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3870,8 +3871,8 @@
   "closed_on": "2026-10-08",
   "company": "McGrathNicol",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-09",
-  "misses": 1,
+  "last_seen": "2026-10-10",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3976,8 +3977,8 @@
   "closed_on": "2026-10-07",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-09",
-  "misses": 1,
+  "last_seen": "2026-10-10",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4426,8 +4427,8 @@
   "closed_on": "2026-10-09",
   "company": "BDO",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-09",
-  "misses": 1,
+  "last_seen": "2026-10-10",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4862,7 +4863,7 @@
   "company": "SG Fleet Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5049,7 +5050,7 @@
   "company": "SG Fleet Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5060,7 +5061,7 @@
   "company": "SG Fleet Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5343,7 +5344,7 @@
   "company": "White Acorn Capital",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-09",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5833,8 +5834,8 @@
  "877c32caf450": {
   "company": "Mott MacDonald",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-09",
-  "misses": 1,
+  "last_seen": "2026-10-10",
+  "misses": 0,
   "sources": [
    "Mott MacDonald [sf_rmk]"
   ],
@@ -5973,8 +5974,8 @@
   "closed_on": "2026-10-09",
   "company": "BDO",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-09",
-  "misses": 1,
+  "last_seen": "2026-10-10",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6562,8 +6563,8 @@
   "closed_on": "2026-10-09",
   "company": "BDO",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-09",
-  "misses": 1,
+  "last_seen": "2026-10-10",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6668,8 +6669,8 @@
   "closed_on": "2026-10-07",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-09",
-  "misses": 1,
+  "last_seen": "2026-10-10",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6868,7 +6869,7 @@
   "company": "Gradability",
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-10",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7091,7 +7092,7 @@
   "company": "Boeing Australia (Boeing Defence Australia, Boeing Aerostructures Australia, Insitu Pacific, BR&T-A)",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-09",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Boeing Australia (Boeing Defence Australia, Boeing Aerostructures Australia, Insitu Pacific, BR&T-A) [workday]"
   ],
@@ -7562,7 +7563,7 @@
   "company": "SG Fleet Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7835,7 +7836,8 @@
   "last_seen": "2026-10-10",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
@@ -8278,12 +8280,12 @@
   "closed_on": "2026-10-10",
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-09",
-  "misses": 3,
+  "last_seen": "2026-10-10",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Civil Engineering Internships Program – Multiple Locations across 7 Streams"
  },
  "bfa762deabb0": {
@@ -8734,7 +8736,7 @@
   "company": "SG Fleet Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8995,7 +8997,7 @@
   "company": "SG Fleet",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Claude web sweep"
   ],
@@ -9079,7 +9081,8 @@
   "last_seen": "2026-10-10",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 – Queensland – Graduate Civil Engineer (Construction Phase Services)"
@@ -9405,8 +9408,8 @@
   "closed_on": "2026-10-07",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-09",
-  "misses": 1,
+  "last_seen": "2026-10-10",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9895,7 +9898,7 @@
   "company": "SG Fleet Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10563,7 +10566,7 @@
   "company": "Gradability",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-10",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10586,7 +10589,7 @@
   "company": "Johnson Controls Australia",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-09",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Johnson Controls Australia [workday]"
   ],
