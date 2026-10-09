@@ -4,7 +4,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.9,
+  "secs": 0.2,
   "source": "5B [page]",
   "spec": {
    "type": "page",
@@ -16,7 +16,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.9,
+  "secs": 2.0,
   "source": "ACEN Australia [page]",
   "spec": {
    "type": "page",
@@ -28,7 +28,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.7,
+  "secs": 0.9,
   "source": "ACT Government (jobs.act.gov.au; graduate program) [page]",
   "spec": {
    "type": "page",
@@ -40,7 +40,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.3,
+  "secs": 1.1,
   "source": "AEMO (Australian Energy Market Operator) [page]",
   "spec": {
    "type": "page",
@@ -52,7 +52,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 6.6,
+  "secs": 6.5,
   "source": "ARC CoE for Quantum Computation & Communication Technology (CQC2T) [page]",
   "spec": {
    "type": "page",
@@ -64,7 +64,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 11.5,
+  "secs": 11.9,
   "source": "ARC CoE in Future Low-Energy Electronics Technologies (FLEET) [page]",
   "spec": {
    "type": "page",
@@ -88,7 +88,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 113.5,
+  "secs": 112.3,
   "source": "ARPANSA (Australian Radiation Protection and Nuclear Safety Agency) [page]",
   "spec": {
    "type": "page",
@@ -100,7 +100,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.4,
+  "secs": 0.2,
   "source": "ASC Pty Ltd [page]",
   "spec": {
    "type": "page",
@@ -124,7 +124,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.4,
+  "secs": 0.3,
   "source": "Acciona [page]",
   "spec": {
    "type": "page",
@@ -148,7 +148,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.5,
+  "secs": 0.6,
   "source": "Allume Energy [page]",
   "spec": {
    "type": "page",
@@ -160,7 +160,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.1,
+  "secs": 1.4,
   "source": "Amazon / AWS [page]",
   "spec": {
    "type": "page",
@@ -172,7 +172,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.3,
+  "secs": 0.2,
   "source": "Ampere Computing [page]",
   "spec": {
    "type": "page",
@@ -196,7 +196,7 @@
   "kind": "ats",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.3,
+  "secs": 0.6,
   "source": "Arcadis [eightfold]",
   "spec": {
    "sub": "arcadis",
@@ -208,7 +208,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.4,
+  "secs": 0.3,
   "source": "Archistar [page]",
   "spec": {
    "type": "page",
@@ -244,7 +244,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 111.7,
+  "secs": 111.9,
   "source": "Australian Energy Regulator (AER) / AEMC [page]",
   "spec": {
    "type": "page",
@@ -256,7 +256,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 112.7,
+  "secs": 113.7,
   "source": "Australian Government Graduate Program (AGGP) - STEM, Data, Digital, Engineering-relevant streams [page]",
   "spec": {
    "type": "page",
@@ -268,7 +268,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 115.5,
+  "secs": 119.4,
   "source": "Australian Institute of Marine Science (AIMS) [page]",
   "spec": {
    "type": "page",
@@ -280,7 +280,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 2.0,
+  "secs": 2.5,
   "source": "Australian Rail Track Corporation (ARTC) [page]",
   "spec": {
    "type": "page",
@@ -292,7 +292,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 113.2,
+  "secs": 114.2,
   "source": "Australian Security Intelligence Organisation (ASIO) [page]",
   "spec": {
    "type": "page",
@@ -304,7 +304,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 112.0,
+  "secs": 112.2,
   "source": "Australian Signals Directorate (ASD, incl. ACSC) [page]",
   "spec": {
    "type": "page",
@@ -328,7 +328,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 114.5,
+  "secs": 114.2,
   "source": "Australian Space Agency (Department of Industry, Science and Resources) [page]",
   "spec": {
    "type": "page",
@@ -340,7 +340,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 112.9,
+  "secs": 113.2,
   "source": "Australian Submarine Agency (ASA) [page]",
   "spec": {
    "type": "page",
@@ -377,7 +377,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.4,
+  "secs": 0.2,
   "source": "Barwon Water [page]",
   "spec": {
    "type": "page",
@@ -389,7 +389,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 2.3,
+  "secs": 2.5,
   "source": "Beach Energy [page]",
   "spec": {
    "type": "page",
@@ -401,7 +401,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.5,
+  "secs": 0.6,
   "source": "Beckhoff Automation Australia [page]",
   "spec": {
    "type": "page",
@@ -425,7 +425,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 2.7,
+  "secs": 1.9,
   "source": "BluGlass [page]",
   "spec": {
    "type": "page",
@@ -437,7 +437,7 @@
   "kind": "ats",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.5,
+  "secs": 0.3,
   "source": "Boston Scientific (Australia) [eightfold]",
   "spec": {
    "sub": "bostonscientific",
@@ -474,7 +474,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.6,
+  "secs": 0.4,
   "source": "Bruker (Australia) [page]",
   "spec": {
    "type": "page",
@@ -486,7 +486,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.3,
+  "secs": 0.2,
   "source": "Bureau of Meteorology [page]",
   "spec": {
    "type": "page",
@@ -498,7 +498,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.6,
+  "secs": 0.7,
   "source": "Bureau of Meteorology [page]",
   "spec": {
    "type": "page",
@@ -510,7 +510,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.1,
+  "secs": 0.9,
   "source": "Bureau of Meteorology [page]",
   "spec": {
    "type": "page",
@@ -547,7 +547,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 2.5,
+  "secs": 2.7,
   "source": "CSIRO Space & Astronomy [page]",
   "spec": {
    "type": "page",
@@ -572,7 +572,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 6.3,
+  "secs": 6.8,
   "source": "Canon Medical Systems ANZ [page]",
   "spec": {
    "type": "page",
@@ -580,23 +580,11 @@
   }
  },
  {
-  "error": "blocked: HTTP 403 for https://www.careers.vic.gov.au/jobs?keywords=student",
-  "kind": "page",
-  "ok": false,
-  "raw_count": 0,
-  "secs": 0.5,
-  "source": "Careers.vic (Victorian public sector job board - incl. DTP, DEECA/VicGrid, VIDA, SRLA) [page]",
-  "spec": {
-   "type": "page",
-   "url": "https://www.careers.vic.gov.au/jobs?keywords=student"
-  }
- },
- {
   "error": "blocked: HTTP 403 for https://www.careers.vic.gov.au/jobs?keywords=%7Bkeyword%7D",
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.1,
+  "secs": 0.3,
   "source": "Careers.vic (Victorian public sector job board - incl. DTP, DEECA/VicGrid, VIDA, SRLA) [page]",
   "spec": {
    "type": "page",
@@ -608,7 +596,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.5,
+  "secs": 0.8,
   "source": "Careers.vic (Victorian public sector job board - incl. DTP, DEECA/VicGrid, VIDA, SRLA) [page]",
   "spec": {
    "type": "page",
@@ -616,11 +604,23 @@
   }
  },
  {
+  "error": "blocked: HTTP 403 for https://www.careers.vic.gov.au/jobs?keywords=student",
+  "kind": "page",
+  "ok": false,
+  "raw_count": 0,
+  "secs": 1.7,
+  "source": "Careers.vic (Victorian public sector job board - incl. DTP, DEECA/VicGrid, VIDA, SRLA) [page]",
+  "spec": {
+   "type": "page",
+   "url": "https://www.careers.vic.gov.au/jobs?keywords=student"
+  }
+ },
+ {
   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.carsales.com.au/404/",
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.5,
+  "secs": 1.0,
   "source": "Carsales (CAR Group) [page]",
   "spec": {
    "type": "page",
@@ -652,23 +652,11 @@
   }
  },
  {
-  "error": "blocked: HTTP 403 for https://www.citadelsecurities.com/careers/students/",
-  "kind": "page",
-  "ok": false,
-  "raw_count": 0,
-  "secs": 0.5,
-  "source": "Citadel Securities [page]",
-  "spec": {
-   "type": "page",
-   "url": "https://www.citadelsecurities.com/careers/students/"
-  }
- },
- {
   "error": "blocked: HTTP 403 for https://www.citadelsecurities.com/careers/",
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.1,
+  "secs": 0.3,
   "source": "Citadel Securities [page]",
   "spec": {
    "type": "page",
@@ -676,11 +664,23 @@
   }
  },
  {
+  "error": "blocked: HTTP 403 for https://www.citadelsecurities.com/careers/students/",
+  "kind": "page",
+  "ok": false,
+  "raw_count": 0,
+  "secs": 1.0,
+  "source": "Citadel Securities [page]",
+  "spec": {
+   "type": "page",
+   "url": "https://www.citadelsecurities.com/careers/students/"
+  }
+ },
+ {
   "error": "blocked: HTTP 403 for https://www.citadelsecurities.com/careers/open-opportunities/?location=sydney&type=students",
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.8,
+  "secs": 1.5,
   "source": "Citadel Securities [page]",
   "spec": {
    "type": "page",
@@ -729,7 +729,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.3,
+  "secs": 1.4,
   "source": "Consolidated Power Projects (CPP) [page]",
   "spec": {
    "type": "page",
@@ -741,7 +741,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 2.0,
+  "secs": 2.2,
   "source": "Curtin University (incl. Curtin Institute of Radio Astronomy, Space Science & Technology Centre) [page]",
   "spec": {
    "type": "page",
@@ -753,7 +753,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 6.4,
+  "secs": 6.6,
   "source": "Cyborg Dynamics Engineering [page]",
   "spec": {
    "type": "page",
@@ -765,7 +765,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 8.1,
+  "secs": 8.5,
   "source": "Cylite [page]",
   "spec": {
    "type": "page",
@@ -777,7 +777,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 6.8,
+  "secs": 6.6,
   "source": "DEWC Systems [page]",
   "spec": {
    "type": "page",
@@ -789,7 +789,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.5,
+  "secs": 0.4,
   "source": "Deakin University (incl. IISRI robotics) [page]",
   "spec": {
    "type": "page",
@@ -801,7 +801,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 79.1,
+  "secs": 79.7,
   "source": "Defence Industry Internship Program (DIIP, federal) [page]",
   "spec": {
    "type": "page",
@@ -813,7 +813,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 9.0,
+  "secs": 9.2,
   "source": "Defence Innovation Network (NSW) [page]",
   "spec": {
    "type": "page",
@@ -837,7 +837,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.5,
+  "secs": 1.2,
   "source": "Defence Science and Technology Group (DSTG) [page]",
   "spec": {
    "type": "page",
@@ -849,7 +849,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 113.1,
+  "secs": 114.0,
   "source": "Defence Science and Technology Group (DSTG) [page]",
   "spec": {
    "type": "page",
@@ -861,7 +861,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 2.2,
+  "secs": 2.3,
   "source": "Delta Electricity (Vales Point) [page]",
   "spec": {
    "type": "page",
@@ -873,7 +873,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 112.1,
+  "secs": 113.3,
   "source": "Department of Defence (Graduate Program, STEM Cadetship, Defence University Sponsorship, AGO/DIO) [page]",
   "spec": {
    "type": "page",
@@ -885,7 +885,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 112.3,
+  "secs": 113.3,
   "source": "Department of Defence - STEM Cadetship / Graduate programs (APS) [page]",
   "spec": {
    "type": "page",
@@ -897,7 +897,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 112.9,
+  "secs": 112.2,
   "source": "Department of Industry, Science and Resources (incl. Australian Space Agency, National Measurement Institute) [page]",
   "spec": {
    "type": "page",
@@ -909,7 +909,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 113.2,
+  "secs": 112.5,
   "source": "Department of Industry, Science and Resources (incl. Australian Space Agency, National Measurement Institute) [page]",
   "spec": {
    "type": "page",
@@ -921,7 +921,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.1,
+  "secs": 1.0,
   "source": "Department of Transport and Main Roads (QLD) [page]",
   "spec": {
    "type": "page",
@@ -933,7 +933,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.8,
+  "secs": 2.5,
   "source": "Department of Transport and Main Roads (QLD) [page]",
   "spec": {
    "type": "page",
@@ -945,7 +945,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.8,
+  "secs": 0.7,
   "source": "Department of Transport and Planning (VIC) / Victorian Infrastructure Delivery Authority (rail signalling, engineering) [page]",
   "spec": {
    "type": "page",
@@ -969,7 +969,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 2.9,
+  "secs": 2.6,
   "source": "Downer Group [page]",
   "spec": {
    "type": "page",
@@ -989,7 +989,7 @@
   }
  },
  {
-  "error": "ConnectTimeout: HTTPSConnectionPool(host='www.dynamichearing.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dynamichearing.com', port=443) at 0x7fbc70806db",
+  "error": "ConnectTimeout: HTTPSConnectionPool(host='www.dynamichearing.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dynamichearing.com', port=443) at 0x7f858c31609",
   "kind": "page",
   "ok": false,
   "raw_count": 0,
@@ -1017,7 +1017,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 2.7,
+  "secs": 12.0,
   "source": "Elbit Systems of Australia [page]",
   "spec": {
    "type": "page",
@@ -1029,7 +1029,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.6,
+  "secs": 1.0,
   "source": "Elecnor Australia [page]",
   "spec": {
    "type": "page",
@@ -1041,7 +1041,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.0,
+  "secs": 0.6,
   "source": "Energy Queensland (Energex, Ergon Energy Network, Ergon Energy Retail, Yurika) [page]",
   "spec": {
    "type": "page",
@@ -1053,7 +1053,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.5,
+  "secs": 1.1,
   "source": "Energy Queensland (Energex, Ergon Energy Network, Ergon Energy Retail, Yurika) [page]",
   "spec": {
    "type": "page",
@@ -1065,7 +1065,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.7,
+  "secs": 0.8,
   "source": "Energy Safe Victoria [page]",
   "spec": {
    "type": "page",
@@ -1077,7 +1077,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.6,
+  "secs": 0.3,
   "source": "EnergyCo NSW [page]",
   "spec": {
    "type": "page",
@@ -1089,7 +1089,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.9,
+  "secs": 0.7,
   "source": "EnergyCo NSW [page]",
   "spec": {
    "type": "page",
@@ -1101,7 +1101,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 8.2,
+  "secs": 8.1,
   "source": "FANUC Oceania [page]",
   "spec": {
    "type": "page",
@@ -1113,7 +1113,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.6,
+  "secs": 1.2,
   "source": "FBR (Fastbrick Robotics) [page]",
   "spec": {
    "type": "page",
@@ -1125,7 +1125,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 6.8,
+  "secs": 6.6,
   "source": "Ferra Engineering [page]",
   "spec": {
    "type": "page",
@@ -1149,7 +1149,7 @@
   "kind": "ats",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.7,
+  "secs": 0.6,
   "source": "Fleet Space Technologies [hibob]",
   "spec": {
    "sub": "fleetspace",
@@ -1161,7 +1161,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.7,
+  "secs": 0.6,
   "source": "Fluence Energy (Australia) [page]",
   "spec": {
    "type": "page",
@@ -1173,7 +1173,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 2.3,
+  "secs": 1.3,
   "source": "Fronius Australia [page]",
   "spec": {
    "type": "page",
@@ -1185,7 +1185,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 9.3,
+  "secs": 9.6,
   "source": "Genus Plus Group (Genus Infrastructure) [page]",
   "spec": {
    "type": "page",
@@ -1197,7 +1197,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.2,
+  "secs": 0.1,
   "source": "Gilmour Space Technologies [page]",
   "spec": {
    "type": "page",
@@ -1209,7 +1209,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.2,
+  "secs": 0.1,
   "source": "Google [page]",
   "spec": {
    "type": "page",
@@ -1217,23 +1217,11 @@
   }
  },
  {
-  "error": "blocked: robots.txt disallows https://www.google.com/about/careers/applications/jobs/results/?location=Australia",
-  "kind": "page",
-  "ok": false,
-  "raw_count": 0,
-  "secs": 0.2,
-  "source": "Google [page]",
-  "spec": {
-   "type": "page",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/?location=Australia"
-  }
- },
- {
   "error": "blocked: robots.txt disallows https://www.google.com/about/careers/applications/jobs/results/?location=Australia&employment_type=INTERN&target_level=EARLY",
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.2,
+  "secs": 0.0,
   "source": "Google [page]",
   "spec": {
    "type": "page",
@@ -1241,11 +1229,23 @@
   }
  },
  {
+  "error": "blocked: robots.txt disallows https://www.google.com/about/careers/applications/jobs/results/?location=Australia",
+  "kind": "page",
+  "ok": false,
+  "raw_count": 0,
+  "secs": 0.0,
+  "source": "Google [page]",
+  "spec": {
+   "type": "page",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/?location=Australia"
+  }
+ },
+ {
   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.gradientinstitute.org/careers",
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.2,
+  "secs": 0.3,
   "source": "Gradient Institute [page]",
   "spec": {
    "type": "page",
@@ -1257,7 +1257,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 112.0,
+  "secs": 111.6,
   "source": "Greater Western Water [page]",
   "spec": {
    "type": "page",
@@ -1269,7 +1269,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 2.5,
+  "secs": 2.4,
   "source": "Hancock Prospecting / Roy Hill [page]",
   "spec": {
    "type": "page",
@@ -1294,7 +1294,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.5,
+  "secs": 0.3,
   "source": "Hensoldt Australia [page]",
   "spec": {
    "type": "page",
@@ -1306,7 +1306,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.6,
+  "secs": 1.3,
   "source": "Hudson River Trading [page]",
   "spec": {
    "type": "page",
@@ -1318,7 +1318,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.3,
+  "secs": 0.1,
   "source": "Hypersonix Launch Systems [page]",
   "spec": {
    "type": "page",
@@ -1330,7 +1330,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.0,
+  "secs": 0.9,
   "source": "IGO Limited [page]",
   "spec": {
    "type": "page",
@@ -1342,7 +1342,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.6,
+  "secs": 0.9,
   "source": "IMC Trading [page]",
   "spec": {
    "type": "page",
@@ -1367,7 +1367,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.3,
+  "secs": 1.4,
   "source": "Iberdrola Australia [page]",
   "spec": {
    "type": "page",
@@ -1379,7 +1379,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.3,
+  "secs": 0.7,
   "source": "Infineon Technologies [page]",
   "spec": {
    "type": "page",
@@ -1403,7 +1403,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.1,
+  "secs": 0.2,
   "source": "Inovor Technologies [page]",
   "spec": {
    "type": "page",
@@ -1415,7 +1415,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 6.5,
+  "secs": 6.4,
   "source": "John Holland [page]",
   "spec": {
    "type": "page",
@@ -1440,7 +1440,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.6,
+  "secs": 0.9,
   "source": "La Trobe University [page]",
   "spec": {
    "type": "page",
@@ -1465,7 +1465,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.1,
+  "secs": 0.2,
   "source": "Linktree [page]",
   "spec": {
    "type": "page",
@@ -1477,7 +1477,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 2.3,
+  "secs": 3.5,
   "source": "Lion [page]",
   "spec": {
    "type": "page",
@@ -1489,7 +1489,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.2,
+  "secs": 0.1,
   "source": "Liquid Instruments [page]",
   "spec": {
    "type": "page",
@@ -1501,7 +1501,7 @@
   "kind": "ats",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.2,
+  "secs": 0.3,
   "source": "Lockheed Martin Australia (incl. STELaRLab, Space) [eightfold]",
   "spec": {
    "sub": "lockheedmartin",
@@ -1513,7 +1513,7 @@
   "kind": "ats",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.6,
+  "secs": 0.8,
   "source": "Lockheed Martin Australia (incl. STELaRLab, Space) [eightfold]",
   "spec": {
    "domain": "lockheedmartin.com",
@@ -1526,7 +1526,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 6.8,
+  "secs": 6.6,
   "source": "Lyro Robotics [page]",
   "spec": {
    "type": "page",
@@ -1550,7 +1550,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.8,
+  "secs": 1.7,
   "source": "MYOB [page]",
   "spec": {
    "type": "page",
@@ -1562,7 +1562,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.5,
+  "secs": 1.4,
   "source": "Macquarie University (MQ Photonics, Astronomy, AAO vacation scholarships) [page]",
   "spec": {
    "type": "page",
@@ -1586,7 +1586,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.6,
+  "secs": 1.7,
   "source": "Maven Securities [page]",
   "spec": {
    "type": "page",
@@ -1598,7 +1598,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 6.6,
+  "secs": 6.7,
   "source": "Max Kelsen [page]",
   "spec": {
    "type": "page",
@@ -1610,7 +1610,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.0,
+  "secs": 1.1,
   "source": "Medical Device Partnering Program (MDPP) [page]",
   "spec": {
    "type": "page",
@@ -1646,7 +1646,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.1,
+  "secs": 0.8,
   "source": "Meta [page]",
   "spec": {
    "type": "page",
@@ -1658,7 +1658,7 @@
   "kind": "ats",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.4,
+  "secs": 0.3,
   "source": "Microsoft [eightfold]",
   "spec": {
    "sub": "app",
@@ -1682,7 +1682,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.4,
+  "secs": 0.3,
   "source": "Monash University (incl. Monash Robotics, MCN host, Engineering) [page]",
   "spec": {
    "type": "page",
@@ -1694,7 +1694,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.3,
+  "secs": 0.8,
   "source": "NHP Electrical Engineering Products [page]",
   "spec": {
    "type": "page",
@@ -1706,7 +1706,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 6.7,
+  "secs": 6.1,
   "source": "Nanosonics [page]",
   "spec": {
    "type": "page",
@@ -1718,7 +1718,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 8.0,
+  "secs": 8.2,
   "source": "Nautronix [page]",
   "spec": {
    "type": "page",
@@ -1730,7 +1730,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.2,
+  "secs": 0.1,
   "source": "Naval Group Australia [page]",
   "spec": {
    "type": "page",
@@ -1742,7 +1742,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.2,
+  "secs": 0.1,
   "source": "Nokia Australia [page]",
   "spec": {
    "type": "page",
@@ -1750,23 +1750,11 @@
   }
  },
  {
-  "error": "RetryError: HTTPSConnectionPool(host='www.ndy.com', port=443): Max retries exceeded with url: /careers (Caused by ResponseError('too many 500 error responses'))",
-  "kind": "page",
-  "ok": false,
-  "raw_count": 0,
-  "secs": 7.4,
-  "source": "Norman Disney & Young (Tetra Tech) [page]",
-  "spec": {
-   "type": "page",
-   "url": "https://www.ndy.com/careers"
-  }
- },
- {
   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nsrltd.com/careers/",
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.0,
+  "secs": 0.9,
   "source": "Northern Star Resources [page]",
   "spec": {
    "type": "page",
@@ -1790,7 +1778,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 112.7,
+  "secs": 113.4,
   "source": "Office of National Intelligence (ONI) [page]",
   "spec": {
    "type": "page",
@@ -1814,7 +1802,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.9,
+  "secs": 0.3,
   "source": "Olympus Australia [page]",
   "spec": {
    "type": "page",
@@ -1826,7 +1814,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.2,
+  "secs": 1.5,
   "source": "Omron Electronics Australia [page]",
   "spec": {
    "type": "page",
@@ -1838,7 +1826,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 7.1,
+  "secs": 6.6,
   "source": "Oventus Medical [page]",
   "spec": {
    "type": "page",
@@ -1850,7 +1838,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 12.9,
+  "secs": 11.4,
   "source": "Pilbara Minerals (PLS) [page]",
   "spec": {
    "type": "page",
@@ -1874,7 +1862,7 @@
   "kind": "ats",
   "ok": false,
   "raw_count": 0,
-  "secs": 3.2,
+  "secs": 3.1,
   "source": "Planet Innovation [hibob]",
   "spec": {
    "sub": "planetinnovation.careers.hibob.com",
@@ -1886,7 +1874,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.2,
+  "secs": 0.4,
   "source": "Power and Water Corporation (NT) [page]",
   "spec": {
    "type": "page",
@@ -1909,7 +1897,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.6,
+  "secs": 1.8,
   "source": "Public Transport Authority of WA [page]",
   "spec": {
    "type": "page",
@@ -1921,7 +1909,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.6,
+  "secs": 0.5,
   "source": "QUT (Vacation Research Experience Scheme; QUT Centre for Robotics) [page]",
   "spec": {
    "type": "page",
@@ -1933,7 +1921,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.0,
+  "secs": 0.9,
   "source": "QUT (Vacation Research Experience Scheme; QUT Centre for Robotics) [page]",
   "spec": {
    "type": "page",
@@ -1941,23 +1929,11 @@
   }
  },
  {
-  "error": "blocked: HTTP 403 for https://research.qut.edu.au/qcr/",
-  "kind": "page",
-  "ok": false,
-  "raw_count": 0,
-  "secs": 1.0,
-  "source": "QUT Centre for Robotics [page]",
-  "spec": {
-   "type": "page",
-   "url": "https://research.qut.edu.au/qcr/"
-  }
- },
- {
   "error": "ConnectionError: HTTPSConnectionPool(host='careers.qantas.com', port=443): Max retries exceeded with url: / (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='careers.qantas.com', port=443): Read timed out. (read ",
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 111.8,
+  "secs": 112.0,
   "source": "Qantas Group (Qantas Engineering, Jetstar, QantasLink) [page]",
   "spec": {
    "type": "page",
@@ -1969,7 +1945,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 112.4,
+  "secs": 112.6,
   "source": "Qantas Group (Qantas Engineering, Jetstar, QantasLink) [page]",
   "spec": {
    "type": "page",
@@ -1993,7 +1969,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.2,
+  "secs": 0.0,
   "source": "Qualcomm [page]",
   "spec": {
    "type": "page",
@@ -2005,7 +1981,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 2.1,
+  "secs": 1.7,
   "source": "Quantium [page]",
   "spec": {
    "type": "page",
@@ -2017,7 +1993,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 27.6,
+  "secs": 27.9,
   "source": "Queensland Defence Science Alliance [page]",
   "spec": {
    "type": "page",
@@ -2054,7 +2030,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 2.2,
+  "secs": 4.4,
   "source": "REA Group [page]",
   "spec": {
    "type": "page",
@@ -2066,7 +2042,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.4,
+  "secs": 1.5,
   "source": "RMIT University (incl. RMIT summer research / vacation scholarships) [page]",
   "spec": {
    "type": "page",
@@ -2078,7 +2054,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.3,
+  "secs": 1.9,
   "source": "RODE Microphones [page]",
   "spec": {
    "type": "page",
@@ -2127,7 +2103,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 2.1,
+  "secs": 1.7,
   "source": "Rokt [page]",
   "spec": {
    "type": "page",
@@ -2139,7 +2115,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.8,
+  "secs": 0.9,
   "source": "SA Water [page]",
   "spec": {
    "type": "page",
@@ -2163,7 +2139,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.4,
+  "secs": 1.2,
   "source": "SEW-Eurodrive Australia [page]",
   "spec": {
    "type": "page",
@@ -2187,7 +2163,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.2,
+  "secs": 0.1,
   "source": "Safran Electronics & Defense Australasia [page]",
   "spec": {
    "type": "page",
@@ -2199,7 +2175,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.8,
+  "secs": 0.3,
   "source": "Salesforce [page]",
   "spec": {
    "type": "page",
@@ -2211,7 +2187,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.9,
+  "secs": 0.8,
   "source": "Seeing Machines [page]",
   "spec": {
    "type": "page",
@@ -2223,7 +2199,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 10.0,
+  "secs": 9.9,
   "source": "Selectronic Australia [page]",
   "spec": {
    "type": "page",
@@ -2235,7 +2211,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.9,
+  "secs": 0.6,
   "source": "Silicon Quantum Computing (SQC) [page]",
   "spec": {
    "type": "page",
@@ -2259,7 +2235,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.4,
+  "secs": 0.3,
   "source": "SmartSat CRC [page]",
   "spec": {
    "type": "page",
@@ -2271,7 +2247,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.3,
+  "secs": 1.2,
   "source": "South East Water [page]",
   "spec": {
    "type": "page",
@@ -2283,7 +2259,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.9,
+  "secs": 0.2,
   "source": "South32 [page]",
   "spec": {
    "type": "page",
@@ -2295,7 +2271,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.3,
+  "secs": 0.2,
   "source": "Southern Launch [page]",
   "spec": {
    "type": "page",
@@ -2307,7 +2283,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.1,
+  "secs": 1.4,
   "source": "Squadron Energy [page]",
   "spec": {
    "type": "page",
@@ -2319,7 +2295,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 6.7,
+  "secs": 6.9,
   "source": "Stowe Australia [page]",
   "spec": {
    "type": "page",
@@ -2331,7 +2307,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.2,
+  "secs": 0.3,
   "source": "Suburban Rail Loop Authority (VIC) [page]",
   "spec": {
    "type": "page",
@@ -2343,7 +2319,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.5,
+  "secs": 0.3,
   "source": "SunCable [page]",
   "spec": {
    "type": "page",
@@ -2355,7 +2331,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 6.6,
+  "secs": 6.4,
   "source": "Sungrow Australia [page]",
   "spec": {
    "type": "page",
@@ -2367,7 +2343,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.5,
+  "secs": 1.9,
   "source": "Superloop [page]",
   "spec": {
    "type": "page",
@@ -2379,7 +2355,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 4.5,
+  "secs": 3.5,
   "source": "Sydney Airport [page]",
   "spec": {
    "type": "page",
@@ -2416,7 +2392,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.7,
+  "secs": 0.9,
   "source": "Tasmanian Government (jobs.tas.gov.au) [page]",
   "spec": {
    "type": "page",
@@ -2428,7 +2404,7 @@
   "kind": "ats",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.2,
+  "secs": 0.3,
   "source": "Tektronix (Fortive) [eightfold]",
   "spec": {
    "sub": "fortive",
@@ -2440,7 +2416,7 @@
   "kind": "ats",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.3,
+  "secs": 0.5,
   "source": "Tektronix (Fortive) [eightfold]",
   "spec": {
    "sub": "ralliant",
@@ -2448,27 +2424,27 @@
   }
  },
  {
-  "error": "blocked: HTTP 403 for https://www.tesla.com/careers/search/?site=AU",
-  "kind": "page",
-  "ok": false,
-  "raw_count": 0,
-  "secs": 0.2,
-  "source": "Tesla Australia (Energy: Megapack, Powerwall, VPP) [page]",
-  "spec": {
-   "type": "page",
-   "url": "https://www.tesla.com/careers/search/?site=AU"
-  }
- },
- {
   "error": "blocked: HTTP 403 for https://www.tesla.com/cua-api/apps/careers/state",
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.9,
+  "secs": 0.3,
   "source": "Tesla Australia (Energy: Megapack, Powerwall, VPP) [page]",
   "spec": {
    "type": "page",
    "url": "https://www.tesla.com/cua-api/apps/careers/state"
+  }
+ },
+ {
+  "error": "blocked: HTTP 403 for https://www.tesla.com/careers/search/?site=AU",
+  "kind": "page",
+  "ok": false,
+  "raw_count": 0,
+  "secs": 0.5,
+  "source": "Tesla Australia (Energy: Megapack, Powerwall, VPP) [page]",
+  "spec": {
+   "type": "page",
+   "url": "https://www.tesla.com/careers/search/?site=AU"
   }
  },
  {
@@ -2488,7 +2464,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 3.4,
+  "secs": 3.3,
   "source": "Trakka Systems [page]",
   "spec": {
    "type": "page",
@@ -2500,7 +2476,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.1,
+  "secs": 1.5,
   "source": "UNSW Sydney - Taste of Research (Engineering) + CQC2T/SQC hub [page]",
   "spec": {
    "type": "page",
@@ -2512,7 +2488,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 4.2,
+  "secs": 4.1,
   "source": "Ultra Maritime Australia (Ultra Electronics Australia / Avalon Systems) [page]",
   "spec": {
    "type": "page",
@@ -2520,11 +2496,11 @@
   }
  },
  {
-  "error": "ConnectTimeout: HTTPSConnectionPool(host='www.umowlai.com.au', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.umowlai.com.au', port=443) at 0x7fbc88a5bb30",
+  "error": "ConnectTimeout: HTTPSConnectionPool(host='www.umowlai.com.au', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.umowlai.com.au', port=443) at 0x7f855cf33380",
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 111.6,
+  "secs": 111.7,
   "source": "Umow Lai [page]",
   "spec": {
    "type": "page",
@@ -2548,7 +2524,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.6,
+  "secs": 0.4,
   "source": "University of Tasmania [page]",
   "spec": {
    "type": "page",
@@ -2560,7 +2536,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.5,
+  "secs": 0.7,
   "source": "University of Technology Sydney (FEIT, Robotics Institute, UTS Tech Lab) [page]",
   "spec": {
    "type": "page",
@@ -2596,7 +2572,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.0,
+  "secs": 1.1,
   "source": "VicGrid (DEECA) [page]",
   "spec": {
    "type": "page",
@@ -2608,7 +2584,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.3,
+  "secs": 1.6,
   "source": "VicGrid (DEECA) [page]",
   "spec": {
    "type": "page",
@@ -2632,7 +2608,7 @@
   "kind": "ats",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.3,
+  "secs": 0.2,
   "source": "Wabtec Australia [workday]",
   "spec": {
    "host": "wabtec.wd1.myworkdayjobs.com",
@@ -2646,7 +2622,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.3,
+  "secs": 1.1,
   "source": "Water Corporation (WA) [page]",
   "spec": {
    "type": "page",
@@ -2658,7 +2634,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 6.4,
+  "secs": 6.8,
   "source": "Western Sydney International Airport (WSA Co) [page]",
   "spec": {
    "type": "page",
@@ -2666,11 +2642,11 @@
   }
  },
  {
-  "error": "ConnectTimeout: HTTPSConnectionPool(host='wildlifedrones.net', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='wildlifedrones.net', port=443) at 0x7fbc60af5c40>, 'Con",
+  "error": "ConnectTimeout: HTTPSConnectionPool(host='wildlifedrones.net', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='wildlifedrones.net', port=443) at 0x7f85a8078ce0>, 'Con",
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 111.7,
+  "secs": 111.4,
   "source": "Wildlife Drones [page]",
   "spec": {
    "type": "page",
@@ -2682,7 +2658,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 6.4,
+  "secs": 6.3,
   "source": "WiseTech Global [page]",
   "spec": {
    "type": "page",
@@ -2694,7 +2670,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 7.0,
+  "secs": 6.9,
   "source": "WiseTech Global [page]",
   "spec": {
    "type": "page",
@@ -2743,7 +2719,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 8.9,
+  "secs": 9.0,
   "source": "XTEK [page]",
   "spec": {
    "type": "page",
@@ -2755,7 +2731,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 0.8,
+  "secs": 0.5,
   "source": "Xero [page]",
   "spec": {
    "type": "page",
@@ -2767,7 +2743,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 6.5,
+  "secs": 6.6,
   "source": "Yaskawa Australia [page]",
   "spec": {
    "type": "page",
@@ -2779,7 +2755,7 @@
   "kind": "page",
   "ok": false,
   "raw_count": 0,
-  "secs": 1.3,
+  "secs": 1.4,
   "source": "harrison.ai [page]",
   "spec": {
    "type": "page",
@@ -2803,7 +2779,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 6,
-  "secs": 0.7,
+  "secs": 0.8,
   "source": "AARNet [livehire]",
   "spec": {
    "company": "aarnet",
@@ -2815,7 +2791,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 3.0,
+  "secs": 3.2,
   "source": "AARNet [page]",
   "spec": {
    "type": "page",
@@ -2827,7 +2803,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 7,
-  "secs": 3.9,
+  "secs": 4.1,
   "source": "AARNet [page]",
   "spec": {
    "type": "page",
@@ -2839,7 +2815,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.3,
+  "secs": 2.1,
   "source": "ABB Australia (Electrification, Motion, E-mobility) [page]",
   "spec": {
    "type": "page",
@@ -2889,7 +2865,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 5,
-  "secs": 4.1,
+  "secs": 4.2,
   "source": "AGL Energy [workday]",
   "spec": {
    "host": "agl.wd3.myworkdayjobs.com",
@@ -2903,7 +2879,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 12,
-  "secs": 2.5,
+  "secs": 2.7,
   "source": "AINSE (Australian Institute of Nuclear Science and Engineering) [page]",
   "spec": {
    "type": "page",
@@ -2915,7 +2891,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 10,
-  "secs": 3.4,
+  "secs": 3.3,
   "source": "AINSE (Australian Institute of Nuclear Science and Engineering) [page]",
   "spec": {
    "type": "page",
@@ -2927,7 +2903,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 10,
-  "secs": 3.7,
+  "secs": 3.4,
   "source": "AMSI (Australian Mathematical Sciences Institute) - Vacation Research Scholarships [page]",
   "spec": {
    "type": "page",
@@ -2939,7 +2915,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 9,
-  "secs": 5.0,
+  "secs": 5.1,
   "source": "AMSI (Australian Mathematical Sciences Institute) - Vacation Research Scholarships [page]",
   "spec": {
    "type": "page",
@@ -2951,7 +2927,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.4,
+  "secs": 1.0,
   "source": "AMSL Aero [page]",
   "spec": {
    "type": "page",
@@ -2975,7 +2951,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 4,
-  "secs": 0.7,
+  "secs": 0.6,
   "source": "ANSTO (Lucas Heights) - Australian Nuclear Science and Technology Organisation [page]",
   "spec": {
    "type": "page",
@@ -2987,7 +2963,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 2,
-  "secs": 4.4,
+  "secs": 3.9,
   "source": "ANSTO (Lucas Heights) - Australian Nuclear Science and Technology Organisation [sf_rmk]",
   "spec": {
    "host": "careers.ansto.gov.au",
@@ -3013,7 +2989,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 90,
-  "secs": 4.5,
+  "secs": 3.9,
   "source": "APR.Intern (Australian Postgraduate Research Internships) [page]",
   "spec": {
    "type": "page",
@@ -3025,7 +3001,19 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.7,
+  "secs": 1.2,
+  "source": "APSJobs (Australian Public Service job board - all Commonwealth agencies) [page]",
+  "spec": {
+   "type": "page",
+   "url": "https://www.apsjobs.gov.au/s/job-search?searchString=intern"
+  }
+ },
+ {
+  "error": null,
+  "kind": "page",
+  "ok": true,
+  "raw_count": 0,
+  "secs": 2.2,
   "source": "APSJobs (Australian Public Service job board - all Commonwealth agencies) [page]",
   "spec": {
    "type": "page",
@@ -3037,7 +3025,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.3,
+  "secs": 2.6,
   "source": "APSJobs (Australian Public Service job board - all Commonwealth agencies) [page]",
   "spec": {
    "type": "page",
@@ -3048,20 +3036,8 @@
   "error": null,
   "kind": "page",
   "ok": true,
-  "raw_count": 0,
-  "secs": 2.8,
-  "source": "APSJobs (Australian Public Service job board - all Commonwealth agencies) [page]",
-  "spec": {
-   "type": "page",
-   "url": "https://www.apsjobs.gov.au/s/job-search?searchString=intern"
-  }
- },
- {
-  "error": null,
-  "kind": "page",
-  "ok": true,
   "raw_count": 2,
-  "secs": 0.2,
+  "secs": 0.3,
   "source": "ARC CoE for Dark Matter Particle Physics (CDM) [page]",
   "spec": {
    "type": "page",
@@ -3085,7 +3061,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.8,
+  "secs": 3.8,
   "source": "ARC CoE for Gravitational Wave Discovery (OzGrav) [page]",
   "spec": {
    "type": "page",
@@ -3097,7 +3073,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.1,
+  "secs": 0.2,
   "source": "ARC CoE for Transformative Meta-Optical Systems (TMOS) [page]",
   "spec": {
    "type": "page",
@@ -3109,7 +3085,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.2,
+  "secs": 2.7,
   "source": "ARC CoE in Optical Microcombs for Breakthrough Science (COMBS) [page]",
   "spec": {
    "type": "page",
@@ -3145,7 +3121,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 93,
-  "secs": 11.9,
+  "secs": 11.6,
   "source": "Abbott (Australia) [workday]",
   "spec": {
    "host": "abbott.wd5.myworkdayjobs.com",
@@ -3159,7 +3135,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.1,
+  "secs": 2.5,
   "source": "Abyss Solutions [page]",
   "spec": {
    "type": "page",
@@ -3171,19 +3147,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 9,
-  "secs": 1.0,
-  "source": "Adelaide University (merged UofA + UniSA) incl. AIML [page]",
-  "spec": {
-   "type": "page",
-   "url": "https://adelaide.edu.au/"
-  }
- },
- {
-  "error": null,
-  "kind": "page",
-  "ok": true,
-  "raw_count": 9,
-  "secs": 1.7,
+  "secs": 1.1,
   "source": "Adelaide University (merged UofA + UniSA) incl. AIML [page]",
   "spec": {
    "type": "page",
@@ -3194,8 +3158,20 @@
   "error": null,
   "kind": "page",
   "ok": true,
+  "raw_count": 9,
+  "secs": 1.1,
+  "source": "Adelaide University (merged UofA + UniSA) incl. AIML [page]",
+  "spec": {
+   "type": "page",
+   "url": "https://adelaide.edu.au/"
+  }
+ },
+ {
+  "error": null,
+  "kind": "page",
+  "ok": true,
   "raw_count": 0,
-  "secs": 0.5,
+  "secs": 0.3,
   "source": "Advanced Navigation [page]",
   "spec": {
    "type": "page",
@@ -3219,7 +3195,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.7,
+  "secs": 0.9,
   "source": "Agerris [page]",
   "spec": {
    "type": "page",
@@ -3231,7 +3207,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 40,
-  "secs": 4.3,
+  "secs": 4.9,
   "source": "Agilent Technologies (Mulgrave) [workday]",
   "spec": {
    "host": "agilent.wd5.myworkdayjobs.com",
@@ -3245,7 +3221,7 @@
   "kind": "aggregator",
   "ok": true,
   "raw_count": 28,
-  "secs": 6.5,
+  "secs": 12.7,
   "source": "AirTree portfolio jobs [getro_board]",
   "spec": {
    "base": "https://jobs.airtree.vc",
@@ -3256,8 +3232,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 92,
-  "secs": 7.8,
+  "raw_count": 85,
+  "secs": 8.9,
   "source": "Airbus Australia Pacific [workday]",
   "spec": {
    "host": "ag.wd3.myworkdayjobs.com",
@@ -3270,8 +3246,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 22,
-  "secs": 4.0,
+  "raw_count": 23,
+  "secs": 4.1,
   "source": "Airservices Australia [pageup]",
   "spec": {
    "base": "https://careers.airservicesaustralia.com/en",
@@ -3282,7 +3258,7 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 532,
+  "raw_count": 531,
   "secs": 0.3,
   "source": "Airwallex [ashby]",
   "spec": {
@@ -3295,7 +3271,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.3,
+  "secs": 0.2,
   "source": "Airwallex [page]",
   "spec": {
    "type": "page",
@@ -3331,7 +3307,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 0.5,
+  "secs": 0.4,
   "source": "Akuna Capital [page]",
   "spec": {
    "type": "page",
@@ -3343,11 +3319,11 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.9,
+  "secs": 2.0,
   "source": "Alinta Energy [page]",
   "spec": {
    "type": "page",
-   "url": "https://careers.alintaenergy.com.au/en/listing"
+   "url": "https://careers.alintaenergy.com.au/en/listing/"
   }
  },
  {
@@ -3355,11 +3331,11 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.4,
+  "secs": 2.7,
   "source": "Alinta Energy [page]",
   "spec": {
    "type": "page",
-   "url": "https://careers.alintaenergy.com.au/en/listing/"
+   "url": "https://careers.alintaenergy.com.au/en/listing"
   }
  },
  {
@@ -3379,7 +3355,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 88,
-  "secs": 3.8,
+  "secs": 4.3,
   "source": "Alstom Australia [sf_rmk]",
   "spec": {
    "host": "jobsearch.alstom.com",
@@ -3391,7 +3367,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 5,
-  "secs": 0.8,
+  "secs": 1.1,
   "source": "Amazon / AWS [page]",
   "spec": {
    "type": "page",
@@ -3403,7 +3379,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.8,
+  "secs": 2.2,
   "source": "Amazon / AWS [page]",
   "spec": {
    "type": "page",
@@ -3414,8 +3390,8 @@
   "error": null,
   "kind": "aggregator",
   "ok": true,
-  "raw_count": 18,
-  "secs": 1.4,
+  "raw_count": 19,
+  "secs": 1.7,
   "source": "Amazon jobs AU [amazon]",
   "spec": {
    "type": "amazon"
@@ -3426,7 +3402,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 2,
-  "secs": 0.5,
+  "secs": 1.5,
   "source": "Amber Electric [lever]",
   "spec": {
    "company": "amberelectric",
@@ -3438,7 +3414,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.4,
+  "secs": 0.1,
   "source": "Amber Electric [page]",
   "spec": {
    "type": "page",
@@ -3450,7 +3426,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.2,
+  "secs": 3.5,
   "source": "Amcor [workday]",
   "spec": {
    "host": "amcor.wd3.myworkdayjobs.com",
@@ -3464,7 +3440,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.2,
+  "secs": 3.7,
   "source": "Ampcontrol [page]",
   "spec": {
    "type": "page",
@@ -3476,7 +3452,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 4.3,
+  "secs": 4.8,
   "source": "Ampcontrol [page]",
   "spec": {
    "type": "page",
@@ -3487,8 +3463,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 176,
-  "secs": 2.2,
+  "raw_count": 177,
+  "secs": 2.1,
   "source": "Ampol (incl. AmpCharge, energy transition) [smartrecruiters]",
   "spec": {
    "company": "ampol",
@@ -3500,7 +3476,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 80,
-  "secs": 11.9,
+  "secs": 11.8,
   "source": "Analog Devices [workday]",
   "spec": {
    "host": "analogdevices.wd1.myworkdayjobs.com",
@@ -3525,8 +3501,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 2468,
-  "secs": 21.8,
+  "raw_count": 2476,
+  "secs": 22.4,
   "source": "Anduril Australia [greenhouse]",
   "spec": {
    "token": "andurilindustries",
@@ -3538,7 +3514,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 24,
-  "secs": 0.3,
+  "secs": 0.2,
   "source": "Anteris Technologies [greenhouse]",
   "spec": {
    "token": "anteristech",
@@ -3549,8 +3525,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 645,
-  "secs": 6.9,
+  "raw_count": 647,
+  "secs": 7.4,
   "source": "Anthropic [greenhouse]",
   "spec": {
    "token": "anthropic",
@@ -3574,7 +3550,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.2,
+  "secs": 0.1,
   "source": "Appen [page]",
   "spec": {
    "type": "page",
@@ -3585,20 +3561,8 @@
   "error": null,
   "kind": "page",
   "ok": true,
-  "raw_count": 3,
-  "secs": 0.8,
-  "source": "Apple [page]",
-  "spec": {
-   "type": "page",
-   "url": "https://jobs.apple.com/en-au/search?location=australia-AUSC"
-  }
- },
- {
-  "error": null,
-  "kind": "page",
-  "ok": true,
   "raw_count": 2,
-  "secs": 1.5,
+  "secs": 0.7,
   "source": "Apple [page]",
   "spec": {
    "type": "page",
@@ -3607,10 +3571,22 @@
  },
  {
   "error": null,
+  "kind": "page",
+  "ok": true,
+  "raw_count": 3,
+  "secs": 1.3,
+  "source": "Apple [page]",
+  "spec": {
+   "type": "page",
+   "url": "https://jobs.apple.com/en-au/search?location=australia-AUSC"
+  }
+ },
+ {
+  "error": null,
   "kind": "aggregator",
   "ok": true,
   "raw_count": 2,
-  "secs": 0.6,
+  "secs": 1.0,
   "source": "Apple jobs AU internships [apple]",
   "spec": {
    "type": "apple"
@@ -3621,7 +3597,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 323,
-  "secs": 0.4,
+  "secs": 0.3,
   "source": "Applied EV [ashby]",
   "spec": {
    "org": "applied",
@@ -3633,7 +3609,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 1,
-  "secs": 2.3,
+  "secs": 2.1,
   "source": "Archer Materials [greenhouse]",
   "spec": {
    "token": "archer",
@@ -3671,7 +3647,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 0.8,
+  "secs": 0.5,
   "source": "Arup [page]",
   "spec": {
    "type": "page",
@@ -3682,7 +3658,7 @@
   "error": null,
   "kind": "page",
   "ok": true,
-  "raw_count": 14,
+  "raw_count": 15,
   "secs": 1.1,
   "source": "Arup [page]",
   "spec": {
@@ -3694,7 +3670,7 @@
   "error": null,
   "kind": "page",
   "ok": true,
-  "raw_count": 14,
+  "raw_count": 12,
   "secs": 1.2,
   "source": "Arup [page]",
   "spec": {
@@ -3707,7 +3683,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 3.0,
+  "secs": 3.3,
   "source": "Asahi Beverages [page]",
   "spec": {
    "type": "page",
@@ -3718,20 +3694,8 @@
   "error": null,
   "kind": "page",
   "ok": true,
-  "raw_count": 1,
-  "secs": 1.5,
-  "source": "Atlassian [page]",
-  "spec": {
-   "type": "page",
-   "url": "https://www.atlassian.com/endpoint/careers/listings"
-  }
- },
- {
-  "error": null,
-  "kind": "page",
-  "ok": true,
   "raw_count": 2,
-  "secs": 1.5,
+  "secs": 0.3,
   "source": "Atlassian [page]",
   "spec": {
    "type": "page",
@@ -3743,7 +3707,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 1.5,
+  "secs": 1.4,
   "source": "Atlassian [page]",
   "spec": {
    "type": "page",
@@ -3752,10 +3716,22 @@
  },
  {
   "error": null,
+  "kind": "page",
+  "ok": true,
+  "raw_count": 1,
+  "secs": 1.9,
+  "source": "Atlassian [page]",
+  "spec": {
+   "type": "page",
+   "url": "https://www.atlassian.com/endpoint/careers/listings"
+  }
+ },
+ {
+  "error": null,
   "kind": "aggregator",
   "ok": true,
-  "raw_count": 353,
-  "secs": 0.6,
+  "raw_count": 355,
+  "secs": 0.3,
   "source": "Atlassian careers [atlassian]",
   "spec": {
    "type": "atlassian"
@@ -3778,7 +3754,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.8,
+  "secs": 0.4,
   "source": "Aubot [page]",
   "spec": {
    "type": "page",
@@ -3790,7 +3766,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 4,
-  "secs": 0.7,
+  "secs": 0.6,
   "source": "Audinate [lever]",
   "spec": {
    "company": "audinate",
@@ -3802,7 +3778,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.3,
+  "secs": 3.2,
   "source": "Aurecon [page]",
   "spec": {
    "type": "page",
@@ -3813,8 +3789,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 31,
-  "secs": 4.2,
+  "raw_count": 32,
+  "secs": 6.0,
   "source": "Aurecon [workday]",
   "spec": {
    "host": "aurecongroup.wd3.myworkdayjobs.com",
@@ -3828,7 +3804,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 0,
-  "secs": 4.0,
+  "secs": 4.3,
   "source": "Aurizon [pageup]",
   "spec": {
    "base": "https://careers.pageuppeople.com/493/cw/en",
@@ -3840,7 +3816,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 17,
-  "secs": 3.9,
+  "secs": 4.2,
   "source": "AusNet Services [sf_rmk]",
   "spec": {
    "host": "jobs.ausnetservices.com.au",
@@ -3864,7 +3840,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 8,
-  "secs": 4.5,
+  "secs": 3.9,
   "source": "Ausgrid [sf_rmk]",
   "spec": {
    "host": "jobs.ausgrid.com.au",
@@ -3875,7 +3851,7 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 9,
+  "raw_count": 10,
   "secs": 3.4,
   "source": "Aussie Broadband [workday]",
   "spec": {
@@ -3890,7 +3866,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.5,
+  "secs": 0.6,
   "source": "Austal (Austal Australia) [page]",
   "spec": {
    "type": "page",
@@ -3902,7 +3878,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.0,
+  "secs": 2.8,
   "source": "Australian Antarctic Division (DCCEEW) [page]",
   "spec": {
    "type": "page",
@@ -3914,7 +3890,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.1,
+  "secs": 1.5,
   "source": "Australian Centre for Robotics (ACFR, USyd) [page]",
   "spec": {
    "type": "page",
@@ -3926,7 +3902,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.9,
+  "secs": 1.2,
   "source": "Australian Droid + Robot (ADR) [page]",
   "spec": {
    "type": "page",
@@ -3938,7 +3914,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.0,
+  "secs": 1.1,
   "source": "Australian Energy Regulator (AER) / AEMC [page]",
   "spec": {
    "type": "page",
@@ -3950,7 +3926,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 8,
-  "secs": 1.5,
+  "secs": 1.7,
   "source": "Australian Institute for Machine Learning (AIML, Adelaide University) [page]",
   "spec": {
    "type": "page",
@@ -3962,7 +3938,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 31,
-  "secs": 3.8,
+  "secs": 4.1,
   "source": "Australian National Fabrication Facility (ANFF) - all nodes [workday]",
   "spec": {
    "host": "rmit.wd3.myworkdayjobs.com",
@@ -3976,7 +3952,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 3,
-  "secs": 0.7,
+  "secs": 1.2,
   "source": "Australian National University (College of Engineering, Computing & Cybernetics; RSPhys; TMOS/EQUS nodes) [greenhouse]",
   "spec": {
    "token": "national",
@@ -3988,7 +3964,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 1.8,
+  "secs": 1.9,
   "source": "Australian National University (College of Engineering, Computing & Cybernetics; RSPhys; TMOS/EQUS nodes) [page]",
   "spec": {
    "type": "page",
@@ -4000,7 +3976,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.1,
+  "secs": 2.5,
   "source": "Australian Rail Track Corporation (ARTC) [page]",
   "spec": {
    "type": "page",
@@ -4012,7 +3988,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.4,
+  "secs": 1.8,
   "source": "Australian Secret Intelligence Service (ASIS) [page]",
   "spec": {
    "type": "page",
@@ -4024,7 +4000,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 7,
-  "secs": 0.0,
+  "secs": 0.1,
   "source": "Australian Space Agency (Department of Industry, Science and Resources) [greenhouse]",
   "spec": {
    "token": "space",
@@ -4036,7 +4012,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.2,
+  "secs": 0.1,
   "source": "Avita Medical [page]",
   "spec": {
    "type": "page",
@@ -4048,7 +4024,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.4,
+  "secs": 0.3,
   "source": "BAE Systems Australia [page]",
   "spec": {
    "type": "page",
@@ -4060,7 +4036,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 1.1,
+  "secs": 1.0,
   "source": "BAE Systems Australia [page]",
   "spec": {
    "type": "page",
@@ -4072,7 +4048,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 1.6,
+  "secs": 2.4,
   "source": "BAE Systems Australia [page]",
   "spec": {
    "type": "page",
@@ -4084,7 +4060,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 79,
-  "secs": 6.4,
+  "secs": 6.3,
   "source": "BD (Becton Dickinson) Australia [workday]",
   "spec": {
    "host": "bdx.wd1.myworkdayjobs.com",
@@ -4098,7 +4074,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 1,
-  "secs": 1.0,
+  "secs": 0.7,
   "source": "BG&E [employmenthero]",
   "spec": {
    "org": "9k4nckr0qm",
@@ -4109,7 +4085,7 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 30,
+  "raw_count": 26,
   "secs": 3.1,
   "source": "BHP [sf_rmk]",
   "spec": {
@@ -4122,7 +4098,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 0,
-  "secs": 18.6,
+  "secs": 12.4,
   "source": "BMD [pageup]",
   "spec": {
    "base": "https://careers.pageuppeople.com/915/cw/en",
@@ -4134,7 +4110,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 4,
-  "secs": 0.6,
+  "secs": 0.9,
   "source": "Babcock Australasia [page]",
   "spec": {
    "type": "page",
@@ -4158,7 +4134,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 69,
-  "secs": 6.6,
+  "secs": 7.4,
   "source": "Barrett Communications [workday]",
   "spec": {
    "host": "motorolasolutions.wd5.myworkdayjobs.com",
@@ -4171,8 +4147,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 33,
-  "secs": 4.0,
+  "raw_count": 32,
+  "secs": 3.8,
   "source": "Baxter Healthcare (Australia) [workday]",
   "spec": {
    "host": "baxter.wd1.myworkdayjobs.com",
@@ -4186,7 +4162,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 1.5,
+  "secs": 1.7,
   "source": "Beca [page]",
   "spec": {
    "type": "page",
@@ -4224,7 +4200,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 12,
-  "secs": 3.6,
+  "secs": 3.8,
   "source": "Bega Cheese [workday]",
   "spec": {
    "host": "begacheese.wd3.myworkdayjobs.com",
@@ -4238,7 +4214,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.8,
+  "secs": 3.3,
   "source": "BioCurate [page]",
   "spec": {
    "type": "page",
@@ -4250,7 +4226,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 4.2,
+  "secs": 4.1,
   "source": "Bionic Vision Technologies [page]",
   "spec": {
    "type": "page",
@@ -4262,7 +4238,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 1.2,
+  "secs": 1.3,
   "source": "Bionics Institute [page]",
   "spec": {
    "type": "page",
@@ -4286,7 +4262,7 @@
   "kind": "aggregator",
   "ok": true,
   "raw_count": 29,
-  "secs": 6.6,
+  "secs": 3.1,
   "source": "Blackbird portfolio jobs [getro_board]",
   "spec": {
    "base": "https://jobs.blackbird.vc",
@@ -4298,7 +4274,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.4,
+  "secs": 0.5,
   "source": "Blackmagic Design [page]",
   "spec": {
    "type": "page",
@@ -4310,7 +4286,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 228,
-  "secs": 1.6,
+  "secs": 1.4,
   "source": "Block / Afterpay [greenhouse]",
   "spec": {
    "token": "block",
@@ -4321,8 +4297,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 21,
-  "secs": 0.6,
+  "raw_count": 22,
+  "secs": 0.7,
   "source": "BlueScope [smartrecruiters]",
   "spec": {
    "company": "bluescope",
@@ -4345,8 +4321,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 70,
-  "secs": 14.9,
+  "raw_count": 71,
+  "secs": 15.9,
   "source": "Boeing Australia (Boeing Defence Australia, Boeing Aerostructures Australia, Insitu Pacific, BR&T-A) [workday]",
   "spec": {
    "host": "boeing.wd1.myworkdayjobs.com",
@@ -4360,7 +4336,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 1.2,
+  "secs": 1.3,
   "source": "Boral [page]",
   "spec": {
    "type": "page",
@@ -4383,8 +4359,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 20,
-  "secs": 0.7,
+  "raw_count": 19,
+  "secs": 0.8,
   "source": "Bosch Australia [smartrecruiters]",
   "spec": {
    "company": "BoschGroup",
@@ -4396,7 +4372,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.3,
+  "secs": 1.8,
   "source": "BrainChip [page]",
   "spec": {
    "type": "page",
@@ -4408,7 +4384,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.4,
+  "secs": 1.9,
   "source": "Breville Group [page]",
   "spec": {
    "type": "page",
@@ -4432,7 +4408,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 1,
-  "secs": 0.6,
+  "secs": 0.5,
   "source": "Buildkite [greenhouse]",
   "spec": {
    "token": "buildkite-talent-community",
@@ -4444,7 +4420,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.3,
+  "secs": 0.4,
   "source": "Buildkite [page]",
   "spec": {
    "type": "page",
@@ -4456,7 +4432,19 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.0,
+  "secs": 0.7,
+  "source": "CEA Technologies [page]",
+  "spec": {
+   "type": "page",
+   "url": "https://www.cea.com.au/opportunities-at-cea"
+  }
+ },
+ {
+  "error": null,
+  "kind": "page",
+  "ok": true,
+  "raw_count": 0,
+  "secs": 1.3,
   "source": "CEA Technologies [page]",
   "spec": {
    "type": "page",
@@ -4468,7 +4456,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.0,
+  "secs": 1.5,
   "source": "CEA Technologies [page]",
   "spec": {
    "type": "page",
@@ -4479,20 +4467,8 @@
   "error": null,
   "kind": "page",
   "ok": true,
-  "raw_count": 0,
-  "secs": 1.7,
-  "source": "CEA Technologies [page]",
-  "spec": {
-   "type": "page",
-   "url": "https://www.cea.com.au/opportunities-at-cea"
-  }
- },
- {
-  "error": null,
-  "kind": "page",
-  "ok": true,
   "raw_count": 1,
-  "secs": 1.1,
+  "secs": 2.3,
   "source": "CSIRO (all business units incl. Data61, Energy, Manufacturing, Space & Astronomy, Agriculture & Food, Environment, Health & Biosecurity, Minerals, CSIRO Futures, NCMI, Science Connect) [page]",
   "spec": {
    "type": "page",
@@ -4503,8 +4479,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 17,
-  "secs": 4.4,
+  "raw_count": 20,
+  "secs": 5.0,
   "source": "CSIRO (all business units incl. Data61, Energy, Manufacturing, Space & Astronomy, Agriculture & Food, Environment, Health & Biosecurity, Minerals, CSIRO Futures, NCMI, Science Connect) [sf_rmk]",
   "spec": {
    "host": "jobs.csiro.au",
@@ -4528,7 +4504,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 4,
-  "secs": 3.9,
+  "secs": 3.5,
   "source": "CSIRO Space & Astronomy [page]",
   "spec": {
    "type": "page",
@@ -4540,7 +4516,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 27,
-  "secs": 3.8,
+  "secs": 4.1,
   "source": "CSL (CSL Behring / Seqirus) - manufacturing engineering [workday]",
   "spec": {
    "host": "csl.wd1.myworkdayjobs.com",
@@ -4554,7 +4530,7 @@
   "kind": "aggregator",
   "ok": true,
   "raw_count": 39,
-  "secs": 0.7,
+  "secs": 0.8,
   "source": "Canva (SmartRecruiters) [smartrecruiters]",
   "spec": {
    "company": "Canva",
@@ -4566,7 +4542,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.1,
+  "secs": 0.7,
   "source": "Canva [page]",
   "spec": {
    "type": "page",
@@ -4578,7 +4554,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 39,
-  "secs": 1.5,
+  "secs": 1.3,
   "source": "Canva [smartrecruiters]",
   "spec": {
    "company": "Canva",
@@ -4602,7 +4578,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.4,
+  "secs": 3.1,
   "source": "Carbonix [page]",
   "spec": {
    "type": "page",
@@ -4614,7 +4590,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 0.9,
+  "secs": 1.1,
   "source": "Cardiex [page]",
   "spec": {
    "type": "page",
@@ -4626,7 +4602,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 3.1,
+  "secs": 3.4,
   "source": "Carlton & United Breweries (Asahi) [page]",
   "spec": {
    "type": "page",
@@ -4650,7 +4626,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 28,
-  "secs": 0.3,
+  "secs": 0.2,
   "source": "Catapult Sports [greenhouse]",
   "spec": {
    "token": "catapultsports",
@@ -4661,8 +4637,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 76,
-  "secs": 15.8,
+  "raw_count": 74,
+  "secs": 14.6,
   "source": "Caterpillar Australia [workday]",
   "spec": {
    "host": "cat.wd5.myworkdayjobs.com",
@@ -4676,7 +4652,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.1,
+  "secs": 0.3,
   "source": "Chargefox [page]",
   "spec": {
    "type": "page",
@@ -4688,7 +4664,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 0.9,
+  "secs": 0.6,
   "source": "Chevron Australia [page]",
   "spec": {
    "type": "page",
@@ -4700,7 +4676,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.1,
+  "secs": 1.3,
   "source": "Cicada Innovations [page]",
   "spec": {
    "type": "page",
@@ -4726,7 +4702,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.1,
+  "secs": 1.3,
   "source": "Cisco [page]",
   "spec": {
    "type": "page",
@@ -4738,7 +4714,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 71,
-  "secs": 12.8,
+  "secs": 11.9,
   "source": "Cisco [workday]",
   "spec": {
    "host": "cisco.wd5.myworkdayjobs.com",
@@ -4751,7 +4727,7 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 10,
+  "raw_count": 11,
   "secs": 4.1,
   "source": "CitiPower, Powercor & United Energy (Beon Energy Solutions) [sf_rmk]",
   "spec": {
@@ -4764,7 +4740,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 6.1,
+  "secs": 6.2,
   "source": "CleanCo Queensland [page]",
   "spec": {
    "type": "page",
@@ -4776,7 +4752,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 28,
-  "secs": 4.3,
+  "secs": 3.9,
   "source": "Cochlear [workday]",
   "spec": {
    "host": "cochlear.wd3.myworkdayjobs.com",
@@ -4790,7 +4766,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.0,
+  "secs": 2.2,
   "source": "Cohda Wireless [page]",
   "spec": {
    "type": "page",
@@ -4802,7 +4778,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.6,
+  "secs": 2.8,
   "source": "Cohda Wireless [page]",
   "spec": {
    "type": "page",
@@ -4828,7 +4804,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.7,
+  "secs": 1.1,
   "source": "Compumedics [page]",
   "spec": {
    "type": "page",
@@ -4840,7 +4816,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.6,
+  "secs": 1.1,
   "source": "Consunet [page]",
   "spec": {
    "type": "page",
@@ -4852,7 +4828,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 0.7,
+  "secs": 0.2,
   "source": "Cook Medical Australia [page]",
   "spec": {
    "type": "page",
@@ -4864,7 +4840,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.5,
+  "secs": 0.6,
   "source": "Cortical Labs [page]",
   "spec": {
    "type": "page",
@@ -4876,7 +4852,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 22,
-  "secs": 6.6,
+  "secs": 6.5,
   "source": "Cubic Defence Australia [workday]",
   "spec": {
    "host": "cubic.wd1.myworkdayjobs.com",
@@ -4890,7 +4866,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 20,
-  "secs": 7.2,
+  "secs": 7.1,
   "source": "Cubic Defence Australia [workday]",
   "spec": {
    "host": "cubic.wd1.myworkdayjobs.com",
@@ -4916,7 +4892,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 0.4,
+  "secs": 0.2,
   "source": "Culture Amp [page]",
   "spec": {
    "type": "page",
@@ -4928,7 +4904,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 20,
-  "secs": 0.3,
+  "secs": 0.2,
   "source": "Cundall [icims]",
   "spec": {
    "host": "careers-cundall.icims.com",
@@ -4940,7 +4916,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 8.2,
+  "secs": 9.0,
   "source": "DT Infrastructure (Gamuda) [page]",
   "spec": {
    "type": "page",
@@ -4952,7 +4928,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.3,
+  "secs": 5.3,
   "source": "Daronmont Technologies [page]",
   "spec": {
    "type": "page",
@@ -4964,7 +4940,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.9,
+  "secs": 5.9,
   "source": "Daronmont Technologies [page]",
   "spec": {
    "type": "page",
@@ -4976,7 +4952,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 4,
-  "secs": 2.6,
+  "secs": 2.8,
   "source": "Defence Industry Connection Program (Ai Group, South Australia) [page]",
   "spec": {
    "type": "page",
@@ -4988,7 +4964,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.6,
+  "secs": 1.4,
   "source": "Defence Industry Internship Program (DIIP) - program operator [page]",
   "spec": {
    "type": "page",
@@ -5000,7 +4976,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 11,
-  "secs": 4.6,
+  "secs": 4.3,
   "source": "Defence Industry Internship Program (DIIP) - program operator [page]",
   "spec": {
    "type": "page",
@@ -5012,7 +4988,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.4,
+  "secs": 2.7,
   "source": "Defence Science Institute (Victoria) [page]",
   "spec": {
    "type": "page",
@@ -5024,7 +5000,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.2,
+  "secs": 1.3,
   "source": "DefendTex [page]",
   "spec": {
    "type": "page",
@@ -5036,7 +5012,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 60,
-  "secs": 7.0,
+  "secs": 7.3,
   "source": "Dematic (KION Group) [workday]",
   "spec": {
    "host": "kiongroup.wd3.myworkdayjobs.com",
@@ -5050,7 +5026,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 32,
-  "secs": 3.9,
+  "secs": 4.5,
   "source": "Department of Transport and Planning (VIC) / Victorian Infrastructure Delivery Authority (rail signalling, engineering) [sf_rmk]",
   "spec": {
    "host": "careers.people.vic.gov.au",
@@ -5061,7 +5037,7 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 8,
+  "raw_count": 9,
   "secs": 0.6,
   "source": "Deputy [lever]",
   "spec": {
@@ -5086,7 +5062,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.1,
+  "secs": 0.8,
   "source": "Diraq [page]",
   "spec": {
    "type": "page",
@@ -5098,7 +5074,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.9,
+  "secs": 0.8,
   "source": "Dolby Laboratories (Sydney) [page]",
   "spec": {
    "type": "page",
@@ -5124,7 +5100,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 9,
-  "secs": 0.1,
+  "secs": 0.0,
   "source": "Dovetail Electric Aviation [ashby]",
   "spec": {
    "org": "dovetail",
@@ -5136,7 +5112,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 37,
-  "secs": 1.0,
+  "secs": 1.3,
   "source": "DroneShield [greenhouse]",
   "spec": {
    "token": "droneshield",
@@ -5148,7 +5124,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.4,
+  "secs": 1.3,
   "source": "DroneShield [page]",
   "spec": {
    "type": "page",
@@ -5171,8 +5147,8 @@
   "error": null,
   "kind": "page",
   "ok": true,
-  "raw_count": 1,
-  "secs": 2.2,
+  "raw_count": 0,
+  "secs": 1.3,
   "source": "EM Solutions (Cohort plc) [page]",
   "spec": {
    "type": "page",
@@ -5183,8 +5159,8 @@
   "error": null,
   "kind": "page",
   "ok": true,
-  "raw_count": 1,
-  "secs": 2.5,
+  "raw_count": 0,
+  "secs": 1.9,
   "source": "EM Solutions (Cohort plc) [page]",
   "spec": {
    "type": "page",
@@ -5196,7 +5172,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 0,
-  "secs": 5.0,
+  "secs": 4.7,
   "source": "ENGIE Australia & New Zealand [sf_rmk]",
   "spec": {
    "host": "jobs.engie.com",
@@ -5208,7 +5184,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 5.5,
+  "secs": 4.2,
   "source": "Edify Energy [page]",
   "spec": {
    "type": "page",
@@ -5220,7 +5196,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 33,
-  "secs": 5.1,
+  "secs": 4.8,
   "source": "Edwards Lifesciences (Australia) [workday]",
   "spec": {
    "host": "edwards.wd5.myworkdayjobs.com",
@@ -5234,7 +5210,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.5,
+  "secs": 3.1,
   "source": "ElectraNet [page]",
   "spec": {
    "type": "page",
@@ -5245,8 +5221,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 16,
-  "secs": 3.9,
+  "raw_count": 15,
+  "secs": 3.8,
   "source": "Electro Optic Systems (EOS) [workday]",
   "spec": {
    "host": "eosaus.wd105.myworkdayjobs.com",
@@ -5260,7 +5236,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.3,
+  "secs": 3.4,
   "source": "Emerson Australia [workday]",
   "spec": {
    "host": "emerson.wd5.myworkdayjobs.com",
@@ -5274,7 +5250,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 9,
-  "secs": 1.0,
+  "secs": 0.9,
   "source": "Emesent [lever]",
   "spec": {
    "company": "Emesent",
@@ -5286,7 +5262,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.1,
+  "secs": 1.4,
   "source": "Emesent [page]",
   "spec": {
    "type": "page",
@@ -5310,7 +5286,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 10,
-  "secs": 0.5,
+  "secs": 0.7,
   "source": "Employment Hero [employmenthero]",
   "spec": {
    "org": "el-jannah-stores",
@@ -5322,7 +5298,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 10,
-  "secs": 0.8,
+  "secs": 1.0,
   "source": "Employment Hero [employmenthero]",
   "spec": {
    "org": "the-body-shop-australia",
@@ -5334,7 +5310,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 10,
-  "secs": 1.2,
+  "secs": 1.5,
   "source": "Employment Hero [employmenthero]",
   "spec": {
    "org": "scanlantheodore",
@@ -5346,7 +5322,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.3,
+  "secs": 2.0,
   "source": "Employment Hero [page]",
   "spec": {
    "type": "page",
@@ -5357,8 +5333,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 5,
-  "secs": 1.4,
+  "raw_count": 6,
+  "secs": 1.5,
   "source": "Endeavour Energy [livehire]",
   "spec": {
    "company": "endeavourenergy",
@@ -5370,7 +5346,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.5,
+  "secs": 2.0,
   "source": "Endeavour Energy [page]",
   "spec": {
    "type": "page",
@@ -5382,7 +5358,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 0,
-  "secs": 5.0,
+  "secs": 4.6,
   "source": "Enel X Australia (demand response) [sf_rmk]",
   "spec": {
    "host": "jobs.enel.com",
@@ -5394,7 +5370,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.9,
+  "secs": 4.1,
   "source": "EnergyAustralia [sf_rmk]",
   "spec": {
    "host": "jobs.energyaustralia.com.au",
@@ -5410,7 +5386,7 @@
   "source": "Enerven (SA Power Networks group) [page]",
   "spec": {
    "type": "page",
-   "url": "https://careers.sapowernetworks.com.au/"
+   "url": "https://careers.sapowernetworks.com.au/jobs"
   }
  },
  {
@@ -5418,11 +5394,11 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.6,
+  "secs": 1.4,
   "source": "Enerven (SA Power Networks group) [page]",
   "spec": {
    "type": "page",
-   "url": "https://careers.sapowernetworks.com.au/jobs"
+   "url": "https://careers.sapowernetworks.com.au/"
   }
  },
  {
@@ -5442,7 +5418,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 6,
-  "secs": 0.6,
+  "secs": 0.2,
   "source": "Envato [lever]",
   "spec": {
    "company": "envato-2",
@@ -5454,7 +5430,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.0,
+  "secs": 0.5,
   "source": "Envato [page]",
   "spec": {
    "type": "page",
@@ -5466,7 +5442,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.8,
+  "secs": 0.7,
   "source": "Epiminder [page]",
   "spec": {
    "type": "page",
@@ -5478,7 +5454,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.8,
+  "secs": 0.5,
   "source": "Epiroc Australia [page]",
   "spec": {
    "type": "page",
@@ -5490,7 +5466,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.9,
+  "secs": 0.7,
   "source": "Equatorial Launch Australia [page]",
   "spec": {
    "type": "page",
@@ -5528,7 +5504,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.2,
+  "secs": 3.4,
   "source": "Essential Energy [oracle]",
   "spec": {
    "host": "enno.fa.ap1.oraclecloud.com",
@@ -5540,8 +5516,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 107,
-  "secs": 0.6,
+  "raw_count": 106,
+  "secs": 0.7,
   "source": "Eucalyptus [greenhouse]",
   "spec": {
    "token": "eucalyptus",
@@ -5553,7 +5529,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.3,
+  "secs": 0.5,
   "source": "Eucalyptus [page]",
   "spec": {
    "type": "page",
@@ -5577,7 +5553,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.5,
+  "secs": 1.6,
   "source": "Evoenergy (ActewAGL) [page]",
   "spec": {
    "type": "page",
@@ -5589,7 +5565,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 2.3,
+  "secs": 2.2,
   "source": "Evoenergy (ActewAGL) [page]",
   "spec": {
    "type": "page",
@@ -5601,7 +5577,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 4,
-  "secs": 0.6,
+  "secs": 0.8,
   "source": "Evolution Mining [page]",
   "spec": {
    "type": "page",
@@ -5626,7 +5602,7 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 24,
+  "raw_count": 25,
   "secs": 3.6,
   "source": "Fisher & Paykel Healthcare (Australia) [sf_rmk]",
   "spec": {
@@ -5651,7 +5627,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 5,
-  "secs": 2.4,
+  "secs": 2.0,
   "source": "Five Rings [page]",
   "spec": {
    "type": "page",
@@ -5663,7 +5639,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.9,
+  "secs": 1.8,
   "source": "Fivecast [page]",
   "spec": {
    "type": "page",
@@ -5675,7 +5651,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 1.1,
+  "secs": 0.7,
   "source": "Fleet Space Technologies [page]",
   "spec": {
    "type": "page",
@@ -5687,7 +5663,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 35,
-  "secs": 2.6,
+  "secs": 2.8,
   "source": "Flinders University [page]",
   "spec": {
    "type": "page",
@@ -5713,7 +5689,7 @@
   "kind": "aggregator",
   "ok": true,
   "raw_count": 21,
-  "secs": 5.6,
+  "secs": 75.9,
   "source": "Folklore portfolio jobs [getro_board]",
   "spec": {
    "base": "https://roles.folklore.vc",
@@ -5725,7 +5701,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 0,
-  "secs": 4.2,
+  "secs": 4.4,
   "source": "Fonterra Australia [sf_rmk]",
   "spec": {
    "host": "careers.fonterra.com",
@@ -5737,7 +5713,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 118,
-  "secs": 10.1,
+  "secs": 9.7,
   "source": "Ford Australia (Product Development) [oracle]",
   "spec": {
    "host": "efds.fa.em5.oraclecloud.com",
@@ -5750,7 +5726,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 1.3,
+  "secs": 1.5,
   "source": "Fortescue [page]",
   "spec": {
    "type": "page",
@@ -5762,7 +5738,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.7,
+  "secs": 4.1,
   "source": "Fortescue [sf_rmk]",
   "spec": {
    "host": "careers.fortescue.com",
@@ -5774,7 +5750,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.1,
+  "secs": 1.8,
   "source": "Fredon [page]",
   "spec": {
    "type": "page",
@@ -5785,8 +5761,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 27,
-  "secs": 4.4,
+  "raw_count": 28,
+  "secs": 5.4,
   "source": "Fulton Hogan [workday]",
   "spec": {
    "host": "fultonhogan.wd3.myworkdayjobs.com",
@@ -5811,8 +5787,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 84,
-  "secs": 10.7,
+  "raw_count": 86,
+  "secs": 10.5,
   "source": "GE Aerospace [workday]",
   "spec": {
    "host": "geaerospace.wd5.myworkdayjobs.com",
@@ -5840,7 +5816,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 87,
-  "secs": 9.5,
+  "secs": 8.9,
   "source": "GE Vernova (Grid Solutions, Power, Wind) [workday]",
   "spec": {
    "host": "gevernova.wd5.myworkdayjobs.com",
@@ -5854,7 +5830,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 101,
-  "secs": 4.6,
+  "secs": 4.0,
   "source": "GHD [oracle]",
   "spec": {
    "host": "ejov.fa.ca2.oraclecloud.com",
@@ -5878,8 +5854,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 75,
-  "secs": 16.2,
+  "raw_count": 67,
+  "secs": 24.1,
   "source": "GM Australia Design / GM Specialty Vehicles [workday]",
   "spec": {
    "host": "generalmotors.wd5.myworkdayjobs.com",
@@ -5893,7 +5869,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 3.1,
+  "secs": 1.8,
   "source": "GME (Standard Communications) [page]",
   "spec": {
    "type": "page",
@@ -5905,7 +5881,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.3,
+  "secs": 1.2,
   "source": "Gallagher Group (Security & Animal Management) [page]",
   "spec": {
    "type": "page",
@@ -5917,7 +5893,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 1,
-  "secs": 0.0,
+  "secs": 0.3,
   "source": "General Dynamics Land Systems - Australia [greenhouse]",
   "spec": {
    "token": "general",
@@ -5929,7 +5905,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 9,
-  "secs": 3.5,
+  "secs": 3.7,
   "source": "Genesis Minerals [workday]",
   "spec": {
    "host": "genesisminerals.wd103.myworkdayjobs.com",
@@ -5943,7 +5919,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 1.8,
+  "secs": 1.6,
   "source": "Genesys Electronics Design [page]",
   "spec": {
    "type": "page",
@@ -5955,7 +5931,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 1.7,
+  "secs": 1.5,
   "source": "Geoscience Australia (Digital Earth Australia / satellite ops) [page]",
   "spec": {
    "type": "page",
@@ -5967,7 +5943,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 2.6,
+  "secs": 2.7,
   "source": "Gilmour Space Technologies [page]",
   "spec": {
    "type": "page",
@@ -5979,7 +5955,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 0.5,
+  "secs": 0.8,
   "source": "Glencore Australia [page]",
   "spec": {
    "type": "page",
@@ -5991,7 +5967,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 18.8,
+  "secs": 2.3,
   "source": "Global Kinetics Corporation [page]",
   "spec": {
    "type": "page",
@@ -6013,8 +5989,8 @@
   "error": null,
   "kind": "aggregator",
   "ok": true,
-  "raw_count": 870,
-  "secs": 230.8,
+  "raw_count": 818,
+  "secs": 215.1,
   "source": "GradConnection (SEEK Grad) [gradconnection]",
   "spec": {
    "type": "gradconnection"
@@ -6037,7 +6013,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 18,
-  "secs": 0.5,
+  "secs": 0.6,
   "source": "Grey Innovation [greenhouse]",
   "spec": {
    "token": "grey",
@@ -6048,7 +6024,7 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 38,
+  "raw_count": 39,
   "secs": 1.1,
   "source": "Griffith University [smartrecruiters]",
   "spec": {
@@ -6061,7 +6037,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.4,
+  "secs": 0.3,
   "source": "HEO [page]",
   "spec": {
    "type": "page",
@@ -6073,7 +6049,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.4,
+  "secs": 0.6,
   "source": "Hanwha Defence Australia [page]",
   "spec": {
    "type": "page",
@@ -6085,7 +6061,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.6,
+  "secs": 5.6,
   "source": "Heavy Industry Low-carbon Transition CRC (HILT CRC) [page]",
   "spec": {
    "type": "page",
@@ -6096,7 +6072,7 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 81,
+  "raw_count": 80,
   "secs": 1.8,
   "source": "Heidi Health [ashby]",
   "spec": {
@@ -6109,7 +6085,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.3,
+  "secs": 1.5,
   "source": "Heidi Health [page]",
   "spec": {
    "type": "page",
@@ -6121,7 +6097,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.3,
+  "secs": 0.2,
   "source": "Heliaq Advanced Engineering [page]",
   "spec": {
    "type": "page",
@@ -6133,7 +6109,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.5,
+  "secs": 3.2,
   "source": "Hexagon Mining (Hexagon AB) [workday]",
   "spec": {
    "host": "hexagon.wd3.myworkdayjobs.com",
@@ -6161,7 +6137,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 25.7,
+  "secs": 0.7,
   "source": "Hitachi Rail Australia [page]",
   "spec": {
    "type": "page",
@@ -6172,8 +6148,8 @@
   "error": null,
   "kind": "page",
   "ok": true,
-  "raw_count": 2,
-  "secs": 0.6,
+  "raw_count": 1,
+  "secs": 3.7,
   "source": "Holcim Australia [page]",
   "spec": {
    "type": "page",
@@ -6185,7 +6161,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.7,
+  "secs": 1.8,
   "source": "Honeywell Australia [page]",
   "spec": {
    "type": "page",
@@ -6245,19 +6221,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.8,
-  "source": "Hydrix [page]",
-  "spec": {
-   "type": "page",
-   "url": "https://www.hydrix.com/"
-  }
- },
- {
-  "error": null,
-  "kind": "page",
-  "ok": true,
-  "raw_count": 0,
-  "secs": 2.7,
+  "secs": 1.2,
   "source": "Hydrix [page]",
   "spec": {
    "type": "page",
@@ -6266,10 +6230,22 @@
  },
  {
   "error": null,
+  "kind": "page",
+  "ok": true,
+  "raw_count": 0,
+  "secs": 1.5,
+  "source": "Hydrix [page]",
+  "spec": {
+   "type": "page",
+   "url": "https://www.hydrix.com/"
+  }
+ },
+ {
+  "error": null,
   "kind": "ats",
   "ok": true,
   "raw_count": 16,
-  "secs": 6.4,
+  "secs": 3.9,
   "source": "Hydro Tasmania (incl. Entura, Momentum Energy) [pageup]",
   "spec": {
    "base": "https://careers.pageuppeople.com/901/cw/en",
@@ -6281,7 +6257,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.2,
+  "secs": 0.1,
   "source": "Hypersonix Launch Systems [page]",
   "spec": {
    "type": "page",
@@ -6305,7 +6281,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.8,
+  "secs": 1.1,
   "source": "IBM [page]",
   "spec": {
    "type": "page",
@@ -6317,7 +6293,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.1,
+  "secs": 0.2,
   "source": "IBM [page]",
   "spec": {
    "type": "page",
@@ -6329,7 +6305,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.6,
+  "secs": 0.7,
   "source": "IBM [page]",
   "spec": {
    "type": "page",
@@ -6341,7 +6317,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 6,
-  "secs": 0.4,
+  "secs": 0.3,
   "source": "ICRAR (International Centre for Radio Astronomy Research - Curtin/UWA) [page]",
   "spec": {
    "type": "page",
@@ -6365,7 +6341,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.5,
+  "secs": 1.1,
   "source": "IP Australia (Patent Examiner traineeships) [page]",
   "spec": {
    "type": "page",
@@ -6377,7 +6353,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 7,
-  "secs": 4.3,
+  "secs": 4.0,
   "source": "IP Australia (Patent Examiner traineeships) [sf_rmk]",
   "spec": {
    "host": "careers.ipaustralia.gov.au",
@@ -6389,7 +6365,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 32,
-  "secs": 7.1,
+  "secs": 7.2,
   "source": "Iberdrola Australia [workday]",
   "spec": {
    "host": "iberdrola.wd3.myworkdayjobs.com",
@@ -6414,8 +6390,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 12,
-  "secs": 4.1,
+  "raw_count": 11,
+  "secs": 4.7,
   "source": "Iluka Resources [workday]",
   "spec": {
    "host": "iluka.wd3.myworkdayjobs.com",
@@ -6429,7 +6405,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 1.2,
+  "secs": 2.3,
   "source": "Imdex [page]",
   "spec": {
    "type": "page",
@@ -6441,7 +6417,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 5,
-  "secs": 0.6,
+  "secs": 0.5,
   "source": "Immutable [lever]",
   "spec": {
    "company": "immutable",
@@ -6453,7 +6429,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.2,
+  "secs": 0.4,
   "source": "Immutable [page]",
   "spec": {
    "type": "page",
@@ -6476,7 +6452,7 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 71,
+  "raw_count": 72,
   "secs": 0.1,
   "source": "Infinity Avionics [ashby]",
   "spec": {
@@ -6489,7 +6465,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 28,
-  "secs": 0.8,
+  "secs": 0.9,
   "source": "Infinity Avionics [ashby]",
   "spec": {
    "org": "socket",
@@ -6501,7 +6477,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 816,
-  "secs": 2.7,
+  "secs": 2.9,
   "source": "Infinity Avionics [ashby]",
   "spec": {
    "org": "openai",
@@ -6512,7 +6488,7 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 679,
+  "raw_count": 680,
   "secs": 2.7,
   "source": "Infinity Avionics [greenhouse]",
   "spec": {
@@ -6525,7 +6501,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 84,
-  "secs": 1.3,
+  "secs": 1.2,
   "source": "Infleqtion Australia [workable]",
   "spec": {
    "account": "coldquanta",
@@ -6537,7 +6513,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.1,
+  "secs": 3.2,
   "source": "Innovative Manufacturing CRC (IMCRC) [page]",
   "spec": {
    "type": "page",
@@ -6549,7 +6525,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 3,
-  "secs": 8.0,
+  "secs": 6.4,
   "source": "Inovor Technologies [page]",
   "spec": {
    "type": "page",
@@ -6561,7 +6537,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 7.7,
+  "secs": 8.0,
   "source": "Insitec [page]",
   "spec": {
    "type": "page",
@@ -6573,7 +6549,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.9,
+  "secs": 1.7,
   "source": "IntelliDesign [page]",
   "spec": {
    "type": "page",
@@ -6585,7 +6561,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.3,
+  "secs": 0.8,
   "source": "Intellihub [page]",
   "spec": {
    "type": "page",
@@ -6609,7 +6585,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.5,
+  "secs": 1.1,
   "source": "Iveco Group Australia [page]",
   "spec": {
    "type": "page",
@@ -6633,7 +6609,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.2,
+  "secs": 0.1,
   "source": "Jacobs [page]",
   "spec": {
    "type": "page",
@@ -6657,7 +6633,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 232,
-  "secs": 0.4,
+  "secs": 0.3,
   "source": "Jane Street [greenhouse]",
   "spec": {
    "token": "janestreet",
@@ -6669,7 +6645,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 5,
-  "secs": 0.4,
+  "secs": 0.5,
   "source": "Jane Street [page]",
   "spec": {
    "type": "page",
@@ -6681,7 +6657,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 0.9,
+  "secs": 0.8,
   "source": "Jane Street [page]",
   "spec": {
    "type": "page",
@@ -6693,7 +6669,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 11,
-  "secs": 0.4,
+  "secs": 0.2,
   "source": "Janus Electric [greenhouse]",
   "spec": {
    "token": "januselectricholdingslimited",
@@ -6705,7 +6681,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 10,
-  "secs": 1.7,
+  "secs": 1.3,
   "source": "Jemena [livehire]",
   "spec": {
    "company": "jemenazinfra",
@@ -6717,7 +6693,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.7,
+  "secs": 0.8,
   "source": "Jet Aviation (General Dynamics) [page]",
   "spec": {
    "type": "page",
@@ -6728,8 +6704,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 69,
-  "secs": 6.0,
+  "raw_count": 76,
+  "secs": 7.0,
   "source": "Johnson & Johnson MedTech (Australia) [workday]",
   "spec": {
    "host": "jj.wd5.myworkdayjobs.com",
@@ -6742,8 +6718,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 78,
-  "secs": 5.3,
+  "raw_count": 76,
+  "secs": 5.0,
   "source": "Johnson Controls Australia [workday]",
   "spec": {
    "host": "jci.wd5.myworkdayjobs.com",
@@ -6756,8 +6732,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 80,
-  "secs": 5.8,
+  "raw_count": 81,
+  "secs": 6.1,
   "source": "KBR [workday]",
   "spec": {
    "host": "kbr.wd5.myworkdayjobs.com",
@@ -6770,8 +6746,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 50,
-  "secs": 5.4,
+  "raw_count": 49,
+  "secs": 5.7,
   "source": "KONE Australia [workday]",
   "spec": {
    "host": "kone.wd3.myworkdayjobs.com",
@@ -6797,7 +6773,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.4,
+  "secs": 1.6,
   "source": "Keolis Downer (incl. Yarra Trams) [page]",
   "spec": {
    "type": "page",
@@ -6809,7 +6785,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.3,
+  "secs": 3.1,
   "source": "Keysight Technologies [workday]",
   "spec": {
    "host": "keysight.wd5.myworkdayjobs.com",
@@ -6823,7 +6799,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 31,
-  "secs": 5.4,
+  "secs": 5.8,
   "source": "Kimberly-Clark Australia [workday]",
   "spec": {
    "host": "kimberlyclark.wd1.myworkdayjobs.com",
@@ -6837,7 +6813,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.7,
+  "secs": 1.2,
   "source": "Komatsu Australia [page]",
   "spec": {
    "type": "page",
@@ -6849,7 +6825,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 25,
-  "secs": 4.5,
+  "secs": 4.8,
   "source": "Komatsu Australia [sf_rmk]",
   "spec": {
    "host": "careers.komatsu.com.au",
@@ -6861,7 +6837,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.7,
+  "secs": 1.5,
   "source": "Kongsberg Defence Australia [page]",
   "spec": {
    "type": "page",
@@ -6873,7 +6849,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 0.6,
+  "secs": 0.4,
   "source": "L3Harris Technologies Australia [page]",
   "spec": {
    "type": "page",
@@ -6885,7 +6861,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 0.8,
+  "secs": 0.4,
   "source": "L3Harris Technologies Australia [page]",
   "spec": {
    "type": "page",
@@ -6897,7 +6873,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.8,
+  "secs": 0.5,
   "source": "Laing O'Rourke [page]",
   "spec": {
    "type": "page",
@@ -6909,7 +6885,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 67,
-  "secs": 5.5,
+  "secs": 5.6,
   "source": "Leica Biosystems (Danaher) - Melbourne [workday]",
   "spec": {
    "host": "danaher.wd1.myworkdayjobs.com",
@@ -6922,8 +6898,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 79,
-  "secs": 7.9,
+  "raw_count": 80,
+  "secs": 7.4,
   "source": "Leidos Australia [workday]",
   "spec": {
    "host": "leidos.wd5.myworkdayjobs.com",
@@ -6937,7 +6913,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 18,
-  "secs": 6.7,
+  "secs": 6.8,
   "source": "Lendlease [workday]",
   "spec": {
    "host": "lendlease.wd3.myworkdayjobs.com",
@@ -6951,7 +6927,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 18,
-  "secs": 7.1,
+  "secs": 7.3,
   "source": "Lendlease [workday]",
   "spec": {
    "host": "lendlease.wd3.myworkdayjobs.com",
@@ -6965,7 +6941,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 69,
-  "secs": 4.3,
+  "secs": 5.5,
   "source": "Leonardo Australia [workday]",
   "spec": {
    "host": "leonardocompany.wd3.myworkdayjobs.com",
@@ -6991,7 +6967,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 0.4,
+  "secs": 0.3,
   "source": "Lightsource bp Australia [page]",
   "spec": {
    "type": "page",
@@ -7015,7 +6991,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 8,
-  "secs": 0.1,
+  "secs": 0.0,
   "source": "Lorikeet [ashby]",
   "spec": {
    "org": "lorikeet",
@@ -7027,7 +7003,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.2,
+  "secs": 2.8,
   "source": "Lucid Consulting [page]",
   "spec": {
    "type": "page",
@@ -7039,7 +7015,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.3,
+  "secs": 1.4,
   "source": "Lumibird Medical (ex-Ellex) [page]",
   "spec": {
    "type": "page",
@@ -7051,7 +7027,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.8,
+  "secs": 1.9,
   "source": "Lumibird Medical (ex-Ellex) [page]",
   "spec": {
    "type": "page",
@@ -7063,7 +7039,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.8,
+  "secs": 1.9,
   "source": "Lumos Diagnostics [page]",
   "spec": {
    "type": "page",
@@ -7075,7 +7051,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 10,
-  "secs": 2.3,
+  "secs": 1.3,
   "source": "Lycopodium [livehire]",
   "spec": {
    "company": "lycopodium",
@@ -7087,7 +7063,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 6.7,
+  "secs": 0.1,
   "source": "Lynas Rare Earths [page]",
   "spec": {
    "type": "page",
@@ -7099,7 +7075,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 11,
-  "secs": 0.7,
+  "secs": 0.4,
   "source": "Lyrebird Health [ashby]",
   "spec": {
    "org": "lyrebird-health",
@@ -7123,7 +7099,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 22,
-  "secs": 3.8,
+  "secs": 4.1,
   "source": "MBDA Australia [workday]",
   "spec": {
    "host": "mbda.wd3.myworkdayjobs.com",
@@ -7137,7 +7113,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.2,
+  "secs": 1.6,
   "source": "MTPConnect [page]",
   "spec": {
    "type": "page",
@@ -7149,7 +7125,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 5,
-  "secs": 1.9,
+  "secs": 2.1,
   "source": "Macquarie University (MQ Photonics, Astronomy, AAO vacation scholarships) [page]",
   "spec": {
    "type": "page",
@@ -7161,19 +7137,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.3,
-  "source": "Mantel Group [page]",
-  "spec": {
-   "type": "page",
-   "url": "https://mantelgroup.com.au/careers/"
-  }
- },
- {
-  "error": null,
-  "kind": "page",
-  "ok": true,
-  "raw_count": 0,
-  "secs": 2.0,
+  "secs": 1.7,
   "source": "Mantel Group [page]",
   "spec": {
    "type": "page",
@@ -7184,8 +7148,20 @@
   "error": null,
   "kind": "page",
   "ok": true,
+  "raw_count": 0,
+  "secs": 1.6,
+  "source": "Mantel Group [page]",
+  "spec": {
+   "type": "page",
+   "url": "https://mantelgroup.com.au/careers/"
+  }
+ },
+ {
+  "error": null,
+  "kind": "page",
+  "ok": true,
   "raw_count": 1,
-  "secs": 2.2,
+  "secs": 2.3,
   "source": "Maptek [page]",
   "spec": {
    "type": "page",
@@ -7197,7 +7173,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 2.6,
+  "secs": 2.0,
   "source": "Maptek [page]",
   "spec": {
    "type": "page",
@@ -7209,7 +7185,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.2,
+  "secs": 2.1,
   "source": "Marand Precision Engineering [page]",
   "spec": {
    "type": "page",
@@ -7221,7 +7197,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.5,
+  "secs": 1.4,
   "source": "Marinus Link [page]",
   "spec": {
    "type": "page",
@@ -7233,7 +7209,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.3,
+  "secs": 1.2,
   "source": "Mars Australia [page]",
   "spec": {
    "type": "page",
@@ -7256,8 +7232,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 79,
-  "secs": 16.1,
+  "raw_count": 77,
+  "secs": 15.9,
   "source": "Medtronic (Australasia) [workday]",
   "spec": {
    "host": "medtronic.wd1.myworkdayjobs.com",
@@ -7295,7 +7271,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.1,
+  "secs": 2.9,
   "source": "Melbourne Centre for Nanofabrication (MCN, ANFF-Vic) [page]",
   "spec": {
    "type": "page",
@@ -7306,8 +7282,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 14,
-  "secs": 6.4,
+  "raw_count": 15,
+  "secs": 6.3,
   "source": "Melbourne Water [pageup]",
   "spec": {
    "base": "https://careers.pageuppeople.com/391/cw/en",
@@ -7319,7 +7295,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 2.3,
+  "secs": 1.8,
   "source": "Metro Trains Melbourne [page]",
   "spec": {
    "type": "page",
@@ -7331,7 +7307,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 2,
-  "secs": 3.9,
+  "secs": 4.0,
   "source": "Metro Trains Melbourne [sf_rmk]",
   "spec": {
    "host": "jobs.metrotrains.com.au",
@@ -7343,7 +7319,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.3,
+  "secs": 0.2,
   "source": "Micro-X [page]",
   "spec": {
    "type": "page",
@@ -7354,8 +7330,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 64,
-  "secs": 4.0,
+  "raw_count": 63,
+  "secs": 3.8,
   "source": "Microchip Technology [workday]",
   "spec": {
    "host": "microchiphr.wd5.myworkdayjobs.com",
@@ -7381,7 +7357,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.0,
+  "secs": 2.2,
   "source": "Microsoft [page]",
   "spec": {
    "type": "page",
@@ -7393,7 +7369,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.1,
+  "secs": 1.0,
   "source": "Mine Site Technologies (MST) [page]",
   "spec": {
    "type": "page",
@@ -7405,7 +7381,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 3,
-  "secs": 0.7,
+  "secs": 0.5,
   "source": "Mineral Resources (MinRes) [page]",
   "spec": {
    "type": "page",
@@ -7417,7 +7393,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.7,
+  "secs": 1.8,
   "source": "Mitsubishi Electric Australia [page]",
   "spec": {
    "type": "page",
@@ -7429,7 +7405,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 186,
-  "secs": 1.4,
+  "secs": 1.0,
   "source": "Mobileye [lever]",
   "spec": {
    "company": "mobileye",
@@ -7442,7 +7418,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 2.9,
+  "secs": 2.7,
   "source": "Monadelphous [page]",
   "spec": {
    "type": "page",
@@ -7454,7 +7430,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 65,
-  "secs": 7.6,
+  "secs": 7.7,
   "source": "Monash University (incl. Monash Robotics, MCN host, Engineering) [pageup]",
   "spec": {
    "base": "https://careers.pageuppeople.com/513/cw/en",
@@ -7465,8 +7441,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 68,
-  "secs": 8.9,
+  "raw_count": 69,
+  "secs": 9.3,
   "source": "Mondelez International (AU) [workday]",
   "spec": {
    "host": "mdlz.wd3.myworkdayjobs.com",
@@ -7493,8 +7469,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 9,
-  "secs": 0.0,
+  "raw_count": 10,
+  "secs": 0.1,
   "source": "Morse Micro [ashby]",
   "spec": {
    "org": "morse-micro",
@@ -7506,7 +7482,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.4,
+  "secs": 0.9,
   "source": "Morse Micro [page]",
   "spec": {
    "type": "page",
@@ -7518,7 +7494,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.8,
+  "secs": 0.9,
   "source": "Mott MacDonald [page]",
   "spec": {
    "type": "page",
@@ -7529,7 +7505,7 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 79,
+  "raw_count": 82,
   "secs": 3.8,
   "source": "Mott MacDonald [sf_rmk]",
   "spec": {
@@ -7542,7 +7518,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 1.3,
+  "secs": 1.5,
   "source": "Multiplex [page]",
   "spec": {
    "type": "page",
@@ -7554,7 +7530,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.0,
+  "secs": 0.9,
   "source": "Myriota [page]",
   "spec": {
    "type": "page",
@@ -7566,7 +7542,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 20,
-  "secs": 3.9,
+  "secs": 4.0,
   "source": "NBN Co (nbn) [workday]",
   "spec": {
    "host": "nbn.wd3.myworkdayjobs.com",
@@ -7580,7 +7556,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.3,
+  "secs": 2.2,
   "source": "NCI Australia (National Computational Infrastructure, ANU) [page]",
   "spec": {
    "type": "page",
@@ -7592,7 +7568,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.1,
+  "secs": 2.0,
   "source": "NIOA (incl. Australian Missile Corporation) [page]",
   "spec": {
    "type": "page",
@@ -7604,7 +7580,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.3,
+  "secs": 0.2,
   "source": "NVIDIA [page]",
   "spec": {
    "type": "page",
@@ -7615,8 +7591,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 68,
-  "secs": 11.3,
+  "raw_count": 69,
+  "secs": 10.9,
   "source": "NVIDIA [workday]",
   "spec": {
    "host": "nvidia.wd5.myworkdayjobs.com",
@@ -7629,8 +7605,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 84,
-  "secs": 9.2,
+  "raw_count": 83,
+  "secs": 9.5,
   "source": "NXP Semiconductors [workday]",
   "spec": {
    "host": "nxp.wd3.myworkdayjobs.com",
@@ -7656,7 +7632,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 17.6,
+  "secs": 5.6,
   "source": "Navantia Australia [page]",
   "spec": {
    "type": "page",
@@ -7668,7 +7644,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 33,
-  "secs": 0.2,
+  "secs": 0.1,
   "source": "Neara [ashby]",
   "spec": {
    "org": "neara",
@@ -7680,7 +7656,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.3,
+  "secs": 0.1,
   "source": "Neara [page]",
   "spec": {
    "type": "page",
@@ -7692,7 +7668,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.3,
+  "secs": 1.1,
   "source": "Nearmap [page]",
   "spec": {
    "type": "page",
@@ -7716,7 +7692,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.7,
+  "secs": 0.6,
   "source": "Neoen Australia [page]",
   "spec": {
    "type": "page",
@@ -7727,8 +7703,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 47,
-  "secs": 3.5,
+  "raw_count": 39,
+  "secs": 3.9,
   "source": "Nestlé Australia [sf_rmk]",
   "spec": {
    "host": "jobdetails.nestle.com",
@@ -7740,7 +7716,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.9,
+  "secs": 3.4,
   "source": "Neumann Space [page]",
   "spec": {
    "type": "page",
@@ -7789,8 +7765,20 @@
   "error": null,
   "kind": "page",
   "ok": true,
+  "raw_count": 1,
+  "secs": 0.9,
+  "source": "Norman Disney & Young (Tetra Tech) [page]",
+  "spec": {
+   "type": "page",
+   "url": "https://www.ndy.com/careers"
+  }
+ },
+ {
+  "error": null,
+  "kind": "page",
+  "ok": true,
   "raw_count": 3,
-  "secs": 2.0,
+  "secs": 2.2,
   "source": "Northrop Consulting Engineers [page]",
   "spec": {
    "type": "page",
@@ -7801,8 +7789,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 55,
-  "secs": 4.7,
+  "raw_count": 52,
+  "secs": 4.8,
   "source": "Northrop Grumman Australia [workday]",
   "spec": {
    "host": "ngc.wd1.myworkdayjobs.com",
@@ -7816,7 +7804,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 23,
-  "secs": 3.8,
+  "secs": 3.1,
   "source": "Nova Systems [oracle]",
   "spec": {
    "host": "epdj.fa.ap1.oraclecloud.com",
@@ -7829,7 +7817,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.5,
+  "secs": 2.7,
   "source": "Nova Systems [page]",
   "spec": {
    "type": "page",
@@ -7841,7 +7829,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.5,
+  "secs": 0.4,
   "source": "Nuheara [page]",
   "spec": {
    "type": "page",
@@ -7853,7 +7841,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.7,
+  "secs": 2.8,
   "source": "Office of Projects Victoria [page]",
   "spec": {
    "type": "page",
@@ -7865,7 +7853,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.0,
+  "secs": 2.8,
   "source": "Office of Projects Victoria [page]",
   "spec": {
    "type": "page",
@@ -7877,7 +7865,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.4,
+  "secs": 0.3,
   "source": "OpenAI [page]",
   "spec": {
    "type": "page",
@@ -7889,7 +7877,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.6,
+  "secs": 0.3,
   "source": "Opteran Technologies [page]",
   "spec": {
    "type": "page",
@@ -7901,7 +7889,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.3,
+  "secs": 1.4,
   "source": "Optiscan Imaging [page]",
   "spec": {
    "type": "page",
@@ -7936,8 +7924,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 47,
-  "secs": 4.2,
+  "raw_count": 48,
+  "secs": 3.7,
   "source": "Optus (Optus Satellite) [sf_rmk]",
   "spec": {
    "host": "groupcareers.singtel.com",
@@ -7948,8 +7936,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 87,
-  "secs": 7.7,
+  "raw_count": 84,
+  "secs": 6.9,
   "source": "Oracle [oracle]",
   "spec": {
    "host": "eeho.fa.us2.oraclecloud.com",
@@ -7962,7 +7950,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 0.2,
+  "secs": 0.1,
   "source": "Oracle [page]",
   "spec": {
    "type": "page",
@@ -7986,7 +7974,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 5,
-  "secs": 1.1,
+  "secs": 1.5,
   "source": "Origin Energy [page]",
   "spec": {
    "type": "page",
@@ -7997,8 +7985,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 9,
-  "secs": 3.5,
+  "raw_count": 8,
+  "secs": 4.1,
   "source": "Origin Energy [sf_rmk]",
   "spec": {
    "host": "careers.originenergy.com.au",
@@ -8010,7 +7998,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.0,
+  "secs": 1.1,
   "source": "Orora [page]",
   "spec": {
    "type": "page",
@@ -8022,7 +8010,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.2,
+  "secs": 3.1,
   "source": "Otis Australia [workday]",
   "spec": {
    "host": "otis.wd5.myworkdayjobs.com",
@@ -8036,7 +8024,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.7,
+  "secs": 1.8,
   "source": "Pacific National [page]",
   "spec": {
    "type": "page",
@@ -8047,20 +8035,8 @@
   "error": null,
   "kind": "page",
   "ok": true,
-  "raw_count": 2,
-  "secs": 1.9,
-  "source": "Pawsey Supercomputing Research Centre (CSIRO-hosted) [page]",
-  "spec": {
-   "type": "page",
-   "url": "https://pawsey.org.au/supercomputing/training/pawsey-internships-call-for-students/"
-  }
- },
- {
-  "error": null,
-  "kind": "page",
-  "ok": true,
   "raw_count": 3,
-  "secs": 2.5,
+  "secs": 2.1,
   "source": "Pawsey Supercomputing Research Centre (CSIRO-hosted) [page]",
   "spec": {
    "type": "page",
@@ -8071,8 +8047,20 @@
   "error": null,
   "kind": "page",
   "ok": true,
+  "raw_count": 2,
+  "secs": 2.9,
+  "source": "Pawsey Supercomputing Research Centre (CSIRO-hosted) [page]",
+  "spec": {
+   "type": "page",
+   "url": "https://pawsey.org.au/supercomputing/training/pawsey-internships-call-for-students/"
+  }
+ },
+ {
+  "error": null,
+  "kind": "page",
+  "ok": true,
   "raw_count": 0,
-  "secs": 1.3,
+  "secs": 1.5,
   "source": "Penten [page]",
   "spec": {
    "type": "page",
@@ -8084,7 +8072,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.9,
+  "secs": 0.8,
   "source": "PentenAmio (Penten) [page]",
   "spec": {
    "type": "page",
@@ -8096,7 +8084,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.0,
+  "secs": 1.4,
   "source": "PentenAmio (Penten) [page]",
   "spec": {
    "type": "page",
@@ -8120,7 +8108,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 4.9,
+  "secs": 2.0,
   "source": "Perenti [page]",
   "spec": {
    "type": "page",
@@ -8131,8 +8119,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 85,
-  "secs": 10.2,
+  "raw_count": 83,
+  "secs": 11.0,
   "source": "Philips (Australia) [workday]",
   "spec": {
    "host": "philips.wd3.myworkdayjobs.com",
@@ -8146,7 +8134,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 48,
-  "secs": 0.5,
+  "secs": 0.2,
   "source": "Phoenix Contact Australia [greenhouse]",
   "spec": {
    "token": "phoenixcontact",
@@ -8158,7 +8146,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 10,
-  "secs": 1.9,
+  "secs": 2.1,
   "source": "Pitt & Sherry [livehire]",
   "spec": {
    "company": "pittsh",
@@ -8170,7 +8158,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 12,
-  "secs": 0.2,
+  "secs": 0.1,
   "source": "PolyNovo [greenhouse]",
   "spec": {
    "token": "polynovo",
@@ -8182,7 +8170,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 1,
-  "secs": 3.7,
+  "secs": 3.8,
   "source": "Powerlink Queensland [sf_rmk]",
   "spec": {
    "host": "jobs.powerlink.com.au",
@@ -8194,7 +8182,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.8,
+  "secs": 0.6,
   "source": "Propeller Aero [page]",
   "spec": {
    "type": "page",
@@ -8229,8 +8217,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 17,
-  "secs": 1.0,
+  "raw_count": 18,
+  "secs": 6.8,
   "source": "Q-CTRL [lever]",
   "spec": {
    "company": "q-ctrl",
@@ -8241,8 +8229,20 @@
   "error": null,
   "kind": "page",
   "ok": true,
+  "raw_count": 2,
+  "secs": 1.4,
+  "source": "QUT Centre for Robotics [page]",
+  "spec": {
+   "type": "page",
+   "url": "https://research.qut.edu.au/qcr/"
+  }
+ },
+ {
+  "error": null,
+  "kind": "page",
+  "ok": true,
   "raw_count": 1,
-  "secs": 2.2,
+  "secs": 2.0,
   "source": "QinetiQ Australia [page]",
   "spec": {
    "type": "page",
@@ -8253,8 +8253,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 31,
-  "secs": 0.6,
+  "raw_count": 34,
+  "secs": 0.9,
   "source": "Quantium [greenhouse]",
   "spec": {
    "token": "quantium",
@@ -8266,7 +8266,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 4,
-  "secs": 1.0,
+  "secs": 1.1,
   "source": "Quantum Brilliance [bamboohr]",
   "spec": {
    "sub": "quantumbrilliance",
@@ -8302,7 +8302,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.9,
+  "secs": 0.8,
   "source": "Queensland Government (SmartJobs; TMR, DEPW engineering graduate/cadet programs) [page]",
   "spec": {
    "type": "page",
@@ -8314,7 +8314,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.0,
+  "secs": 3.5,
   "source": "Quickstep Holdings [page]",
   "spec": {
    "type": "page",
@@ -8326,7 +8326,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.6,
+  "secs": 0.4,
   "source": "QuintessenceLabs [page]",
   "spec": {
    "type": "page",
@@ -8350,7 +8350,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.9,
+  "secs": 1.8,
   "source": "RCT (Remote Control Technologies) [page]",
   "spec": {
    "type": "page",
@@ -8362,7 +8362,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 5,
-  "secs": 1.9,
+  "secs": 7.8,
   "source": "REA Group [page]",
   "spec": {
    "type": "page",
@@ -8374,19 +8374,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.5,
-  "source": "REDARC Electronics [page]",
-  "spec": {
-   "type": "page",
-   "url": "https://www.redarc.com.au"
-  }
- },
- {
-  "error": null,
-  "kind": "page",
-  "ok": true,
-  "raw_count": 0,
-  "secs": 0.8,
+  "secs": 0.7,
   "source": "REDARC Electronics [page]",
   "spec": {
    "type": "page",
@@ -8398,7 +8386,19 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.7,
+  "secs": 0.9,
+  "source": "REDARC Electronics [page]",
+  "spec": {
+   "type": "page",
+   "url": "https://www.redarc.com.au"
+  }
+ },
+ {
+  "error": null,
+  "kind": "page",
+  "ok": true,
+  "raw_count": 0,
+  "secs": 1.3,
   "source": "RODE Microphones [page]",
   "spec": {
    "type": "page",
@@ -8409,8 +8409,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 74,
-  "secs": 3.3,
+  "raw_count": 71,
+  "secs": 3.5,
   "source": "Raytheon Australia [workday]",
   "spec": {
    "host": "globalhr.wd5.myworkdayjobs.com",
@@ -8424,7 +8424,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.5,
+  "secs": 2.2,
   "source": "Redback Technologies [page]",
   "spec": {
    "type": "page",
@@ -8435,8 +8435,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 0,
-  "secs": 0.1,
+  "raw_count": 1,
+  "secs": 0.0,
   "source": "Relevance AI [ashby]",
   "spec": {
    "org": "relevanceai",
@@ -8448,7 +8448,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.1,
+  "secs": 0.3,
   "source": "Relevance AI [page]",
   "spec": {
    "type": "page",
@@ -8474,7 +8474,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 41,
-  "secs": 6.3,
+  "secs": 6.8,
   "source": "ResMed [workday]",
   "spec": {
    "host": "resmed.wd3.myworkdayjobs.com",
@@ -8488,7 +8488,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.8,
+  "secs": 1.0,
   "source": "Rheinmetall Defence Australia [page]",
   "spec": {
    "type": "page",
@@ -8500,7 +8500,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 1.5,
+  "secs": 1.1,
   "source": "Rio Tinto [page]",
   "spec": {
    "type": "page",
@@ -8524,7 +8524,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.4,
+  "secs": 0.3,
   "source": "Robotics Plus [page]",
   "spec": {
    "type": "page",
@@ -8536,7 +8536,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 73,
-  "secs": 4.0,
+  "secs": 4.4,
   "source": "Roche Diagnostics Australia [workday]",
   "spec": {
    "host": "roche.wd3.myworkdayjobs.com",
@@ -8549,8 +8549,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 59,
-  "secs": 9.4,
+  "raw_count": 57,
+  "secs": 9.9,
   "source": "Rockwell Automation Australia [workday]",
   "spec": {
    "host": "rockwellautomation.wd1.myworkdayjobs.com",
@@ -8564,7 +8564,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 0.5,
+  "secs": 0.7,
   "source": "Rohde & Schwarz Australia [page]",
   "spec": {
    "type": "page",
@@ -8576,7 +8576,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 4.6,
+  "secs": 1.9,
   "source": "Rubicon Water [page]",
   "spec": {
    "type": "page",
@@ -8588,7 +8588,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 4.2,
+  "secs": 4.4,
   "source": "SA Government (I Work for SA; DIT engineering graduate/vacation) [page]",
   "spec": {
    "type": "page",
@@ -8600,7 +8600,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 2.7,
+  "secs": 1.4,
   "source": "SA Power Networks (incl. Enerven) [page]",
   "spec": {
    "type": "page",
@@ -8624,7 +8624,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 4.5,
+  "secs": 2.7,
   "source": "SDI Limited [page]",
   "spec": {
    "type": "page",
@@ -8635,7 +8635,7 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 14,
+  "raw_count": 15,
   "secs": 1.0,
   "source": "SEEK (Tech) [smartrecruiters]",
   "spec": {
@@ -8648,7 +8648,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.7,
+  "secs": 1.3,
   "source": "SSI Schaefer Australia [page]",
   "spec": {
    "type": "page",
@@ -8672,7 +8672,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 3,
-  "secs": 0.9,
+  "secs": 0.6,
   "source": "Saab Australia [page]",
   "spec": {
    "type": "page",
@@ -8696,7 +8696,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.5,
+  "secs": 0.3,
   "source": "Saber Astronautics [page]",
   "spec": {
    "type": "page",
@@ -8708,7 +8708,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.3,
+  "secs": 0.5,
   "source": "SafetyCulture [page]",
   "spec": {
    "type": "page",
@@ -8719,8 +8719,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 61,
-  "secs": 5.2,
+  "raw_count": 60,
+  "secs": 5.3,
   "source": "Salesforce [workday]",
   "spec": {
    "host": "salesforce.wd12.myworkdayjobs.com",
@@ -8734,7 +8734,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 28,
-  "secs": 2.9,
+  "secs": 0.6,
   "source": "Saluda Medical [bamboohr]",
   "spec": {
    "sub": "saludamedical",
@@ -8746,7 +8746,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 47,
-  "secs": 4.4,
+  "secs": 5.4,
   "source": "Sandvik Mining and Rock Solutions Australia [workday]",
   "spec": {
    "host": "sandvik.wd3.myworkdayjobs.com",
@@ -8760,7 +8760,19 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 1.5,
+  "secs": 1.8,
+  "source": "Santos [page]",
+  "spec": {
+   "type": "page",
+   "url": "https://recruitment.santos.com/careers/SearchJobs/vacation?jobRecordsPerPage=25"
+  }
+ },
+ {
+  "error": null,
+  "kind": "page",
+  "ok": true,
+  "raw_count": 1,
+  "secs": 1.9,
   "source": "Santos [page]",
   "spec": {
    "type": "page",
@@ -8772,7 +8784,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 2.1,
+  "secs": 2.2,
   "source": "Santos [page]",
   "spec": {
    "type": "page",
@@ -8781,22 +8793,10 @@
  },
  {
   "error": null,
-  "kind": "page",
-  "ok": true,
-  "raw_count": 1,
-  "secs": 2.4,
-  "source": "Santos [page]",
-  "spec": {
-   "type": "page",
-   "url": "https://recruitment.santos.com/careers/SearchJobs/vacation?jobRecordsPerPage=25"
-  }
- },
- {
-  "error": null,
   "kind": "ats",
   "ok": true,
   "raw_count": 44,
-  "secs": 6.4,
+  "secs": 4.1,
   "source": "Saputo Dairy Australia [workday]",
   "spec": {
    "host": "saputo.wd5.myworkdayjobs.com",
@@ -8821,8 +8821,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 54,
-  "secs": 3.8,
+  "raw_count": 53,
+  "secs": 4.0,
   "source": "Schindler Lifts Australia [sf_rmk]",
   "spec": {
    "host": "job.schindler.com",
@@ -8846,7 +8846,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.7,
+  "secs": 0.9,
   "source": "Schneider Electric Australia (incl. Clipsal, AVEVA heritage) [page]",
   "spec": {
    "type": "page",
@@ -8858,7 +8858,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 54,
-  "secs": 7.2,
+  "secs": 6.2,
   "source": "Schweitzer Engineering Laboratories (SEL) Australia [workday]",
   "spec": {
    "host": "selinc.wd1.myworkdayjobs.com",
@@ -8872,7 +8872,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 4,
-  "secs": 0.2,
+  "secs": 0.3,
   "source": "Seeing Machines [rss]",
   "spec": {
    "type": "rss",
@@ -8919,8 +8919,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 591,
-  "secs": 1.5,
+  "raw_count": 589,
+  "secs": 1.6,
   "source": "Sentient Vision Systems [lever]",
   "spec": {
    "company": "shieldai",
@@ -8931,7 +8931,7 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 14,
+  "raw_count": 15,
   "secs": 3.9,
   "source": "Seqwater [pageup]",
   "spec": {
@@ -8944,7 +8944,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 2.4,
+  "secs": 2.3,
   "source": "Service Stream [page]",
   "spec": {
    "type": "page",
@@ -8955,8 +8955,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 50,
-  "secs": 10.7,
+  "raw_count": 49,
+  "secs": 11.3,
   "source": "Shell Australia [workday]",
   "spec": {
    "host": "shell.wd3.myworkdayjobs.com",
@@ -8970,7 +8970,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.4,
+  "secs": 0.8,
   "source": "Shimadzu Scientific Instruments (Oceania) [page]",
   "spec": {
    "type": "page",
@@ -8982,7 +8982,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.1,
+  "secs": 1.0,
   "source": "Shoal Group [page]",
   "spec": {
    "type": "page",
@@ -8994,7 +8994,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.1,
+  "secs": 1.2,
   "source": "Siemens Australia (Siemens Ltd) [page]",
   "spec": {
    "type": "page",
@@ -9006,7 +9006,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 2.3,
+  "secs": 2.5,
   "source": "Siemens Australia (Siemens Ltd) [page]",
   "spec": {
    "type": "page",
@@ -9018,7 +9018,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 1.8,
+  "secs": 1.5,
   "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
   "spec": {
    "type": "page",
@@ -9029,8 +9029,8 @@
   "error": null,
   "kind": "page",
   "ok": true,
-  "raw_count": 21,
-  "secs": 3.1,
+  "raw_count": 19,
+  "secs": 2.2,
   "source": "Siemens Energy (Grid Technologies / Grid Solutions) [page]",
   "spec": {
    "type": "page",
@@ -9042,19 +9042,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.1,
-  "source": "Siemens Healthineers (ANZ) [page]",
-  "spec": {
-   "type": "page",
-   "url": "https://jobs.siemens-healthineers.com/careers?query=intern&location=Australia"
-  }
- },
- {
-  "error": null,
-  "kind": "page",
-  "ok": true,
-  "raw_count": 0,
-  "secs": 2.5,
+  "secs": 1.7,
   "source": "Siemens Healthineers (ANZ) [page]",
   "spec": {
    "type": "page",
@@ -9066,7 +9054,19 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.9,
+  "secs": 2.6,
+  "source": "Siemens Healthineers (ANZ) [page]",
+  "spec": {
+   "type": "page",
+   "url": "https://jobs.siemens-healthineers.com/careers?query=intern&location=Australia"
+  }
+ },
+ {
+  "error": null,
+  "kind": "page",
+  "ok": true,
+  "raw_count": 0,
+  "secs": 2.1,
   "source": "Siemens Mobility Australia [page]",
   "spec": {
    "type": "page",
@@ -9077,8 +9077,8 @@
   "error": null,
   "kind": "page",
   "ok": true,
-  "raw_count": 6,
-  "secs": 2.4,
+  "raw_count": 5,
+  "secs": 2.7,
   "source": "Siemens Mobility Australia [page]",
   "spec": {
    "type": "page",
@@ -9090,7 +9090,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.8,
+  "secs": 6.1,
   "source": "Silanna Semiconductor [page]",
   "spec": {
    "type": "page",
@@ -9102,7 +9102,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.1,
+  "secs": 1.5,
   "source": "Silentium Defence [page]",
   "spec": {
    "type": "page",
@@ -9114,7 +9114,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.2,
+  "secs": 1.7,
   "source": "Silentium Defence [page]",
   "spec": {
    "type": "page",
@@ -9126,7 +9126,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.2,
+  "secs": 0.1,
   "source": "Silicon Quantum Computing (SQC) [page]",
   "spec": {
    "type": "page",
@@ -9137,7 +9137,7 @@
   "error": null,
   "kind": "aggregator",
   "ok": true,
-  "raw_count": 182,
+  "raw_count": 183,
   "secs": 0.7,
   "source": "Simplify New Grad (GitHub) [simplify]",
   "spec": {
@@ -9150,7 +9150,7 @@
   "kind": "aggregator",
   "ok": true,
   "raw_count": 198,
-  "secs": 0.2,
+  "secs": 0.4,
   "source": "Simplify Summer 2027 internships (GitHub) [simplify]",
   "spec": {
    "type": "simplify",
@@ -9162,7 +9162,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 2.6,
+  "secs": 2.2,
   "source": "Simplot Australia [page]",
   "spec": {
    "type": "page",
@@ -9186,7 +9186,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 3,
-  "secs": 0.4,
+  "secs": 0.5,
   "source": "Skykraft [employmenthero]",
   "spec": {
    "org": "skykraft-pty-ltd-ls490",
@@ -9198,7 +9198,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 10,
-  "secs": 1.1,
+  "secs": 1.3,
   "source": "SmartSat CRC [page]",
   "spec": {
    "type": "page",
@@ -9209,8 +9209,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 46,
-  "secs": 4.3,
+  "raw_count": 45,
+  "secs": 4.4,
   "source": "Smith+Nephew (Australia) [workday]",
   "spec": {
    "host": "smithnephew.wd5.myworkdayjobs.com",
@@ -9224,7 +9224,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.4,
+  "secs": 1.8,
   "source": "Snowy Hydro (incl. Red Energy, Lumo) [page]",
   "spec": {
    "type": "page",
@@ -9236,7 +9236,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.6,
+  "secs": 1.9,
   "source": "Snowy Hydro (incl. Red Energy, Lumo) [page]",
   "spec": {
    "type": "page",
@@ -9248,7 +9248,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 7,
-  "secs": 0.2,
+  "secs": 0.1,
   "source": "Space Machines Company [workable]",
   "spec": {
    "account": "spacemachines",
@@ -9260,7 +9260,7 @@
   "kind": "aggregator",
   "ok": true,
   "raw_count": 49,
-  "secs": 5.1,
+  "secs": 4.5,
   "source": "Square Peg portfolio jobs [getro_board]",
   "spec": {
    "base": "https://squarepeg.getro.com",
@@ -9272,7 +9272,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 67,
-  "secs": 3.8,
+  "secs": 3.2,
   "source": "StandardAero (Australia) [oracle]",
   "spec": {
    "host": "cva.fa.us1.oraclecloud.com",
@@ -9311,7 +9311,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.0,
+  "secs": 1.4,
   "source": "Steensen Varming [page]",
   "spec": {
    "type": "page",
@@ -9323,7 +9323,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 92,
-  "secs": 9.1,
+  "secs": 13.6,
   "source": "Stryker (South Pacific) [workday]",
   "spec": {
    "host": "stryker.wd1.myworkdayjobs.com",
@@ -9337,7 +9337,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 6,
-  "secs": 1.4,
+  "secs": 1.6,
   "source": "Subsea7 [page]",
   "spec": {
    "type": "page",
@@ -9349,7 +9349,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 2.0,
+  "secs": 1.4,
   "source": "Subsea7 [page]",
   "spec": {
    "type": "page",
@@ -9373,7 +9373,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.7,
+  "secs": 0.3,
   "source": "Susquehanna International Group (SIG) [page]",
   "spec": {
    "type": "page",
@@ -9385,7 +9385,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.4,
+  "secs": 2.7,
   "source": "SwarmFarm Robotics [page]",
   "spec": {
    "type": "page",
@@ -9397,7 +9397,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 41,
-  "secs": 3.1,
+  "secs": 4.0,
   "source": "Swinburne University of Technology (OzGrav node, Space Technology & Industry Institute) [page]",
   "spec": {
    "type": "page",
@@ -9409,7 +9409,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 1.0,
+  "secs": 1.3,
   "source": "Swisslog Australia (KUKA) [page]",
   "spec": {
    "type": "page",
@@ -9421,7 +9421,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.6,
+  "secs": 0.2,
   "source": "SwitchDin [page]",
   "spec": {
    "type": "page",
@@ -9433,7 +9433,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.4,
+  "secs": 0.3,
   "source": "Swoop Aero [page]",
   "spec": {
    "type": "page",
@@ -9445,7 +9445,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 20,
-  "secs": 3.9,
+  "secs": 4.8,
   "source": "Sydney Metro [sf_rmk]",
   "spec": {
    "host": "jobs.transport.nsw.gov.au",
@@ -9457,7 +9457,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 0.7,
+  "secs": 0.9,
   "source": "Sydney Nano Institute (USyd) [page]",
   "spec": {
    "type": "page",
@@ -9481,7 +9481,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 20,
-  "secs": 1.0,
+  "secs": 1.1,
   "source": "Sydney Quantum Academy (internship channel) [personio]",
   "spec": {
    "sub": "quantummotion",
@@ -9505,7 +9505,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 6,
-  "secs": 4.0,
+  "secs": 3.7,
   "source": "Synergy (WA) [sf_rmk]",
   "spec": {
    "host": "careers.synergy.net.au",
@@ -9517,7 +9517,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.1,
+  "secs": 0.2,
   "source": "TAE Aerospace [page]",
   "spec": {
    "type": "page",
@@ -9529,7 +9529,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 11,
-  "secs": 3.6,
+  "secs": 3.8,
   "source": "TPG Telecom [oracle]",
   "spec": {
    "host": "fa-ewlx-saasfaprod1.fa.ocs.oraclecloud.com",
@@ -9542,7 +9542,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 1.7,
+  "secs": 2.0,
   "source": "TPG Telecom [page]",
   "spec": {
    "type": "page",
@@ -9553,8 +9553,8 @@
   "error": null,
   "kind": "aggregator",
   "ok": true,
-  "raw_count": 188,
-  "secs": 9.9,
+  "raw_count": 194,
+  "secs": 12.5,
   "source": "Talent.com AU [talent]",
   "spec": {
    "type": "talent"
@@ -9565,7 +9565,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 4,
-  "secs": 4.4,
+  "secs": 5.0,
   "source": "TasWater [page]",
   "spec": {
    "type": "page",
@@ -9577,7 +9577,7 @@
   "kind": "aggregator",
   "ok": true,
   "raw_count": 70,
-  "secs": 15.4,
+  "secs": 44.4,
   "source": "Techstars portfolio jobs [getro_board]",
   "spec": {
    "base": "https://jobs.techstars.com",
@@ -9589,7 +9589,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 1.3,
+  "secs": 0.8,
   "source": "Telstra [page]",
   "spec": {
    "type": "page",
@@ -9600,8 +9600,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 18,
-  "secs": 4.4,
+  "raw_count": 19,
+  "secs": 4.8,
   "source": "Telstra [workday]",
   "spec": {
    "host": "telstra.wd3.myworkdayjobs.com",
@@ -9628,8 +9628,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 89,
-  "secs": 5.4,
+  "raw_count": 86,
+  "secs": 5.7,
   "source": "Thermo Fisher Scientific (Australia) [workday]",
   "spec": {
    "host": "thermofisher.wd5.myworkdayjobs.com",
@@ -9643,7 +9643,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 7,
-  "secs": 0.3,
+  "secs": 0.1,
   "source": "Thiess [greenhouse]",
   "spec": {
    "token": "thiess",
@@ -9655,7 +9655,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.6,
+  "secs": 1.2,
   "source": "Tibra Capital [page]",
   "spec": {
    "type": "page",
@@ -9667,7 +9667,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.2,
+  "secs": 0.1,
   "source": "Tibra Capital [workable]",
   "spec": {
    "account": "tibra-capital-1",
@@ -9679,7 +9679,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.3,
+  "secs": 0.2,
   "source": "Tiliter [page]",
   "spec": {
    "type": "page",
@@ -9691,7 +9691,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 2.4,
+  "secs": 2.0,
   "source": "Tilt Renewables [page]",
   "spec": {
    "type": "page",
@@ -9703,7 +9703,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 3,
-  "secs": 3.3,
+  "secs": 2.7,
   "source": "Tonkin [page]",
   "spec": {
    "type": "page",
@@ -9715,7 +9715,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 94,
-  "secs": 0.3,
+  "secs": 0.5,
   "source": "Tower Research Capital [greenhouse]",
   "spec": {
    "token": "towerresearchcapital",
@@ -9727,7 +9727,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 0.5,
+  "secs": 0.3,
   "source": "Tower Research Capital [page]",
   "spec": {
    "type": "page",
@@ -9739,7 +9739,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.6,
+  "secs": 0.4,
   "source": "Trajan Scientific and Medical [page]",
   "spec": {
    "type": "page",
@@ -9751,7 +9751,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 4,
-  "secs": 1.5,
+  "secs": 1.6,
   "source": "Transgrid [page]",
   "spec": {
    "type": "page",
@@ -9762,7 +9762,7 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 9,
+  "raw_count": 10,
   "secs": 3.8,
   "source": "Transgrid [sf_rmk]",
   "spec": {
@@ -9775,7 +9775,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.1,
+  "secs": 1.7,
   "source": "Transport for NSW (graduate, cadetship, vacation programs) [page]",
   "spec": {
    "type": "page",
@@ -9787,7 +9787,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.4,
+  "secs": 0.3,
   "source": "Tritium (Exicom Tritium) [page]",
   "spec": {
    "type": "page",
@@ -9823,7 +9823,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.0,
+  "secs": 0.9,
   "source": "Tyro Payments [page]",
   "spec": {
    "type": "page",
@@ -9835,7 +9835,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 1,
-  "secs": 3.0,
+  "secs": 4.2,
   "source": "UGL (CIMIC Group) [oracle]",
   "spec": {
    "host": "elgl.fa.ap1.oraclecloud.com",
@@ -9848,7 +9848,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 1.1,
+  "secs": 1.0,
   "source": "UGL (CIMIC Group) [page]",
   "spec": {
    "type": "page",
@@ -9860,19 +9860,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 0,
-  "secs": 10.5,
-  "source": "UGL (CIMIC Group) [pageup]",
-  "spec": {
-   "base": "https://careers.pageuppeople.com/434/cw/en",
-   "type": "pageup"
-  }
- },
- {
-  "error": null,
-  "kind": "ats",
-  "ok": true,
-  "raw_count": 0,
-  "secs": 11.5,
+  "secs": 10.0,
   "source": "UGL (CIMIC Group) [pageup]",
   "spec": {
    "base": "https://careers.pageuppeople.com/709/cw/en",
@@ -9884,7 +9872,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 0,
-  "secs": 11.9,
+  "secs": 10.5,
   "source": "UGL (CIMIC Group) [pageup]",
   "spec": {
    "base": "https://careers.pageuppeople.com/399/cw/en",
@@ -9893,10 +9881,22 @@
  },
  {
   "error": null,
+  "kind": "ats",
+  "ok": true,
+  "raw_count": 0,
+  "secs": 12.3,
+  "source": "UGL (CIMIC Group) [pageup]",
+  "spec": {
+   "base": "https://careers.pageuppeople.com/434/cw/en",
+   "type": "pageup"
+  }
+ },
+ {
+  "error": null,
   "kind": "page",
   "ok": true,
   "raw_count": 42,
-  "secs": 0.7,
+  "secs": 0.9,
   "source": "UNSW Sydney - Taste of Research (Engineering) + CQC2T/SQC hub [page]",
   "spec": {
    "type": "page",
@@ -9908,7 +9908,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.5,
+  "secs": 2.0,
   "source": "UNSW Sydney - Taste of Research (Engineering) + CQC2T/SQC hub [page]",
   "spec": {
    "type": "page",
@@ -9919,7 +9919,7 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 51,
+  "raw_count": 54,
   "secs": 6.5,
   "source": "Unilever ANZ [workday]",
   "spec": {
@@ -9934,7 +9934,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 1.8,
+  "secs": 1.7,
   "source": "Unitywater [page]",
   "spec": {
    "type": "page",
@@ -9946,7 +9946,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.1,
+  "secs": 0.0,
   "source": "Universal Biosensors [workable]",
   "spec": {
    "account": "universal-biosensors-3",
@@ -9970,7 +9970,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 9,
-  "secs": 1.6,
+  "secs": 1.2,
   "source": "University of Melbourne (FEIT + jobs board) [page]",
   "spec": {
    "type": "page",
@@ -9982,7 +9982,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 0,
-  "secs": 22.5,
+  "secs": 22.7,
   "source": "University of Melbourne (FEIT + jobs board) [pageup]",
   "spec": {
    "base": "https://jobs.unimelb.edu.au/en",
@@ -9994,7 +9994,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 9,
-  "secs": 0.9,
+  "secs": 0.7,
   "source": "University of Queensland (Summer & Winter Research Program; EAIT; EQUS/QUBIC nodes) [page]",
   "spec": {
    "type": "page",
@@ -10006,7 +10006,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 39,
-  "secs": 3.8,
+  "secs": 4.3,
   "source": "University of Queensland (Summer & Winter Research Program; EAIT; EQUS/QUBIC nodes) [workday]",
   "spec": {
    "host": "uq.wd3.myworkdayjobs.com",
@@ -10020,7 +10020,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.6,
+  "secs": 0.4,
   "source": "University of Sydney (Engineering Vacation Research Internship Program; ACFR; Sydney Nano) [page]",
   "spec": {
    "type": "page",
@@ -10032,7 +10032,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.2,
+  "secs": 3.3,
   "source": "University of Sydney (Engineering Vacation Research Internship Program; ACFR; Sydney Nano) [workday]",
   "spec": {
    "host": "usyd.wd3.myworkdayjobs.com",
@@ -10046,7 +10046,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 7,
-  "secs": 0.7,
+  "secs": 0.9,
   "source": "University of Wollongong - Faculty of Engineering & Information Sciences Summer Scholarships [page]",
   "spec": {
    "type": "page",
@@ -10058,7 +10058,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 6,
-  "secs": 1.3,
+  "secs": 1.2,
   "source": "University of Wollongong - Faculty of Engineering & Information Sciences Summer Scholarships [page]",
   "spec": {
    "type": "page",
@@ -10070,7 +10070,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.4,
+  "secs": 1.3,
   "source": "Urban Utilities [page]",
   "spec": {
    "type": "page",
@@ -10082,7 +10082,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.8,
+  "secs": 3.2,
   "source": "V/Line [page]",
   "spec": {
    "type": "page",
@@ -10105,8 +10105,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 52,
-  "secs": 4.0,
+  "raw_count": 54,
+  "secs": 4.5,
   "source": "Vanderlande Australia [workday]",
   "spec": {
    "host": "vanderlande.wd3.myworkdayjobs.com",
@@ -10132,7 +10132,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.1,
+  "secs": 1.3,
   "source": "Vaxxas [page]",
   "spec": {
    "type": "page",
@@ -10144,7 +10144,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.5,
+  "secs": 1.6,
   "source": "Vaxxas [page]",
   "spec": {
    "type": "page",
@@ -10156,7 +10156,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.9,
+  "secs": 1.7,
   "source": "Ventia [page]",
   "spec": {
    "type": "page",
@@ -10167,8 +10167,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 30,
-  "secs": 3.6,
+  "raw_count": 27,
+  "secs": 4.3,
   "source": "Vestas Australian Wind Technology [sf_rmk]",
   "spec": {
    "host": "careers.vestas.com",
@@ -10180,7 +10180,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 3,
-  "secs": 1.8,
+  "secs": 1.5,
   "source": "Victorian Government Graduate Program (VPS) [page]",
   "spec": {
    "type": "page",
@@ -10216,7 +10216,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.1,
+  "secs": 0.2,
   "source": "Virtu Financial [page]",
   "spec": {
    "type": "page",
@@ -10228,7 +10228,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.7,
+  "secs": 0.9,
   "source": "Visy [page]",
   "spec": {
    "type": "page",
@@ -10240,7 +10240,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 5,
-  "secs": 0.2,
+  "secs": 0.1,
   "source": "VivCourt Trading [greenhouse]",
   "spec": {
    "token": "vivcourt",
@@ -10251,20 +10251,8 @@
   "error": null,
   "kind": "page",
   "ok": true,
-  "raw_count": 7,
-  "secs": 1.0,
-  "source": "Vocus [page]",
-  "spec": {
-   "type": "page",
-   "url": "https://www.vocus.com.au/careers"
-  }
- },
- {
-  "error": null,
-  "kind": "page",
-  "ok": true,
   "raw_count": 6,
-  "secs": 1.5,
+  "secs": 0.8,
   "source": "Vocus [page]",
   "spec": {
    "type": "page",
@@ -10275,8 +10263,20 @@
   "error": null,
   "kind": "page",
   "ok": true,
+  "raw_count": 7,
+  "secs": 2.5,
+  "source": "Vocus [page]",
+  "spec": {
+   "type": "page",
+   "url": "https://www.vocus.com.au/careers"
+  }
+ },
+ {
+  "error": null,
+  "kind": "page",
+  "ok": true,
   "raw_count": 0,
-  "secs": 3.5,
+  "secs": 3.0,
   "source": "Volgren [page]",
   "spec": {
    "type": "page",
@@ -10302,7 +10302,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.6,
+  "secs": 0.9,
   "source": "WA Government (jobs.wa.gov.au; Main Roads WA, Western Power is GTE) [page]",
   "spec": {
    "type": "page",
@@ -10328,7 +10328,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 0,
-  "secs": 0.4,
+  "secs": 0.5,
   "source": "Wabtec Australia [smartrecruiters]",
   "spec": {
    "company": "my-applications",
@@ -10340,7 +10340,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 10,
-  "secs": 1.1,
+  "secs": 1.2,
   "source": "Water Corporation (WA) [livehire]",
   "spec": {
    "company": "watercorporation",
@@ -10352,7 +10352,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.5,
+  "secs": 1.3,
   "source": "Wattwatchers [page]",
   "spec": {
    "type": "page",
@@ -10364,7 +10364,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 0.7,
+  "secs": 0.9,
   "source": "Western Power [page]",
   "spec": {
    "type": "page",
@@ -10376,7 +10376,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.1,
+  "secs": 2.4,
   "source": "Western Power [page]",
   "spec": {
    "type": "page",
@@ -10388,7 +10388,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.3,
+  "secs": 2.8,
   "source": "Western Power [page]",
   "spec": {
    "type": "page",
@@ -10412,7 +10412,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 1.2,
+  "secs": 1.7,
   "source": "Woodside Energy [page]",
   "spec": {
    "type": "page",
@@ -10423,8 +10423,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 15,
-  "secs": 4.1,
+  "raw_count": 16,
+  "secs": 4.3,
   "source": "Woodside Energy [sf_rmk]",
   "spec": {
    "host": "careers.woodside.com.au",
@@ -10436,7 +10436,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 3,
-  "secs": 1.0,
+  "secs": 0.8,
   "source": "Worley [page]",
   "spec": {
    "type": "page",
@@ -10447,7 +10447,7 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 124,
+  "raw_count": 120,
   "secs": 0.1,
   "source": "Xero [ashby]",
   "spec": {
@@ -10460,7 +10460,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 2,
-  "secs": 1.7,
+  "secs": 1.9,
   "source": "Yarra Valley Water [page]",
   "spec": {
    "type": "page",
@@ -10472,7 +10472,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 2.0,
+  "secs": 1.0,
   "source": "Yokogawa Australia [page]",
   "spec": {
    "type": "page",
@@ -10484,7 +10484,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 0.5,
+  "secs": 0.4,
   "source": "Zendesk (Melbourne) [page]",
   "spec": {
    "type": "page",
@@ -10496,7 +10496,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 1,
-  "secs": 1.2,
+  "secs": 0.8,
   "source": "Zendesk (Melbourne) [page]",
   "spec": {
    "type": "page",
@@ -10508,7 +10508,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 22,
-  "secs": 3.7,
+  "secs": 3.6,
   "source": "Zendesk (Melbourne) [workday]",
   "spec": {
    "host": "zendesk.wd1.myworkdayjobs.com",
@@ -10522,7 +10522,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 14,
-  "secs": 0.4,
+  "secs": 0.2,
   "source": "Zenobē Australia [teamtailor]",
   "spec": {
    "host": "careers.zenobe.com",
@@ -10534,7 +10534,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 3.8,
+  "secs": 0.6,
   "source": "Zetifi [page]",
   "spec": {
    "type": "page",
@@ -10560,7 +10560,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 123,
-  "secs": 0.3,
+  "secs": 0.2,
   "source": "Zip Co [ashby]",
   "spec": {
    "org": "zip",
@@ -10584,7 +10584,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 236,
-  "secs": 1.4,
+  "secs": 1.3,
   "source": "Zoox [lever]",
   "spec": {
    "company": "zoox",
@@ -10596,7 +10596,7 @@
   "kind": "ats",
   "ok": true,
   "raw_count": 63,
-  "secs": 6.5,
+  "secs": 6.8,
   "source": "bp pulse Australia [workday]",
   "spec": {
    "host": "bpinternational.wd3.myworkdayjobs.com",
@@ -10610,7 +10610,7 @@
   "kind": "page",
   "ok": true,
   "raw_count": 0,
-  "secs": 4.1,
+  "secs": 1.0,
   "source": "dorsaVi [page]",
   "spec": {
    "type": "page",
@@ -10621,8 +10621,8 @@
   "error": null,
   "kind": "ats",
   "ok": true,
-  "raw_count": 6,
-  "secs": 0.5,
+  "raw_count": 7,
+  "secs": 0.3,
   "source": "harrison.ai [ashby]",
   "spec": {
    "org": "harrison.ai",
@@ -10645,8 +10645,8 @@
   "error": null,
   "kind": "aggregator",
   "ok": true,
-  "raw_count": 1,
-  "secs": 1.6,
+  "raw_count": 2,
+  "secs": 1.5,
   "source": "jobright 2026 engineer internships (GitHub) [readme_list]",
   "spec": {
    "type": "readme_list",
@@ -10658,7 +10658,7 @@
   "kind": "aggregator",
   "ok": true,
   "raw_count": 34,
-  "secs": 1.1,
+  "secs": 0.9,
   "source": "speedyapply 2027 college jobs (GitHub) [readme_list]",
   "spec": {
    "type": "readme_list",
