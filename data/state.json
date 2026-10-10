@@ -236,12 +236,12 @@
   "closed_on": "2026-10-10",
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-09",
-  "misses": 3,
+  "last_seen": "2026-10-10",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Apply Today - 2026 Cyber Security and Data Science and Analytics Internships"
  },
  "06823c866db6": {
@@ -600,7 +600,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-10",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -670,7 +670,7 @@
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-10",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -694,7 +694,7 @@
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-10",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1111,7 +1111,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-10",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1477,7 +1477,7 @@
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-10",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1938,7 +1938,7 @@
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-10",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2138,7 +2138,7 @@
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-10",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2374,7 +2374,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-10",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2457,7 +2457,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-10",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3210,7 +3210,7 @@
   "company": "GM Australia Design / GM Specialty Vehicles",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-10",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GM Australia Design / GM Specialty Vehicles [workday]"
   ],
@@ -3234,7 +3234,7 @@
   "company": "Gradability",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-10",
-  "misses": 2,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3247,7 +3247,8 @@
   "last_seen": "2026-10-10",
   "misses": 0,
   "sources": [
-   "Claude web sweep"
+   "Claude web sweep",
+   "Apple [page]"
   ],
   "status": "open",
   "title": "Secure Kernel Engineering Intern, Sydney"
@@ -3256,7 +3257,7 @@
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-10",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3362,7 +3363,7 @@
   "company": "The Royal Children's Hospital",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-10",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3398,7 +3399,7 @@
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-10",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3875,7 +3876,7 @@
   "company": "McGrathNicol",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-10",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3887,7 +3888,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-10",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3934,7 +3935,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-10",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5842,7 +5843,7 @@
   "company": "Mott MacDonald",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-10",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Mott MacDonald [sf_rmk]"
   ],
@@ -6030,7 +6031,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-10",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6677,7 +6678,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-10",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6876,7 +6877,7 @@
   "company": "Gradability",
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-10",
-  "misses": 2,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7452,12 +7453,12 @@
   "closed_on": "2026-10-10",
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-09",
-  "misses": 3,
+  "last_seen": "2026-10-10",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Find your Perfect Environmental Engineering Internship – Apply Today"
  },
  "aa3e360c12cc": {
@@ -7535,12 +7536,12 @@
   "closed_on": "2026-10-10",
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-09",
-  "misses": 3,
+  "last_seen": "2026-10-10",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "IT/Tech Internships Program – Join Australia’s Top Technology Program"
  },
  "ac00fa9f4388": {
@@ -7845,8 +7846,7 @@
   "last_seen": "2026-10-10",
   "misses": 0,
   "sources": [
-   "GHD [oracle]",
-   "GradConnection (SEEK Grad) [gradconnection]"
+   "GHD [oracle]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
@@ -9092,8 +9092,7 @@
   "last_seen": "2026-10-10",
   "misses": 0,
   "sources": [
-   "GHD [oracle]",
-   "GradConnection (SEEK Grad) [gradconnection]"
+   "GHD [oracle]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 – Queensland – Graduate Civil Engineer (Construction Phase Services)"
@@ -9396,7 +9395,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-10",
   "last_seen": "2026-10-10",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10578,7 +10577,7 @@
   "company": "Gradability",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-10",
-  "misses": 2,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
