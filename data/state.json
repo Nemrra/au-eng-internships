@@ -74,7 +74,7 @@
   "company": "University of Queensland",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-11",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Claude web sweep"
   ],
@@ -237,7 +237,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-11",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -669,12 +669,12 @@
   "closed_on": "2026-10-11",
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-11",
-  "misses": 3,
+  "last_seen": "2026-10-12",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "2027 DT Infrastructure Graduate Program - Health, Safety, Environment & Sustainability"
  },
  "10c0987e6316": {
@@ -822,7 +822,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-11",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1477,8 +1477,8 @@
   "closed_on": "2026-10-11",
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-11",
-  "misses": 2,
+  "last_seen": "2026-10-12",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1738,8 +1738,8 @@
   "closed_on": "2026-10-10",
   "company": "The Brattle Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-11",
-  "misses": 1,
+  "last_seen": "2026-10-12",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1938,8 +1938,8 @@
   "closed_on": "2026-10-11",
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-11",
-  "misses": 2,
+  "last_seen": "2026-10-12",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2138,8 +2138,8 @@
   "closed_on": "2026-10-10",
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-11",
-  "misses": 1,
+  "last_seen": "2026-10-12",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3402,12 +3402,12 @@
   "closed_on": "2026-10-11",
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-11",
-  "misses": 3,
+  "last_seen": "2026-10-12",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "2027 DT Infrastructure Graduate Program - Commercial"
  },
  "4c7b1a2179ce": {
@@ -3609,14 +3609,15 @@
   "title": "Project Management Office Internship- Rail Infrastructure(Summer 2027)"
  },
  "4ffbb7ecafd1": {
+  "closed_on": "2026-10-12",
   "company": "Optus (Optus Satellite)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-11",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Optus (Optus Satellite) [sf_rmk]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Optus Summer Internship Program"
  },
  "508f665329f4": {
@@ -4435,12 +4436,12 @@
   "closed_on": "2026-10-11",
   "company": "BDO",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-10",
-  "misses": 3,
+  "last_seen": "2026-10-12",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Program - Transfer Pricing (Brisbane)"
  },
  "6390d2bcc067": {
@@ -4728,7 +4729,7 @@
   "company": "Careers at Council (Parkes Shire Council)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-11",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Claude web sweep"
   ],
@@ -5986,12 +5987,12 @@
   "closed_on": "2026-10-11",
   "company": "BDO",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-10",
-  "misses": 3,
+  "last_seen": "2026-10-12",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Program - Superannuation"
  },
  "8bae8a53df09": {
@@ -6575,12 +6576,12 @@
   "closed_on": "2026-10-11",
   "company": "BDO",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-10",
-  "misses": 3,
+  "last_seen": "2026-10-12",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Program - Risk Advisory"
  },
  "97606f23406c": {
@@ -7139,7 +7140,7 @@
   "company": "McGrathNicol",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-11",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7388,8 +7389,8 @@
   "closed_on": "2026-10-09",
   "company": "BDO",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-11",
-  "misses": 1,
+  "last_seen": "2026-10-12",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7458,7 +7459,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-11",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7541,7 +7542,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-11",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7850,7 +7851,8 @@
   "last_seen": "2026-10-12",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
@@ -8294,7 +8296,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-11",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9096,7 +9098,8 @@
   "last_seen": "2026-10-12",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 – Queensland – Graduate Civil Engineer (Construction Phase Services)"
