@@ -237,7 +237,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-11",
-  "misses": 2,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -600,7 +600,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-11",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -666,15 +666,15 @@
   "title": "2026-2027 FPGA Engineer Internship"
  },
  "10a3ca5cd7fb": {
-  "closed_on": "2026-10-09",
+  "closed_on": "2026-10-11",
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-11",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 DT Infrastructure Graduate Program - Health, Safety, Environment & Sustainability"
  },
  "10c0987e6316": {
@@ -690,15 +690,15 @@
   "title": "Notify Me - APA Group Graduate Jobs"
  },
  "10cf2b347be0": {
-  "closed_on": "2026-10-10",
+  "closed_on": "2026-10-11",
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-11",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Data & Technical Support Specialist – Utility Metering"
  },
  "10de295f29d8": {
@@ -822,7 +822,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-11",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1112,7 +1112,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-11",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1478,7 +1478,7 @@
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-11",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1738,12 +1738,12 @@
   "closed_on": "2026-10-10",
   "company": "The Brattle Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-09",
-  "misses": 3,
+  "last_seen": "2026-10-11",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Sydney Research Analyst Graduate Program"
  },
  "289fffa6f01a": {
@@ -1939,7 +1939,7 @@
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-11",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2139,7 +2139,7 @@
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-11",
-  "misses": 2,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2459,7 +2459,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-11",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2752,7 +2752,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-11",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3257,14 +3257,15 @@
   "title": "Secure Kernel Engineering Intern, Sydney"
  },
  "4953764d7bdf": {
+  "closed_on": "2026-10-11",
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-11",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 Graduate Programme - Business & Operations | Carole Park"
  },
  "4985f471dad1": {
@@ -3366,7 +3367,7 @@
   "company": "The Royal Children's Hospital",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-11",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3398,15 +3399,15 @@
   "title": "Notify Me - FTI Consulting Internships"
  },
  "4c5076195121": {
-  "closed_on": "2026-10-09",
+  "closed_on": "2026-10-11",
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-11",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 DT Infrastructure Graduate Program - Commercial"
  },
  "4c7b1a2179ce": {
@@ -3611,7 +3612,7 @@
   "company": "Optus (Optus Satellite)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-11",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Optus (Optus Satellite) [sf_rmk]"
   ],
@@ -3879,7 +3880,7 @@
   "company": "McGrathNicol",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-11",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3891,7 +3892,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-11",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3938,7 +3939,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-11",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3985,7 +3986,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-11",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4566,6 +4567,7 @@
   "misses": 0,
   "sources": [
    "Claude web sweep",
+   "Apple jobs AU internships [apple]",
    "Apple [page]"
   ],
   "status": "open",
@@ -4917,7 +4919,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-11",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5349,15 +5351,15 @@
   "title": "Machine Learning Engineer Graduate - E-Commerce Risk Control"
  },
  "7b0a9673804a": {
-  "closed_on": "2026-10-10",
+  "closed_on": "2026-10-11",
   "company": "White Acorn Capital",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-11",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate/Junior Analyst - Private Credit Fund"
  },
  "7b445f340213": {
@@ -6033,7 +6035,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-11",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6680,7 +6682,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-11",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7456,7 +7458,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-11",
-  "misses": 2,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7539,7 +7541,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-11",
-  "misses": 2,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7848,7 +7850,8 @@
   "last_seen": "2026-10-11",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
@@ -8292,7 +8295,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-11",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9094,7 +9097,8 @@
   "last_seen": "2026-10-11",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 – Queensland – Graduate Civil Engineer (Construction Phase Services)"
@@ -9397,7 +9401,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-10",
   "last_seen": "2026-10-11",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9421,7 +9425,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-11",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
