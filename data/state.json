@@ -71,14 +71,15 @@
   "title": "Software Development Engineer in Test Intern (TikTok LIVE) - 2027 Start (BS/MS)"
  },
  "02b7daedb293": {
+  "closed_on": "2026-10-12",
   "company": "University of Queensland",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-11",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Claude web sweep"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "UQ Summer Research Program 2027 (incl. EAIT: Electrical Eng & Comp Sci, Mechanical & Mining, Chemical, Civil)"
  },
  "031bb36b9d9e": {
@@ -233,15 +234,15 @@
   "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark"
  },
  "065a15b0484f": {
-  "closed_on": "2026-10-10",
+  "closed_on": "2026-10-12",
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-11",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Apply Today - 2026 Cyber Security and Data Science and Analytics Internships"
  },
  "06823c866db6": {
@@ -600,7 +601,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-12",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -818,15 +819,15 @@
   "title": "GHD Graduate Program 2026/27 – Brisbane – Geotechnical Engineering"
  },
  "133e2bc9f384": {
-  "closed_on": "2026-10-10",
+  "closed_on": "2026-10-12",
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-11",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Up your Engineering Game with a Chemical Engineering Internship – Apply Now"
  },
  "136cb521b431": {
@@ -1478,7 +1479,7 @@
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-12",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1939,7 +1940,7 @@
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-12",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2459,7 +2460,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-12",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2712,6 +2713,17 @@
   "status": "closed",
   "title": "Software Engineer Intern - Backend Focused"
  },
+ "3daca475e4c6": {
+  "company": "Stryker (South Pacific)",
+  "first_seen": "2026-10-12",
+  "last_seen": "2026-10-12",
+  "misses": 0,
+  "sources": [
+   "Stryker (South Pacific) [workday]"
+  ],
+  "status": "open",
+  "title": "Mechatronics Intern"
+ },
  "3dcaf63d00eb": {
   "closed_on": "2026-10-06",
   "company": "ByteDance",
@@ -2752,7 +2764,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-12",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3237,7 +3249,7 @@
   "company": "Gradability",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-12",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3367,7 +3379,7 @@
   "company": "The Royal Children's Hospital",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-12",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3987,7 +3999,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-12",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4437,7 +4449,7 @@
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-12",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4703,6 +4715,17 @@
   "status": "closed",
   "title": "Notify Me - FDM Group Hong Kong Graduate Jobs"
  },
+ "6b05e1a27977": {
+  "company": "Readygrad",
+  "first_seen": "2026-10-12",
+  "last_seen": "2026-10-12",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Web Developer / Support Developer Internship Program 2026"
+ },
  "6b563709be57": {
   "company": "Monash University (incl. Monash Robotics, MCN host, Engineering)",
   "first_seen": "2026-10-06",
@@ -4726,14 +4749,15 @@
   "title": "2026/2027 EY First Nations Vacationer Program"
  },
  "6bfb322e8ae1": {
+  "closed_on": "2026-10-12",
   "company": "Careers at Council (Parkes Shire Council)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-11",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Claude web sweep"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Cadet Engineer"
  },
  "6c22ba868abb": {
@@ -5988,7 +6012,7 @@
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-12",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6577,7 +6601,7 @@
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-12",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7137,14 +7161,15 @@
   "title": "Machine Learning Engineer Intern (TikTok LIVE) - 2027 start (PhD)"
  },
  "a2a57ed4532d": {
+  "closed_on": "2026-10-12",
   "company": "McGrathNicol",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-11",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 Cyber Graduate Program (Melbourne, Sydney)"
  },
  "a2a7d332b319": {
@@ -7390,7 +7415,7 @@
   "company": "BDO",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-12",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7455,15 +7480,15 @@
   "title": "Machine Learning Engineer Graduate - E-Commerce Governance - PhD"
  },
  "aa3a56f53572": {
-  "closed_on": "2026-10-10",
+  "closed_on": "2026-10-12",
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-11",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Find your Perfect Environmental Engineering Internship – Apply Today"
  },
  "aa3e360c12cc": {
@@ -7538,15 +7563,15 @@
   "title": "Notify Me - IMC Internships"
  },
  "abed416d3c21": {
-  "closed_on": "2026-10-10",
+  "closed_on": "2026-10-12",
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-11",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "IT/Tech Internships Program – Join Australia’s Top Technology Program"
  },
  "ac00fa9f4388": {
@@ -8292,15 +8317,15 @@
   "title": "Network Development Engineer Graduate"
  },
  "bf3df65f8752": {
-  "closed_on": "2026-10-10",
+  "closed_on": "2026-10-12",
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-11",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Civil Engineering Internships Program – Multiple Locations across 7 Streams"
  },
  "bfa762deabb0": {
@@ -9426,7 +9451,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-12",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9795,6 +9820,17 @@
   "status": "open",
   "title": "Software Engineering Internship - Summer 2026/2027 (Dec 2026)"
  },
+ "e3c686f9c445": {
+  "company": "Readygrad",
+  "first_seen": "2026-10-12",
+  "last_seen": "2026-10-12",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Networking / IT Support Internship Program 2026"
+ },
  "e3d2978c90b6": {
   "closed_on": "2026-10-06",
   "company": "Nrw Holdings",
@@ -9958,6 +9994,17 @@
   ],
   "status": "open",
   "title": "Research Scientist Intern"
+ },
+ "e8964b5ea903": {
+  "company": "Readygrad",
+  "first_seen": "2026-10-12",
+  "last_seen": "2026-10-12",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Data Analyst Internship Program 2026"
  },
  "e8986af670d0": {
   "company": "Silicon Quantum Computing (SQC)",
@@ -10241,7 +10288,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-12",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
