@@ -597,15 +597,15 @@
   "title": "Software Engineer Intern - Azure Databases"
  },
  "0ee577b70dbb": {
-  "closed_on": "2026-10-11",
+  "closed_on": "2026-10-13",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-12",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Gwydir Career Start 2026/2027"
  },
  "0f763dd708a1": {
@@ -683,7 +683,7 @@
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1125,7 +1125,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-12",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1752,7 +1752,7 @@
   "company": "The Brattle Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2152,7 +2152,7 @@
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-13",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2468,15 +2468,15 @@
   "title": "Software Engineer Intern - Global E-Commerce Search Infrastructure"
  },
  "3726a56d4af9": {
-  "closed_on": "2026-10-11",
+  "closed_on": "2026-10-13",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-12",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Trainee Early Childhood Educator [Sandhills Early Childhood Centre, Byron Bay]"
  },
  "372a9d79084e": {
@@ -2773,14 +2773,15 @@
   "title": "2026 Supply Chain Co-Op"
  },
  "3e0785a8f390": {
+  "closed_on": "2026-10-13",
   "company": "Careers at Council",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-12",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Water and Wastewater Trainee"
  },
  "3eb2484d0780": {
@@ -3285,7 +3286,7 @@
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-13",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3427,7 +3428,7 @@
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3585,6 +3586,17 @@
   ],
   "status": "closed",
   "title": "Data Scientist Intern - Product"
+ },
+ "4efe5932e416": {
+  "company": "Fulton Hogan",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "misses": 0,
+  "sources": [
+   "Fulton Hogan [workday]"
+  ],
+  "status": "open",
+  "title": "Graduate Surveyor"
  },
  "4f210c27de51": {
   "company": "Gradability",
@@ -3904,8 +3916,8 @@
   "closed_on": "2026-10-11",
   "company": "McGrathNicol",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-12",
-  "misses": 1,
+  "last_seen": "2026-10-13",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3917,7 +3929,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-12",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3964,7 +3976,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-12",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4007,15 +4019,15 @@
   "title": "2027 Summer Corporate Intern - Engineering"
  },
  "59a2feba57db": {
-  "closed_on": "2026-10-07",
+  "closed_on": "2026-10-13",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-12",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Trainee Ranger"
  },
  "5a08db5f14ac": {
@@ -4731,7 +4743,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-12",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5392,7 +5404,7 @@
   "company": "White Acorn Capital",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-12",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6072,7 +6084,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-12",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6393,7 +6405,7 @@
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
-  "title": "Graduate Mechanical/ Fire Services Engineer"
+  "title": "Graduate Mechanical / Fire Services Engineer"
  },
  "9178c5ad2c88": {
   "closed_on": "2026-10-06",
@@ -6719,7 +6731,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-12",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7888,8 +7900,7 @@
   "last_seen": "2026-10-13",
   "misses": 0,
   "sources": [
-   "GHD [oracle]",
-   "GradConnection (SEEK Grad) [gradconnection]"
+   "GHD [oracle]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
@@ -8684,7 +8695,7 @@
   "company": "KBR",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-12",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "KBR [workday]"
   ],
@@ -9135,8 +9146,7 @@
   "last_seen": "2026-10-13",
   "misses": 0,
   "sources": [
-   "GHD [oracle]",
-   "GradConnection (SEEK Grad) [gradconnection]"
+   "GHD [oracle]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 – Queensland – Graduate Civil Engineer (Construction Phase Services)"
@@ -9439,7 +9449,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-10",
   "last_seen": "2026-10-12",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9459,15 +9469,15 @@
   "title": "Notify Me - DBS Graduate Jobs"
  },
  "dd39f74fe217": {
-  "closed_on": "2026-10-07",
+  "closed_on": "2026-10-13",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-12",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Trainee Administration Officer - Environmental Systems and Assets"
  },
  "dd3dd01de28e": {
@@ -9836,7 +9846,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-12",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10011,7 +10021,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-12",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10296,15 +10306,15 @@
   "title": "Notify Me - Westpac Graduate Jobs"
  },
  "ee5c75db108a": {
-  "closed_on": "2026-10-06",
+  "closed_on": "2026-10-13",
   "company": "Careers at Council",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-12",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Cadet Engineer"
  },
  "eed1d158c77e": {
