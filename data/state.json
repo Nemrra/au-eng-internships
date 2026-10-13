@@ -23,6 +23,17 @@
   "status": "closed",
   "title": "Notify Me - APA Group Internships"
  },
+ "00ee959e406e": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Cadet Building Surveyor"
+ },
  "01246873282c": {
   "closed_on": "2026-10-06",
   "company": "TikTok",
@@ -600,12 +611,12 @@
   "closed_on": "2026-10-13",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-12",
-  "misses": 3,
+  "last_seen": "2026-10-14",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Gwydir Career Start 2026/2027"
  },
  "0f763dd708a1": {
@@ -970,14 +981,15 @@
   "title": "Software Engineering Graduate Program"
  },
  "17354d3c99cb": {
+  "closed_on": "2026-10-14",
   "company": "Macquarie Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 Macquarie Graduate Program – Engineering – Spring Intake"
  },
  "176b9e134877": {
@@ -1260,6 +1272,17 @@
   "status": "open",
   "title": "2026/27 EY Vacationer Program – Science"
  },
+ "1cfa73812278": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Graduate Urban Designer"
+ },
  "1d3b4c383570": {
   "closed_on": "2026-10-06",
   "company": "Turner Townsend",
@@ -1513,7 +1536,7 @@
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-14",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1578,6 +1601,17 @@
   ],
   "status": "closed",
   "title": "Notify Me - UBS Graduate Jobs"
+ },
+ "24911ef619ab": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Concreting Trainee"
  },
  "24eea2f361b0": {
   "closed_on": "2026-10-06",
@@ -1774,7 +1808,7 @@
   "company": "The Brattle Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-14",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1808,8 +1842,8 @@
  "28d81026b279": {
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-13",
-  "misses": 1,
+  "last_seen": "2026-10-14",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1996,7 +2030,7 @@
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-14",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2196,7 +2230,7 @@
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-13",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2526,12 +2560,12 @@
   "closed_on": "2026-10-13",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-12",
-  "misses": 3,
+  "last_seen": "2026-10-14",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Trainee Early Childhood Educator [Sandhills Early Childhood Centre, Byron Bay]"
  },
  "372a9d79084e": {
@@ -2778,6 +2812,17 @@
   ],
   "status": "closed",
   "title": "Notify Me - Rabobank Internships"
+ },
+ "3c25cd4206db": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Trainee Information Technology & Communications Support Assistant"
  },
  "3ca5c2fca521": {
   "closed_on": "2026-10-06",
@@ -3466,14 +3511,15 @@
   "title": "PhD Research Intern, Robotics - Summer 2027"
  },
  "4b9ae753f85d": {
+  "closed_on": "2026-10-14",
   "company": "The Royal Children's Hospital",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-13",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Biomedical Engineer - Graduate"
  },
  "4b9f5af54cd3": {
@@ -4745,14 +4791,15 @@
   "title": "Engineering Consulting Intern - Summer Program"
  },
  "6846ee69416f": {
+  "closed_on": "2026-10-14",
   "company": "Macquarie Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 Macquarie Graduate Program – Science – Spring Intake"
  },
  "689aa9d9f9ec": {
@@ -5514,8 +5561,8 @@
   "closed_on": "2026-10-11",
   "company": "White Acorn Capital",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-13",
-  "misses": 1,
+  "last_seen": "2026-10-14",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5555,6 +5602,17 @@
   ],
   "status": "closed",
   "title": "Notify Me - Hydro Tasmania Graduate Jobs"
+ },
+ "7c5f177935b8": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Horticulture Trainee (Parks & Gardens)"
  },
  "7c6583003b90": {
   "closed_on": "2026-10-06",
@@ -5756,6 +5814,17 @@
   ],
   "status": "closed",
   "title": "Notify Me - Canva Graduate Jobs"
+ },
+ "80ce41db7e81": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Student Work Placement (Unpaid)"
  },
  "80d02224992c": {
   "closed_on": "2026-10-06",
@@ -6194,12 +6263,12 @@
   "closed_on": "2026-10-13",
   "company": "Readygrad",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-12",
-  "misses": 3,
+  "last_seen": "2026-10-14",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Finance Internship Program 2026"
  },
  "8c4f83724754": {
@@ -6392,14 +6461,15 @@
   "title": "Algorithm Engineer Intern (TikTok Live Revenue) - 2027 Start (PhD)"
  },
  "8f70bc0ce80b": {
+  "closed_on": "2026-10-14",
   "company": "Macquarie Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 Macquarie Graduate Program – Technology and data – Spring Intake"
  },
  "8f799fda0b0c": {
@@ -7041,7 +7111,7 @@
   "company": "Gradability",
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-13",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7569,14 +7639,15 @@
   "title": "Frontend Engineer Graduate, TikTok LIVE (Sydney) - 2027 Start (BS/MS)"
  },
  "a96befaf2bed": {
+  "closed_on": "2026-10-14",
   "company": "Macquarie Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 Macquarie Graduate Program – Math – Spring Intake"
  },
  "a98a24687876": {
@@ -8022,7 +8093,8 @@
   "last_seen": "2026-10-14",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
@@ -8336,8 +8408,8 @@
  "bceb11b99ab4": {
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-13",
-  "misses": 1,
+  "last_seen": "2026-10-14",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9280,7 +9352,8 @@
   "last_seen": "2026-10-14",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 – Queensland – Graduate Civil Engineer (Construction Phase Services)"
@@ -9296,6 +9369,17 @@
   ],
   "status": "closed",
   "title": "Backend Software Engineer New Grad - Trust & Safety"
+ },
+ "d33c81043a5d": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Town Planner Cadet"
  },
  "d35eb42857b2": {
   "closed_on": "2026-10-06",
@@ -9531,6 +9615,17 @@
   ],
   "status": "open",
   "title": "Graduate Engineering Officer"
+ },
+ "d8c6b7890a49": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Business Cadet"
  },
  "da3f69a07aeb": {
   "closed_on": "2026-10-06",
@@ -10085,7 +10180,7 @@
   "company": "Gradability",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10823,7 +10918,7 @@
   "company": "Gradability",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-13",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
