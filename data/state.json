@@ -683,7 +683,7 @@
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -818,6 +818,17 @@
   "status": "closed",
   "title": "Software Engineer Intern - Data Platform & Analytics"
  },
+ "12e21fd57fde": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Graduate GIS"
+ },
  "12fe60d6c083": {
   "closed_on": "2026-10-11",
   "company": "GHD",
@@ -951,7 +962,7 @@
   "company": "Macquarie Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1121,15 +1132,15 @@
   "title": "Software Engineer New Grad - AI Infra Compute"
  },
  "1a98fafe6031": {
-  "closed_on": "2026-10-09",
+  "closed_on": "2026-10-13",
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-12",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Business Analyst Internship Program 2026"
  },
  "1ad161cd5945": {
@@ -1491,7 +1502,7 @@
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1752,7 +1763,7 @@
   "company": "The Brattle Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1782,6 +1793,17 @@
   ],
   "status": "closed",
   "title": "Electrical Engineer New Grad - Starlink"
+ },
+ "28d81026b279": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Library Trainee – Up to 12 months"
  },
  "296c0b15f99b": {
   "closed_on": "2026-10-06",
@@ -1900,6 +1922,17 @@
   "status": "closed",
   "title": "Notify Me - Costa Graduate Jobs"
  },
+ "2c8efd7a9e32": {
+  "company": "GHD",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "misses": 0,
+  "sources": [
+   "GHD [oracle]"
+  ],
+  "status": "open",
+  "title": "Graduate Structural Engineer"
+ },
  "2c9496f6e52a": {
   "closed_on": "2026-10-06",
   "company": "PCL Constructors",
@@ -1952,7 +1985,7 @@
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2152,7 +2185,7 @@
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-13",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2608,6 +2641,17 @@
   "status": "closed",
   "title": "Deep Learning Research Intern - Summer 2027 - Chicago, New York"
  },
+ "3a00d166c497": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Graduate Civil Engineer"
+ },
  "3a22de6293fe": {
   "closed_on": "2026-10-06",
   "company": "Ntt",
@@ -2735,6 +2779,17 @@
   ],
   "status": "open",
   "title": "Mechatronics Intern"
+ },
+ "3db54407fc24": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Graduate Project Officer"
  },
  "3dcaf63d00eb": {
   "closed_on": "2026-10-06",
@@ -3286,7 +3341,7 @@
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-13",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3392,7 +3447,7 @@
   "company": "The Royal Children's Hospital",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-13",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3428,7 +3483,7 @@
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3724,6 +3779,17 @@
   "status": "open",
   "title": "Student V&V Engineer"
  },
+ "52755f3b35d2": {
+  "company": "Mott MacDonald",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "misses": 0,
+  "sources": [
+   "Mott MacDonald [sf_rmk]"
+  ],
+  "status": "open",
+  "title": "Graduate Nuclear Engineer - Adelaide, SA"
+ },
  "52a14d15cc34": {
   "closed_on": "2026-10-06",
   "company": "National Indigenous Australians Agency",
@@ -3917,7 +3983,7 @@
   "company": "McGrathNicol",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-13",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3925,15 +3991,15 @@
   "title": "2027 Restructuring Graduate Program (Perth)"
  },
  "57648df86771": {
-  "closed_on": "2026-10-09",
+  "closed_on": "2026-10-13",
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-12",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "IT Project Management Internship Program 2026"
  },
  "577d499a7a8c": {
@@ -3972,15 +4038,15 @@
   "title": "Internship Program / Student Opportunities"
  },
  "5854359e3fc7": {
-  "closed_on": "2026-10-07",
+  "closed_on": "2026-10-13",
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-12",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Cyber Security Internship Program 2026"
  },
  "58c08aa0d2b8": {
@@ -4538,6 +4604,17 @@
   "status": "open",
   "title": "2026/27 EY Vacationer Program – Data Analytics"
  },
+ "6511a1c1d00b": {
+  "company": "Lucid Consulting Australia",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Graduate Digital Professional / Revit Modeller"
+ },
  "6550526c3d39": {
   "company": "Boeing Defence Australia (incl. Boeing Australia / Boeing Aerostructures Australia / BR&T-Australia)",
   "first_seen": "2026-10-06",
@@ -4604,7 +4681,6 @@
   "misses": 0,
   "sources": [
    "Claude web sweep",
-   "Apple jobs AU internships [apple]",
    "Apple [page]"
   ],
   "status": "open",
@@ -4649,7 +4725,7 @@
   "company": "Macquarie Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4740,14 +4816,15 @@
   "title": "Notify Me - FDM Group Hong Kong Graduate Jobs"
  },
  "6b05e1a27977": {
+  "closed_on": "2026-10-13",
   "company": "Readygrad",
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-12",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Web Developer / Support Developer Internship Program 2026"
  },
  "6b563709be57": {
@@ -5282,6 +5359,17 @@
   "status": "closed",
   "title": "Notify Me - Department of Health, Disability and Ageing Graduate Jobs"
  },
+ "77988e63b5b8": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Engineer Cadet"
+ },
  "77e5a8454937": {
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
@@ -5403,8 +5491,8 @@
   "closed_on": "2026-10-11",
   "company": "White Acorn Capital",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-12",
-  "misses": 2,
+  "last_seen": "2026-10-13",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6080,15 +6168,15 @@
   "title": "Network Development Engineer Graduate"
  },
  "8c3867e4f367": {
-  "closed_on": "2026-10-09",
+  "closed_on": "2026-10-13",
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-12",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Finance Internship Program 2026"
  },
  "8c4f83724754": {
@@ -6284,7 +6372,7 @@
   "company": "Macquarie Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6727,15 +6815,15 @@
   "title": "Research Intern - AI/LLM Network"
  },
  "97eab61d4191": {
-  "closed_on": "2026-10-11",
+  "closed_on": "2026-10-13",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-12",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Business Administration Trainee"
  },
  "97ebef994b8a": {
@@ -7461,7 +7549,7 @@
   "company": "Macquarie Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-13",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7751,6 +7839,17 @@
   ],
   "status": "closed",
   "title": "Intern – Software Development and Testing"
+ },
+ "afd06d4d9406": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Library Trainee"
  },
  "b05df6671604": {
   "closed_on": "2026-10-06",
@@ -8210,6 +8309,17 @@
   ],
   "status": "closed",
   "title": "Notify Me - Partners in Performance Graduate Jobs"
+ },
+ "bceb11b99ab4": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Trainee Event Management"
  },
  "bcedc90d54d0": {
   "company": "Boeing Defence Australia (incl. Boeing Australia / Boeing Aerostructures Australia / BR&T-Australia)",
@@ -8692,14 +8802,15 @@
   "title": "Notify Me - IPART NSW Graduate Jobs"
  },
  "c776afcca76a": {
+  "closed_on": "2026-10-13",
   "company": "KBR",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-12",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "KBR [workday]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate – Landscape Architect"
  },
  "c825cc97949a": {
@@ -9446,14 +9557,15 @@
   "title": "Notify Me - Bapcor Graduate Jobs"
  },
  "dcba244195c0": {
+  "closed_on": "2026-10-13",
   "company": "Readygrad",
   "first_seen": "2026-10-10",
   "last_seen": "2026-10-12",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Civil Engineering Internship Program 2026"
  },
  "dd2c75a87bc2": {
@@ -9514,6 +9626,17 @@
   ],
   "status": "open",
   "title": "Boeing Summer 2027 Internship Program (Paid) – Quality Specialist"
+ },
+ "dde43355b628": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Trainee Supply Officer"
  },
  "dde714678a69": {
   "closed_on": "2026-10-06",
@@ -9843,14 +9966,15 @@
   "title": "Software Engineering Internship - Summer 2026/2027 (Dec 2026)"
  },
  "e3c686f9c445": {
+  "closed_on": "2026-10-13",
   "company": "Readygrad",
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-12",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Networking / IT Support Internship Program 2026"
  },
  "e3d2978c90b6": {
@@ -10018,14 +10142,15 @@
   "title": "Research Scientist Intern"
  },
  "e8964b5ea903": {
+  "closed_on": "2026-10-13",
   "company": "Readygrad",
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-12",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Data Analyst Internship Program 2026"
  },
  "e8986af670d0": {
@@ -10165,6 +10290,17 @@
   ],
   "status": "open",
   "title": "Software Engineer, Multimedia Intern (TikTok LIVE), 2027 Start (BS/MS)"
+ },
+ "ebc5853c4dde": {
+  "company": "Re.Group",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Graduate Engineering Program – Mechanical or Mechatronic"
  },
  "ec76d0138e92": {
   "company": "Rockwell Automation Australia",
@@ -10528,6 +10664,17 @@
   ],
   "status": "closed",
   "title": "2026/27 KPMG Vacationer Program - Engineering"
+ },
+ "f3b18af2c59e": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-13",
+  "last_seen": "2026-10-13",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Water and Sewer Operations Trainee"
  },
  "f46810d0f6dd": {
   "closed_on": "2026-10-07",
