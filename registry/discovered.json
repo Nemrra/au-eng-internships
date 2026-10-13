@@ -1,6 +1,6 @@
 {
  "4dmedical": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://4dmedical.com/",
@@ -8,7 +8,7 @@
   ]
  },
  "5b": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://5b.com.au/careers/: HTTPError"
@@ -27,17 +27,16 @@
   ]
  },
  "abb-australia-electrification-motion-e-mobility": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://careers.abb/global/en/search-results?keywords=intern&location=Australia",
    "https://careers.abb/",
-   "https://au.prosple.com/graduate-employers/abb-australia/jobs-internships/abb-discovery-talent-program",
-   "https://au.prosple.com/on-the-job"
+   "https://au.prosple.com/graduate-employers/abb-australia/jobs-internships/abb-discovery-talent-program: Blocked"
   ]
  },
  "abyss-solutions": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.abysssolutions.co/careers",
@@ -47,35 +46,35 @@
   ]
  },
  "acciona": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.acciona.com.au/careers: HTTPError"
   ]
  },
  "acciona-energia-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.acciona.com.au/careers/: HTTPError"
   ]
  },
  "acen-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://acenrenewables.com.au/careers/: HTTPError"
   ]
  },
  "act-government-jobs-act-gov-au-graduate-program": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.jobs.act.gov.au/: Blocked"
   ]
  },
  "adelaide-university-merged-uofa-unisa-incl-aiml": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://adelaide.edu.au/",
@@ -86,7 +85,7 @@
   ]
  },
  "advisian-worley": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://jobs.worley.com: Blocked",
@@ -95,14 +94,14 @@
   ]
  },
  "agerris": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.agerris.com/"
   ]
  },
  "ainse-australian-institute-of-nuclear-science-and-engineerin": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.ainse.edu.au/",
@@ -110,7 +109,7 @@
   ]
  },
  "airbus-helicopters-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "host": "ag.wd3.myworkdayjobs.com",
@@ -137,15 +136,17 @@
   ]
  },
  "alauda-aeronautics": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": []
  },
  "alinta-energy": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://careers.alintaenergy.com.au/en/listing",
+   "https://careers.alintaenergy.com.au/jobs/search#jobalerts",
+   "https://careers.alintaenergy.com.au/jobs/search#jobs_search_results_2c0cc0fd00568e49bf89b5656b804950",
    "https://www.alintaenergy.com.au/about-us/careers/graduate-program: Blocked"
   ]
  },
@@ -163,14 +164,14 @@
   ]
  },
  "allume-energy": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://allumeenergy.com/careers: HTTPError"
   ]
  },
  "amazon-aws": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.amazon.jobs/en/locations/australia: HTTPError",
@@ -190,7 +191,7 @@
   ]
  },
  "ampcontrol": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.ampcontrolgroup.com/careers/",
@@ -198,7 +199,7 @@
   ]
  },
  "ampere-computing": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://amperecomputing.com/company/careers: Blocked"
@@ -218,7 +219,7 @@
   ]
  },
  "amsi-australian-mathematical-sciences-institute-vacation-res": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://amsi.org.au/",
@@ -228,7 +229,7 @@
   ]
  },
  "amsl-aero": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.amslaero.com/careers",
@@ -236,14 +237,14 @@
   ]
  },
  "andhealth": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://andhealth.com.au/"
   ]
  },
  "annalise-ai": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://annalise.ai/careers/: Blocked",
@@ -278,7 +279,7 @@
   ]
  },
  "appen": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "company": "v0",
@@ -290,7 +291,7 @@
   ]
  },
  "apple": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://jobs.apple.com/en-au/search?location=australia-AUSC",
@@ -314,7 +315,7 @@
   ]
  },
  "apr-intern-australian-postgraduate-research-internships": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://aprintern.org.au/",
@@ -323,7 +324,7 @@
   ]
  },
  "apsjobs-australian-public-service-job-board-all-commonwealth": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.apsjobs.gov.au/",
@@ -331,7 +332,7 @@
   ]
  },
  "arc-coe-for-dark-matter-particle-physics-cdm": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.centredarkmatter.org/",
@@ -339,7 +340,7 @@
   ]
  },
  "arc-coe-for-engineered-quantum-systems-equs": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://equs.org/",
@@ -347,21 +348,21 @@
   ]
  },
  "arc-coe-for-gravitational-wave-discovery-ozgrav": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.ozgrav.org/"
   ]
  },
  "arc-coe-for-quantum-computation-communication-technology-cqc": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.cqc2t.org/: ConnectionError"
   ]
  },
  "arc-coe-for-transformative-meta-optical-systems-tmos": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://tmos.org.au/",
@@ -369,14 +370,14 @@
   ]
  },
  "arc-coe-in-future-low-energy-electronics-technologies-fleet": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
-   "https://www.fleet.org.au/"
+   "https://www.fleet.org.au/: RetryError"
   ]
  },
  "arc-coe-in-optical-microcombs-for-breakthrough-science-combs": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.combs.org.au/",
@@ -384,14 +385,14 @@
   ]
  },
  "arc-industrial-transformation-training-centres-research-hubs": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.arc.gov.au/: ConnectionError"
   ]
  },
  "arcadis": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "sub": "arcadis",
@@ -418,7 +419,7 @@
   ]
  },
  "archistar": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.archistar.ai/careers: Blocked",
@@ -426,7 +427,7 @@
   ]
  },
  "ark-energy-korea-zinc": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://arkenergy.com.au/careers/",
@@ -434,14 +435,14 @@
   ]
  },
  "arpansa-australian-radiation-protection-and-nuclear-safety-a": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.arpansa.gov.au/about-us/careers: ConnectionError"
   ]
  },
  "arup": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://jobs.arup.com/",
@@ -452,7 +453,7 @@
   ]
  },
  "asahi-beverages": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.asahi.com.au/careers",
@@ -461,7 +462,7 @@
   ]
  },
  "asc-pty-ltd": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.asc.com.au/careers/: Blocked",
@@ -469,21 +470,21 @@
   ]
  },
  "atco-australia-gas-hydrogen": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.atco.com/en-au/careers.html"
   ]
  },
  "atkinsrealis": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.atkinsrealis.com/en/careers: Blocked"
   ]
  },
  "atlassian": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.atlassian.com/company/careers/all-jobs",
@@ -494,7 +495,7 @@
   ]
  },
  "atomo-diagnostics": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://atomodiagnostics.com/",
@@ -502,7 +503,7 @@
   ]
  },
  "aubot": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://aubot.com/"
@@ -523,7 +524,7 @@
   ]
  },
  "ausenco": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.ausenco.com/careers",
@@ -546,7 +547,7 @@
   ]
  },
  "austal-austal-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.austaljobs.com/",
@@ -555,7 +556,7 @@
   ]
  },
  "australian-antarctic-division-dcceew": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.antarctica.gov.au/jobs/",
@@ -564,28 +565,28 @@
   ]
  },
  "australian-centre-for-robotics-acfr-usyd": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.sydney.edu.au/engineering/our-research/robotics-and-intelligent-systems/australian-centre-for-robotics.html"
   ]
  },
  "australian-droid-robot-adr": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.australiandroid.com.au/"
   ]
  },
  "australian-energy-regulator-aer-aemc": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.aer.gov.au/about/careers: ConnectionError"
   ]
  },
  "australian-government-graduate-program-aggp-stem-data-digita": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.apsjobs.gov.au/",
@@ -593,7 +594,7 @@
   ]
  },
  "australian-institute-for-machine-learning-aiml-adelaide-univ": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://adelaide.edu.au/research/australian-institute-for-machine-learning/engage-with-us/",
@@ -604,7 +605,7 @@
   ]
  },
  "australian-institute-of-marine-science-aims": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.aims.gov.au/careers: ConnectionError"
@@ -641,7 +642,7 @@
   ]
  },
  "australian-rail-track-corporation-artc": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.artc.com.au/careers/",
@@ -649,7 +650,7 @@
   ]
  },
  "australian-secret-intelligence-service-asis": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.asis.gov.au/careers",
@@ -657,7 +658,7 @@
   ]
  },
  "australian-security-intelligence-organisation-asio": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.asio.gov.au/careers: ConnectionError",
@@ -665,7 +666,7 @@
   ]
  },
  "australian-signals-directorate-asd-incl-acsc": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.asd.gov.au/careers: ConnectionError",
@@ -687,14 +688,14 @@
   ]
  },
  "australian-submarine-agency-asa": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.asa.gov.au/careers: ConnectionError"
   ]
  },
  "australian-synchrotron-ansto-melbourne-clayton": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "company": "C0001224766P1",
@@ -707,7 +708,7 @@
   ]
  },
  "avita-medical": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://avitamedical.com/",
@@ -715,7 +716,7 @@
   ]
  },
  "babcock-australasia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.babcock.com.au/careers",
@@ -724,7 +725,7 @@
   ]
  },
  "bae-systems-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://jobsearch.baesystems.com/search-and-apply",
@@ -734,7 +735,7 @@
   ]
  },
  "baraja": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.baraja.com",
@@ -757,21 +758,21 @@
   ]
  },
  "barwon-water": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.barwonwater.vic.gov.au/about-us/careers: Blocked"
   ]
  },
  "beach-energy": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.beachenergy.com.au/careers: HTTPError"
   ]
  },
  "bechtel": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.bechtel.com/careers/",
@@ -780,7 +781,7 @@
   ]
  },
  "beckhoff-automation-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.beckhoff.com/en-au/company/career/: HTTPError"
@@ -813,21 +814,21 @@
   ]
  },
  "biocurate": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.biocurate.com/"
   ]
  },
  "bionic-vision-technologies": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://bionicvis.com/careers/"
   ]
  },
  "bionics-institute": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.bionicsinstitute.org/"
@@ -847,7 +848,7 @@
   ]
  },
  "blackmagic-design": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.blackmagicdesign.com/company/careers"
@@ -885,7 +886,7 @@
   ]
  },
  "bluglass": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.bluglass.com: Blocked"
@@ -904,7 +905,7 @@
   ]
  },
  "boeing-defence-australia-incl-boeing-australia-boeing-aerost": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "host": "boeing.wd1.myworkdayjobs.com",
@@ -918,16 +919,15 @@
   ]
  },
  "boral": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.boral.com.au/careers",
-   "https://www.boral.com.au/careers",
-   "https://www.boral.com.au/build-your-career-boral"
+   "https://www.boral.com.au/careers"
   ]
  },
  "boston-scientific-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "sub": "bostonscientific",
@@ -960,7 +960,7 @@
   ]
  },
  "brainchip": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://brainchip.com/careers/",
@@ -968,21 +968,21 @@
   ]
  },
  "breville-group": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.breville.com/"
   ]
  },
  "brisbane-airport-corporation": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.bne.com.au/corporate/careers: HTTPError"
   ]
  },
  "bruker-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.bruker.com/en/about/careers.html: HTTPError"
@@ -1005,7 +1005,7 @@
   ]
  },
  "bureau-of-meteorology": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.bom.gov.au/about-the-bureau/careers: Blocked",
@@ -1013,7 +1013,7 @@
   ]
  },
  "canon-medical-systems-anz": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://au.medical.canon/: ConnectionError"
@@ -1034,7 +1034,7 @@
   ]
  },
  "carbonix": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://carbonix.com.au/",
@@ -1042,7 +1042,7 @@
   ]
  },
  "cardiex": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://cardiex.com/",
@@ -1050,14 +1050,14 @@
   ]
  },
  "careerdc-placement-provider": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://au.gradconnection.com/employers/careerdc/: HTTPError"
   ]
  },
  "careers-vic-victorian-public-sector-job-board-incl-dtp-deeca": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.careers.vic.gov.au/: Blocked",
@@ -1065,7 +1065,7 @@
   ]
  },
  "carlton-united-breweries-asahi": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.cub.com.au/careers",
@@ -1100,7 +1100,7 @@
   ]
  },
  "cea-technologies": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.cea.com.au/opportunities-at-cea",
@@ -1111,7 +1111,7 @@
   ]
  },
  "chargefox": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.chargefox.com/careers",
@@ -1119,7 +1119,7 @@
   ]
  },
  "chevron-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://australia.chevron.com/careers",
@@ -1128,7 +1128,7 @@
   ]
  },
  "cicada-innovations": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.cicadainnovations.com/",
@@ -1137,7 +1137,7 @@
   ]
  },
  "citadel-securities": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.citadelsecurities.com/careers/: Blocked",
@@ -1145,14 +1145,14 @@
   ]
  },
  "civil-aviation-safety-authority-casa": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.casa.gov.au/about-us/careers-casa: ConnectionError"
   ]
  },
  "cleanco-queensland": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.cleancoqld.com.au/careers",
@@ -1160,14 +1160,14 @@
   ]
  },
  "coca-cola-europacific-partners-au": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.cocacolaep.com/au/careers/: Blocked"
   ]
  },
  "codan": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "company": "C0002469119P",
@@ -1181,35 +1181,35 @@
   ]
  },
  "cohda-wireless": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.cohdawireless.com/"
   ]
  },
  "collins-aerospace-rtx": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://careers.rtx.com/"
   ]
  },
  "compumedics": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.compumedics.com.au/"
   ]
  },
  "consolidated-power-projects-cpp": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.cpp.com.au/careers: HTTPError"
   ]
  },
  "consunet": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.consunet.com.au/",
@@ -1217,7 +1217,7 @@
   ]
  },
  "cook-medical-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.cookmedical.com/careers/",
@@ -1226,7 +1226,7 @@
   ]
  },
  "cortical-labs": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://corticallabs.com/careers",
@@ -1234,14 +1234,14 @@
   ]
  },
  "cpb-contractors": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.cpbcon.com.au/careers: HTTPError"
   ]
  },
  "cs-energy": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "company": "csenergylt",
@@ -1254,7 +1254,7 @@
   ]
  },
  "csiro-data61-robotics-autonomous-systems": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "company": "CSIRO",
@@ -1267,7 +1267,7 @@
   ]
  },
  "csiro-space-astronomy": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "company": "CSIRO",
@@ -1312,28 +1312,28 @@
   ]
  },
  "curtin-university-incl-curtin-institute-of-radio-astronomy-s": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.curtin.edu.au/about/careers-at-curtin/: HTTPError"
   ]
  },
  "cyborg-dynamics-engineering": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.cyborgdynamics.com.au/: ConnectionError"
   ]
  },
  "cylite": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.cylite.com: SSLError"
   ]
  },
  "danaher-operating-companies-beckman-coulter-cepheid-radiomet": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "host": "danaher.wd1.myworkdayjobs.com",
@@ -1347,7 +1347,7 @@
   ]
  },
  "daronmont-technologies": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.daronmont.com.au/",
@@ -1356,14 +1356,14 @@
   ]
  },
  "deakin-university-incl-iisri-robotics": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.deakin.edu.au/about-deakin/careers-at-deakin: Blocked"
   ]
  },
  "defence-industry-connection-program-ai-group-south-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://defencescholarships.aigroup.com.au/",
@@ -1371,14 +1371,14 @@
   ]
  },
  "defence-industry-internship-program-diip-federal": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.defence.gov.au/business-industry: ConnectionError"
   ]
  },
  "defence-industry-internship-program-diip-program-operator": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://diip.com.au/",
@@ -1386,14 +1386,14 @@
   ]
  },
  "defence-innovation-network-nsw": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.defenceinnovationnetwork.com/: SSLError"
   ]
  },
  "defence-science-and-technology-group-dstg": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.dst.defence.gov.au/careers: Blocked",
@@ -1401,14 +1401,14 @@
   ]
  },
  "defence-science-institute-victoria": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.dsi.org.au/"
   ]
  },
  "defendtex": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.defendtex.com/",
@@ -1416,7 +1416,7 @@
   ]
  },
  "delta-electricity-vales-point": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.de.com.au/careers: Blocked"
@@ -1437,7 +1437,7 @@
   ]
  },
  "department-of-defence-graduate-program-stem-cadetship-defenc": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.defence.gov.au/jobs-careers: ConnectionError",
@@ -1445,7 +1445,7 @@
   ]
  },
  "department-of-defence-stem-cadetship-graduate-programs-aps": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.defence.gov.au/jobs-careers: ConnectionError",
@@ -1453,7 +1453,7 @@
   ]
  },
  "department-of-industry-science-and-resources-incl-australian": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.industry.gov.au/careers: ConnectionError",
@@ -1461,7 +1461,7 @@
   ]
  },
  "department-of-transport-and-main-roads-qld": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.tmr.qld.gov.au/about-us/employment-and-careers: Blocked"
@@ -1484,26 +1484,26 @@
   ]
  },
  "design-momentum": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": []
  },
  "dewc-systems": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.dewcsystems.com.au/: ConnectionError"
   ]
  },
  "diraq": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://diraq.com"
   ]
  },
  "dorsavi": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.dorsavi.com/"
@@ -1522,7 +1522,7 @@
   ]
  },
  "downer-group": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.downergroup.com/careers: HTTPError",
@@ -1530,7 +1530,7 @@
   ]
  },
  "draeger-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.draeger.com/en_aunz/Careers: Blocked"
@@ -1551,7 +1551,7 @@
   ]
  },
  "dt-infrastructure-gamuda": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.dtinfrastructure.com.au/careers",
@@ -1562,14 +1562,14 @@
   ]
  },
  "dynamic-hearing": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.dynamichearing.com/: ConnectTimeout"
   ]
  },
  "dyno-nobel-formerly-incitec-pivot": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.dynonobel.com/careers",
@@ -1577,7 +1577,7 @@
   ]
  },
  "edify-energy": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.edifyenergy.com/careers",
@@ -1585,21 +1585,21 @@
   ]
  },
  "elbit-systems-of-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://elbitsystems.com/careers/: Blocked"
   ]
  },
  "elecnor-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.elecnor.com.au/careers: HTTPError"
   ]
  },
  "electranet": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.electranet.com.au/careers/"
@@ -1621,7 +1621,7 @@
   ]
  },
  "em-solutions-cohort-plc": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.emsolutions.com.au/",
@@ -1654,37 +1654,36 @@
   ]
  },
  "energy-queensland-energex-ergon-energy-network-ergon-energy-": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.energyq.com.au/careers: Blocked",
-   "https://au.prosple.com/graduate-employers/energy-queensland-ergon-energy-network-energex",
-   "https://au.prosple.com/on-the-job"
+   "https://au.prosple.com/graduate-employers/energy-queensland-ergon-energy-network-energex: Blocked"
   ]
  },
  "energy-safe-victoria": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://careers.vic.gov.au/: Blocked"
   ]
  },
  "energyco-nsw": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://iworkfor.nsw.gov.au/: Blocked"
   ]
  },
  "enerven-sa-power-networks-group": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://careers.sapowernetworks.com.au/"
   ]
  },
  "engineers-australia-student-programs-events-yea": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.engineersaustralia.org.au/",
@@ -1704,28 +1703,28 @@
   ]
  },
  "eos-electro-optic-systems": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.eos-aus.com/careers/: HTTPError"
   ]
  },
  "eos-space-systems-electro-optic-systems": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.eos-aus.com/careers/: HTTPError"
   ]
  },
  "epiminder": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.epiminder.com/"
   ]
  },
  "epiroc-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.epirocgroup.com/en/careers",
@@ -1733,7 +1732,7 @@
   ]
  },
  "equatorial-launch-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://ela.space/",
@@ -1768,7 +1767,7 @@
   ]
  },
  "evie-networks": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://evie.com.au/careers/",
@@ -1776,7 +1775,7 @@
   ]
  },
  "evoenergy-actewagl": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.evoenergy.com.au/About-us/Careers",
@@ -1786,7 +1785,7 @@
   ]
  },
  "evolution-mining": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://evolutionmining.com/careers",
@@ -1795,35 +1794,35 @@
   ]
  },
  "fanuc-oceania": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.fanuc.com.au/: ConnectionError"
   ]
  },
  "fbr-fastbrick-robotics": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://fbr.com.au/view/careers: HTTPError"
   ]
  },
  "ferra-engineering": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.ferra.com.au/: ConnectionError"
   ]
  },
  "festo-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.festo.com/au/en/e/about-festo/careers-id_3826/: Blocked"
   ]
  },
  "fivecast": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.fivecast.com/careers/",
@@ -1834,7 +1833,7 @@
   ]
  },
  "fleet-space-technologies": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "sub": "fleetspace",
@@ -1846,7 +1845,7 @@
   ]
  },
  "flinders-university": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.flinders.edu.au/careers",
@@ -1855,14 +1854,14 @@
   ]
  },
  "fluence-energy-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://fluenceenergy.com/careers/: HTTPError"
   ]
  },
  "fredon": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.fredon.com.au/careers/",
@@ -1870,7 +1869,7 @@
   ]
  },
  "fronius-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.fronius.com/en-au/australia/about-fronius/careers: HTTPError"
@@ -1904,7 +1903,7 @@
   ]
  },
  "future-energy-exports-crc-fenex": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "token": "future",
@@ -1917,7 +1916,7 @@
   ]
  },
  "gallagher-group-security-animal-management": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://gallagher.com/",
@@ -1938,21 +1937,21 @@
   ]
  },
  "genesys-electronics-design": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.genesysdesign.com.au"
   ]
  },
  "genus-plus-group-genus-infrastructure": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://genusplusgroup.com.au/careers/: SSLError"
   ]
  },
  "geoscience-australia-digital-earth-australia-satellite-ops": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.ga.gov.au/about/careers",
@@ -1974,7 +1973,7 @@
   ]
  },
  "gilmour-space-technologies": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.gspace.com/career",
@@ -1982,7 +1981,7 @@
   ]
  },
  "glencore-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.glencore.com.au/careers",
@@ -1991,21 +1990,21 @@
   ]
  },
  "global-kinetics-corporation": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
-   "https://www.globalkineticscorporation.com/"
+   "https://www.globalkineticscorporation.com/: HTTPError"
   ]
  },
  "gme-standard-communications": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.gme.net.au"
   ]
  },
  "google": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.google.com/about/careers/applications/jobs/results/?location=Australia: Blocked",
@@ -2013,7 +2012,7 @@
   ]
  },
  "gradient-institute": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.gradientinstitute.org/careers/: HTTPError",
@@ -2021,14 +2020,14 @@
   ]
  },
  "greater-western-water": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.gww.com.au/about/careers: ConnectionError"
   ]
  },
  "greenroom-robotics": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://greenroomrobotics.com/",
@@ -2062,14 +2061,14 @@
   ]
  },
  "hancock-prospecting-roy-hill": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.royhill.com.au/careers: HTTPError"
   ]
  },
  "hanwha-defence-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://hanwha-defence.com.au/careers",
@@ -2077,12 +2076,12 @@
   ]
  },
  "harmonic-bionics": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": []
  },
  "hatch": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "company": "hatchassocP",
@@ -2096,7 +2095,7 @@
   ]
  },
  "heavy-industry-low-carbon-transition-crc-hilt-crc": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://hiltcrc.com.au/"
@@ -2115,21 +2114,21 @@
   ]
  },
  "heliaq-advanced-engineering": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.heliaq.com/"
   ]
  },
  "hensoldt-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.hensoldt.net/careers/: HTTPError"
   ]
  },
  "heo": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://heospace.com/careers",
@@ -2151,7 +2150,7 @@
   ]
  },
  "hitachi-rail-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.hitachirail.com/careers/",
@@ -2160,7 +2159,7 @@
   ]
  },
  "holcim-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.holcim.com.au/careers",
@@ -2169,14 +2168,14 @@
   ]
  },
  "honeywell-aerospace-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://careers.honeywell.com/"
   ]
  },
  "honeywell-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://careers.honeywell.com/",
@@ -2186,14 +2185,14 @@
   ]
  },
  "honeywell-building-technologies-au": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://careers.honeywell.com/"
   ]
  },
  "horizon-power": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.horizonpower.com.au/about-us/careers/",
@@ -2214,7 +2213,7 @@
   ]
  },
  "hunter-water": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.hunterwater.com.au/about-us/careers",
@@ -2223,7 +2222,7 @@
   ]
  },
  "hydrix": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.hydrix.com/",
@@ -2231,7 +2230,7 @@
   ]
  },
  "hypersonix-launch-systems": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.hypersonix.com.au/: Blocked"
@@ -2265,7 +2264,7 @@
   ]
  },
  "ibm": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.ibm.com/careers/search?field_keyword_05[0]=Australia",
@@ -2289,14 +2288,14 @@
   ]
  },
  "icrar-international-centre-for-radio-astronomy-research-curt": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
-   "https://www.icrar.org/"
+   "https://www.icrar.org/: Blocked"
   ]
  },
  "igo-limited": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.igo.com.au/careers: HTTPError"
@@ -2317,7 +2316,7 @@
   ]
  },
  "imdex": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.imdexlimited.com/careers",
@@ -2326,14 +2325,14 @@
   ]
  },
  "imove-crc-transport-mobility": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://imoveaustralia.com/"
   ]
  },
  "infineon-technologies": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.infineon.com/careers",
@@ -2378,21 +2377,21 @@
   ]
  },
  "infrabuild": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.infrabuild.com/careers: Blocked"
   ]
  },
  "innovative-manufacturing-crc-imcrc": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://imcrc.org/"
   ]
  },
  "inovor-technologies": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.inovor.com.au/careers",
@@ -2401,7 +2400,7 @@
   ]
  },
  "inpex-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "company": "C0004019159P",
@@ -2414,14 +2413,14 @@
   ]
  },
  "insitec": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.insitec.com.au/"
   ]
  },
  "insitu-pacific-boeing": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "host": "boeing.wd1.myworkdayjobs.com",
@@ -2435,7 +2434,7 @@
   ]
  },
  "intellidesign": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.intellidesign.com.au",
@@ -2443,7 +2442,7 @@
   ]
  },
  "intellihub": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.intellihub.com.au/careers",
@@ -2451,26 +2450,26 @@
   ]
  },
  "inventia-life-science": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://inventia.life/"
   ]
  },
  "inventis-opentec-solutions": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": []
  },
  "iveco-group-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.ivecogroup.com/careers"
   ]
  },
  "jacobs": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://careers.jacobs.com/",
@@ -2505,7 +2504,7 @@
   ]
  },
  "jet-aviation-general-dynamics": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.jetaviation.com/careers/",
@@ -2528,14 +2527,14 @@
   ]
  },
  "john-holland": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.johnholland.com.au/careers: ConnectionError"
   ]
  },
  "kenworth-paccar-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.paccar.com.au/careers/",
@@ -2544,7 +2543,7 @@
   ]
  },
  "keolis-downer-incl-yarra-trams": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "company": "kdrvictori",
@@ -2574,7 +2573,7 @@
   ]
  },
  "kongsberg-defence-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.kongsberg.com/careers/",
@@ -2583,7 +2582,7 @@
   ]
  },
  "l3harris-technologies-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://careers.l3harris.com/",
@@ -2592,14 +2591,14 @@
   ]
  },
  "la-trobe-university": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.latrobe.edu.au/jobs: Blocked"
   ]
  },
  "laing-o-rourke": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.laingorourke.com/careers",
@@ -2608,7 +2607,7 @@
   ]
  },
  "leica-biosystems-danaher": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "host": "danaher.wd1.myworkdayjobs.com",
@@ -2643,7 +2642,7 @@
   ]
  },
  "leonardo-ai": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.lifeatcanva.com/en/jobs/?search=leonardo",
@@ -2670,7 +2669,7 @@
   ]
  },
  "liebherr-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "company": "LiMySLive",
@@ -2684,7 +2683,7 @@
   ]
  },
  "lightsource-bp-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://lightsourcebp.com/careers/",
@@ -2693,7 +2692,7 @@
   ]
  },
  "linktree": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://linktr.ee/s/careers: Blocked",
@@ -2701,21 +2700,21 @@
   ]
  },
  "lion": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://lionco.com/careers/: HTTPError"
   ]
  },
  "liquid-instruments": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://liquidinstruments.com/careers/: Blocked"
   ]
  },
  "lockheed-martin-australia-incl-stelarlab-space": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "sub": "lockheedmartin",
@@ -2728,7 +2727,7 @@
   ]
  },
  "lucid-consulting": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.lucidconsulting.com.au/careers",
@@ -2739,7 +2738,7 @@
   ]
  },
  "lumibird-medical-ex-ellex": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.lumibirdmedical.com/",
@@ -2747,14 +2746,14 @@
   ]
  },
  "lumos-diagnostics": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://lumosdiagnostics.com/"
   ]
  },
  "lux-aerobot": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": []
  },
@@ -2771,7 +2770,7 @@
   ]
  },
  "lynas-rare-earths": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://lynasrareearths.com/careers",
@@ -2792,14 +2791,14 @@
   ]
  },
  "lyro-robotics": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.lyro.io/: ConnectionError"
   ]
  },
  "macquarie-university-mq-photonics-astronomy-aao-vacation-sch": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.mq.edu.au/about/careers-at-macquarie: HTTPError",
@@ -2807,7 +2806,7 @@
   ]
  },
  "mantel-group": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://mantelgroup.com.au/careers/",
@@ -2818,7 +2817,7 @@
   ]
  },
  "maptek": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.maptek.com/careers/",
@@ -2828,7 +2827,7 @@
   ]
  },
  "marand-precision-engineering": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.marand.com.au/",
@@ -2836,7 +2835,7 @@
   ]
  },
  "marinus-link": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.marinuslink.com.au/careers/",
@@ -2844,7 +2843,7 @@
   ]
  },
  "marqo": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.marqo.ai/careers: HTTPError",
@@ -2852,7 +2851,7 @@
   ]
  },
  "mars-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://careers.mars.com/",
@@ -2860,7 +2859,7 @@
   ]
  },
  "maven-securities": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.mavensecurities.com/careers/: HTTPError",
@@ -2868,7 +2867,7 @@
   ]
  },
  "max-kelsen": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://maxkelsen.com/careers: SSLError",
@@ -2890,7 +2889,7 @@
   ]
  },
  "mcconnell-dowell": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.mcdgroup.com/careers",
@@ -2898,14 +2897,14 @@
   ]
  },
  "medical-device-partnering-program-mdpp": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.flinders.edu.au/medical-device-partnering-program: HTTPError"
   ]
  },
  "meinhardt": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.meinhardtgroup.com/careers",
@@ -2926,7 +2925,7 @@
   ]
  },
  "melbourne-centre-for-nanofabrication-mcn-anff-vic": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.nanomelbourne.com/",
@@ -2947,7 +2946,7 @@
   ]
  },
  "meta": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.metacareers.com/jobs?offices[0]=Sydney%2C%20Australia: HTTPError",
@@ -2955,7 +2954,7 @@
   ]
  },
  "micro-x": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.micro-x.com/careers/",
@@ -2979,7 +2978,7 @@
   ]
  },
  "mine-site-technologies-mst": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.mstglobal.com/",
@@ -2987,7 +2986,7 @@
   ]
  },
  "mineral-resources-minres": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.mineralresources.com.au/careers",
@@ -2996,7 +2995,7 @@
   ]
  },
  "mitsubishi-electric-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.mitsubishielectric.com.au/",
@@ -3019,14 +3018,14 @@
   ]
  },
  "moglabs": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.moglabs.com: ConnectionError"
   ]
  },
  "monadelphous": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.monadelphous.com.au/careers",
@@ -3035,7 +3034,7 @@
   ]
  },
  "monash-robotics-monash-engineering-research-labs": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.monash.edu/engineering: Blocked"
@@ -3054,7 +3053,7 @@
   ]
  },
  "mtpconnect": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.mtpconnect.org.au/",
@@ -3062,7 +3061,7 @@
   ]
  },
  "multiplex": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.multiplex.global/careers",
@@ -3071,7 +3070,7 @@
   ]
  },
  "myob": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.myob.com/au/about/careers: HTTPError",
@@ -3079,7 +3078,7 @@
   ]
  },
  "myriota": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://myriota.com/careers/",
@@ -3087,14 +3086,14 @@
   ]
  },
  "nanosonics": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.nanosonics.com.au/about-us/careers: TooManyRedirects"
   ]
  },
  "national-acoustic-laboratories-nal": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "token": "national",
@@ -3108,28 +3107,28 @@
   ]
  },
  "nautronix": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.nautronix.com: SSLError"
   ]
  },
  "naval-group-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.naval-group.com.au/: Blocked"
   ]
  },
  "naval-shipbuilding-college": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.navalshipbuildingcollege.com.au/"
   ]
  },
  "navantia-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.navantia.com.au/careers",
@@ -3151,7 +3150,7 @@
   ]
  },
  "nci-australia-national-computational-infrastructure-anu": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://nci.org.au/"
@@ -3174,7 +3173,7 @@
   ]
  },
  "neoen-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://neoen.com/en/careers/",
@@ -3183,7 +3182,7 @@
   ]
  },
  "neumann-space": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://neumannspace.com/careers",
@@ -3191,14 +3190,14 @@
   ]
  },
  "nhp-electrical-engineering-products": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.nhp.com.au/careers: Blocked"
   ]
  },
  "nilsen": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.nilsen.com.au/careers/",
@@ -3207,7 +3206,7 @@
   ]
  },
  "nioa-incl-australian-missile-corporation": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.nioa.com.au/careers",
@@ -3215,7 +3214,7 @@
   ]
  },
  "nokia-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.nokia.com/about-us/careers/: Blocked"
@@ -3235,7 +3234,7 @@
   ]
  },
  "norman-disney-young-tetra-tech": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.ndy.com/careers",
@@ -3244,14 +3243,14 @@
   ]
  },
  "northern-star-resources": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.nsrltd.com/careers: HTTPError"
   ]
  },
  "northrop-consulting-engineers": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.northrop.com.au/careers",
@@ -3260,35 +3259,35 @@
   ]
  },
  "nsw-government-i-work-for-nsw-nsw-government-graduate-progra": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://iworkfor.nsw.gov.au/: Blocked"
   ]
  },
  "nuheara": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.nuheara.com/"
   ]
  },
  "ocius-technology": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://ocius.com.au/careers/: Blocked"
   ]
  },
  "office-of-national-intelligence-oni": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.oni.gov.au/careers: ConnectionError"
   ]
  },
  "office-of-projects-victoria": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.vic.gov.au/office-projects-victoria",
@@ -3299,21 +3298,21 @@
   ]
  },
  "olympus-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.olympus.com.au/: Blocked"
   ]
  },
  "omron-electronics-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://automation.omron.com/en/au/: HTTPError"
   ]
  },
  "openai": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "org": "openai",
@@ -3325,7 +3324,7 @@
   ]
  },
  "opteran-technologies": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://opteran.com/careers",
@@ -3333,7 +3332,7 @@
   ]
  },
  "optiscan-imaging": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.optiscan.com/",
@@ -3341,7 +3340,7 @@
   ]
  },
  "orica": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.orica.com/careers",
@@ -3350,7 +3349,7 @@
   ]
  },
  "orora": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.ororagroup.com/careers",
@@ -3358,26 +3357,26 @@
   ]
  },
  "oventus-medical": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.oventus.com.au/: ConnectionError"
   ]
  },
  "pacific-national": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.pacificnational.com.au/careers/"
   ]
  },
  "paladin-space": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": []
  },
  "pawsey-supercomputing-research-centre-csiro-hosted": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://pawsey.org.au/",
@@ -3388,7 +3387,7 @@
   ]
  },
  "penten": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.penten.com",
@@ -3396,7 +3395,7 @@
   ]
  },
  "pentenamio-penten": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://pentenamio.com/careers",
@@ -3418,7 +3417,7 @@
   ]
  },
  "perenti": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.perenti.com/careers",
@@ -3440,12 +3439,12 @@
   ]
  },
  "picosat-systems": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": []
  },
  "pilbara-minerals-pls": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.pls.com.au/careers: ConnectionError"
@@ -3464,7 +3463,7 @@
   ]
  },
  "planet-innovation": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "sub": "planetinnovation",
@@ -3488,21 +3487,21 @@
   ]
  },
  "power-and-water-corporation-nt": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.powerwater.com.au/about/careers: Blocked"
   ]
  },
  "pratt-whitney-rtx-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://careers.rtx.com/"
   ]
  },
  "propeller-aero": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.propelleraero.com/careers/",
@@ -3527,7 +3526,7 @@
   ]
  },
  "qantas-group-qantas-engineering-jetstar-qantaslink": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://careers.qantas.com/: ConnectionError",
@@ -3535,7 +3534,7 @@
   ]
  },
  "qinetiq-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.qinetiq.com.au/careers",
@@ -3544,7 +3543,7 @@
   ]
  },
  "qualcomm": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://careers.qualcomm.com: Blocked"
@@ -3566,7 +3565,7 @@
   ]
  },
  "quantx-labs": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://quantxlabs.com",
@@ -3574,7 +3573,7 @@
   ]
  },
  "quasar-satellite-technologies": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.quasarsat.com/careers",
@@ -3582,14 +3581,14 @@
   ]
  },
  "queensland-defence-science-alliance": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://qdsa.org.au/: ConnectionError"
   ]
  },
  "queensland-government-smartjobs-tmr-depw-engineering-graduat": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://smartjobs.qld.gov.au/",
@@ -3597,7 +3596,7 @@
   ]
  },
  "queensland-rail": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "company": "queensla01",
@@ -3610,7 +3609,7 @@
   ]
  },
  "quickstep-holdings": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.quickstep.com.au/",
@@ -3618,7 +3617,7 @@
   ]
  },
  "quinbrook-infrastructure-partners": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "sub": "quinbrook",
@@ -3630,7 +3629,7 @@
   ]
  },
  "quintessencelabs": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.quintessencelabs.com/careers",
@@ -3638,16 +3637,14 @@
   ]
  },
  "qut-centre-for-robotics": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
-   "https://research.qut.edu.au/qcr/",
-   "https://research.qut.edu.au/qcr/join-us/",
-   "https://research.qut.edu.au/qcr/engagement/work-with-us/"
+   "https://research.qut.edu.au/qcr/: Blocked"
   ]
  },
  "qut-vacation-research-experience-scheme-qut-centre-for-robot": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.qut.edu.au/about/careers: Blocked",
@@ -3655,7 +3652,7 @@
   ]
  },
  "race-for-2030-crc-reliable-affordable-clean-energy": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.racefor2030.com.au/",
@@ -3664,15 +3661,15 @@
   ]
  },
  "rct-remote-control-technologies": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://rct-global.com/",
-   "https://rct-global.com/about/careers/"
+   "https://www.rct-global.com/about/careers/"
   ]
  },
  "rea-group": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.rea-group.com/careers/",
@@ -3682,7 +3679,7 @@
   ]
  },
  "readygrad-placement-provider": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://au.gradconnection.com/employers/readygrad/",
@@ -3691,7 +3688,7 @@
   ]
  },
  "redarc-electronics": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.redarc.com.au/",
@@ -3700,33 +3697,33 @@
   ]
  },
  "redback-technologies": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://redbacktech.com/careers/"
   ]
  },
  "relectrify": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.relectrify.com/careers: HTTPError"
   ]
  },
  "reposit-power": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://repositpower.com/careers/: HTTPError"
   ]
  },
  "researchsat": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": []
  },
  "resource-pty-ltd": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://au.gradconnection.com/employers/resource-pty-ltd/",
@@ -3735,14 +3732,14 @@
   ]
  },
  "rheinmetall-defence-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.rheinmetall-defence.com.au/en/rheinmetall_defence_australia/careers/index.php"
   ]
  },
  "rio-tinto": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.riotinto.com/en/careers",
@@ -3752,7 +3749,7 @@
   ]
  },
  "ripe-robotics": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.riperobotics.com/",
@@ -3760,33 +3757,33 @@
   ]
  },
  "rmit-university-incl-rmit-summer-research-vacation-scholarsh": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.rmit.edu.au/about/careers-at-rmit: HTTPError"
   ]
  },
  "robotics-plus": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.roboticsplus.co.nz/"
   ]
  },
  "rocos": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": []
  },
  "rode-microphones": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://rode.com/"
   ]
  },
  "rohde-schwarz-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.rohde-schwarz.com/au/career/",
@@ -3795,7 +3792,7 @@
   ]
  },
  "rokt": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.rokt.com/careers: TooManyRedirects",
@@ -3803,7 +3800,7 @@
   ]
  },
  "rubicon-water": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.rubiconwater.com/careers",
@@ -3812,7 +3809,7 @@
   ]
  },
  "rwe-renewables-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "company": "rweProd",
@@ -3826,7 +3823,7 @@
   ]
  },
  "sa-government-i-work-for-sa-dit-engineering-graduate-vacatio": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://iworkfor.sa.gov.au/",
@@ -3835,7 +3832,7 @@
   ]
  },
  "sa-power-networks-incl-enerven": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://careers.sapowernetworks.com.au/",
@@ -3845,14 +3842,14 @@
   ]
  },
  "sa-water": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.sawater.com.au/careers: Blocked"
   ]
  },
  "saab-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.saab.com/markets/australia/careers/job-opportunities",
@@ -3863,7 +3860,7 @@
   ]
  },
  "saber-astronautics": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.saberastro.com/internships/",
@@ -3871,7 +3868,7 @@
   ]
  },
  "safetyculture": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://safetyculture.com/careers/",
@@ -3881,21 +3878,21 @@
   ]
  },
  "safran-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.safran-group.com/jobs: Blocked"
   ]
  },
  "safran-electronics-defense-australasia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.safran-group.com/jobs: Blocked"
   ]
  },
  "sage-automation": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.sageautomation.com/careers",
@@ -3919,7 +3916,7 @@
   ]
  },
  "santos": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://recruitment.santos.com/",
@@ -3944,7 +3941,7 @@
   ]
  },
  "scantech": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.scantech.com.au/"
@@ -3977,7 +3974,7 @@
   ]
  },
  "sdi-limited": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.sdi.com.au/",
@@ -3985,7 +3982,7 @@
   ]
  },
  "sea-electric": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.sea-electric.com/careers/: HTTPError"
@@ -4021,7 +4018,7 @@
   ]
  },
  "selectronic-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.selectronic.com.au/: ConnectionError"
@@ -4056,7 +4053,7 @@
   ]
  },
  "service-stream": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.servicestream.com.au/careers",
@@ -4064,28 +4061,28 @@
   ]
  },
  "sew-eurodrive-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.sew-eurodrive.com.au/: Blocked"
   ]
  },
  "shimadzu-scientific-instruments-oceania": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.shimadzu.com.au/"
   ]
  },
  "shoal-group": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.shoal.com.au/"
   ]
  },
  "siemens-australia-siemens-ltd": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://jobs.siemens.com/en_US/externaljobs",
@@ -4096,7 +4093,7 @@
   ]
  },
  "siemens-energy-grid-technologies-grid-solutions": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://jobs.siemens-energy.com/",
@@ -4105,7 +4102,7 @@
   ]
  },
  "siemens-healthineers-anz": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://jobs.siemens-healthineers.com/",
@@ -4113,7 +4110,7 @@
   ]
  },
  "siemens-mobility-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://jobs.siemens.com/",
@@ -4122,16 +4119,16 @@
   ]
  },
  "silanna-semiconductor": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.silanna.com/careers",
    "https://silanna.com/careers/",
-   "https://silanna.com/vacancy/senior-digital-design-engineer/"
+   "https://silanna.com/vacancy/product-and-test-engineer/"
   ]
  },
  "silentium-defence": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.silentiumdefence.com.au/careers",
@@ -4139,7 +4136,7 @@
   ]
  },
  "silicon-quantum-computing-sqc": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://sqc.com/careers",
@@ -4148,7 +4145,7 @@
   ]
  },
  "silverpond": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://silverpond.com.au/careers: HTTPError",
@@ -4156,7 +4153,7 @@
   ]
  },
  "simplot-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.simplot.com.au/careers",
@@ -4165,12 +4162,12 @@
   ]
  },
  "sitael-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": []
  },
  "skyborne-technology": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://skybornetech.com/",
@@ -4178,7 +4175,7 @@
   ]
  },
  "smartsat-crc": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://smartsatcrc.com/: Blocked",
@@ -4188,14 +4185,14 @@
   ]
  },
  "smec-surbana-jurong": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.smec.com/en_au/careers: Blocked"
   ]
  },
  "snowy-hydro-incl-red-energy-lumo": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://careers.snowyhydro.com.au/",
@@ -4203,21 +4200,21 @@
   ]
  },
  "south-east-water": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://southeastwater.com.au/about/careers: HTTPError"
   ]
  },
  "south32": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.south32.net/careers: Blocked"
   ]
  },
  "southern-launch": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.southernlaunch.space/internships: HTTPError",
@@ -4225,7 +4222,7 @@
   ]
  },
  "spiral-blue": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "token": "techstars57",
@@ -4238,14 +4235,14 @@
   ]
  },
  "squadron-energy": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://squadronenergy.com/careers: HTTPError"
   ]
  },
  "ssi-schaefer-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.ssi-schaefer.com/en-au",
@@ -4266,7 +4263,7 @@
   ]
  },
  "stanwell-corporation": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.stanwell.com/",
@@ -4275,7 +4272,7 @@
   ]
  },
  "steensen-varming": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.steensenvarming.com/careers",
@@ -4284,14 +4281,14 @@
   ]
  },
  "stowe-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.stowe.com.au/careers: ConnectionError"
   ]
  },
  "subsea7": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://careers.subsea7.com/",
@@ -4302,7 +4299,7 @@
   ]
  },
  "suburban-rail-loop-authority-vic": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://au.gradconnection.com/employers/suburban-rail-loop-authority/jobs/suburban-rail-loop-authority-2027-graduate-program/",
@@ -4311,28 +4308,28 @@
   ]
  },
  "suncable": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.suncable.energy/careers: HTTPError"
   ]
  },
  "sungrow-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://au.sungrowpower.com/: ConnectionError"
   ]
  },
  "superloop": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.superloop.com/careers.html: HTTPError"
   ]
  },
  "swarmfarm-robotics": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.swarmfarm.com/",
@@ -4341,7 +4338,7 @@
   ]
  },
  "swinburne-university-of-technology-ozgrav-node-space-technol": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.swinburne.edu.au/careers/",
@@ -4350,7 +4347,7 @@
   ]
  },
  "swisslog-australia-kuka": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.swisslog.com/en-us/about-swisslog/careers",
@@ -4359,7 +4356,7 @@
   ]
  },
  "switchdin": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.switchdin.com/careers",
@@ -4367,21 +4364,21 @@
   ]
  },
  "swoop-aero": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://swoop.aero/"
   ]
  },
  "sydney-airport": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.sydneyairport.com.au/corporate/careers: HTTPError"
   ]
  },
  "sydney-nano-institute-usyd": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.sydney.edu.au/sydney-nano/"
@@ -4401,7 +4398,7 @@
   ]
  },
  "sydney-water": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.sydneywater.com.au/about-us/careers.html: HTTPError",
@@ -4411,7 +4408,7 @@
   ]
  },
  "synchron-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://synchron.com/careers",
@@ -4419,7 +4416,7 @@
   ]
  },
  "sypaq-systems": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.sypaq.com.au/careers",
@@ -4428,7 +4425,7 @@
   ]
  },
  "tae-aerospace": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.taeaerospace.com/careers/",
@@ -4436,14 +4433,14 @@
   ]
  },
  "tasmanian-government-jobs-tas-gov-au": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.jobs.tas.gov.au/: Blocked"
   ]
  },
  "tasnetworks": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "company": "tasmaniannP",
@@ -4456,7 +4453,7 @@
   ]
  },
  "taswater": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.taswater.com.au/careers",
@@ -4465,7 +4462,7 @@
   ]
  },
  "tektronix-fortive": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "sub": "app",
@@ -4485,7 +4482,7 @@
   ]
  },
  "tesla-australia-energy-megapack-powerwall-vpp": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.tesla.com/careers/search/?site=AU: Blocked"
@@ -4518,7 +4515,7 @@
   ]
  },
  "tiliter": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.tiliter.com/careers",
@@ -4526,7 +4523,7 @@
   ]
  },
  "tilt-renewables": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.tiltrenewables.com/careers",
@@ -4534,7 +4531,7 @@
   ]
  },
  "tonkin": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.tonkin.com.au/careers",
@@ -4543,14 +4540,14 @@
   ]
  },
  "toyota-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.toyota.com.au/careers: Blocked"
   ]
  },
  "trajan-scientific-and-medical": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.trajanscimed.com/",
@@ -4558,14 +4555,14 @@
   ]
  },
  "trakka-systems": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
-   "https://www.trakkasystems.com/: RetryError"
+   "https://www.trakkasystems.com/"
   ]
  },
  "transport-for-nsw-graduate-cadetship-vacation-programs": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://iworkfor.nsw.gov.au/: Blocked",
@@ -4575,7 +4572,7 @@
   ]
  },
  "tritium-exicom-tritium": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://tritiumcharging.com/careers/",
@@ -4583,7 +4580,7 @@
   ]
  },
  "trusted-autonomous-systems-defence-crc-tas": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://tasdcrc.com.au/"
@@ -4605,7 +4602,7 @@
   ]
  },
  "tyro-payments": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.tyro.com/careers/",
@@ -4644,14 +4641,14 @@
   ]
  },
  "ultra-maritime-australia-ultra-electronics-australia-avalon-": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://ultra-maritime.com/careers/: RetryError"
   ]
  },
  "umow-lai": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.umowlai.com.au/careers: ConnectTimeout"
@@ -4672,7 +4669,7 @@
   ]
  },
  "unitywater": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.unitywater.com/careers",
@@ -4706,35 +4703,35 @@
   ]
  },
  "university-of-newcastle": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.newcastle.edu.au/about-uon/our-university/careers-at-uon: Blocked"
   ]
  },
  "university-of-tasmania": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.utas.edu.au/jobs: Blocked"
   ]
  },
  "university-of-technology-sydney-feit-robotics-institute-uts-": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.uts.edu.au/about/employment-uts: HTTPError"
   ]
  },
  "university-of-western-australia-uwa-summer-research-scholars": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
-   "https://www.uwa.edu.au/careers: ConnectionError"
+   "https://www.uwa.edu.au/careers: HTTPError"
   ]
  },
  "university-of-wollongong-faculty-of-engineering-information-": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.uow.edu.au/about/jobs/",
@@ -4745,14 +4742,14 @@
   ]
  },
  "unsw-sydney-staff-casual-ra-jobs-board": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.unsw.edu.au/careers: HTTPError"
   ]
  },
  "unsw-sydney-taste-of-research-engineering-cqc2t-sqc-hub": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.unsw.edu.au/careers: HTTPError",
@@ -4762,14 +4759,14 @@
   ]
  },
  "urban-utilities": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://urbanutilities.com.au/about-us/careers"
   ]
  },
  "v-line": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.vline.com.au/About-V-Line/Careers",
@@ -4778,7 +4775,7 @@
   ]
  },
  "valiant-space": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.valiantspace.com/",
@@ -4814,14 +4811,14 @@
   ]
  },
  "vaxxas": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
-   "https://www.vaxxas.com/careers/: ConnectTimeout"
+   "https://www.vaxxas.com/careers/"
   ]
  },
  "ventia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.ventia.com/careers",
@@ -4832,21 +4829,21 @@
   ]
  },
  "vicgrid-deeca": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://careers.vic.gov.au/: Blocked"
   ]
  },
  "vicgrid-deeca-victorian-transmission-planning": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.careers.vic.gov.au/: Blocked"
   ]
  },
  "victorian-government-graduate-program-vps": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.careers.vic.gov.au/: Blocked",
@@ -4868,7 +4865,7 @@
   ]
  },
  "visy": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.visy.com/careers",
@@ -4890,7 +4887,7 @@
   ]
  },
  "vocus": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.vocus.com.au/careers",
@@ -4901,7 +4898,7 @@
   ]
  },
  "volgren": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.volgren.com.au/careers/",
@@ -4909,7 +4906,7 @@
   ]
  },
  "w-rtsil-energy-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "company": "Wartsila",
@@ -4922,7 +4919,7 @@
   ]
  },
  "wa-government-jobs-wa-gov-au-main-roads-wa-western-power-is-": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://search.jobs.wa.gov.au/",
@@ -4955,14 +4952,14 @@
   ]
  },
  "wattwatchers": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://wattwatchers.com.au/"
   ]
  },
  "western-power": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.westernpower.com.au/about/careers/",
@@ -4973,21 +4970,21 @@
   ]
  },
  "western-sydney-international-airport-wsa-co": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.westernsydney.com.au/careers: ConnectionError"
   ]
  },
  "wildlife-drones": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://wildlifedrones.net/: ConnectTimeout"
   ]
  },
  "wisetech-global": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://careers.wisetechglobal.com/: ConnectionError",
@@ -4995,14 +4992,14 @@
   ]
  },
  "wood-wood-plc": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.woodplc.com/careers: Blocked"
   ]
  },
  "worley": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://jobs.worley.com: Blocked",
@@ -5023,14 +5020,14 @@
   ]
  },
  "xtek": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
-   "https://www.xtek.net/: ConnectTimeout"
+   "https://www.xtek.net/: SSLError"
   ]
  },
  "yarra-valley-water": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.yvw.com.au/about-us/careers",
@@ -5039,14 +5036,14 @@
   ]
  },
  "yaskawa-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.yaskawa.com.au/: ConnectionError"
   ]
  },
  "yokogawa-australia": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://www.yokogawa.com/au/about/careers/",
@@ -5068,7 +5065,7 @@
   ]
  },
  "zetifi": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [],
   "tried": [
    "https://zetifi.com",
@@ -5076,7 +5073,7 @@
   ]
  },
  "zinfra-jemena-group": {
-  "checked": "2026-10-06",
+  "checked": "2026-10-13",
   "specs": [
    {
     "company": "jemenazinfra",
