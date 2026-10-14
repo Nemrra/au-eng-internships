@@ -26,8 +26,8 @@
  "00ee959e406e": {
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14",
-  "misses": 1,
+  "last_seen": "2026-10-15",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -249,7 +249,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-15",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -622,8 +622,8 @@
   "closed_on": "2026-10-13",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-14",
-  "misses": 2,
+  "last_seen": "2026-10-15",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -680,7 +680,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-14",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -716,7 +716,7 @@
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-14",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -740,7 +740,7 @@
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-15",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -890,7 +890,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-15",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1180,8 +1180,8 @@
   "closed_on": "2026-10-13",
   "company": "Readygrad",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-14",
-  "misses": 1,
+  "last_seen": "2026-10-15",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1297,8 +1297,8 @@
  "1cfa73812278": {
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14",
-  "misses": 2,
+  "last_seen": "2026-10-15",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1627,8 +1627,8 @@
  "24911ef619ab": {
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14",
-  "misses": 2,
+  "last_seen": "2026-10-15",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2251,12 +2251,12 @@
   "closed_on": "2026-10-14",
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-13",
-  "misses": 3,
+  "last_seen": "2026-10-15",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Civil Engineer"
  },
  "3274bbceba5b": {
@@ -2582,8 +2582,8 @@
   "closed_on": "2026-10-13",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-14",
-  "misses": 1,
+  "last_seen": "2026-10-15",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2827,7 +2827,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-15",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -2849,8 +2849,8 @@
  "3c25cd4206db": {
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14",
-  "misses": 2,
+  "last_seen": "2026-10-15",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3440,8 +3440,8 @@
   "closed_on": "2026-10-14",
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-14",
-  "misses": 1,
+  "last_seen": "2026-10-15",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3584,7 +3584,7 @@
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-14",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3881,14 +3881,15 @@
   "title": "Student V&V Engineer"
  },
  "52755f3b35d2": {
+  "closed_on": "2026-10-15",
   "company": "Mott MacDonald",
   "first_seen": "2026-10-13",
   "last_seen": "2026-10-14",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Mott MacDonald [sf_rmk]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Nuclear Engineer - Adelaide, SA"
  },
  "52a14d15cc34": {
@@ -4024,7 +4025,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-15",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -4106,12 +4107,12 @@
   "closed_on": "2026-10-13",
   "company": "Readygrad",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-12",
-  "misses": 3,
+  "last_seen": "2026-10-15",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "IT Project Management Internship Program 2026"
  },
  "577d499a7a8c": {
@@ -4153,12 +4154,12 @@
   "closed_on": "2026-10-13",
   "company": "Readygrad",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-12",
-  "misses": 3,
+  "last_seen": "2026-10-15",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Cyber Security Internship Program 2026"
  },
  "58c08aa0d2b8": {
@@ -4673,7 +4674,7 @@
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-14",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4955,8 +4956,8 @@
   "closed_on": "2026-10-13",
   "company": "Readygrad",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-14",
-  "misses": 1,
+  "last_seen": "2026-10-15",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5628,7 +5629,7 @@
   "company": "White Acorn Capital",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-14",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5885,8 +5886,8 @@
  "80ce41db7e81": {
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14",
-  "misses": 2,
+  "last_seen": "2026-10-15",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6032,6 +6033,17 @@
   ],
   "status": "open",
   "title": "HSPO Warehouse Operations & Logistics Intern"
+ },
+ "83e21a382271": {
+  "company": "Lycopodium",
+  "first_seen": "2026-10-15",
+  "last_seen": "2026-10-15",
+  "misses": 0,
+  "sources": [
+   "Lycopodium [livehire]"
+  ],
+  "status": "open",
+  "title": "Graduate Program 2027- Structural Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Structural to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 12 hours ago"
  },
  "83e704658c13": {
   "closed_on": "2026-10-07",
@@ -6283,7 +6295,7 @@
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-14",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6330,8 +6342,8 @@
   "closed_on": "2026-10-13",
   "company": "Readygrad",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-14",
-  "misses": 1,
+  "last_seen": "2026-10-15",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6873,7 +6885,7 @@
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-14",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7130,7 +7142,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-14",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -7300,6 +7312,17 @@
   ],
   "status": "open",
   "title": "2027 KPMG Graduate Program – Business, Consulting & Risk - Rolling Intake"
+ },
+ "a0ba8320abd6": {
+  "company": "Lycopodium",
+  "first_seen": "2026-10-15",
+  "last_seen": "2026-10-15",
+  "misses": 0,
+  "sources": [
+   "Lycopodium [livehire]"
+  ],
+  "status": "open",
+  "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 12 hours ago"
  },
  "a0e57569d288": {
   "company": "EY",
@@ -7697,7 +7720,7 @@
   "company": "BDO",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-14",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7850,7 +7873,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-15",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8026,12 +8049,12 @@
   "closed_on": "2026-10-15",
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-14",
-  "misses": 3,
+  "last_seen": "2026-10-15",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Library Trainee"
  },
  "b05df6671604": {
@@ -8637,7 +8660,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-15",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9460,8 +9483,8 @@
  "d33c81043a5d": {
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14",
-  "misses": 2,
+  "last_seen": "2026-10-15",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9704,14 +9727,15 @@
   "title": "Graduate Engineering Officer"
  },
  "d8c6b7890a49": {
+  "closed_on": "2026-10-15",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-14",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Business Cadet"
  },
  "da3f69a07aeb": {
@@ -9859,7 +9883,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-15",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -10373,12 +10397,12 @@
   "closed_on": "2026-10-13",
   "company": "Readygrad",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-12",
-  "misses": 3,
+  "last_seen": "2026-10-15",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Data Analyst Internship Program 2026"
  },
  "e8986af670d0": {
@@ -11040,7 +11064,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-14",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -11271,6 +11295,17 @@
   ],
   "status": "closed",
   "title": "Notify Me - Queensland Treasury Graduate Jobs"
+ },
+ "ff3909f912c5": {
+  "company": "Lycopodium",
+  "first_seen": "2026-10-15",
+  "last_seen": "2026-10-15",
+  "misses": 0,
+  "sources": [
+   "Lycopodium [livehire]"
+  ],
+  "status": "open",
+  "title": "Graduate Program 2027- Mechanical Engineering Lycopodium is now recruiting for our 2027 Graduate Program to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 12 hours ago"
  },
  "ff4a482fa495": {
   "closed_on": "2026-10-06",
