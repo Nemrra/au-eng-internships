@@ -27,7 +27,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -132,7 +132,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-15",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -260,7 +260,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -634,7 +634,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -728,7 +728,7 @@
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-15",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -752,11 +752,11 @@
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-15",
-  "misses": 3,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Data & Technical Support Specialist – Utility Metering"
  },
  "10de295f29d8": {
@@ -902,7 +902,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-15",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -996,7 +996,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-15",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1200,15 +1200,15 @@
   "title": "Software Engineer New Grad - AI Infra Compute"
  },
  "1a98fafe6031": {
-  "closed_on": "2026-10-13",
+  "closed_on": "2026-10-15",
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-15",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Business Analyst Internship Program 2026"
  },
  "1ad161cd5945": {
@@ -1321,7 +1321,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1599,15 +1599,15 @@
   "title": "Software Engineer - Internship (2027 May - August)"
  },
  "22ef9aedc9ea": {
-  "closed_on": "2026-10-11",
+  "closed_on": "2026-10-15",
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-15",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Equity Analyst: 2027"
  },
  "2355c90654a9": {
@@ -1673,7 +1673,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1910,7 +1910,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2104,15 +2104,15 @@
   "title": "Civil Engineering Internships"
  },
  "2d0d9d305d5f": {
-  "closed_on": "2026-10-11",
+  "closed_on": "2026-10-15",
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-15",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Macro Analyst: 2027"
  },
  "2dd09bad300f": {
@@ -2178,7 +2178,7 @@
   "company": "IMC Trading",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "IMC Trading [greenhouse]"
   ],
@@ -2308,7 +2308,7 @@
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-15",
-  "misses": 2,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2639,7 +2639,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2907,7 +2907,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3509,7 +3509,7 @@
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-15",
-  "misses": 2,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3663,7 +3663,7 @@
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-15",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4184,15 +4184,15 @@
   "title": "2027 Restructuring Graduate Program (Perth)"
  },
  "57648df86771": {
-  "closed_on": "2026-10-13",
+  "closed_on": "2026-10-15",
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-15",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "IT Project Management Internship Program 2026"
  },
  "577d499a7a8c": {
@@ -4231,15 +4231,15 @@
   "title": "Internship Program / Student Opportunities"
  },
  "5854359e3fc7": {
-  "closed_on": "2026-10-13",
+  "closed_on": "2026-10-15",
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-15",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Cyber Security Internship Program 2026"
  },
  "58c08aa0d2b8": {
@@ -4753,12 +4753,12 @@
   "closed_on": "2026-10-15",
   "company": "BDO",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-14",
-  "misses": 3,
+  "last_seen": "2026-10-15",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Program - Transfer Pricing (Brisbane)"
  },
  "6390d2bcc067": {
@@ -5989,7 +5989,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6137,14 +6137,15 @@
   "title": "HSPO Warehouse Operations & Logistics Intern"
  },
  "83e21a382271": {
+  "closed_on": "2026-10-15",
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-15",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Structural Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Structural to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 12 hours ago"
  },
  "83e704658c13": {
@@ -6396,13 +6397,24 @@
   "closed_on": "2026-10-15",
   "company": "BDO",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-14",
-  "misses": 3,
+  "last_seen": "2026-10-15",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Program - Superannuation"
+ },
+ "8b9adcfedf4f": {
+  "company": "Johnson Controls Australia",
+  "first_seen": "2026-10-15",
+  "last_seen": "2026-10-15",
+  "misses": 0,
+  "sources": [
+   "Johnson Controls Australia [workday]"
+  ],
+  "status": "open",
+  "title": "Engineering Intern"
  },
  "8bae8a53df09": {
   "closed_on": "2026-10-07",
@@ -6441,15 +6453,15 @@
   "title": "Network Development Engineer Graduate"
  },
  "8c3867e4f367": {
-  "closed_on": "2026-10-13",
+  "closed_on": "2026-10-15",
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-15",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Finance Internship Program 2026"
  },
  "8c4f83724754": {
@@ -6833,7 +6845,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-15",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6997,12 +7009,12 @@
   "closed_on": "2026-10-15",
   "company": "BDO",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-14",
-  "misses": 3,
+  "last_seen": "2026-10-15",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Program - Risk Advisory"
  },
  "97606f23406c": {
@@ -7428,14 +7440,15 @@
   "title": "2027 KPMG Graduate Program – Business, Consulting & Risk - Rolling Intake"
  },
  "a0ba8320abd6": {
+  "closed_on": "2026-10-15",
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-15",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 12 hours ago"
  },
  "a0e57569d288": {
@@ -7725,7 +7738,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -7844,12 +7857,12 @@
   "closed_on": "2026-10-15",
   "company": "BDO",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-14",
-  "misses": 3,
+  "last_seen": "2026-10-15",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Program - Business Services"
  },
  "a94344ff3c41": {
@@ -8093,7 +8106,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-15",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8186,7 +8199,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8233,7 +8246,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-15",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8352,7 +8365,8 @@
   "last_seen": "2026-10-15",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
@@ -8667,7 +8681,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8982,7 +8996,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-15",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9621,7 +9635,8 @@
   "last_seen": "2026-10-15",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 – Queensland – Graduate Civil Engineer (Construction Phase Services)"
@@ -9642,7 +9657,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9746,7 +9761,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -9899,7 +9914,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -11220,7 +11235,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -11442,6 +11457,17 @@
   "status": "closed",
   "title": "Notify Me - Rio Tinto Internships"
  },
+ "fde5dd5a2aa9": {
+  "company": "GHD",
+  "first_seen": "2026-10-15",
+  "last_seen": "2026-10-15",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "GHD Summer Internship Program 2026/27 - Melbourne - Risk Consultancy Intern"
+ },
  "fe619ad83a28": {
   "company": "Alstom Australia",
   "first_seen": "2026-10-06",
@@ -11501,14 +11527,15 @@
   "title": "Notify Me - Queensland Treasury Graduate Jobs"
  },
  "ff3909f912c5": {
+  "closed_on": "2026-10-15",
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-15",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Mechanical Engineering Lycopodium is now recruiting for our 2027 Graduate Program to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 12 hours ago"
  },
  "ff4a482fa495": {
