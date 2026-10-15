@@ -27,7 +27,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -131,8 +131,8 @@
  "040e767ced43": {
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-15",
-  "misses": 2,
+  "last_seen": "2026-10-16",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -339,7 +339,7 @@
   "company": "McGrathNicol",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -634,7 +634,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-16",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -727,8 +727,8 @@
   "closed_on": "2026-10-15",
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-15",
-  "misses": 2,
+  "last_seen": "2026-10-16",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -752,7 +752,7 @@
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -898,15 +898,15 @@
   "title": "GHD Graduate Program 2026/27 – Brisbane – Geotechnical Engineering"
  },
  "133e2bc9f384": {
-  "closed_on": "2026-10-12",
+  "closed_on": "2026-10-16",
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-15",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Up your Engineering Game with a Chemical Engineering Internship – Apply Now"
  },
  "136cb521b431": {
@@ -1321,7 +1321,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1425,7 +1425,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -1626,7 +1626,7 @@
   "company": "Ampol (incl. AmpCharge, energy transition)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Ampol (incl. AmpCharge, energy transition) [smartrecruiters]"
   ],
@@ -1673,7 +1673,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1933,7 +1933,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -2309,7 +2309,7 @@
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2640,7 +2640,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-16",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2908,7 +2908,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3509,7 +3509,7 @@
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3663,8 +3663,8 @@
   "closed_on": "2026-10-15",
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-15",
-  "misses": 2,
+  "last_seen": "2026-10-16",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4177,7 +4177,7 @@
   "company": "McGrathNicol",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4919,7 +4919,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -4948,6 +4948,17 @@
   ],
   "status": "closed",
   "title": "Engineering Consulting Intern - Summer Program"
+ },
+ "682c2587d679": {
+  "company": "Lycopodium",
+  "first_seen": "2026-10-16",
+  "last_seen": "2026-10-16",
+  "misses": 0,
+  "sources": [
+   "Lycopodium [livehire]"
+  ],
+  "status": "open",
+  "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 2 days ago"
  },
  "6846ee69416f": {
   "closed_on": "2026-10-14",
@@ -5112,6 +5123,17 @@
   ],
   "status": "closed",
   "title": "Software Engineer Early Career - Multiple Teams"
+ },
+ "6c9073d823d4": {
+  "company": "Lycopodium",
+  "first_seen": "2026-10-16",
+  "last_seen": "2026-10-16",
+  "misses": 0,
+  "sources": [
+   "Lycopodium [livehire]"
+  ],
+  "status": "open",
+  "title": "Graduate Program 2027- Mechanical Engineering Lycopodium is now recruiting for our 2027 Graduate Program to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 2 days ago"
  },
  "6cd164938e25": {
   "closed_on": "2026-10-06",
@@ -5303,6 +5325,17 @@
   ],
   "status": "closed",
   "title": "Graduate Software Engineer - AI Compute"
+ },
+ "704c76a36dd0": {
+  "company": "Susquehanna International Group (SIG)",
+  "first_seen": "2026-10-16",
+  "last_seen": "2026-10-16",
+  "misses": 0,
+  "sources": [
+   "Susquehanna International Group (SIG) [icims]"
+  ],
+  "status": "open",
+  "title": "Title Business Analytics AI Co-op with Drexel University"
  },
  "707ea3d0616a": {
   "company": "GHD",
@@ -5732,7 +5765,7 @@
   "company": "White Acorn Capital",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5990,7 +6023,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7930,7 +7963,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8247,8 +8280,8 @@
  "b188ae8d203c": {
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-15",
-  "misses": 2,
+  "last_seen": "2026-10-16",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8367,8 +8400,7 @@
   "last_seen": "2026-10-16",
   "misses": 0,
   "sources": [
-   "GHD [oracle]",
-   "GradConnection (SEEK Grad) [gradconnection]"
+   "GHD [oracle]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
@@ -8655,6 +8687,17 @@
   ],
   "status": "closed",
   "title": "Notify Me - AIA Graduate Jobs"
+ },
+ "bbb66921985d": {
+  "company": "Lycopodium",
+  "first_seen": "2026-10-16",
+  "last_seen": "2026-10-16",
+  "misses": 0,
+  "sources": [
+   "Lycopodium [livehire]"
+  ],
+  "status": "open",
+  "title": "Graduate Program 2027- Structural Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Structural to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 2 days ago"
  },
  "bbbf4e020d2a": {
   "company": "DT Infrastructure",
@@ -8997,8 +9040,8 @@
  "c36d660b5bb4": {
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-15",
-  "misses": 2,
+  "last_seen": "2026-10-16",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9637,8 +9680,7 @@
   "last_seen": "2026-10-16",
   "misses": 0,
   "sources": [
-   "GHD [oracle]",
-   "GradConnection (SEEK Grad) [gradconnection]"
+   "GHD [oracle]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 – Queensland – Graduate Civil Engineer (Construction Phase Services)"
@@ -9659,7 +9701,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10630,7 +10672,7 @@
   "company": "Monash University",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-15",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Claude web sweep"
   ],
