@@ -28,7 +28,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -130,14 +130,15 @@
   "title": "Graduate Quality Assurance Analyst"
  },
  "040e767ced43": {
+  "closed_on": "2026-10-17",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "MMEM Sales & Management Graduate - South Brisbane, QLD"
  },
  "045d4c09204b": {
@@ -223,14 +224,15 @@
   "title": "Backend Software Engineer Graduate - Global E-commerce"
  },
  "05e5f98ad748": {
+  "closed_on": "2026-10-17",
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 EY Graduate Program – Engineering"
  },
  "060ccd851af5": {
@@ -597,14 +599,15 @@
   "title": "2028 Graduate Opportunities"
  },
  "0e7373b1848b": {
+  "closed_on": "2026-10-17",
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 EY Graduate Program – Data Analytics"
  },
  "0e7b96fed766": {
@@ -763,14 +766,15 @@
   "title": "Data & Technical Support Specialist – Utility Metering"
  },
  "10de295f29d8": {
+  "closed_on": "2026-10-17",
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 EY Graduate Program – Science"
  },
  "10e92d51f164": {
@@ -996,14 +1000,15 @@
   "title": "Engineering Intern (Melbourne)"
  },
  "16208b686c28": {
+  "closed_on": "2026-10-17",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "MMEM Sales & Management Graduate - Canberra, ACT"
  },
  "172cda6b36ec": {
@@ -1287,15 +1292,16 @@
   "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate"
  },
  "1bfda332512a": {
+  "closed_on": "2026-10-17",
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Claude web sweep",
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2026/27 EY Vacationer Program - Technology"
  },
  "1c4aa9f91b40": {
@@ -1310,14 +1316,15 @@
   "title": "Engineering Internships– Available Across 17 Engineering Disciplines"
  },
  "1c945a9fd111": {
+  "closed_on": "2026-10-17",
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2026/27 EY Vacationer Program – Science"
  },
  "1cfa73812278": {
@@ -1679,7 +1686,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1782,14 +1789,15 @@
   "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure - 2027 Summer"
  },
  "25d2308783ec": {
+  "closed_on": "2026-10-17",
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 EY Graduate Program – Economics"
  },
  "266d773dbf4c": {
@@ -2101,14 +2109,15 @@
   "title": "Data Analyst Intern - Real Estate"
  },
  "2cf7f30865bb": {
+  "closed_on": "2026-10-17",
   "company": "Gradability",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Civil Engineering Internships"
  },
  "2d0d9d305d5f": {
@@ -2124,14 +2133,15 @@
   "title": "Graduate Macro Analyst: 2027"
  },
  "2dd09bad300f": {
+  "closed_on": "2026-10-17",
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 EY Graduate Program – Computer Science"
  },
  "2e051ce503b0": {
@@ -2317,7 +2327,7 @@
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2648,7 +2658,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2916,7 +2926,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2936,14 +2946,15 @@
   "title": "Software Engineer Intern - Backend Focused"
  },
  "3daca475e4c6": {
+  "closed_on": "2026-10-17",
   "company": "Stryker (South Pacific)",
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Stryker (South Pacific) [workday]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Mechatronics Intern"
  },
  "3db54407fc24": {
@@ -3420,14 +3431,15 @@
   "title": "Summer Intern 2027 - Software Developer"
  },
  "47c64be7336a": {
+  "closed_on": "2026-10-17",
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2026/27 EY Vacationer Program – Computer Science"
  },
  "47d046297c5e": {
@@ -3490,15 +3502,15 @@
   "title": "Boeing Summer 2027 Internship Program (Paid) – Information Digital Technology & Security (IDT&S)"
  },
  "492d643aa4ca": {
-  "closed_on": "2026-10-06",
+  "closed_on": "2026-10-17",
   "company": "Gradability",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Business Analysts & Data Analyst Internships"
  },
  "493823359145": {
@@ -3632,15 +3644,15 @@
   "title": "PhD Research Intern, Robotics - Summer 2027"
  },
  "4b9ae753f85d": {
-  "closed_on": "2026-10-14",
+  "closed_on": "2026-10-17",
   "company": "The Royal Children's Hospital",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Biomedical Engineer - Graduate"
  },
  "4b9f5af54cd3": {
@@ -3843,14 +3855,15 @@
   "title": "Graduate Surveyor"
  },
  "4f210c27de51": {
+  "closed_on": "2026-10-17",
   "company": "Gradability",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Engineering Project Management Internships"
  },
  "4f75681a805d": {
@@ -3904,7 +3917,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-17",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -3946,14 +3959,15 @@
   "title": "Microelectronics R&D Intern - Engineering & Technology Innovation"
  },
  "51a8e6d0f5f5": {
+  "closed_on": "2026-10-17",
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2026/27 EY Vacationer Program – Actuarial"
  },
  "51e0ae988968": {
@@ -4027,14 +4041,15 @@
   "title": "Graduate/Mechanical Engineer"
  },
  "5387c25ba353": {
+  "closed_on": "2026-10-17",
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 EY First Nations Graduate Program"
  },
  "53eb6c6cd407": {
@@ -4086,14 +4101,15 @@
   "title": "Notify Me - nbn Internships"
  },
  "54f35f465e10": {
+  "closed_on": "2026-10-17",
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 EY Graduate Program – Technology"
  },
  "55339489a22f": {
@@ -4786,7 +4802,7 @@
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4841,14 +4857,15 @@
   "title": "Generative AI Intern"
  },
  "640f8b5c1d4b": {
+  "closed_on": "2026-10-17",
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2026/27 EY Vacationer Program – Data Analytics"
  },
  "6511a1c1d00b": {
@@ -5477,14 +5494,15 @@
   "title": "Master's University Graduate Data Scientist"
  },
  "722a7e396421": {
+  "closed_on": "2026-10-17",
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Claude web sweep"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Vacationer Program - Engineering (Nov 2026)"
  },
  "724e2e793fff": {
@@ -5631,14 +5649,15 @@
   "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Mall - PhD"
  },
  "76029b66f20b": {
+  "closed_on": "2026-10-17",
   "company": "Lycopodium",
   "first_seen": "2026-10-16",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 3 hours ago"
  },
  "7682a5c1d2bc": {
@@ -6299,14 +6318,15 @@
   "title": "Data Scientist Co-op"
  },
  "858dd182eaf6": {
+  "closed_on": "2026-10-17",
   "company": "Ampol",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Student Vacation Program - Process Engineer"
  },
  "85e747e24ab6": {
@@ -6337,7 +6357,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-17",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -6404,14 +6424,15 @@
   "title": "Summer Intern 2027 - Quantitative Trader"
  },
  "89fe91242db3": {
+  "closed_on": "2026-10-17",
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2026/27 EY Vacationer Program – Mathematics"
  },
  "8a6aa18da173": {
@@ -6933,14 +6954,15 @@
   "title": "Boeing Summer 2027 Internship Program (Paid) - Sales and Marketing"
  },
  "93a1549ac6d2": {
+  "closed_on": "2026-10-17",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "MMEM Sales & Management Graduate - Macarthur, NSW"
  },
  "93c9cb7c2810": {
@@ -7227,14 +7249,15 @@
   "title": "Notify Me - RACV Graduate Jobs"
  },
  "985d078d5b59": {
+  "closed_on": "2026-10-17",
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 EY Graduate Program – Climate Change and Sustainability Services"
  },
  "998433c1e213": {
@@ -7830,12 +7853,12 @@
   "closed_on": "2026-10-16",
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-15",
-  "misses": 3,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 17 hours ago"
  },
  "a63e9ebe3c6f": {
@@ -8196,14 +8219,15 @@
   "title": "Research Scientist New Grad - Multi-modal Agentic Databases"
  },
  "add9b2f6f057": {
+  "closed_on": "2026-10-17",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "MMEM Sales & Management Graduate - Sutherland Shire, NSW"
  },
  "adeef54f0cba": {
@@ -8324,26 +8348,28 @@
   "title": "Strategic Student Program: Cross-Domain Electronics Systems Engineering Intern (T&I, Spring 2027)"
  },
  "b175f7f5e77e": {
+  "closed_on": "2026-10-17",
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Claude web sweep",
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2026/27 EY Vacationer Program - Engineering"
  },
  "b188ae8d203c": {
+  "closed_on": "2026-10-17",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "MMEM Sales & Management Graduate - Western Brisbane / Ipswitch, QLD"
  },
  "b1aca86a81c9": {
@@ -8458,21 +8484,21 @@
   "last_seen": "2026-10-17",
   "misses": 0,
   "sources": [
-   "GHD [oracle]",
-   "GradConnection (SEEK Grad) [gradconnection]"
+   "GHD [oracle]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
  },
  "b47234745958": {
+  "closed_on": "2026-10-17",
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 EY Graduate Program – Finance"
  },
  "b5347ad044e3": {
@@ -8559,14 +8585,15 @@
   "title": "Multi-Cloud CDN Data Platform Engineer Graduate - CDN Platform"
  },
  "b6e901e32c57": {
+  "closed_on": "2026-10-17",
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2026/27 EY Vacationer Program – Economics"
  },
  "b75e76637607": {
@@ -8681,7 +8708,7 @@
   "company": "Johnson Controls Australia",
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Johnson Controls Australia [workday]"
   ],
@@ -8751,7 +8778,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-16",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -9109,14 +9136,15 @@
   "title": "Intern - Embedded Systems Test Automation Engineer - Bothell - WA - Summer 2027"
  },
  "c36d660b5bb4": {
+  "closed_on": "2026-10-17",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "MMEM Sales & Management Graduate - Wide Bay Region, QLD"
  },
  "c3736840e103": {
@@ -9262,14 +9290,15 @@
   "title": "2028 nbn Graduate Program- Expression of Interest"
  },
  "c6762ce477bb": {
+  "closed_on": "2026-10-17",
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 EY Graduate Program – Actuarial"
  },
  "c6787652dde9": {
@@ -9331,14 +9360,15 @@
   "title": "Python Software Engineer Co-op"
  },
  "c8617a96df34": {
+  "closed_on": "2026-10-17",
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2026/27 EY Vacationer Program – Finance"
  },
  "c87e20caf018": {
@@ -9459,14 +9489,15 @@
   "title": "Computer Science Engineer Intern Co-op - Univ/Co-op Technical"
  },
  "cb3e363bbf82": {
+  "closed_on": "2026-10-17",
   "company": "AECOM",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Claude web sweep"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Summer Internship - Electrical Engineering (Nov 2026)"
  },
  "cb522e56b498": {
@@ -9762,8 +9793,7 @@
   "last_seen": "2026-10-17",
   "misses": 0,
   "sources": [
-   "GHD [oracle]",
-   "GradConnection (SEEK Grad) [gradconnection]"
+   "GHD [oracle]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 – Queensland – Graduate Civil Engineer (Construction Phase Services)"
@@ -10099,14 +10129,15 @@
   "title": "Bosch Undergraduate Program"
  },
  "dae12eefa610": {
+  "closed_on": "2026-10-17",
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 EY Graduate Program – Mathematics"
  },
  "dc46491776fa": {
@@ -10380,14 +10411,15 @@
   "title": "Notify Me - Transport for NSW Graduate Jobs"
  },
  "e016ea0437ba": {
+  "closed_on": "2026-10-17",
   "company": "Gradability",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Mechanical Engineering Internships"
  },
  "e0db24f7bc87": {
@@ -10615,7 +10647,7 @@
   "company": "Johnson Controls Australia",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Johnson Controls Australia [workday]"
   ],
