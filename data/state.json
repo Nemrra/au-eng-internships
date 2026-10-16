@@ -27,7 +27,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -336,14 +336,15 @@
   "title": "Backend Software Engineer Graduate (Trust and Safety Engineering) - 2027 Start"
  },
  "0785082deaf6": {
+  "closed_on": "2026-10-16",
   "company": "McGrathNicol",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-15",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 Data Analytics Graduate Program (Canberra)"
  },
  "07a976321faa": {
@@ -634,7 +635,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -645,7 +646,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -748,15 +749,15 @@
   "title": "Notify Me - APA Group Graduate Jobs"
  },
  "10cf2b347be0": {
-  "closed_on": "2026-10-15",
+  "closed_on": "2026-10-16",
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-15",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Data & Technical Support Specialist – Utility Metering"
  },
  "10de295f29d8": {
@@ -1321,7 +1322,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1425,7 +1426,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -1623,14 +1624,15 @@
   "title": "Operations Quality Intern"
  },
  "2355d0f18a41": {
+  "closed_on": "2026-10-16",
   "company": "Ampol (incl. AmpCharge, energy transition)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-15",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Ampol (incl. AmpCharge, energy transition) [smartrecruiters]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Student Vacation Program - Process Engineer"
  },
  "2361dd153daa": {
@@ -1673,7 +1675,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1910,7 +1912,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
   "last_seen": "2026-10-16",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1933,7 +1935,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -2305,15 +2307,15 @@
   "title": "Research Intern - PhD"
  },
  "3268255bcaa9": {
-  "closed_on": "2026-10-14",
+  "closed_on": "2026-10-16",
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-15",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Civil Engineer"
  },
  "3274bbceba5b": {
@@ -2640,7 +2642,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2908,7 +2910,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3505,15 +3507,15 @@
   "title": "Secure Kernel Engineering Intern, Sydney"
  },
  "4953764d7bdf": {
-  "closed_on": "2026-10-14",
+  "closed_on": "2026-10-16",
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-15",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 Graduate Programme - Business & Operations | Carole Park"
  },
  "4985f471dad1": {
@@ -4173,15 +4175,15 @@
   "title": "Graduate Trader, Sydney"
  },
  "56eb6109f9e2": {
-  "closed_on": "2026-10-11",
+  "closed_on": "2026-10-16",
   "company": "McGrathNicol",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-15",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 Restructuring Graduate Program (Perth)"
  },
  "57648df86771": {
@@ -4235,12 +4237,12 @@
   "closed_on": "2026-10-15",
   "company": "Readygrad",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-15",
-  "misses": 3,
+  "last_seen": "2026-10-16",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Cyber Security Internship Program 2026"
  },
  "58c08aa0d2b8": {
@@ -4919,7 +4921,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -5093,7 +5095,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5761,15 +5763,15 @@
   "title": "Machine Learning Engineer Graduate - E-Commerce Risk Control"
  },
  "7b0a9673804a": {
-  "closed_on": "2026-10-15",
+  "closed_on": "2026-10-16",
   "company": "White Acorn Capital",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-15",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate/Junior Analyst - Private Credit Fund"
  },
  "7b445f340213": {
@@ -6023,7 +6025,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7489,7 +7491,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7959,15 +7961,15 @@
   "title": "Machine Learning Engineer Graduate - E-Commerce Governance - PhD"
  },
  "aa3a56f53572": {
-  "closed_on": "2026-10-12",
+  "closed_on": "2026-10-16",
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-15",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Find your Perfect Environmental Engineering Internship – Apply Today"
  },
  "aa3e360c12cc": {
@@ -8726,7 +8728,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
   "last_seen": "2026-10-16",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9701,7 +9703,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10669,14 +10671,15 @@
   "title": "Expression of Interest: PhD Scholarships, Internships, Student Placements"
  },
  "e89ac0875d48": {
+  "closed_on": "2026-10-16",
   "company": "Monash University",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-15",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Claude web sweep"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Research Assistant - Neuro-Symbolic Reasoning"
  },
  "e979a610e3db": {
