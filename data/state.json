@@ -24,14 +24,15 @@
   "title": "Notify Me - APA Group Internships"
  },
  "00ee959e406e": {
+  "closed_on": "2026-10-16",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Cadet Building Surveyor"
  },
  "01246873282c": {
@@ -631,22 +632,22 @@
   "title": "Software Engineer Intern - Azure Databases"
  },
  "0ee577b70dbb": {
-  "closed_on": "2026-10-13",
+  "closed_on": "2026-10-16",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Gwydir Career Start 2026/2027"
  },
  "0f763dd708a1": {
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -752,12 +753,12 @@
   "closed_on": "2026-10-16",
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-15",
-  "misses": 3,
+  "last_seen": "2026-10-16",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Data & Technical Support Specialist – Utility Metering"
  },
  "10de295f29d8": {
@@ -890,12 +891,12 @@
   "closed_on": "2026-10-11",
   "company": "GHD",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-10",
-  "misses": 3,
+  "last_seen": "2026-10-16",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "GHD Graduate Program 2026/27 – Brisbane – Geotechnical Engineering"
  },
  "133e2bc9f384": {
@@ -1319,14 +1320,15 @@
   "title": "2026/27 EY Vacationer Program – Science"
  },
  "1cfa73812278": {
+  "closed_on": "2026-10-16",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Urban Designer"
  },
  "1d3b4c383570": {
@@ -1423,14 +1425,15 @@
   "title": "2027 Intern Business Management"
  },
  "2074a57ea72f": {
+  "closed_on": "2026-10-16",
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: a day ago"
  },
  "20a98ecc3b08": {
@@ -1675,7 +1678,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1877,7 +1880,7 @@
   "company": "The Brattle Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1912,7 +1915,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1932,14 +1935,15 @@
   "title": "Notify Me - CommBank Graduate Jobs"
  },
  "2989dc759fc0": {
+  "closed_on": "2026-10-16",
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Mechanical Engineering Lycopodium is now recruiting for our 2027 Graduate Program to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: a day ago"
  },
  "298b4853fa13": {
@@ -2642,7 +2646,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2910,7 +2914,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3510,12 +3514,12 @@
   "closed_on": "2026-10-16",
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-15",
-  "misses": 3,
+  "last_seen": "2026-10-16",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "2027 Graduate Programme - Business & Operations | Carole Park"
  },
  "4985f471dad1": {
@@ -4555,7 +4559,7 @@
   "company": "Mott MacDonald",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Mott MacDonald [sf_rmk]"
   ],
@@ -4621,6 +4625,17 @@
   ],
   "status": "closed",
   "title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search"
+ },
+ "61464dfce050": {
+  "company": "GHD",
+  "first_seen": "2026-10-16",
+  "last_seen": "2026-10-16",
+  "misses": 0,
+  "sources": [
+   "GHD [oracle]"
+  ],
+  "status": "open",
+  "title": "GHD Summer Internship Program 2026/27 - Darwin - Undergraduate Mechanical Engineer"
  },
  "6163e7e19c06": {
   "closed_on": "2026-10-06",
@@ -4899,7 +4914,6 @@
   "misses": 0,
   "sources": [
    "Claude web sweep",
-   "Apple jobs AU internships [apple]",
    "Apple [page]"
   ],
   "status": "open",
@@ -4918,14 +4932,15 @@
   "title": "Notify Me - Powerlink Queensland Internships"
  },
  "667171669f5c": {
+  "closed_on": "2026-10-16",
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Structural Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Structural to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: a day ago"
  },
  "673b9512f93f": {
@@ -4955,7 +4970,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-16",
   "last_seen": "2026-10-16",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -5095,7 +5110,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5130,7 +5145,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-16",
   "last_seen": "2026-10-16",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -5598,6 +5613,17 @@
   "status": "closed",
   "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Mall - PhD"
  },
+ "76029b66f20b": {
+  "company": "Lycopodium",
+  "first_seen": "2026-10-16",
+  "last_seen": "2026-10-16",
+  "misses": 0,
+  "sources": [
+   "Lycopodium [livehire]"
+  ],
+  "status": "open",
+  "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 3 hours ago"
+ },
  "7682a5c1d2bc": {
   "closed_on": "2026-10-06",
   "company": "Anduril Australia",
@@ -6022,14 +6048,15 @@
   "title": "Notify Me - Canva Graduate Jobs"
  },
  "80ce41db7e81": {
+  "closed_on": "2026-10-16",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Student Work Placement (Unpaid)"
  },
  "80d02224992c": {
@@ -7491,7 +7518,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8728,7 +8755,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9226,6 +9253,17 @@
   "status": "closed",
   "title": "Notify Me - IPART NSW Graduate Jobs"
  },
+ "c76fa2ce61f9": {
+  "company": "GHD",
+  "first_seen": "2026-10-16",
+  "last_seen": "2026-10-16",
+  "misses": 0,
+  "sources": [
+   "GHD [oracle]"
+  ],
+  "status": "open",
+  "title": "GHD Summer Internship Program 2026/27 – Undergraduate Civil Engineer, Adelaide"
+ },
  "c776afcca76a": {
   "closed_on": "2026-10-13",
   "company": "KBR",
@@ -9700,14 +9738,15 @@
   "title": "Backend Software Engineer New Grad - Trust & Safety"
  },
  "d33c81043a5d": {
+  "closed_on": "2026-10-16",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Town Planner Cadet"
  },
  "d35eb42857b2": {
@@ -9961,7 +10000,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10179,6 +10218,17 @@
   "status": "open",
   "title": "Nestle Youth Entrepreneurship Platform (YEP)"
  },
+ "dec151c4b14b": {
+  "company": "GHD",
+  "first_seen": "2026-10-16",
+  "last_seen": "2026-10-16",
+  "misses": 0,
+  "sources": [
+   "GHD [oracle]"
+  ],
+  "status": "open",
+  "title": "GHD Summer Internship Program 2026/27 – Undergraduate Environmental Scientists, Adelaide"
+ },
  "decaad4e8584": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
@@ -10323,12 +10373,12 @@
   "closed_on": "2026-10-07",
   "company": "GHD",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-06",
-  "misses": 3,
+  "last_seen": "2026-10-16",
+  "misses": 0,
   "sources": [
    "GHD [oracle]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "GHD Graduate Program 2026/27 – Brisbane – Graduate Geotechnical Engineer"
  },
  "e1a4d15b8966": {

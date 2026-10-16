@@ -10,7 +10,7 @@
   "sig": "da39a3ee5e6b4b0d"
  },
  "https://adelaide.edu.au/": {
-  "changed": "2026-10-14",
+  "changed": "2026-10-16",
   "checked": "2026-10-16",
   "employer": "Adelaide University (merged UofA + UniSA) incl. AIML",
   "employer_id": "adelaide-university-merged-uofa-unisa-incl-aiml",
@@ -67,7 +67,7 @@
     "url": "https://adelaide.edu.au/students/student-services/student-assist/contact-us/"
    }
   ],
-  "sig": "6b01df4fef4518b1"
+  "sig": "70ebe4e75bc5ee82"
  },
  "https://adelaide.edu.au/research/australian-institute-for-machine-learning/engage-with-us/": {
   "changed": null,
@@ -444,16 +444,15 @@
   "sig": "669cd4e882251514"
  },
  "https://aprintern.org.au/available-internships/": {
-  "changed": "2026-10-15",
+  "changed": "2026-10-16",
   "checked": "2026-10-16",
   "employer": "AARNet",
   "employer_id": "aarnet",
   "first_seen": "2026-10-06",
   "keywords": [
-   "Available Internships - APR.Intern AMSI Careers Research & Higher Ed Schools APR.Intern About About APR.Intern Our Team Program Partners Industry Partners News Events Videos & Recordings Contact Us Students Student Information Student Application Process Student Approval Form Alumni Resources Businesses Business Information Costs & Subsidies Defence Science Centre (DSC) Subsidy How It Works Student Database Submit a Project Enquiry R&D tax incentives Universities & Academics Subscription Model & AMSI Member University Benefits Academic Mentor Information Case Studies Available Internships Subscribe About About APR.Intern Our Team Program Partners Industry Partners News Events Videos & Recordings Contact Us Students Student Information Student Application Process Student Approval Form Alumni Resources Businesses Business Information Costs & Subsidies Defence Science Centre (DSC) Subsidy How It Works Student Database Submit a Project Enquiry R&D tax incentives Universities & Academics Subscription Model & AMSI Member University Benefits Academic Mentor Information Case Studies Available Internships Subscribe AVAILABLE INTERNSHIPS Home » Available Internships Clear All Filters Discipline Business, Economics and Management Education, Humanities and Social Sciences Engineering, IT, Mathematics and Statistics Law Medical, Biological and other Sciences State ACT NSW NT QLD Remote SA TAS VIC WA Sort by Newest to Oldest Closing Soon CAPABILITY X (APR – 3076) Wpcf Title Intelligent Systems Integration and Automation for Remote Industrial Applications Location: Perth, WA or Remote This project aims to investigate innovative systems engineering approaches that support the development, integration and deployment of advanced robotic, sensing and automated technologies in remote and demanding environments Close Date: 04/11/2026 Read More CAPABILITY X (APR – 3074) Wpcf Title AI, Computer Vision and Intelligent Software Development for Remote Operations Location: Perth, WA or Remote This project aims to advance the development of intelligent software solutions that improve safety, automation and operational performance in remote and challenging industrial environments.",
+   "Available Internships - APR.Intern AMSI Careers Research & Higher Ed Schools APR.Intern About About APR.Intern Our Team Program Partners Industry Partners News Events Videos & Recordings Contact Us Students Student Information Student Application Process Student Approval Form Alumni Resources Businesses Business Information Costs & Subsidies Defence Science Centre (DSC) Subsidy How It Works Student Database Submit a Project Enquiry R&D tax incentives Universities & Academics Subscription Model & AMSI Member University Benefits Academic Mentor Information Case Studies Available Internships Subscribe About About APR.Intern Our Team Program Partners Industry Partners News Events Videos & Recordings Contact Us Students Student Information Student Application Process Student Approval Form Alumni Resources Businesses Business Information Costs & Subsidies Defence Science Centre (DSC) Subsidy How It Works Student Database Submit a Project Enquiry R&D tax incentives Universities & Academics Subscription Model & AMSI Member University Benefits Academic Mentor Information Case Studies Available Internships Subscribe AVAILABLE INTERNSHIPS Home » Available Internships Clear All Filters Discipline Business, Economics and Management Education, Humanities and Social Sciences Engineering, IT, Mathematics and Statistics Law Medical, Biological and other Sciences State ACT NSW NT QLD Remote SA TAS VIC WA Sort by Newest to Oldest Closing Soon CAPABILITY X (APR – 3076) Wpcf Title Intelligent Systems Integration and Automation for Remote Industrial Applications Location: Perth, WA This project aims to investigate innovative systems engineering approaches that support the development, integration and deployment of advanced robotic, sensing and automated technologies in remote and demanding environments Close Date: 04/11/2026 Read More CAPABILITY X (APR – 3074) Wpcf Title AI, Computer Vision and Intelligent Software Development for Remote Operations Location: Perth, WA This project aims to advance the development of intelligent software solutions that improve safety, automation and operational performance in remote and challenging industrial environments.",
    "Close Date: 28/10/2026 Read More CAPABILITY X (APR – 3075) Wpcf Title Advanced Communications and Network Optimisation for Remote and Autonomous Systems Location: Perth, WA Reliable communications are essential for the safe and effective operation of remote monitoring, autonomous systems and industrial technologies.",
-   "Close Date: 28/10/2026 Read More ENNOVA ASSISTIVE TECHNOLOGIES (APR – 3065) Wpcf Title The Psychosocial and Emotional Impact of Assistive Technology in the Home Expanding Understanding of Person–Equipment Location: Sydney, NSW This project will explore an under-researched question in assistive technology: how do aesthetics, identity and emotional experience influence whether people accept and use the equipment designed to support them?",
-   "Close Date: 14/10/2026 Read More NEBULA MEDICAL (APR – 3059) Wpcf Title Injectable Conductive Hydrogels for Minimally Invasive Nerve Stimulation Implants Location: Remote Help develop an injectable, electrically conductive hydrogel that could allow tiny battery-free implants to stimulate peripheral nerves and relieve chronic pain, without leads or bulky hardware.",
+   "Close Date: 28/10/2026 Read More NEBULA MEDICAL (APR – 3059) Wpcf Title Injectable Conductive Hydrogels for Minimally Invasive Nerve Stimulation Implants Location: Remote Help develop an injectable, electrically conductive hydrogel that could allow tiny battery-free implants to stimulate peripheral nerves and relieve chronic pain, without leads or bulky hardware.",
    "Close Date: 21/10/2026 Read More EXPRESSION OF INTEREST (APR – 2455) Wpcf Title Expression of Interest Location: Nationwide APR.Intern invite Masters by Research and PhD students to submit an expression of interest to join the APR.Intern database.",
    "Read More We acknowledge and pay respect to the Traditional Owners of the land upon which we operate ABOUT About APR.Intern Our Team Partnerships Newsroom SUBSCRIBE Universities Student Information Academic Mentor Information Case Studies Available Internships BUSINESSES Business Information How It Works Costs & Rebates Our Industry Partners 03 8344 1785 contact@aprintern.org.au View our location © 2026 Australian Mathematical Sciences Institute | Website feedback: webmaster@amsi.org.au Privacy Statement"
   ],
@@ -487,7 +486,7 @@
     "url": "https://aprintern.org.au/universities/student-info/"
    }
   ],
-  "sig": "ba7551a59a867616"
+  "sig": "b342855eca660c5c"
  },
  "https://archerx.com.au": {
   "changed": null,
@@ -678,14 +677,20 @@
   "sig": "bd8d6250922f8bf7"
  },
  "https://careeropportunities.asc.com.au/": {
-  "changed": "2026-10-11",
+  "changed": "2026-10-16",
   "checked": "2026-10-16",
   "employer": "ASC Pty Ltd",
   "employer_id": "asc-pty-ltd",
   "first_seen": "2026-10-06",
-  "keywords": [],
+  "keywords": [
+   "Skip to jobs search results Category Search categories 18 filter options found Category Administration (4 items) 4 Business Development (1 items) 1 Design & Engineering (18 items) 18 Executive / General Management (2 items) 2 Finance, Risk & Insurance (3 items) 3 Graduates, Undergraduates, Apprenticeships and Traineeships (2 items) 2 Human Resources and Workforce Development (6 items) 6 Information Technology (4 items) 4 International opportunities (4 items) 4 Nuclear (7 items) 7 Other (4 items) 4 Program / Project Management (16 items) 16 Quality Control and Quality Assurance (7 items) 7 Security (1 items) 1 Sub Training School (1 items) 1 Supply Chain (3 items) 3 Trades, Manufacturing and Operators (6 items) 6 WHS&E (3 items) 3 Employment Type Search employment types 3 filter options found Employment Type Fixed Term Contract (6 items) 6 Full time (47 items) 47 Part time (1 items) 1 Site / Location Search cities 7 filter options found Site / Location Adelaide CBD (SA) (7 items) 7 Garden Island (WA) (11 items) 11 Henderson (WA) (27 items) 27 Osborne (SA) (24 items) 24 Perth CBD (WA) (4 items) 4 Port Adelaide (SA) (4 items) 4 United States (US) (6 items) 6 Search by job title, location, department, category, etc.",
+   "Read more Security Traineeship Program Osborne (SA) Graduates, Undergraduates, Apprenticeships and Traineeships Security Fixed Term Contract Full time Launch your security career with ASC through a two-year paid traineeship, gaining hands-on experience across personnel and physical security.",
+   "Read more Pipefitter - US Deployment Garden Island (WA) United States (US) International opportunities Trades, Manufacturing and Operators Full time We are seeking skilled quality control professionals to undertake short-term, world-leading training in Pearl Harbor, Hawaii, U.S.",
+   "Read more Plastic/Rubber Fabricator - US Deployments Garden Island (WA) Henderson (WA) United States (US) International opportunities Trades, Manufacturing and Operators Full time We are seeking skilled individuals to undertake long-term, world-leading training in Pearl Harbor, Hawaii, U.S.",
+   "Read more Technical Authority Coordinator Osborne (SA) Henderson (WA) Design & Engineering Full time Work closely with senior leaders and technical teams to drive better communication, governance and ways of working, while leading initiatives that improve performance, efficiency and collaboration."
+  ],
   "links": [],
-  "sig": "da39a3ee5e6b4b0d"
+  "sig": "21b3a87e94b49b34"
  },
  "https://careers.abb/global/en/search-results?keywords=intern&location=Australia": {
   "changed": null,
@@ -763,10 +768,10 @@
   "employer_id": "cisco",
   "first_seen": "2026-10-06",
   "keywords": [
-   "intern Australia Job Openings - Cisco Careers Search results | Find available job openings at Cisco Careers Find your next role Cisco is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis."
+   "Australia intern Job Openings - Cisco Careers Search results | Find available job openings at Cisco Careers Find your next role Cisco is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis."
   ],
   "links": [],
-  "sig": "83047b0be737d4c5"
+  "sig": "f0eeedb8198caf81"
  },
  "https://careers.fortescue.com/en/early-careers/vacation-program": {
   "changed": "2026-10-09",
@@ -874,7 +879,7 @@
   "sig": "af8914107f965869"
  },
  "https://careers.l3harris.com/en/search-jobs/Australia": {
-  "changed": "2026-10-15",
+  "changed": "2026-10-16",
   "checked": "2026-10-16",
   "employer": "L3Harris Technologies Australia",
   "employer_id": "l3harris-technologies-australia",
@@ -883,7 +888,7 @@
    "This type of scam is normally carried out through fake websites, job postings, chat applications or email accounts claiming to be from L3Harris.",
    "Skip to main content Skip to Search Results Skip to Search Filters L3Harris Search L3Harris.com Menu Search Search L3Harris NYSE: LHX $ - - Portals US|EN Canada English Français United States English All Jobs Working Here Life at L3Harris Working at L3Harris Benefits & Compensation Career Development Talent & Culture Opportunities Find Your Career Engineering Design innovative solutions for the world’s toughest challenges across air, land, sea, space and cyber domains Business & Operations Put your business expertise to work in a mission to create a more secure world New Grads & Interns Become part of our next generation of innovators and leaders International Find your calling in 45+ countries around the world Military & Veterans Your mission continues to help shape the next solution that delivers safety, security and success to our customers Events l3harris.com Job Alert Find Your Opportunity With Us Search Jobs Keyword Search City, State, or ZIP Search radius Radius 5 miles 15 miles 25 miles 35 miles 50 miles Go Job Match Not ready to apply?",
    "Systems Engineer Engineering Fremantle, Western Australia Systems Engineer Engineering Fremantle, Western Australia Systems Engineer SEA1350 Engineering Fremantle, Western Australia Snr Specialist, Environmental Health & Safety Environmental, Health, &, Safety Fremantle, Western Australia Specialist Applications Engineering Engineering, Services Brisbane, Queensland Project Scheduler Program, Management Fremantle, Western Australia Mission Systems Training Administrator Engineering, Services Adelaide, South Australia Senior Program Scheduler Program, Management Fremantle, Western Australia Snr Specialist Field Engineer Engineering, Services Brisbane, Queensland B2 Avionics Technician Engineering, Services Adelaide, South Australia Junior Electronics Technician Engineering, Services Fremantle, Western Australia Mission Systems Trainer Engineering, Services Adelaide, South Australia Senior ILS Engineer Manufacturing Fremantle, Western Australia PFA Controls Finance Fremantle, Western Australia Program Finance Analyst - Controls Finance Fremantle, Western Australia Previous Enter number to jump to a different page.",
-   "Page of 3 Go Next Show All Filter Results Category Business Development & Sales 1 Business Operations 2 Engineering 12 Engineering Services 12 Environmental Health & Safety 1 Finance 3 Legal 1 Manufacturing 2 Program Management 2 Segment Comms & Spectrum Dominance 20 Space & Mission Systems 16 Sub-Category Administratif/Clérical 2 Engineering 11 Engineering--Electrical 3 Engineering--Manufacturing 1 Engineering--Systems 3 Field Services--Technical 4 Finance 1 Finance--Program Finance 2 Gestion des programmes 1 Légal 1 Opérations 2 Program Management--Project Management 1 Sales 1 Technique -- Fabrication 1 Unknown 2 AJDType Business and Operations 4 Software 2 Systems Engineer 6 Country Australia 35 Germany 1 State Queensland 20 South Australia 4 Western Australia 11 City Adelaide 4 Brisbane 18 Fremantle 11 Pinkenba 3 Divisions 36 Clear Filters Join Our Talent Community Sign up for job alerts and be the first to know about our job openings.",
+   "Page of 3 Go Next Show All Filter Results Category Business Development & Sales 1 Business Operations 1 Engineering 11 Engineering Services 12 Environmental Health & Safety 1 Finance 3 Legal 1 Manufacturing 2 Program Management 2 Segment Comms & Spectrum Dominance 18 Space & Mission Systems 16 Sub-Category Administratif/Clérical 1 Engineering 11 Engineering--Electrical 2 Engineering--Manufacturing 1 Engineering--Systems 3 Field Services--Technical 4 Finance 1 Finance--Program Finance 2 Gestion des programmes 1 Légal 1 Opérations 2 Program Management--Project Management 1 Sales 1 Technique -- Fabrication 1 Unknown 2 AJDType Business and Operations 4 Software 2 Systems Engineer 6 Country Australia 33 Germany 1 State Queensland 18 South Australia 4 Western Australia 11 City Adelaide 4 Brisbane 16 Fremantle 11 Pinkenba 3 Divisions 34 Clear Filters Join Our Talent Community Sign up for job alerts and be the first to know about our job openings.",
    "Interested In Job Category Job Category Business Development & Sales Business Operations Co-Op/Intern Communications Contracts Engineering Engineering Services Environmental Health & Safety Facilities Finance Flight Operations Human Resources Information Technology Legal Manufacturing New Grads Program Management Quality & Operational Excellen Security Strategy Supply Chain Union Location Add Remove First Name Last Name Street Address State/Province Zip/Postal Code Phone Number Email address Upload Resume Upload Resume (Optional) Remove Confirm Email By submitting your information, you acknowledge that you have read our privacy policy (this content opens in new window) and consent to receive email communication from L3Harris."
   ],
   "links": [
@@ -896,7 +901,7 @@
     "url": "https://careers.l3harris.com/international"
    }
   ],
-  "sig": "12d44569d913b64c"
+  "sig": "0ce34cae1dda3bbf"
  },
  "https://careers.mars.com/": {
   "changed": null,
@@ -1546,7 +1551,7 @@
   "first_seen": "2026-10-06",
   "keywords": [
    "Non-IFRS Information In addition to disclosing results determined in accordance with IFRS, EVN may also disclose certain non-IFRS and pro forma non-IFRS results of operations, including certain ratios, operational and miscellaneous data, as well as net income, diluted earnings per share, operating expenses, and operating income that make certain adjustments or exclude certain charges and gains that are outlined in the schedules included in this website.",
-   "Accept Decline ASX: EVN GOLD: US$4,154/oz A$6,008/oz Contact us About us Our leadership Board of Directors Leadership Team Our journey Corporate governance Our operations Cowal Ernest Henry Northparkes Red Lake Mungari Mt Rawdon Exploration Resources & Reserves Sustainability Environment Climate Health and Safety Social Our people Communities Sponsorships and donations Human rights Reports, disclosures and policies Case studies Investors ASX announcements Presentations Share price Reports Webcasts Fact sheets Financial calendar Frequently asked questions Dividends Broker research Media Careers Early careers programs Graduate Program Vacation Program Apprenticeships, traineeships and cadetships Our recruitment process Current opportunities Search our opportunities across Australia and Canada and find your career highlight with Evolution.",
+   "Accept Decline ASX: EVN GOLD: US$4,178/oz A$6,016/oz Contact us About us Our leadership Board of Directors Leadership Team Our journey Corporate governance Our operations Cowal Ernest Henry Northparkes Red Lake Mungari Mt Rawdon Exploration Resources & Reserves Sustainability Environment Climate Health and Safety Social Our people Communities Sponsorships and donations Human rights Reports, disclosures and policies Case studies Investors ASX announcements Presentations Share price Reports Webcasts Fact sheets Financial calendar Frequently asked questions Dividends Broker research Media Careers Early careers programs Graduate Program Vacation Program Apprenticeships, traineeships and cadetships Our recruitment process Current opportunities Search our opportunities across Australia and Canada and find your career highlight with Evolution.",
    "Be it part of our award-winning Graduate Program, our Vacation Program, or one of our site-based apprenticeships, traineeships or cadetships.",
    "Global locations Current opportunities Early careers programs Our recruitment process Global locations Explore our current opportunities Whether you’re working underground or in open pit operations, identifying new opportunities with our Exploration team, or contributing from our Group offices, the possibilities are endless.",
    "Career and operational diversity Challenge and transformation Empowerment and influence People focus and development Australia Canada Residential Fly in/fly out Drive in/drive out Open pit Underground Processing Maintenance Full-time Part-time Job share With a wide range of opportunities to explore, you’ll have the freedom to shape a long and varied career that reflects your strengths and aspirations.",
@@ -1576,7 +1581,7 @@
     "url": "https://evolutionmining.com/careers/early-careers-program/apprenticeships/"
    }
   ],
-  "sig": "13df4849dcb62c25"
+  "sig": "6c7075fe05db393d"
  },
  "https://fbicrc.com.au/": {
   "changed": null,
@@ -1891,8 +1896,8 @@
   "employer_id": "arup",
   "first_seen": "2026-10-06",
   "keywords": [
-   "Electrical Engineering  Graduate Electrical Engineer (2027 Intake)  Hong Kong Graduate Electrical Engineer (2027 Intake)  Hong Kong University Intern - Electrical Engineering  Hong Kong, -, Hong Kong 94 new jobs Civil Engineering  Civil Site Development Engineer  Amsterdam, -, Netherlands Underground Utilities Senior Engineer  Madrid, -, Spain Graduate Civil Engineer (2027 Intake)  Hong Kong 87 new jobs Mechanical Engineering  Graduate Mechanical Engineer (2027 Intake)  Hong Kong, -, Hong Kong Graduate Mechanical Engineer (2027 Intake)  Hong Kong Senior Mechanical Engineer  Kuala Lumpur, -, Malaysia 71 new jobs Structural Engineering  Graduate Structural Engineer (2027 Intake)  Hong Kong Senior Structural Engineer  Ho Chi Minh City, -, Vietnam Structural Engineering Intern (Summer 2027)  San Francisco, California, United States 54 new jobs Browse Jobs Browse jobs by type or location.",
-   "Featured Jobs View all New Jobs New Vacation Student | Programme and Project Management 🔍 Sydney, New South Wales, Australia See it differentlyYou see the world through a unique lens and that’s exactly what we need."
+   "Electrical Engineering  Graduate Electrical Engineer (2027 Intake)  Hong Kong Graduate Electrical Engineer (2027 Intake)  Hong Kong University Intern - Electrical Engineering  Hong Kong, -, Hong Kong 94 new jobs Civil Engineering  Civil Site Development Engineer  Amsterdam, -, Netherlands Underground Utilities Senior Engineer  Madrid, -, Spain Graduate Civil Engineer (2027 Intake)  Hong Kong 87 new jobs Mechanical Engineering  Graduate Mechanical Engineer (2027 Intake)  Hong Kong, -, Hong Kong Graduate Mechanical Engineer (2027 Intake)  Hong Kong Senior Mechanical Engineer  Kuala Lumpur, -, Malaysia 72 new jobs Structural Engineering  Graduate Structural Engineer (2027 Intake)  Hong Kong Senior Structural Engineer  Ho Chi Minh City, -, Vietnam Structural Engineering Intern (Summer 2027)  San Francisco, California, United States 55 new jobs Browse Jobs Browse jobs by type or location.",
+   "Corporate Services People Partnering New Vacation Student | Programme and Project Management 🔍 Sydney, New South Wales, Australia See it differentlyYou see the world through a unique lens and that’s exactly what we need."
   ],
   "links": [
    {
@@ -1932,7 +1937,7 @@
     "url": "https://jobs.arup.com/jobs/vacation-student-programme-and-project-management-35604"
    }
   ],
-  "sig": "c7b000f27f7fa697"
+  "sig": "5542b3dca1203c3d"
  },
  "https://jobs.arup.com/jobs": {
   "changed": "2026-10-16",
@@ -1941,8 +1946,8 @@
   "employer_id": "arup",
   "first_seen": "2026-10-06",
   "keywords": [
-   "Electrical Engineering  Graduate Electrical Engineer (2027 Intake)  Hong Kong Graduate Electrical Engineer (2027 Intake)  Hong Kong University Intern - Electrical Engineering  Hong Kong, -, Hong Kong 94 new jobs Civil Engineering  Civil Site Development Engineer  Amsterdam, -, Netherlands Underground Utilities Senior Engineer  Madrid, -, Spain Graduate Civil Engineer (2027 Intake)  Hong Kong 87 new jobs Mechanical Engineering  Graduate Mechanical Engineer (2027 Intake)  Hong Kong, -, Hong Kong Graduate Mechanical Engineer (2027 Intake)  Hong Kong Senior Mechanical Engineer  Kuala Lumpur, -, Malaysia 71 new jobs Structural Engineering  Graduate Structural Engineer (2027 Intake)  Hong Kong Senior Structural Engineer  Ho Chi Minh City, -, Vietnam Structural Engineering Intern (Summer 2027)  San Francisco, California, United States 54 new jobs Browse Jobs Browse jobs by type or location.",
-   "Featured Jobs View all New Jobs New Vacation Student | Programme and Project Management 🔍 Sydney, New South Wales, Australia See it differentlyYou see the world through a unique lens and that’s exactly what we need."
+   "Electrical Engineering  Graduate Electrical Engineer (2027 Intake)  Hong Kong Graduate Electrical Engineer (2027 Intake)  Hong Kong University Intern - Electrical Engineering  Hong Kong, -, Hong Kong 94 new jobs Civil Engineering  Civil Site Development Engineer  Amsterdam, -, Netherlands Underground Utilities Senior Engineer  Madrid, -, Spain Graduate Civil Engineer (2027 Intake)  Hong Kong 87 new jobs Mechanical Engineering  Graduate Mechanical Engineer (2027 Intake)  Hong Kong, -, Hong Kong Graduate Mechanical Engineer (2027 Intake)  Hong Kong Senior Mechanical Engineer  Kuala Lumpur, -, Malaysia 72 new jobs Structural Engineering  Graduate Structural Engineer (2027 Intake)  Hong Kong Senior Structural Engineer  Ho Chi Minh City, -, Vietnam Structural Engineer  Tokyo, -, Japan 55 new jobs Browse Jobs Browse jobs by type or location.",
+   "Corporate Services People Partnering New Vacation Student | Programme and Project Management 🔍 Sydney, New South Wales, Australia See it differentlyYou see the world through a unique lens and that’s exactly what we need."
   ],
   "links": [
    {
@@ -1974,15 +1979,11 @@
     "url": "https://jobs.arup.com/jobs/graduate-structural-engineer-2027-intake-35500"
    },
    {
-    "title": "Structural Engineering Intern (Summer 2027)",
-    "url": "https://jobs.arup.com/jobs/structural-engineering-intern-summer-2027-35621"
-   },
-   {
     "title": "Vacation Student | Programme and Project Management",
     "url": "https://jobs.arup.com/jobs/vacation-student-programme-and-project-management-35604"
    }
   ],
-  "sig": "c7b000f27f7fa697"
+  "sig": "bb02013bc4eed52b"
  },
  "https://jobs.bostonscientific.com/": {
   "changed": null,
@@ -2087,7 +2088,7 @@
   "employer_id": "siemens-energy-grid-technologies-grid-solutions",
   "first_seen": "2026-10-06",
   "keywords": [
-   "Search jobs at Siemens Energy and Siemens Gamesa | Siemens Energy - Careers Marketplace Skip to content Skip to footer Siemens Energy Menu Search Jobs About us Early careers Hiring process Login Current language Deutsch English Español Français Magyar Nederlands Português Română Čeština 简体中文 繁體中文 日本語 Search jobs at Siemens Energy and Siemens Gamesa Get job recommendations Search for open positions Search for open positions Keywords Country / Region Select an option Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Brazil British Indian Ocean Territory British Virgin Islands Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Cook Islands Costa Rica Croatia Cuba Curacao Cyprus Czechia Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See (Vatican City State) Honduras Hong Kong Hungary Iceland India Indonesia Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Kosovo Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Libyan Arab Jamahiriya Liechtenstein Lithuania Luxembourg Macao Macao, China Macau Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island North Macedonia Northern Mariana Islands Norway Oman Pakistan Palau Palestinian Territory, Occupied Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Reunion Romania Russian Federation Rwanda Saint Barthelemy Saint Helena Saint Kitts and Nevis Saint Lucia Saint Martin Saint Pierre and Miquelon Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Eustatius and Saba Sint Maarten Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Korea South Soudan Spain Sri Lanka Sudan Suriname Svalbard and Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan Taiwan, Province of China Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkiye Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom of Great Britain and Northern Ireland United Republic of Tanzania United States of America Uruguay Uzbekistan Vanuatu Venezuela Viet Nam Vietnam Virgin Islands, British Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe State/Province City Job Function Select an option Assurance Audit Communications Customer Services Cybersecurity Engineering Enterprise Data & Advanced Analytics Environmental Protection, Health & Safety Finance General Management Human Resources Information Technology Internal Services Legal & Compliance Manufacturing Marketing Product Management, Portfolio & Innovation Project Management Quality Management Real Estate Research & Development Sales SCM-Procurement / Supply Chain Logistics Strategy Experience Level Select an option Entry-Level / Graduate Manager / Team Leader Professional / Experienced Senior Management / Executive Student / Intern / Apprentice Full / Part time Select an option Full-time Part-time Full Time or Part Time Full / Part time Search 1 - 20 of 999+ results Filters applied ( Reset ) Sort by Unsorted Job Name Posted Date Software Engineering Intern Apply Share this job: Share Intern – Software Development and Testing Apply Share this job: Share Engineering Graduate Internship Program Apply Share this job: Share International Order Manager Hot Job Apply Share this job: Share Automation / AI Intern for Blade Structural Design Process Apply Share this job: Share Intern - Turbine Software System Validation Apply Share this job: Share Project Coordinator – International Service Contracts EU&AF Apply Share this job: Share Internship Business Partner Master Data Services Apply Share this job: Share Intern – Blades Process Digitalization & Power BI Analyst Apply Share this job: Share International Commercial Officer Apply Share this job: Share Internal Commercial Project Manager (m/f/d) Apply Share this job: Share HR Intern Apply Share this job: Share Digitalizációs gyakornok (Digitalization Intern) Apply Share this job: Share Communications Intern Apply Share this job: Share Data Analyst Intern - Real Estate Apply Share this job: Share Field Machinist – Domestic & International Travel Hot Job Apply Share this job: Share HR Intern Apply Share this job: Share Building Services Intern (Electrical and/or Mechanical) Apply Share this job: Share Finance Intern Apply Share this job: Share Operations Quality Intern Apply Share this job: Share Next >> Technical Issues?",
+   "Search jobs at Siemens Energy and Siemens Gamesa | Siemens Energy - Careers Marketplace Skip to content Skip to footer Siemens Energy Menu Search Jobs About us Early careers Hiring process Login Current language Deutsch English Español Français Magyar Nederlands Português Română Čeština 简体中文 繁體中文 日本語 Search jobs at Siemens Energy and Siemens Gamesa Get job recommendations Search for open positions Search for open positions Keywords Country / Region Select an option Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Brazil British Indian Ocean Territory British Virgin Islands Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Cook Islands Costa Rica Croatia Cuba Curacao Cyprus Czechia Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See (Vatican City State) Honduras Hong Kong Hungary Iceland India Indonesia Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Kosovo Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Libyan Arab Jamahiriya Liechtenstein Lithuania Luxembourg Macao Macao, China Macau Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island North Macedonia Northern Mariana Islands Norway Oman Pakistan Palau Palestinian Territory, Occupied Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Reunion Romania Russian Federation Rwanda Saint Barthelemy Saint Helena Saint Kitts and Nevis Saint Lucia Saint Martin Saint Pierre and Miquelon Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Eustatius and Saba Sint Maarten Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Korea South Soudan Spain Sri Lanka Sudan Suriname Svalbard and Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan Taiwan, Province of China Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkiye Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom of Great Britain and Northern Ireland United Republic of Tanzania United States of America Uruguay Uzbekistan Vanuatu Venezuela Viet Nam Vietnam Virgin Islands, British Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe State/Province City Job Function Select an option Assurance Audit Communications Customer Services Cybersecurity Engineering Enterprise Data & Advanced Analytics Environmental Protection, Health & Safety Finance General Management Human Resources Information Technology Internal Services Legal & Compliance Manufacturing Marketing Product Management, Portfolio & Innovation Project Management Quality Management Real Estate Research & Development Sales SCM-Procurement / Supply Chain Logistics Strategy Experience Level Select an option Entry-Level / Graduate Manager / Team Leader Professional / Experienced Senior Management / Executive Student / Intern / Apprentice Full / Part time Select an option Full-time Part-time Full Time or Part Time Full / Part time Search 1 - 20 of 999+ results Filters applied ( Reset ) Sort by Unsorted Job Name Posted Date Intern – Software Development and Testing Apply Share this job: Share Automation / AI Intern for Blade Structural Design Process Apply Share this job: Share Internship Business Partner Master Data Services Apply Share this job: Share Intern - Turbine Software System Validation Apply Share this job: Share Communications Intern Apply Share this job: Share International Order Manager Hot Job Apply Share this job: Share Engineering Graduate Internship Program Apply Share this job: Share International Commercial Officer Apply Share this job: Share Project Coordinator – International Service Contracts EU&AF Apply Share this job: Share Intern – Blades Process Digitalization & Power BI Analyst Apply Share this job: Share Internal Commercial Project Manager (m/f/d) Apply Share this job: Share HR Intern Apply Share this job: Share Digitalizációs gyakornok (Digitalization Intern) Apply Share this job: Share Data Analyst Intern - Real Estate Apply Share this job: Share Field Machinist – Domestic & International Travel Hot Job Apply Share this job: Share HR Intern Apply Share this job: Share Building Services Intern (Electrical and/or Mechanical) Apply Share this job: Share Finance Intern Apply Share this job: Share Operations Quality Intern Apply Share this job: Share Power Transformer Internal connection (Cleats & Leads) Design Engineer Apply Share this job: Share Next >> Technical Issues?",
    "US Only: Request Accommodations for Disability Labor Condition Application siemens-energy.com Global Website This platform is operated under the Siemens Energy brand however, the underlying software and AI-supported functionalities are provided and maintained by Avature."
   ],
   "links": [
@@ -2096,44 +2097,44 @@
     "url": "https://www.siemens-energy.com/global/en/home/careers/early-career-programs.html"
    },
    {
-    "title": "Software Engineering Intern",
-    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Software-Engineering-Intern/302853"
-   },
-   {
     "title": "Intern – Software Development and Testing",
     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Intern-Software-Development-and-Testing/303119"
-   },
-   {
-    "title": "Engineering Graduate Internship Program",
-    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Engineering-Graduate-Internship-Program/303122"
-   },
-   {
-    "title": "International Order Manager",
-    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/International-Order-Manager/305286"
    },
    {
     "title": "Automation / AI Intern for Blade Structural Design Process",
     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Automation-AI-Intern-for-Blade-Structural-Design-Process/302765"
    },
    {
+    "title": "Internship Business Partner Master Data Services",
+    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Internship-Business-Partner-Master-Data-Services/304073"
+   },
+   {
     "title": "Intern - Turbine Software System Validation",
     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Intern-Turbine-Software-System-Validation/303402"
+   },
+   {
+    "title": "Communications Intern",
+    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Communications-Intern/304524"
+   },
+   {
+    "title": "International Order Manager",
+    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/International-Order-Manager/305286"
+   },
+   {
+    "title": "Engineering Graduate Internship Program",
+    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Engineering-Graduate-Internship-Program/303122"
+   },
+   {
+    "title": "International Commercial Officer",
+    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/International-Commercial-Officer/303223"
    },
    {
     "title": "Project Coordinator – International Service Contracts EU&AF",
     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Project-Coordinator-International-Service-Contracts-EU-AF/305105"
    },
    {
-    "title": "Internship Business Partner Master Data Services",
-    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Internship-Business-Partner-Master-Data-Services/304073"
-   },
-   {
     "title": "Intern – Blades Process Digitalization & Power BI Analyst",
     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Intern-Blades-Process-Digitalization-Power-BI-Analyst/304089"
-   },
-   {
-    "title": "International Commercial Officer",
-    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/International-Commercial-Officer/303223"
    },
    {
     "title": "Internal Commercial Project Manager (m/f/d)",
@@ -2146,10 +2147,6 @@
    {
     "title": "Digitalizációs gyakornok (Digitalization Intern)",
     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Digitaliz-ci-s-gyakornok-Digitalization-Intern/305059"
-   },
-   {
-    "title": "Communications Intern",
-    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Communications-Intern/304524"
    },
    {
     "title": "Data Analyst Intern - Real Estate",
@@ -2174,9 +2171,13 @@
    {
     "title": "Operations Quality Intern",
     "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Operations-Quality-Intern/304697"
+   },
+   {
+    "title": "Power Transformer Internal connection (Cleats & Leads) Design Engineer",
+    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Power-Transformer-Internal-connection-Cleats-Leads-Design-Engineer/304741"
    }
   ],
-  "sig": "ed64224cf3150645"
+  "sig": "ed52fb66a0dcfb70"
  },
  "https://jobs.siemens-healthineers.com/": {
   "changed": null,
@@ -2271,36 +2272,38 @@
   "employer_id": "siemens-mobility-australia",
   "first_seen": "2026-10-06",
   "keywords": [
-   "Job Search | Careers Marketplace - Siemens Skip to content Skip to footer Job Search All Jobs AI Recommendations FAQs & Support English Deutsch English Español Français Nederlands Portuguese Čestina 中文 (简体) 中文 (繁体) 日本語 Login Job Search All Jobs AI Recommendations FAQs & Support Open jobs Filter results by Filter results by Keywords or skills Country State/Province/County City Field of work Experience Level Additional filters Job type Work mode Employment type Organization Business Unit Search 1 - 6 of 999+ results Filters applied ( Reset ) Sort by Most recent Field of work Job title eMobility Experience Program Internship Atlanta , Georgia , United States of America • Job ID: 522322 • Internal Services Share Email WeChat WhatsApp X Facebook Learn more Senior Product Manager - Internal AI Raleigh , North Carolina , United States of America • Job ID: 521268 • Product Management, Portfolio & Innovation Share Email WeChat WhatsApp X Facebook Learn more Head of Marketing and International Business Development Multiple Locations • Job ID: 525737 • Marketing Share Email WeChat WhatsApp X Facebook Learn more Strategic Student Program: Software Engineering Intern (LCS, Summer 2027) State College , Pennsylvania , United States of America • Job ID: 525455 • Internal Services Share Email WeChat WhatsApp X Facebook Learn more Energy Business Advisory Intern Multiple Locations • Job ID: 522346 • Internal Services Share Email WeChat WhatsApp X Facebook Learn more Marketing and Communications Intern - Electrical Products (Quito) Quito , Pichincha , Ecuador • Job ID: 525470 • Internal Services Share Email WeChat WhatsApp X Facebook Learn more 1 - 6 of 999+ results Next >> New opportunities arise everyday Get AI Recommendations or Create a job alert US Only: Review Accommodations for Disability © Siemens 1996 - 2026 FAQs Corporate information Privacy notice Cookie notice Terms of use Digital ID Whistleblowing Important Note: For all job applicants looking to join us, please note Siemens does not ask for fees prior/during/after the application process.",
+   "Job Search | Careers Marketplace - Siemens Skip to content Skip to footer Job Search All Jobs AI Recommendations FAQs & Support English Deutsch English Español Français Nederlands Portuguese Čestina 中文 (简体) 中文 (繁体) 日本語 Login Job Search All Jobs AI Recommendations FAQs & Support Open jobs Filter results by Filter results by Keywords or skills Country State/Province/County City Field of work Experience Level Additional filters Job type Work mode Employment type Organization Business Unit Search 1 - 6 of 999+ results Filters applied ( Reset ) Sort by Most recent Field of work Job title Strategic Student Program: Event Digital & Account-Based Marketing Intern (CMMK, Spring 2027) St.",
+   "Louis , Missouri , United States of America • Job ID: 521716 • Internal Services Share Email WeChat WhatsApp X Facebook Learn more SkillBridge Internship – Field Technician Houston , Texas , United States of America • Job ID: 517938 • Internal Services Share Email WeChat WhatsApp X Facebook Learn more Strategic Student Program: Thermo-Mechanical Product Engineering Internship (Spring 2027, SIM STS) Multiple Locations • Job ID: 521261 • Internal Services Share Email WeChat WhatsApp X Facebook Learn more Strategic Student Program: Future Workforce Strategy Enablement Team Intern (CMMK, Spring 2027) St.",
+   "Louis , Missouri , United States of America • Job ID: 520405 • Internal Services Share Email WeChat WhatsApp X Facebook Learn more Intern (LiDAR/KPS assistant) Taipei , Taipei shih , Taiwan, Province of China • Job ID: 518792 • Internal Services Share Email WeChat WhatsApp X Facebook Learn more US Sustainability Consulting & Energy Services Project Management Intern Columbia , South Carolina , United States of America • Job ID: 521900 • Internal Services Share Email WeChat WhatsApp X Facebook Learn more 1 - 6 of 999+ results Next >> New opportunities arise everyday Get AI Recommendations or Create a job alert US Only: Review Accommodations for Disability © Siemens 1996 - 2026 FAQs Corporate information Privacy notice Cookie notice Terms of use Digital ID Whistleblowing Important Note: For all job applicants looking to join us, please note Siemens does not ask for fees prior/during/after the application process.",
    "Similarly, please do not open documents in e-mails that appear to be sent by a Siemens recruiter unless you are sure you are being contacted by one of our professionals for an active application process."
   ],
   "links": [
    {
-    "title": "eMobility Experience Program Internship",
-    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/522322"
+    "title": "Strategic Student Program: Event Digital & Account-Based Marketing Intern (CMMK, Spring 2027)",
+    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521716"
    },
    {
-    "title": "Senior Product Manager - Internal AI",
-    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521268"
+    "title": "SkillBridge Internship – Field Technician",
+    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/517938"
    },
    {
-    "title": "Head of Marketing and International Business Development",
-    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/525737"
+    "title": "Strategic Student Program: Thermo-Mechanical Product Engineering Internship (Spring 2027, SIM STS)",
+    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521261"
    },
    {
-    "title": "Strategic Student Program: Software Engineering Intern (LCS, Summer 2027)",
-    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/525455"
+    "title": "Strategic Student Program: Future Workforce Strategy Enablement Team Intern (CMMK, Spring 2027)",
+    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/520405"
    },
    {
-    "title": "Energy Business Advisory Intern",
-    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/522346"
+    "title": "Intern (LiDAR/KPS assistant)",
+    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/518792"
    },
    {
-    "title": "Marketing and Communications Intern - Electrical Products (Quito)",
-    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/525470"
+    "title": "US Sustainability Consulting & Energy Services Project Management Intern",
+    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521900"
    }
   ],
-  "sig": "6a2f652736bdb6fb"
+  "sig": "52a90b3f9d4e5ea6"
  },
  "https://jobs.techstars.com/companies/esper-satellite-imagery-2": {
   "changed": null,
@@ -2429,9 +2432,7 @@
   "employer_id": "bae-systems-australia",
   "first_seen": "2026-10-06",
   "keywords": [
-   "Job Search | BAE Systems Skip to content baesystems.com Life at BAE Systems Experienced professionals Students, graduates and career changers Locations Join us Search and apply Search for: Life at BAE Systems Experienced professionals Students, graduates and career changers Locations Join us Search and apply Search for: Home Careers Job Search Search and apply Search and apply Choose the right opportunity for you Search Jobs keyboard_arrow_up Toggle Search by location Search Location Find jobs near me Locations Country Filter by country Filter by location (view on map) Filter by location (view on map) Areas of work Map search Toggle Search View all jobs Country keyboard_arrow_down Location keyboard_arrow_down Location keyboard_arrow_down Areas of work keyboard_arrow_down Level of experience keyboard_arrow_down Sector keyboard_arrow_down Search trending_flat Locations keyboard_arrow_down Filter by country Filter by location (view on map) Filter by location (view on map) Areas of work keyboard_arrow_down Level of experience keyboard_arrow_down Sector keyboard_arrow_down Proximity keyboard_arrow_down Sort by: Note: If the jobs shown near you are not accurate, please select a location from the filters shown above.",
-   "View job details Riyadh, Saudi Arabia Safety Training Instructor (Saudi National Only) Grade: 5 Location: Riyadh Working hours: full time Advert closing:...",
-   "View job details Riyadh, Saudi Arabia Safety Training Instructor (Saudi National Only) Grade: 5 Location: Riyadh Working hours: full time Advert closing:..."
+   "Job Search | BAE Systems Skip to content baesystems.com Life at BAE Systems Experienced professionals Students, graduates and career changers Locations Join us Search and apply Search for: Life at BAE Systems Experienced professionals Students, graduates and career changers Locations Join us Search and apply Search for: Home Careers Job Search Search and apply Search and apply Choose the right opportunity for you Search Jobs keyboard_arrow_up Toggle Search by location Search Location Find jobs near me Locations Country Filter by country Filter by location (view on map) Filter by location (view on map) Areas of work Map search Toggle Search View all jobs Country keyboard_arrow_down Location keyboard_arrow_down Location keyboard_arrow_down Areas of work keyboard_arrow_down Level of experience keyboard_arrow_down Sector keyboard_arrow_down Search trending_flat Locations keyboard_arrow_down Filter by country Filter by location (view on map) Filter by location (view on map) Areas of work keyboard_arrow_down Level of experience keyboard_arrow_down Sector keyboard_arrow_down Proximity keyboard_arrow_down Sort by: Note: If the jobs shown near you are not accurate, please select a location from the filters shown above."
   ],
   "links": [
    {
@@ -2439,7 +2440,7 @@
     "url": "https://careers.baesystems.com/students-graduates-and-career-changers"
    }
   ],
-  "sig": "060b91bec033fa41"
+  "sig": "f1b59fe7770dc6c7"
  },
  "https://lightsourcebp.com/careers/": {
   "changed": null,
@@ -2637,7 +2638,7 @@
  },
  "https://ocius.com.au/careers/": {
   "changed": null,
-  "checked": "2026-10-14",
+  "checked": "2026-10-16",
   "employer": "Ocius Technology",
   "employer_id": "ocius-technology",
   "first_seen": "2026-10-08",
@@ -3039,14 +3040,13 @@
   "first_seen": "2026-10-06",
   "keywords": [
    "We close that gap.",
+   "Explore open roles Meet the team WHERE YOU FIT Find your part of the mission Our product Engineering · Product · Design Design and build the platform millions rely on to run their day.",
    "Open, Honest, Always When information flows freely and feedback is honest, everyone makes better decisions.",
    "We share context early and close the loop.",
-   "Explore open roles Meet the team WHERE YOU FIT Find your part of the mission Our product Engineering · Product · Design Design and build the platform millions rely on to run their day.",
-   "HOW HIRING WORKS Straightforward, start to finish 01 Apply Send your application for the role that fits.",
-   "Explore open roles"
+   "Explore open roles HOW HIRING WORKS Straightforward, start to finish 01 Apply Send your application for the role that fits."
   ],
   "links": [],
-  "sig": "870ba7f254768a0f"
+  "sig": "f2fecb758be8fb1b"
  },
  "https://search.jobs.wa.gov.au/": {
   "changed": "2026-10-06",
@@ -3129,17 +3129,17 @@
   "sig": "da39a3ee5e6b4b0d"
  },
  "https://sqc.com/careers": {
-  "changed": "2026-10-13",
+  "changed": "2026-10-16",
   "checked": "2026-10-16",
   "employer": "Silicon Quantum Computing (SQC)",
   "employer_id": "silicon-quantum-computing-sqc",
   "first_seen": "2026-10-06",
   "keywords": [
    "Our open roles.",
-   "Senior Financial Accountant View AI Engineer View Technical Project Manager View ML Ops Engineer, Quantum Machine Learning View Software Engineer, Compiler Services View Software Engineer, Control & Error Correction View Infrastructure Engineer, Hardware & Networks View Senior Platform Engineer, Monitoring & Telemetry View Machine Learning Engineer, Automated Calibration Services View Senior Device Processing Engineer View Procurement & Supply Chain Manager View Platform Engineer View General Application View Leadership through the stack ‍ SQC’s processors, constructed using precision atom qubits in silicon are designed to scale."
+   "Senior Financial Accountant View AI Engineer View Technical Project Manager View ML Ops Engineer, Quantum Machine Learning View Software Engineer, Compiler Services View Software Engineer, Control & Error Correction View Infrastructure Engineer, Hardware & Networks View Senior Platform Engineer, Monitoring & Telemetry View Machine Learning Engineer, Automated Calibration Services View Senior Device Processing Engineer View General Application View Leadership through the stack ‍ SQC’s processors, constructed using precision atom qubits in silicon are designed to scale."
   ],
   "links": [],
-  "sig": "d6938a345b44d6ce"
+  "sig": "1d52c082a055fea9"
  },
  "https://swoop.aero/": {
   "changed": null,
@@ -3525,15 +3525,15 @@
    "At the end of our internship, all interns will present their project learnings and proposal to a panel of AWS leaders.\\u003cbr/\\u003e\\u003cbr/\\u003eKey job responsibilities\\u003cbr/\\u003e• Guide and accelerate our customers’ cloud integration\\u003cbr/\\u003e• Support customers as they extend their cloud capabilities\\u003cbr/\\u003e• Collaborate with our business and technical teams to build solutions\",\"department_cost_center\":null,\"description_short\":\"At Amazon, your career doesn’t follow a straight line.",
    "From the moment you join, you’re part of something big: building products or\",\"display_distance\":null,\"id\":\"d4a3a2a9-4e6d-4cdb-966c-154729e3c983\",\"id_icims\":\"10579447\",\"is_intern\":null,\"is_manager\":null,\"job_category\":\"Sales, Advertising, \\u0026 Account Management\",\"job_family\":\"Tech Sales\",\"job_function_id\":null,\"job_path\":\"/en/jobs/10579447/demand-generation-representative-intern\",\"job_schedule_type\":\"full-time\",\"location\":\"AU, NSW, Sydney\",\"locations\":[\"{\\\"normalizedStateName\\\":\\\"New South Wales\\\",\\\"normalizedCountryCode\\\":\\\"AUS\\\",\\\"city\\\":\\\"Sydney\\\",\\\"countryIso3a\\\":\\\"AUS\\\",\\\"countryIso2a\\\":\\\"AU\\\",\\\"locationNonStemming\\\":\\\"Australia, NSW, Sydney\\\",\\\"coordinates\\\":\\\"-33.87072,151.20788\\\",\\\"type\\\":\\\"ONSITE\\\",\\\"normalizedCountryName\\\":\\\"Australia\\\",\\\"normalizedLocation\\\":\\\"Sydney, New South Wales, AUS\\\",\\\"location\\\":\\\"AU, NSW, Sydney\\\",\\\"region\\\":\\\"NSW\\\",\\\"buildingCodeList\\\":[\\\"SYD12\\\"],\\\"normalizedCityName\\\":\\\"Sydney\\\"}\"],\"normalized_location\":\"Sydney, New South Wales, AUS\",\"optional_search_labels\":[],\"posted_date\":\"October 15, 2026\",\"preferred_qualifications\":\"- Experience with customer relationship management systems or sales tools\\u003cbr/\\u003e- Proficiency with data analysis and spreadsheet applications to organize information and develop insights\\u003cbr/\\u003e- Experience in a sales, customer success, or business development environment\\u003cbr/\\u003e\\u003cbr/\\u003eAcknowledgement of country:\\u003cbr/\\u003eIn the spirit of reconciliation Amazon acknowledges the Traditional Custodians of country throughout Australia and their connections to land, sea and community.",
    "If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit \\u003ca href=\\\"https://amazon.jobs/content/en/how-we-hire/accommodations\\\"\\u003ehttps://amazon.jobs/content/en/how-we-hire/accommodations\\u003c/a\\u003e for more information.",
-   "If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\",\"primary_search_label\":\"studentprograms.team-internships-for-students\",\"source_system\":\"JobCreator\",\"state\":\"NSW\",\"title\":\"Demand Generation Representative Intern\",\"university_job\":null,\"updated_time\":\"about 23 hours\",\"url_next_step\":\"https://account.amazon.jobs/jobs/10579447/apply\",\"team\":{\"id\":null,\"business_category_id\":null,\"identifier\":null,\"label\":\"team-internships-for-students\",\"created_at\":null,\"updated_at\":null,\"image_file_name\":null,\"image_content_type\":null,\"image_file_size\":null,\"image_updated_at\":null,\"thumbnail_file_name\":null,\"thumbnail_content_type\":null,\"thumbnail_file_size\":null,\"thumbnail_updated_at\":null,\"hide_jobs\":null,\"title\":null,\"headline\":null,\"description\":null}},{\"basic_qualifications\":\"- Currently in the penultimate year pursuing a degree in business, management, accounting, finance or related field, graduating in 2027.\\u003cbr/\\u003e- Experience using data or testimonials to influence business decision-making.\\u003cbr/\\u003e- Experience communicating with a wide range of stakeholders, including peers and management.\",\"business_category\":\"studentprograms\",\"city\":\"Melbourne\",\"company_name\":\"Amazon Commercial Services Pty Ltd\",\"country_code\":\"AUS\",\"description\":\"Amazon is looking for ambitious, curious and versatile candidates to join our unique world as interns.",
-   "An Amazon Australia internship will provide you with an unforgettable experience in a fast-paced, dynamic and international environment; it will boost your resume and will provide a superb introduction to our activities.",
-   "\\u003cbr/\\u003e\\u003cbr/\\u003eJoin our dynamic team as a Process Improvement Intern for and learn from a team of driven and ambitious individuals.",
-   "\\u003cbr/\\u003e\\u003cbr/\\u003eAs an intern you will put your analytical skills to test and roll up your sleeves to complete a project that will contribute to improving the functionality and level of service that the Fulfilment Centers provides to our customers.",
-   "\\u003cbr/\\u003e\",\"department_cost_center\":null,\"description_short\":\"Amazon is looking for ambitious, curious and versatile candidates to join our unique world as interns.",
-   "An Amazon Australia internship will provide you with an unforgettable experience in a fast-paced,\",\"display_distance\":null,\"id\":\"ec8f898e-329d-4faf-a6ec-f89e0d9f738c\",\"id_icims\":\"10403494\",\"is_intern\":null,\"is_manager\":null,\"job_category\":\"Fulfillment \\u0026 Operations Management\",\"job_family\":\"Fulfillment Center\",\"job_function_id\":null,\"job_path\":\"/en/jobs/10403494/process-improvement-intern-aces-operations\",\"job_schedule_type\":\"full-time\",\"location\":\"AU, VIC, Melbourne\",\"locations\":[\"{\\\"normalizedStateName\\\":\\\"Victoria\\\",\\\"normalizedCountryCode\\\":\\\"AUS\\\",\\\"city\\\":\\\"Melbourne\\\",\\\"countryIso3a\\\":\\\"AUS\\\",\\\"countryIso2a\\\":\\\"AU\\\",\\\"locationNonStemming\\\":\\\"Australia, VIC, Melbourne\\\",\\\"coordinates\\\":\\\"-37.81736,144.96755\\\",\\\"type\\\":\\\"ONSITE\\\",\\\"normalizedCountryName\\\":\\\"Australia\\\",\\\"normalizedLocation\\\":\\\"Melbourne, Victoria, AUS\\\",\\\"location\\\":\\\"AU, VIC, Melbourne\\\",\\\"region\\\":\\\"VIC\\\",\\\"buildingCodeList\\\":[\\\"MEL12\\\"],\\\"normalizedCityName\\\":\\\"Melbourne\\\"}\"],\"normalized_location\":\"Melbourne, Victoria, AUS\",\"optional_search_labels\":[],\"posted_date\":\"April 27, 2026\",\"preferred_qualifications\":\"- Knowledge of Microsoft Office Excel (pivot tables, VLOOKUP, charts)\\u003cbr/\\u003e- Availability to intern full time for 3 months from December 2026 to February 2027.\\u003cbr/\\u003e\\u003cbr/\\u003eAcknowledgement of country:\\u003cbr/\\u003eIn the spirit of reconciliation Amazon acknowledges the Traditional Custodians of country throughout Australia and their connections to land, sea and community."
+   "If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\",\"primary_search_label\":\"studentprograms.team-internships-for-students\",\"source_system\":\"JobCreator\",\"state\":\"NSW\",\"title\":\"Demand Generation Representative Intern\",\"university_job\":null,\"updated_time\":\"1 day\",\"url_next_step\":\"https://account.amazon.jobs/jobs/10579447/apply\",\"team\":{\"id\":null,\"business_category_id\":null,\"identifier\":null,\"label\":\"team-internships-for-students\",\"created_at\":null,\"updated_at\":null,\"image_file_name\":null,\"image_content_type\":null,\"image_file_size\":null,\"image_updated_at\":null,\"thumbnail_file_name\":null,\"thumbnail_content_type\":null,\"thumbnail_file_size\":null,\"thumbnail_updated_at\":null,\"hide_jobs\":null,\"title\":null,\"headline\":null,\"description\":null}},{\"basic_qualifications\":\"- Currently in penultimate year, completing a degree in Business, Engineering, Supply Chain, Information Systems, or a related field\\u003cbr/\\u003e- Strong analytical thinking and comfort working with data\\u003cbr/\\u003e- Clear written and verbal communication skills\\u003cbr/\\u003e- Organised, proactive, and able to manage multiple priorities\\u003cbr/\\u003e- Curiosity about supply chain, logistics, or operations — no prior experience required\",\"business_category\":\"studentprograms\",\"city\":\"Melbourne\",\"company_name\":\"Amazon Commercial Services Pty Ltd\",\"country_code\":\"AUS\",\"description\":\"At Amazon, we're working to be the most customer-centric company on earth.",
+   "Amazon is seeking Program manager Interns for Supply chain \\u0026 management.",
+   "\\u003cbr/\\u003e\\u003cbr/\\u003eThis is a 3-month internship where you'll work alongside experienced program managers, gain exposure to cross-functional teams, and build practical skills in program delivery, data analysis, and stakeholder communication.",
+   "\\u003cbr/\\u003e \\u003cbr/\\u003e\\u003cbr/\\u003eAs an intern you can also expect; \\u003cbr/\\u003e• Competitive pay \\u003cbr/\\u003e• Impactful project and internship/role deliverables \\u003cbr/\\u003e• Networking opportunities with fellow interns and other Amazonians \\u003cbr/\\u003e• Mentorship and career development \\u003cbr/\\u003e \\u003cbr/\\u003eIf you’re successful during your internship, you could be considered for a graduate role after finishing your university studies.",
+   "\\u003cbr/\\u003e \\u003cbr/\\u003ePlease note: To be eligible for this program you will need to be available for the full internship period and have full working rights for 3 months from Dec 2026 - Feb 2027 \\u003cbr/\\u003e\\u003cbr/\\u003e\\u003cbr/\\u003eKey job responsibilities\\u003cbr/\\u003eSupport active workstreams within Network Design, including transportation time optimization and configuration initiatives \\u003cbr/\\u003e\\u003cbr/\\u003eAssist with tracking program status, risks, and milestones across the portfolio \\u003cbr/\\u003e\\u003cbr/\\u003eContribute to cross-functional coordination across Operations, Transportation Planning, Supply Chain Systems, and Tech teams \\u003cbr/\\u003e\\u003cbr/\\u003eAnalyze data and metrics to surface insights and support decision-making \\u003cbr/\\u003e\\u003cbr/\\u003eHelp document processes and support knowledge management across the team \",\"department_cost_center\":null,\"description_short\":\"At Amazon, we're working to be the most customer-centric company on earth.",
+   "Amazon is seeking Program manager Interns for Supply\",\"display_distance\":null,\"id\":\"8572c3c8-f7bb-40f6-bcf8-b94250d576cc\",\"id_icims\":\"10488893\",\"is_intern\":null,\"is_manager\":null,\"job_category\":\"Fulfillment \\u0026 Operations Management\",\"job_family\":\"Fulfillment Center\",\"job_function_id\":null,\"job_path\":\"/en/jobs/10488893/2026-pm-intern-supply-chain-operations\",\"job_schedule_type\":\"full-time\",\"location\":\"AU, VIC, Melbourne\",\"locations\":[\"{\\\"normalizedStateName\\\":\\\"Victoria\\\",\\\"normalizedCountryCode\\\":\\\"AUS\\\",\\\"city\\\":\\\"Melbourne\\\",\\\"countryIso3a\\\":\\\"AUS\\\",\\\"countryIso2a\\\":\\\"AU\\\",\\\"locationNonStemming\\\":\\\"Australia, VIC, Melbourne\\\",\\\"coordinates\\\":\\\"-37.81736,144.96755\\\",\\\"type\\\":\\\"ONSITE\\\",\\\"normalizedCountryName\\\":\\\"Australia\\\",\\\"normalizedLocation\\\":\\\"Melbourne, Victoria, AUS\\\",\\\"location\\\":\\\"AU, VIC, Melbourne\\\",\\\"region\\\":\\\"VIC\\\",\\\"buildingCodeList\\\":[\\\"MEL12\\\"],\\\"normalizedCityName\\\":\\\"Melbourne\\\"}\"],\"normalized_location\":\"Melbourne, Victoria, AUS\",\"optional_search_labels\":[],\"posted_date\":\"July 31, 2026\",\"preferred_qualifications\":\"- Exposure to project or program management (coursework, clubs, or work experience)\\u003cbr/\\u003e- Familiarity with Excel, SQL, or data visualisation tools\\u003cbr/\\u003e\\u003cbr/\\u003eAcknowledgement of country:\\u003cbr/\\u003eIn the spirit of reconciliation Amazon acknowledges the Traditional Custodians of country throughout Australia and their connections to land, sea and community."
   ],
   "links": [],
-  "sig": "fec6c30032cee98b"
+  "sig": "3dbd27fedc99e494"
  },
  "https://www.amazon.jobs/en/teams/internships-for-students": {
   "changed": null,
@@ -3719,17 +3719,17 @@
   "sig": "ee74666b6822b5df"
  },
  "https://www.antarctica.gov.au/jobs/": {
-  "changed": "2026-10-15",
+  "changed": "2026-10-16",
   "checked": "2026-10-16",
   "employer": "Australian Antarctic Division (DCCEEW)",
   "employer_id": "australian-antarctic-division-dcceew",
   "first_seen": "2026-10-06",
   "keywords": [
-   "Australian Antarctic Jobs Skip to content Home Jobs in Antarctica Jobs in Australia Overview Applying for a position Overview APS Values APS Code of Conduct Example application — Jobs in Australia Medical checklist and important medical note Enterprise Agreement 2024-2027 APS Integrated Leadership System Living and working in Antarctica Overview Expeditioner stories Essential information for all applicants Overview Pathways to apply Life as an expeditioner Station life videos Getting there Information for family & friends Expeditioner personal qualities Code of Personal Behaviour Contact us Other opportunities www.antarctica.gov.au Sign up for our newsletter Submit Keep in touch Follow us on Facebook @AusAntarctic /AusAntarctic Follow us on Instagram /AusAntarctic /AusAntarctic Follow us on LinkedIn @AusAntarctic @AusAntarctic Follow us on YouTube /AusAntarctic /AusAntarctic Subscribe to our RSS feed RSS feed Follow us on Facebook @AusAntarctic Follow us on Instagram /AusAntarctic Follow us on LinkedIn @AusAntarctic Follow us on YouTube /AusAntarctic Antarctica – valued, protected and understood Home Jobs in Antarctica 28 positions open Jobs in Australia 1 positions open Living and working in Antarctica Other opportunities Search Menu Live & Work in Antarctica Find your role Explore roles in Antarctica Trades & infrastructure Keep our stations, aviation, vessels and equipment running, and people fed.",
-   "Be the first to know Register for job alerts and we'll let you know when roles open Register now Work in Australia There are many jobs in Australia supporting the Australian Antarctic Program There is one current vacancy Other opportunities Explore other opportunities available with the Australian Antarctic Program Browse other opportunities Visit antarctica .gov.au to find out more about the Australian Antarctic Program Department of Climate Change, Energy, the Environment and Water Australian Antarctic Division We acknowledge the Traditional Owners of Country throughout Australia and recognise their continuing connection to land, waters and culture."
+   "Australian Antarctic Jobs Skip to content Home Jobs in Antarctica Jobs in Australia Overview Applying for a position Overview APS Values APS Code of Conduct Example application — Jobs in Australia Medical checklist and important medical note Enterprise Agreement 2024-2027 APS Integrated Leadership System Living and working in Antarctica Overview Expeditioner stories Essential information for all applicants Overview Pathways to apply Life as an expeditioner Station life videos Getting there Information for family & friends Expeditioner personal qualities Code of Personal Behaviour Contact us Other opportunities www.antarctica.gov.au Sign up for our newsletter Submit Keep in touch Follow us on Facebook @AusAntarctic /AusAntarctic Follow us on Instagram /AusAntarctic /AusAntarctic Follow us on LinkedIn @AusAntarctic @AusAntarctic Follow us on YouTube /AusAntarctic /AusAntarctic Subscribe to our RSS feed RSS feed Follow us on Facebook @AusAntarctic Follow us on Instagram /AusAntarctic Follow us on LinkedIn @AusAntarctic Follow us on YouTube /AusAntarctic Antarctica – valued, protected and understood Home Jobs in Antarctica 28 positions open Jobs in Australia 2 positions open Living and working in Antarctica Other opportunities Search Menu Live & Work in Antarctica Find your role Explore roles in Antarctica Trades & infrastructure Keep our stations, aviation, vessels and equipment running, and people fed.",
+   "Be the first to know Register for job alerts and we'll let you know when roles open Register now Work in Australia There are many jobs in Australia supporting the Australian Antarctic Program There are 2 current vacancies Other opportunities Explore other opportunities available with the Australian Antarctic Program Browse other opportunities Visit antarctica .gov.au to find out more about the Australian Antarctic Program Department of Climate Change, Energy, the Environment and Water Australian Antarctic Division We acknowledge the Traditional Owners of Country throughout Australia and recognise their continuing connection to land, waters and culture."
   ],
   "links": [],
-  "sig": "610b5e564f823ed3"
+  "sig": "553f78cdf6913a91"
  },
  "https://www.anthropic.com/careers": {
   "changed": "2026-10-10",
@@ -5095,9 +5095,14 @@
   "employer": "dorsaVi",
   "employer_id": "dorsavi",
   "first_seen": "2026-10-06",
-  "keywords": [],
+  "keywords": [
+   "Our solutions are utilized across a spectrum of applications, from clinical assessments to workplace ergonomics and athletic movement analysis, ensuring early detection, real-time monitoring, and long-term benefits.",
+   "dorsaVi technology offers a multitude of benefits across a wide range of applications, making it an invaluable tool for individuals and professionals alike.",
+   "This includes access to webinars, workshops, and continuous education opportunities, enabling users to continually enhance their skills and knowledge in movement analysis, biomechanics, and the effective application of dorsaVi solutions in their respective fields.",
+   "This first step opens a direct line to our knowledgeable team, ready to discuss the transformative potential of dorsaVi in your specific context."
+  ],
   "links": [],
-  "sig": "da39a3ee5e6b4b0d"
+  "sig": "08b810c392ec6974"
  },
  "https://www.droneshield.com/careers": {
   "changed": null,
@@ -5216,9 +5221,17 @@
   "employer": "EM Solutions (Cohort plc)",
   "employer_id": "em-solutions-cohort-plc",
   "first_seen": "2026-10-06",
-  "keywords": [],
-  "links": [],
-  "sig": "da39a3ee5e6b4b0d"
+  "keywords": [
+   "I am now in my final year in my program and last year, I achieved all high distinctions in my courses thanks to your assistance“ “I wish to work in the renewable energy sector after I graduate.",
+   "Renewable energy is one of the key issues in the modern world, which drives my desire to contribute to this field.” Qianyu Hu – UQ student More Comments Our Products Satcom On The Move (SOTM) Microwave Subsystems Our Services Build to Print Engineering Repairs & Sustainment Our Services Build to Print Engineering Repairs & Sustainment Our Vision To inspire customers globally, as a trusted technology developer of the most innovative microwave and on-the-move radio and satellite products that help to deliver high speed telecommunications anywhere in the world."
+  ],
+  "links": [
+   {
+    "title": "EM Solutions Scholarship Recipient",
+    "url": "https://www.emsolutions.com.au/ems-comments/scholarship-recipient/"
+   }
+  ],
+  "sig": "072bc0249c8fad55"
  },
  "https://www.emsolutions.com.au/": {
   "changed": "2026-10-16",
@@ -5226,9 +5239,17 @@
   "employer": "EM Solutions (Cohort plc)",
   "employer_id": "em-solutions-cohort-plc",
   "first_seen": "2026-10-06",
-  "keywords": [],
-  "links": [],
-  "sig": "da39a3ee5e6b4b0d"
+  "keywords": [
+   "I am now in my final year in my program and last year, I achieved all high distinctions in my courses thanks to your assistance“ “I wish to work in the renewable energy sector after I graduate.",
+   "Renewable energy is one of the key issues in the modern world, which drives my desire to contribute to this field.” Qianyu Hu – UQ student More Comments Our Products Satcom On The Move (SOTM) Microwave Subsystems Our Services Build to Print Engineering Repairs & Sustainment Our Services Build to Print Engineering Repairs & Sustainment Our Vision To inspire customers globally, as a trusted technology developer of the most innovative microwave and on-the-move radio and satellite products that help to deliver high speed telecommunications anywhere in the world."
+  ],
+  "links": [
+   {
+    "title": "EM Solutions Scholarship Recipient",
+    "url": "https://www.emsolutions.com.au/ems-comments/scholarship-recipient/"
+   }
+  ],
+  "sig": "072bc0249c8fad55"
  },
  "https://www.endeavourenergy.com.au/about-us/careers-and-opportunities/pathways-to-employment/internships": {
   "changed": null,
@@ -5246,7 +5267,7 @@
   "sig": "bb8b9bb6be67f9fb"
  },
  "https://www.engineersaustralia.org.au/": {
-  "changed": "2026-10-12",
+  "changed": "2026-10-16",
   "checked": "2026-10-16",
   "employer": "Engineers Australia (student programs, events, YEA)",
   "employer_id": "engineers-australia-student-programs-events-yea",
@@ -5255,7 +5276,6 @@
    "Home | Engineers Australia Skip to main content Menu Home Membership Student Graduate Member Fellow Companions and affiliates Recognition agreements Competency assessment Detailed CV CPD requirements Member rewards program Membership fees View all Membership Credentials Chartered Chartered for 5-15 years' experience Chartered for 15+ years' experience View all Chartered Areas of practice Registration National Engineering Register State registration Assessment for state registration View all State registration Areas of engineering International registers View all Registration EngExec Specialisations Readmission View all Credentials For migrants Migration skills assessment Assessment fees and additional services View all Migration skills assessment For migration agents View all For migrants For business Business partnerships Small and medium business Our business partners Industry partnerships Our industry partners Internships View all For business About engineering Occupational categories Articulation Statistics Engineering in Schools National Competency Standard for Engineering View all About engineering About us Board Executive team Corporate governance Division committees Excellence awards program Engineer of the year awards Achievement awards Distinguished career awards Project awards View all Excellence awards program Professional standards framework Diversity and inclusion Reconciliation Action Plan View all Diversity and inclusion Volunteering Student ambassadors View all Volunteering Accreditation Careers Our facilities View all About us Complaints Professional conduct complaints Product and service complaints Assessment reviews and appeals View all Complaints Complaint resolution resources Credential and logo complaints Office bearer compliants Resources Publication library Professional standards library Early career resources Books View all Resources Policy and advocacy Building sector reform Building reform in NSW View all Building sector reform Professional indemnity insurance Climate change View all Policy and advocacy News and media Media experts View all News and media Learning and events Conferences and major events Events, webinars and courses Micro-credentials Courses and programs On-demand webinars View all Learning and events Engineering communities Colleges and College National Committees Biomedical College National Committee for Clinical Engineering National Committee for Rehabilitation Engineering View all Biomedical College Chemical College Civil College National Committee on Coastal and Ocean Engineering National Committee on Water Engineering View all Civil College Electrical College National Committee on Control Engineering National Committee on Space Engineering View all Electrical College Environmental College Information, Telecommunications and Electronics Engineering College College of Leadership and Management Mechanical College National Committee of Applied Mechanics National Committee on Engineering Design View all Mechanical College Structural College View all Colleges and College National Committees Communities of practice Engineering Associates and Technologists Engineering Heritage Australia InterEngineer Technical societies Australasian Particle Technology Society Australian Cost Engineering Society Australian Society for Bulk Solids Handling Australian Society for Defence Engineering Electromagnetic Compatibility Society of Australia Mining Electrical and Mining Mechanical Engineering Society Risk Engineering Society Society for Building Services Engineers Society for Engineering in Agriculture Society of Fire Safety Transport Australia Society View all Technical societies Overseas chapters Regional groups Overseas qualified engineers Sydney Migrant Engineers Group View all Regional groups Standards Australia engagement Young Engineers Australia Women in Engineering View all Engineering communities Contact us Back to homepage Top Menu Get Chartered Membership Student Graduate Member Fellow Companion and Affiliate View all Membership Search My account Become a member Mobile Menu Explore the path to Chartered Join a free information session to discover what Chartered recognises, how the application process works and what achieving this globally recognised credential could mean for your career.",
    "Learn more Chartered The Chartered credential is the highest technical recognition for engineers, nationally and internationally.",
    "Learn more Migrants Authorised by the Australian government, we provide formal skills assessments for engineers and students seeking temporary or permanent residency in Australia.",
-   "News | 12 October 2026 New data shows record number of engineering graduates to strengthen Australia's future workforce The latest higher education data from the Australian Council of Engineering Deans has revealed Australia produced a record 24,253 engineering graduates in 2024, strengthening the skilled workforce needed to deliver on key national ambitions.",
    "Back to homepage Become a member My account Footer Top Menu Membership Student Graduate Member Fellow Credentials For migrants For employers About engineering About us Resources Policy and advocacy News and media Engineering communities Learning and events Contact us © 2026 Engineers Australia Footer Site map Disclaimer Privacy policy Modern slavery statement Our websites Close menu"
   ],
   "links": [
@@ -5284,7 +5304,7 @@
     "url": "https://www.engineersaustralia.org.au/resources/early-career-resources"
    }
   ],
-  "sig": "74f5f1bd77e63425"
+  "sig": "2fe64bf10172169e"
  },
  "https://www.eos-aus.com/careers/": {
   "changed": null,
@@ -5323,7 +5343,7 @@
   "sig": "1d4e1a4f15b70d48"
  },
  "https://www.eucalyptus.health/careers": {
-  "changed": "2026-10-15",
+  "changed": "2026-10-16",
   "checked": "2026-10-16",
   "employer": "Eucalyptus",
   "employer_id": "eucalyptus",
@@ -5335,10 +5355,10 @@
    "Build in the open, together Transparency is the thread that runs through every team at Euc.",
    "From the top down, we expect accountability and encourage an openness to being challenged.",
    "Filter by Department Clinical [ 0 ] Compound UK [ 0 ] Data & Analytics [ 0 ] Engineering [ 0 ] Executives [ 0 ] Expansion [ 0 ] Finance [ 0 ] Juniper AU [ 0 ] Juniper DE [ 0 ] Juniper JP [ 0 ] Juniper UK [ 0 ] Legal [ 0 ] People & Talent [ 0 ] Pilot AU [ 0 ] Product [ 0 ] Filter by Country Canada [ 0 ] Australia [ 0 ] United Kingdom [ 0 ] Philippines [ 0 ] South Africa [ 0 ] Germany [ 0 ] Japan [ 0 ] Netherlands [ 0 ] Open roles Showing 0 results of 0 items.",
-   "Tax & Compliance Accountant Finance Manila , Philippines Data Analyst - AU Data & Analytics Sydney , Australia Strategy & Ops Manager (Expansion) Expansion London , United Kingdom Senior Manager, Commercial Strategy Growth Sydney, Australia , Australia Product Growth (CRO) Manager Juniper AU Sydney , Australia Ambassador & Affiliate Marketing Lead Juniper AU Sydney , Australia Director, International Patient Operations Operations London , United Kingdom Director of People Partnering, EMEA People & Talent London , United Kingdom Performance Video Editor (Meta Ads) Juniper AU Manila , Philippines Growth Marketing Manager, Sydney Juniper AU Sydney , Australia View more COMPANY Mission Patient Safety Research Blog Contact Us CAREERS Working at Euc For Health Practitioners For Software Engineers DIGITAL CLINICS Juniper Australia Juniper UK Juniper Germany Juniper Japan (ジュニパー) Pilot Compound Software Kin © 2024 Eucalyptus Privacy Policy Vulnerability Disclosure Open Source Licensing"
+   "Legal Counsel Legal Sydney , Australia Creator Partnerships Assistant Juniper UK London , United Kingdom Tax & Compliance Accountant Finance Manila , Philippines Data Analyst - AU Data & Analytics Sydney , Australia Strategy & Ops Manager (Expansion) Expansion London , United Kingdom Senior Manager, Commercial Strategy Growth Sydney, Australia , Australia Product Growth (CRO) Manager Juniper AU Sydney , Australia Ambassador & Affiliate Marketing Lead Juniper AU Sydney , Australia Director, International Patient Operations Operations London , United Kingdom Director of People Partnering, EMEA People & Talent London , United Kingdom View more COMPANY Mission Patient Safety Research Blog Contact Us CAREERS Working at Euc For Health Practitioners For Software Engineers DIGITAL CLINICS Juniper Australia Juniper UK Juniper Germany Juniper Japan (ジュニパー) Pilot Compound Software Kin © 2024 Eucalyptus Privacy Policy Vulnerability Disclosure Open Source Licensing"
   ],
   "links": [],
-  "sig": "6ed2b69c8a7cfece"
+  "sig": "2c60c9aa90b1e1d6"
  },
  "https://www.evoenergy.com.au/About-us/Careers": {
   "changed": null,
@@ -5901,9 +5921,11 @@
   "employer": "Hydrix",
   "employer_id": "hydrix",
   "first_seen": "2026-10-06",
-  "keywords": [],
+  "keywords": [
+   "Explore Our Capabilities Every stage of product development , from idea to market launch Our Full Capabilities > Product Engineering & Realisation Design and delivery of high-performance systems across electronics, mechanical, embedded, and software domains for regulated and safety-critical applications."
+  ],
   "links": [],
-  "sig": "da39a3ee5e6b4b0d"
+  "sig": "c1274cd194548ba2"
  },
  "https://www.hydrix.com/": {
   "changed": "2026-10-16",
@@ -5911,9 +5933,11 @@
   "employer": "Hydrix",
   "employer_id": "hydrix",
   "first_seen": "2026-10-06",
-  "keywords": [],
+  "keywords": [
+   "Explore Our Capabilities Every stage of product development , from idea to market launch Our Full Capabilities > Product Engineering & Realisation Design and delivery of high-performance systems across electronics, mechanical, embedded, and software domains for regulated and safety-critical applications."
+  ],
   "links": [],
-  "sig": "da39a3ee5e6b4b0d"
+  "sig": "c1274cd194548ba2"
  },
  "https://www.iberdrola.com.au/careers/": {
   "changed": null,
@@ -6061,7 +6085,7 @@
   "first_seen": "2026-10-06",
   "keywords": [
    "Careers | Infineon Technologies English 日本語 Deutsch Login Register Close { \"default\" : { \"title\" : \"Login or register\", \"description\" : \"Please log in with an existing account or create a new one.\" }, \"bookmark\" : { \"title\" : \"Save your favorite pages in one place!\", \"description\" : \"Log in or create a myInfineon account to bookmark this page and access it anytime from your dashboard.",
-   "Log in or create an account with corporate email address to request samples.\" } } Main menu Account Log In Register myInfineon Benefits My dashboard Notifications Bookmarks Online Orders My cases myICP Profile center Logout Products Applications Design Resources Support & Training About Account Log In Register myInfineon Benefits My dashboard Notifications Bookmarks Online Orders My cases myICP Profile center Logout Log in to myInfineon Account Log In Register myInfineon Benefits My dashboard Notifications Bookmarks Online Orders My cases myICP Profile center Logout Close All Products ASIC Battery management ICs Clocks and timing solutions ESD and surge protection devices Automotive Ethernet Evaluation Boards High reliability Isolation Memories Microcontroller Power RF Security and smart card solutions Sensor technology Small signal transistors and diodes Transceivers Universal Serial Bus (USB) Wireless connectivity Search Tools Technology Packages Product Information Ordering All Products ASIC ASIC Overview ASIC Solutions SoC & SiP & FPGA All Products Clocks and timing solutions Clocks and timing solutions Overview CYPRESS™ Buffers CYPRESS™ Clock generators CYPRESS™ Oscillators All Products ESD and surge protection devices ESD and surge protection devices Overview Surge protection devices Low-capacitance ESD protection devices Multi-purpose ESD protection devices High-linearity ESD protection devices All Products Automotive Ethernet Automotive Ethernet Overview Automotive Ethernet PHY for in-vehicle networking Automotive Ethernet Switches for in-vehicle networking All Products High reliability High reliability Overview Defense High-reliability custom services NewSpace Space All Products Isolation Isolation Overview Digital isolators Isolated industrial interface All Products Memories Memories Overview Embedded flash IP solutions Flash+RAM MCP solutions F-RAM (Ferroelectric RAM) NOR flash nvSRAM (non-volatile SRAM) PSRAM – Pseudostatic RAM Radiation hardened and high-reliability memories SRAMs (Static Random Access Memory) Wafer and die memory solutions All Products Microcontroller Microcontroller Overview AURIX™ TriCore™ MCUs PSOC™ MCUs TRAVEO™ T2G MCUs XMC™ MCUs Legacy MCUs MOTIX™ motor control SoCs/SIPs All Products Power Power Overview AC-DC power conversion Automotive conventional powertrain ICs Class D audio amplifier ICs Contactless power and sensing ICs DC-DC converters Diodes and thyristors (Si/SiC) eFuses Gallium nitride (GaN) Gate Driver ICs IGBTs – Insulated gate bipolar transistors Intelligent power modules (IPM) JFETs LED driver ICs Motor drivers MOSFETs Power modules Power supply ICs Protection and monitoring ICs Silicon carbide (SiC) Smart power switches Solid state relays and isolators Wireless charging ICs All Products RF RF Overview Antenna cross switches Antenna tuners Bias and control Coupler Driver amplifiers Rad hard microwave and RF Low noise amplifiers (LNAs) RF diode RF switches RF transistors Wireless control receiver All Products Security and smart card solutions Security and smart card solutions Overview Calypso® products CIPURSE™ products Contactless memories OPTIGA™ embedded security solutions SECORA™ security solutions Security controllers Smart card modules Smart solutions for government ID All Products Sensor technology Sensor technology Overview ToF 3D image sensors Current sensors Gas sensors Inductive position sensors MEMS microphones Pressure sensors Radar sensors Magnetic position sensors Magnetic speed sensors Capacitive sensors Temperature sensors Battery sensors Digital X-ray Computed tomography Sensor interface ASICs All Products Small signal transistors and diodes Small signal transistors and diodes Overview Bipolar transistors Diodes Small signal/small power MOSFET All Products Transceivers Transceivers Overview Automotive transceivers Control communication Powerline communications All Products Universal Serial Bus (USB) Universal Serial Bus (USB) Overview USB 2.0 peripheral controllers USB 3.2 peripheral controllers USB hub controllers USB PD high-voltage microcontrollers USB-C AC-DC and DC-DC charging solutions USB-C charging port controllers USB-C Power Delivery controllers All Products Wireless connectivity Wireless connectivity Overview AIROC™ Automotive wireless AIROC™ Bluetooth® and multiprotocol AIROC™ connected MCU AIROC™ Wi-Fi + Bluetooth® combos AIROC™ Ultra-Wide Band Solutions All Products Automotive Ethernet Automotive Ethernet PHY for in-vehicle networking Automotive Ethernet PHY for in-vehicle networking Overview 88EA1512 88Q1010 88Q111x 88Q120xM 88Q211x 88Q222xM Q3244 All Products Automotive Ethernet Automotive Ethernet Switches for in-vehicle networking Automotive Ethernet Switches for in-vehicle networking Overview 88EA6321 88Q5050 88Q5072 88Q5152 88Q5192 88Q6113 All Products High reliability Defense Defense Overview Commercial off-the-shelf (COTs) memory portfolio Defense memory portfolio High-reliability power conversion and management Overview High-reliability power ICs High-reliability power MOSFETs All Products High reliability High-reliability custom services High-reliability custom services Overview High-reliability die and wafer sales High-reliability up-screening services RF foundry services Supply longevity program All Products High reliability NewSpace NewSpace Overview NewSpace memory portfolio Radiation tolerant power Overview Rad tolerant MOSFETs Rad tolerant ICs All Products High reliability Space Space Overview Rad hard microwave and RF Overview Rad hard RF bipolar transistors Rad hard silicon diodes Radiation hardened power Overview Rad hard DC-DC converters Rad hard GaN Rad hard MOSFETs Rad hard power ICs Rad hard solid-state relays Rad hard synchronous rectifiers Schottkys and rectifiers Space memory portfolio All Products Isolation Isolated industrial interface Isolated industrial interface Overview ISOFACE™ digital input ICs ISOFACE™ output switches All Products Memories F-RAM (Ferroelectric RAM) F-RAM (Ferroelectric RAM) Overview EXCELON™ F-RAM All Products Memories NOR flash NOR flash Overview Parallel NOR flash Overview Burst mode High-performance page mode Simultaneous Read/Write Standard interface parallel flash SEMPER™ NOR flash family Overview SEMPER™ Nano NOR flash SEMPER™ NOR flash SEMPER™ Secure NOR flash SEMPER™ X1 LPDDR flash Serial NOR flash Overview Dual QSPI flash HYPERFLASH™ Quad SPI flash All Products Memories Radiation hardened and high-reliability memories Radiation hardened and high-reliability memories Overview Commercial off-the-shelf (COTs) memory portfolio Defense memory portfolio NewSpace memory portfolio Space memory portfolio All Products Memories SRAMs (Static Random Access Memory) SRAMs (Static Random Access Memory) Overview Asynchronous SRAM Synchronous SRAM Overview Dual data rate (DDR) sync SRAMs Quad data rate (QDR™) sync SRAMs Synchronous SRAM with ECC All Products Microcontroller AURIX™ TriCore™ MCUs AURIX™ TriCore™ MCUs Overview 32-bit TriCore™ AURIX™ – TC2x Overview AURIX™ family – TC21xL AURIX™ family – TC21xSC (wireless charging) AURIX™ family – TC22xL AURIX™ family – TC23xL AURIX™ family – TC23xLA (ADAS) AURIX™ family – TC23xLX AURIX™ family – TC264DA (ADAS) AURIX™ family – TC26xD AURIX™ family – TC27xT AURIX™ family – TC297TA (ADAS) AURIX™ family – TC29xT AURIX™ family – TC29xTT (ADAS) AURIX™ family – TC29xTX AURIX™ TC2x emulation devices 32-bit TriCore™ AURIX™ – TC3x Overview AURIX™ family - TC32xLP AURIX™ family – TC33xDA AURIX™ family - TC33xLP AURIX™ family – TC35xTA (ADAS) AURIX™ family – TC36xDP AURIX™ family – TC37xTP AURIX™ family – TC37xTX AURIX™ family – TC38xQP AURIX™ family – TC39xXA (ADAS) AURIX™ family - TC39xXX/XP AURIX™ family – TC3Ex AURIX™ TC37xTE (emulation devices) AURIX™ TC39xXE (emulation devices) 32-bit TriCore™ AURIX™ – TC4x Overview AURIX™ TC4Dx AURIX™ TC48x AURIX™ TC45x AURIX™ TC49x All Products Microcontroller PSOC™ MCUs PSOC™ MCUs Overview PSOC™ 4 HV Arm® Cortex®-M0+ Overview PSOC™ 4 HVMS PSOC™ 4 HVPA PSOC™ 5 LP Arm® Cortex®-M3 Overview CY8C52LPxxx CY8C54LPxxx CY8C56LPxxx CY8C58LPxxx PSOC™ 6 Arm® Cortex®-M4/M0+ Overview PSOC™ 61 - Entry-level PSOC™ 62 - Performance PSOC™ 63 Bluetooth® LE MCU PSOC™ Multitouch Touchscreen Controller Overview PSOC™ Automotive Multitouch Gen6 PSOC™ Automotive Multitouch Gen7 PSOC™ Automotive Multitouch Gen8 PSOC™ Control C3 Arm® Cortex®-M33 Overview PSOC™ Control C3 Entry Line PSOC™ Control C3 Main Line PSOC™ Control C3 Performance Line PSOC™ Automotive 4: Arm® Cortex®-M0/M0+ Overview PSOC™ Automotive 4 L series PSOC™ Automotive 4 M series PSOC™ Automotive 4 S series PSOC™ Automotive 4 series PSOC™ Edge Arm® Cortex® M55/M33 Overview PSOC™ Edge E81 PSOC™ Edge E82 PSOC™ Edge E83 PSOC™ Edge E84 PSOC™ Control C1 Arm® Cortex®-M0 All Products Microcontroller TRAVEO™ T2G MCUs TRAVEO™ T2G MCUs Overview 32-bit TRAVEO™ T2G Arm® Cortex® for body Overview TRAVEO™ T2G CYT2B6 series TRAVEO™ T2G CYT2B7 series TRAVEO™ T2G CYT2B9 series TRAVEO™ T2G CYT2BL series TRAVEO™ T2G CYT3BB/CYT4BB series TRAVEO™ T2G CYT4BF series TRAVEO™ T2G CYT6BJ series 32-bit TRAVEO™ T2G Arm® Cortex® for cluster Overview TRAVEO™ T2G CYT2CL TRAVEO™ T2G CYT3DL TRAVEO™ T2G CYT4DN TRAVEO™ T2G CYT4EN All Products Microcontroller XMC™ MCUs XMC™ MCUs Overview 32-bit XMC1000 industrial microcontroller Arm® Cortex®-M0 Overview XMC1100 XMC1200 XMC1300 XMC1400 32-bit XMC4000 industrial microcontroller Arm® Cortex®-M4 Overview XMC4100/XMC4200 XMC4300 XMC4400 XMC4500 XMC4700 XMC4800 XMC5000 Industrial Microcontroller Arm® Cortex®-M4F 32-bit XMC7000 Industrial Microcontroller Arm® Cortex®-M7 All Products Microcontroller Legacy MCUs Legacy MCUs Overview Legacy 32-bit MCU Overview 32-bit TRAVEO™ T1G Arm® Cortex® microcontroller C500 family XC166 family Legacy 8-bit/16-bit microcontroller Overview PSOC™ 1 PSOC™ 3 XC2200 family (body) XC2300 family (safety) XC2700 family (powertrain) XC800 A-family (automotive) XC800 I-family (industrial and multimarket) XE166 family (industrial) Other legacy MCUs Overview 8-bit F²MC new 8FX microcontroller (MCU) families AUDO family FR60 family FR81S family 32-bit FM Arm® Cortex® Microcontroller Overview FM0+ 32-bit Arm® Cortex®-M0+ microcontroller (MCU) families FM3 32-bit Arm® Cortex®-M3 microcontroller (MCU) families FM4 32-bit Arm® Cortex®-M4 microcontroller (MCU) families Sensing controllers All Products Microcontroller MOTIX™ motor control SoCs/SIPs MOTIX™ motor control SoCs/SIPs Overview BDC motor control SoCs BLDC motor control SoCs/SiPs Motor Control SoCs/SiPs with driver Motor control SoCs/SiPs with MOSFETs All Products Power AC-DC power conversion AC-DC power conversion Overview AC-DC integrated power stage - CoolSET™ Overview CoolSET™ System in Package (SiP) CoolSET™ PWM CoolSET™ Switch AC-DC PWM and PFC controller Overview Battery charging ICs Digital PFC + half-bridge/LLC combo ICs Half-bridge and LLC controller Hybrid flyback ICs PFC-CCM (continuous conduction mode) ICs Synchronous rectification ICs All Products Power Automotive conventional powertrain ICs Automotive conventional powertrain ICs Overview Alternator regulator Constant current control IC for transmission Engine management IC All Products Power Class D audio amplifier ICs Class D audio amplifier ICs Overview Discrete Class-D audio amplifier ICs Integrated class D audio amplifier ICs All Products Power Contactless power and sensing ICs Contactless power and sensing ICs Overview NFC tag controllers NFC wireless configuration IC with PWM output All Products Power DC-DC converters DC-DC converters Overview Digital multiphase controllers Digital power controllers Integrated POL voltage regulators Integrated smart power stages High density power modules Switching regulators Overview Automotive switching regulators High Density IBC modules Switching regulators for industrial/consumer All Products Power Diodes and thyristors (Si/SiC) Diodes and thyristors (Si/SiC) Overview Bridge rectifiers & AC switches CoolSiC™ Schottky diodes Overview CoolSiC™ Schottky diodes 1200 V G5 CoolSiC™ Schottky Diodes 2000 V G5 CoolSiC™ Schottky diodes 650 V G5 Diode bare dies Silicon diodes Overview 600 V/1200 V ultra-soft diodes 650 V Rapid 1 and Rapid 2 650 V/1200 V Emitter Controlled 7 Thyristor / Diode Power Modules Overview Gate leads for modules Thyristor soft starter modules Thyristor/diode discs Overview Accessories Diode discs Housingless welding diodes Thyristor Discs All Products Power eFuses eFuses Overview Automotive eFuses Overview Gate driver ICs for automotive power distribution SPOC™ Wire Guard 12V | Automotive eFuse with SPI PROFET™ Wire Guard 12V | Automotive eFuse Protection and monitoring ICs All Products Power Gallium nitride (GaN) Gallium nitride (GaN) Overview GaN bidirectional switches Overview High-voltage GaN bidirectional switches Medium-voltage GaN bidirectional switches GaN smart GaN transistors (GaN HEMTs) Overview Medium-voltage GaN transistors High-voltage GaN transistors GaN with integrated driver GaN bare dies All Products Power Gate Driver ICs Gate Driver ICs Overview Automotive gate driver ICs Overview Gate driver ICs for automotive power distribution EiceDRIVER™ isolated gate driver ICs for EV applications Motor gate drivers (< 100 V) Gate Driver ICs for GaN HEMTs Overview Gate Driver ICs for 650 V GaN HEMTs Gate Driver ICs for GaN HEMTs up to 200 V Gate Driver ICs for SiC MOSFETs Half-Bridge Gate Driver ICs High-Side Gate Driver ICs Isolated Gate Driver ICs Level-Shift Gate Driver ICs Overview Junction isolated (JI) gate driver ICs Silicon-on-insulator (SOI) gate driver ICs Low-Side Gate Driver ICs Three-Phase Gate Driver ICs Transformer Driver ICs All Products Power IGBTs – Insulated gate bipolar transistors IGBTs – Insulated gate bipolar transistors Overview Automotive-qualified IGBTs Overview Automotive IGBT modules Automotive IGBT bare dies Automotive IGBT discretes IGBT bare dies IGBT discretes IGBT modules IGBT press packs All Products Power Intelligent power modules (IPM) Intelligent power modules (IPM) Overview CIPOS™ Micro IPMs CIPOS™ Mini IPMs CIPOS™ Nano IPMs CIPOS™ Maxi IPMs All Products Power JFETs JFETs Overview Silicon Carbide JFET discretes All Products Power LED driver ICs LED driver ICs Overview AC-DC LED driver ICs Ballast IC DC-DC LED driver IC LED dimming interface IC Linear LED driver IC LITIX™ - Automotive LED Driver IC Overview LITIX™ Basic LITIX™ Basic+ LITIX™ Interior LITIX™ Linear LITIX™ Pixel Rear LITIX™ Power LITIX™ Power Flex NFC wireless configuration IC with PWM output VCSEL driver All Products Power Motor drivers Motor drivers Overview BLDC motor drivers Overview BLDC motor control SoCs/SiPs BLDC motor gate drivers Motor SBCs with LIN/CAN BDC motor drivers Overview Full-bridge drivers with MOSFETs Motor SBCs with LIN/CAN Half-bridge drivers with MOSFETs BDC motor gate drivers BDC motor control SoCs Stepper & servo motor drivers Motor drivers with MCU Overview Integrated motor control solutions (< 600 V) Motor Control SoCs/SiPs with driver Motor control SoCs/SiPs with MOSFETs Bridge drivers with MOSFETs Overview Half-bridge drivers with MOSFETs Full-bridge drivers with MOSFETs Gate Driver ICs All Products Power MOSFETs MOSFETs Overview Automotive MOSFET: 30 V to 800 V Dual MOSFETs MOSFET (Si & SiC) Modules N-channel depletion mode MOSFET N-channel MOSFETs Overview 12 V-40 V N-channel power MOSFETs 45 V-80 V N-channel power MOSFETs 85 V-300 V N-channel power MOSFETs 500 V-950 V CoolMOS™ N-channel power MOSFET OptiMOS™ and StrongIRFET™ family OptiMOS™ and StrongIRFET™ packages Power MOSFET Bare Die P-channel MOSFETs Silicon carbide CoolSiC™ MOSFETs Overview Silicon Carbide MOSFET modules Silicon carbide MOSFET discretes Silicon carbide MOSFETs bare dies 400 V / 440 V Silicon Carbide MOSFETs 650 V Silicon Carbide MOSFETs 750 V Silicon Carbide MOSFETs 1200 V Silicon Carbide MOSFETs 2000 V Silicon Carbide MOSFETs 2300 V Silicon Carbide MOSFETs 3300 V Silicon Carbide MOSFETs 1700 V Silicon Carbide MOSFETs Silicon Carbide Bidirectional Switches Small signal/small power MOSFET Overview Small signal for industrial applications Small signal MOSFETs for automotive applications All Products Power Power modules Power modules Overview IGBT modules MOSFET (Si & SiC) Modules Intelligent power modules (IPM) Diodes and thyristors (Si/SiC) Automotive IGBT and CoolSiC™ MOSFET modules Overview HybridPACK™ DSC EasyPACK™ HybridPACK™ Drive HybridPACK™ HD High density power modules All Products Power Power supply ICs Power supply ICs Overview Automotive transceivers Linear voltage regulators Overview OPTIREG™ linear high-performance voltage regulators OPTIREG™ linear post regulators OPTIREG™ linear voltage trackers Power management ICs (PMIC) Automotive switching regulators System Basis Chips (SBC) Overview OPTIREG™ DCDC SBC OPTIREG™ Lite SBC OPTIREG™ Mid-Range+ SBC OPTIREG™ Multi-CAN Power+ SBC All Products Power Silicon carbide (SiC) Silicon carbide (SiC) Overview Intelligent power modules (IPM) Silicon carbide CoolSiC™ MOSFETs CoolSiC™ Schottky diodes All Products Power Smart power switches Smart power switches Overview High-side switches Overview 12 V high-side switches 24 V high-side switches 48 V high-side switches Low-side switches Overview Classic HITFET™ 12V | Automotive smart low-side switches Classic HITFET™ 24V | Automotive smart low-side switch HITFET™ +12V | Automotive low-side switch HITFET™ + 24V | Automotive smart low-side switches TEMPFET™ | Automotive low-side temperature protected switch Multichannel SPI Switches & Controller Overview FLEX SPIDER SPIDER+ SPIDER+ LED SPOC™ +2 | Multichannel SPI high-side power SPOC™ Wire Guard 12V | Automotive eFuse with SPI SPOC™ Smart Guard 12V | Multichannel Switches with SPI Automotive eFuses All Products Power Solid state relays and isolators Solid state relays and"
+   "Log in or create an account with corporate email address to request samples.\" } } Main menu Account Log In Register myInfineon Benefits My dashboard Notifications Bookmarks Online Orders My cases myICP Profile center Logout Products Applications Design Resources Support & Training About Account Log In Register myInfineon Benefits My dashboard Notifications Bookmarks Online Orders My cases myICP Profile center Logout Log in to myInfineon Account Log In Register myInfineon Benefits My dashboard Notifications Bookmarks Online Orders My cases myICP Profile center Logout Close All Products ASIC Battery management ICs Clocks and timing solutions ESD and surge protection devices Automotive Ethernet Evaluation Boards High reliability Isolation Memories Microcontroller Power RF Security and smart card solutions Sensor technology Small signal transistors and diodes Transceivers Universal Serial Bus (USB) Wireless connectivity Search Tools Technology Packages Product Information Ordering All Products ASIC ASIC Overview ASIC Solutions SoC & SiP & FPGA All Products Clocks and timing solutions Clocks and timing solutions Overview CYPRESS™ Buffers CYPRESS™ Clock generators CYPRESS™ Oscillators All Products ESD and surge protection devices ESD and surge protection devices Overview Surge protection devices Low-capacitance ESD protection devices Multi-purpose ESD protection devices High-linearity ESD protection devices All Products Automotive Ethernet Automotive Ethernet Overview Automotive Ethernet PHY for in-vehicle networking Automotive Ethernet Switches for in-vehicle networking All Products High reliability High reliability Overview Defense High-reliability custom services NewSpace Space All Products Isolation Isolation Overview Digital isolators Isolated industrial interface All Products Memories Memories Overview Embedded flash IP solutions Flash+RAM MCP solutions F-RAM (Ferroelectric RAM) NOR flash nvSRAM (non-volatile SRAM) PSRAM – Pseudostatic RAM Radiation hardened and high-reliability memories SRAMs (Static Random Access Memory) Wafer and die memory solutions All Products Microcontroller Microcontroller Overview AURIX™ TriCore™ MCUs PSOC™ MCUs TRAVEO™ T2G MCUs XMC™ MCUs Legacy MCUs MOTIX™ motor control SoCs/SIPs All Products Power Power Overview AC-DC power conversion Automotive conventional powertrain ICs Class D audio amplifier ICs Contactless power and sensing ICs DC-DC converters Diodes and thyristors (Si/SiC) eFuses Gallium nitride (GaN) Gate Driver ICs IGBTs – Insulated gate bipolar transistors Intelligent power modules (IPM) JFETs LED driver ICs Motor drivers MOSFETs Power modules Power supply ICs Protection and monitoring ICs Silicon carbide (SiC) Smart power switches Solid state relays and isolators Wireless charging ICs All Products RF RF Overview Antenna cross switches Antenna tuners Bias and control Coupler Driver amplifiers Rad hard microwave and RF Low noise amplifiers (LNAs) RF diode RF switches RF transistors Wireless control receiver All Products Security and smart card solutions Security and smart card solutions Overview Calypso® products CIPURSE™ products Contactless memories OPTIGA™ embedded security solutions SECORA™ security solutions Security controllers Smart card modules Smart solutions for government ID All Products Sensor technology Sensor technology Overview ToF 3D image sensors Current sensors Gas sensors Inductive position sensors MEMS microphones Pressure sensors Radar sensors Magnetic position sensors Magnetic speed sensors Capacitive sensors Temperature sensors Battery sensors Digital X-ray Computed tomography Sensor interface ASICs All Products Small signal transistors and diodes Small signal transistors and diodes Overview Bipolar transistors Diodes Small signal/small power MOSFET All Products Transceivers Transceivers Overview Automotive transceivers Control communication Powerline communications All Products Universal Serial Bus (USB) Universal Serial Bus (USB) Overview USB 2.0 peripheral controllers USB 3.2 peripheral controllers USB hub controllers USB PD high-voltage microcontrollers USB-C AC-DC and DC-DC charging solutions USB-C charging port controllers USB-C Power Delivery controllers All Products Wireless connectivity Wireless connectivity Overview AIROC™ Automotive wireless AIROC™ Bluetooth® and multiprotocol AIROC™ connected MCU AIROC™ Wi-Fi + Bluetooth® combos AIROC™ Ultra-Wide Band Solutions All Products Automotive Ethernet Automotive Ethernet PHY for in-vehicle networking Automotive Ethernet PHY for in-vehicle networking Overview 88EA1512 88Q1010 88Q111x 88Q120xM 88Q211x 88Q222xM Q3244 All Products Automotive Ethernet Automotive Ethernet Switches for in-vehicle networking Automotive Ethernet Switches for in-vehicle networking Overview 88EA6321 88Q5050 88Q5072 88Q5152 88Q5192 88Q6113 All Products High reliability Defense Defense Overview Commercial off-the-shelf (COTs) memory portfolio Defense memory portfolio High-reliability power conversion and management Overview High-reliability power ICs High-reliability power MOSFETs All Products High reliability High-reliability custom services High-reliability custom services Overview High-reliability die and wafer sales High-reliability up-screening services RF foundry services Supply longevity program All Products High reliability NewSpace NewSpace Overview NewSpace memory portfolio Radiation tolerant power Overview Rad tolerant MOSFETs Rad tolerant ICs All Products High reliability Space Space Overview Rad hard microwave and RF Overview Rad hard RF bipolar transistors Rad hard silicon diodes Radiation hardened power Overview Rad hard DC-DC converters Rad hard GaN Rad hard MOSFETs Rad hard power ICs Rad hard solid-state relays Rad hard synchronous rectifiers Schottkys and rectifiers Space memory portfolio All Products Isolation Isolated industrial interface Isolated industrial interface Overview ISOFACE™ digital input ICs ISOFACE™ output switches All Products Memories F-RAM (Ferroelectric RAM) F-RAM (Ferroelectric RAM) Overview EXCELON™ F-RAM All Products Memories NOR flash NOR flash Overview Parallel NOR flash Overview Burst mode High-performance page mode Simultaneous Read/Write Standard interface parallel flash SEMPER™ NOR flash family Overview SEMPER™ Nano NOR flash SEMPER™ NOR flash SEMPER™ Secure NOR flash SEMPER™ X1 LPDDR flash Serial NOR flash Overview Dual QSPI flash HYPERFLASH™ Quad SPI flash All Products Memories Radiation hardened and high-reliability memories Radiation hardened and high-reliability memories Overview Commercial off-the-shelf (COTs) memory portfolio Defense memory portfolio NewSpace memory portfolio Space memory portfolio All Products Memories SRAMs (Static Random Access Memory) SRAMs (Static Random Access Memory) Overview Asynchronous SRAM Synchronous SRAM Overview Dual data rate (DDR) sync SRAMs Quad data rate (QDR™) sync SRAMs Synchronous SRAM with ECC All Products Microcontroller AURIX™ TriCore™ MCUs AURIX™ TriCore™ MCUs Overview 32-bit TriCore™ AURIX™ – TC2x Overview AURIX™ family – TC21xL AURIX™ family – TC21xSC (wireless charging) AURIX™ family – TC22xL AURIX™ family – TC23xL AURIX™ family – TC23xLA (ADAS) AURIX™ family – TC23xLX AURIX™ family – TC264DA (ADAS) AURIX™ family – TC26xD AURIX™ family – TC27xT AURIX™ family – TC297TA (ADAS) AURIX™ family – TC29xT AURIX™ family – TC29xTT (ADAS) AURIX™ family – TC29xTX AURIX™ TC2x emulation devices 32-bit TriCore™ AURIX™ – TC3x Overview AURIX™ family - TC32xLP AURIX™ family – TC33xDA AURIX™ family - TC33xLP AURIX™ family – TC35xTA (ADAS) AURIX™ family – TC36xDP AURIX™ family – TC37xTP AURIX™ family – TC37xTX AURIX™ family – TC38xQP AURIX™ family – TC39xXA (ADAS) AURIX™ family - TC39xXX/XP AURIX™ family – TC3Ex AURIX™ TC37xTE (emulation devices) AURIX™ TC39xXE (emulation devices) 32-bit TriCore™ AURIX™ – TC4x Overview AURIX™ TC4Dx AURIX™ TC48x AURIX™ TC45x AURIX™ TC49x All Products Microcontroller PSOC™ MCUs PSOC™ MCUs Overview PSOC™ 4 Microcontroller: Arm® Cortex®-M0/M0+ Overview 32-bit PSOC™ analog coprocessor Arm® Cortex®-M0+ MCU PSOC™ 4 Bluetooth® LE MCU PSOC™ 4000 Family Series PSOC™ 4100 - Intelligent analog PSOC™ 4200 - Programmable digital CAPSENSE™ MBR3 PSOC™ 4 HV Arm® Cortex®-M0+ Overview PSOC™ 4 HVMS PSOC™ 4 HVPA PSOC™ 5 LP Arm® Cortex®-M3 Overview CY8C52LPxxx CY8C54LPxxx CY8C56LPxxx CY8C58LPxxx PSOC™ 6 Arm® Cortex®-M4/M0+ Overview PSOC™ 61 - Entry-level PSOC™ 62 - Performance PSOC™ 63 Bluetooth® LE MCU PSOC™ Multitouch Touchscreen Controller Overview PSOC™ Automotive Multitouch Gen6 PSOC™ Automotive Multitouch Gen7 PSOC™ Automotive Multitouch Gen8 PSOC™ Control C3 Arm® Cortex®-M33 Overview PSOC™ Control C3 Entry Line PSOC™ Control C3 Main Line PSOC™ Control C3 Performance Line PSOC™ Automotive 4: Arm® Cortex®-M0/M0+ Overview PSOC™ Automotive 4 L series PSOC™ Automotive 4 M series PSOC™ Automotive 4 S series PSOC™ Automotive 4 series PSOC™ Edge Arm® Cortex® M55/M33 Overview PSOC™ Edge E81 PSOC™ Edge E82 PSOC™ Edge E83 PSOC™ Edge E84 PSOC™ Control C1 Arm® Cortex®-M0 All Products Microcontroller TRAVEO™ T2G MCUs TRAVEO™ T2G MCUs Overview 32-bit TRAVEO™ T2G Arm® Cortex® for body Overview TRAVEO™ T2G CYT2B6 series TRAVEO™ T2G CYT2B7 series TRAVEO™ T2G CYT2B9 series TRAVEO™ T2G CYT2BL series TRAVEO™ T2G CYT3BB/CYT4BB series TRAVEO™ T2G CYT4BF series TRAVEO™ T2G CYT6BJ series 32-bit TRAVEO™ T2G Arm® Cortex® for cluster Overview TRAVEO™ T2G CYT2CL TRAVEO™ T2G CYT3DL TRAVEO™ T2G CYT4DN TRAVEO™ T2G CYT4EN All Products Microcontroller XMC™ MCUs XMC™ MCUs Overview 32-bit XMC1000 industrial microcontroller Arm® Cortex®-M0 Overview XMC1100 XMC1200 XMC1300 XMC1400 32-bit XMC4000 industrial microcontroller Arm® Cortex®-M4 Overview XMC4100/XMC4200 XMC4300 XMC4400 XMC4500 XMC4700 XMC4800 XMC5000 Industrial Microcontroller Arm® Cortex®-M4F 32-bit XMC7000 Industrial Microcontroller Arm® Cortex®-M7 All Products Microcontroller Legacy MCUs Legacy MCUs Overview Legacy 32-bit MCU Overview 32-bit TRAVEO™ T1G Arm® Cortex® microcontroller C500 family XC166 family Legacy 8-bit/16-bit microcontroller Overview PSOC™ 1 PSOC™ 3 XC2200 family (body) XC2300 family (safety) XC2700 family (powertrain) XC800 A-family (automotive) XC800 I-family (industrial and multimarket) XE166 family (industrial) Other legacy MCUs Overview 8-bit F²MC new 8FX microcontroller (MCU) families AUDO family FR60 family FR81S family 32-bit FM Arm® Cortex® Microcontroller Overview FM0+ 32-bit Arm® Cortex®-M0+ microcontroller (MCU) families FM3 32-bit Arm® Cortex®-M3 microcontroller (MCU) families FM4 32-bit Arm® Cortex®-M4 microcontroller (MCU) families Sensing controllers All Products Microcontroller MOTIX™ motor control SoCs/SIPs MOTIX™ motor control SoCs/SIPs Overview BDC motor control SoCs BLDC motor control SoCs/SiPs Motor Control SoCs/SiPs with driver Motor control SoCs/SiPs with MOSFETs All Products Power AC-DC power conversion AC-DC power conversion Overview AC-DC integrated power stage - CoolSET™ Overview CoolSET™ System in Package (SiP) CoolSET™ PWM CoolSET™ Switch AC-DC PWM and PFC controller Overview Battery charging ICs Digital PFC + half-bridge/LLC combo ICs Half-bridge and LLC controller Hybrid flyback ICs PFC-CCM (continuous conduction mode) ICs Synchronous rectification ICs All Products Power Automotive conventional powertrain ICs Automotive conventional powertrain ICs Overview Alternator regulator Constant current control IC for transmission Engine management IC All Products Power Class D audio amplifier ICs Class D audio amplifier ICs Overview Discrete Class-D audio amplifier ICs Integrated class D audio amplifier ICs All Products Power Contactless power and sensing ICs Contactless power and sensing ICs Overview NFC tag controllers NFC wireless configuration IC with PWM output All Products Power DC-DC converters DC-DC converters Overview Digital multiphase controllers Digital power controllers Integrated POL voltage regulators Integrated smart power stages High density power modules Switching regulators Overview Automotive switching regulators High Density IBC modules Switching regulators for industrial/consumer All Products Power Diodes and thyristors (Si/SiC) Diodes and thyristors (Si/SiC) Overview Bridge rectifiers & AC switches CoolSiC™ Schottky diodes Overview CoolSiC™ Schottky diodes 1200 V G5 CoolSiC™ Schottky Diodes 2000 V G5 CoolSiC™ Schottky diodes 650 V G5 Diode bare dies Silicon diodes Overview 600 V/1200 V ultra-soft diodes 650 V Rapid 1 and Rapid 2 650 V/1200 V Emitter Controlled 7 Thyristor / Diode Power Modules Overview Gate leads for modules Thyristor soft starter modules Thyristor/diode discs Overview Accessories Diode discs Housingless welding diodes Thyristor Discs All Products Power eFuses eFuses Overview Automotive eFuses Overview Gate driver ICs for automotive power distribution SPOC™ Wire Guard 12V | Automotive eFuse with SPI PROFET™ Wire Guard 12V | Automotive eFuse Protection and monitoring ICs All Products Power Gallium nitride (GaN) Gallium nitride (GaN) Overview GaN bidirectional switches Overview High-voltage GaN bidirectional switches Medium-voltage GaN bidirectional switches GaN smart GaN transistors (GaN HEMTs) Overview Medium-voltage GaN transistors High-voltage GaN transistors GaN with integrated driver GaN bare dies All Products Power Gate Driver ICs Gate Driver ICs Overview Automotive gate driver ICs Overview Gate driver ICs for automotive power distribution EiceDRIVER™ isolated gate driver ICs for EV applications Motor gate drivers (< 100 V) Gate Driver ICs for GaN HEMTs Overview Gate Driver ICs for 650 V GaN HEMTs Gate Driver ICs for GaN HEMTs up to 200 V Gate Driver ICs for SiC MOSFETs Half-Bridge Gate Driver ICs High-Side Gate Driver ICs Isolated Gate Driver ICs Level-Shift Gate Driver ICs Overview Junction isolated (JI) gate driver ICs Silicon-on-insulator (SOI) gate driver ICs Low-Side Gate Driver ICs Three-Phase Gate Driver ICs Transformer Driver ICs All Products Power IGBTs – Insulated gate bipolar transistors IGBTs – Insulated gate bipolar transistors Overview Automotive-qualified IGBTs Overview Automotive IGBT modules Automotive IGBT bare dies Automotive IGBT discretes IGBT bare dies IGBT discretes IGBT modules IGBT press packs All Products Power Intelligent power modules (IPM) Intelligent power modules (IPM) Overview CIPOS™ Micro IPMs CIPOS™ Mini IPMs CIPOS™ Nano IPMs CIPOS™ Maxi IPMs All Products Power JFETs JFETs Overview Silicon Carbide JFET discretes All Products Power LED driver ICs LED driver ICs Overview AC-DC LED driver ICs Ballast IC DC-DC LED driver IC LED dimming interface IC Linear LED driver IC LITIX™ - Automotive LED Driver IC Overview LITIX™ Basic LITIX™ Basic+ LITIX™ Interior LITIX™ Linear LITIX™ Pixel Rear LITIX™ Power LITIX™ Power Flex NFC wireless configuration IC with PWM output VCSEL driver All Products Power Motor drivers Motor drivers Overview BLDC motor drivers Overview BLDC motor control SoCs/SiPs BLDC motor gate drivers Motor SBCs with LIN/CAN BDC motor drivers Overview Full-bridge drivers with MOSFETs Motor SBCs with LIN/CAN Half-bridge drivers with MOSFETs BDC motor gate drivers BDC motor control SoCs Stepper & servo motor drivers Motor drivers with MCU Overview Integrated motor control solutions (< 600 V) Motor Control SoCs/SiPs with driver Motor control SoCs/SiPs with MOSFETs Bridge drivers with MOSFETs Overview Half-bridge drivers with MOSFETs Full-bridge drivers with MOSFETs Gate Driver ICs All Products Power MOSFETs MOSFETs Overview Automotive MOSFET: 30 V to 800 V Dual MOSFETs MOSFET (Si & SiC) Modules N-channel depletion mode MOSFET N-channel MOSFETs Overview 12 V-40 V N-channel power MOSFETs 45 V-80 V N-channel power MOSFETs 85 V-300 V N-channel power MOSFETs 500 V-950 V CoolMOS™ N-channel power MOSFET OptiMOS™ and StrongIRFET™ family OptiMOS™ and StrongIRFET™ packages Power MOSFET Bare Die P-channel MOSFETs Silicon carbide CoolSiC™ MOSFETs Overview Silicon Carbide MOSFET modules Silicon carbide MOSFET discretes Silicon carbide MOSFETs bare dies Silicon Carbide Bidirectional Switches 400 V / 440 V Silicon Carbide MOSFETs 650 V Silicon Carbide MOSFETs 750 V Silicon Carbide MOSFETs 1200 V Silicon Carbide MOSFETs 1700 V Silicon Carbide MOSFETs 2000 V Silicon Carbide MOSFETs 2300 V Silicon Carbide MOSFETs 3300 V Silicon Carbide MOSFETs Small signal/small power MOSFET Overview Small signal for industrial applications Small signal MOSFETs for automotive applications All Products Power Power modules Power modules Overview IGBT modules MOSFET (Si & SiC) Modules Intelligent power modules (IPM) Diodes and thyristors (Si/SiC) Automotive IGBT and CoolSiC™ MOSFET modules Overview HybridPACK™ DSC EasyPACK™ HybridPACK™ Drive HybridPACK™ HD High density power modules All Products Power Power supply ICs Power supply ICs Overview Automotive transceivers Linear voltage regulators Overview OPTIREG™ linear high-performance voltage regulators OPTIREG™ linear post regulators OPTIREG™ linear voltage trackers Power management ICs (PMIC) Automotive switching regulators System Basis Chips (SBC) Overview OPTIREG™ DCDC SBC OPTIREG™ Lite SBC OPTIREG™ Mid-Range+ SBC OPTIREG™ Multi-CAN Power+ SBC All Products Power Silicon carbide (SiC) Silicon carbide (SiC) Overview Intelligent power modules (IPM) Silicon carbide CoolSiC™ MOSFETs CoolSiC™ Schottky diodes All Products Power Smart power switches Smart power switches Overview High-side switches Overview 12 V high-side switches 24 V high-side switches 48 V high-side switches Low-side switches Overview Classic HITFET™ 12V | Automotive smart low-side switches Classic HITFET™ 24V | Automotive smart low-side switch HITFET™ +12V | Automotive low-side switch HITFET™ + 24V | Automotive smart low-side switches TEMPFET™ | Automotive low-side temperature protected switch Multichannel SPI Switches & Controller Overview FLEX SPIDER SPIDER+ SPIDER+ LED S"
   ],
   "links": [
    {
@@ -6170,7 +6194,7 @@
   "sig": "9f53d24a0d2e5e07"
  },
  "https://www.intellihub.com.au/careers": {
-  "changed": null,
+  "changed": "2026-10-16",
   "checked": "2026-10-16",
   "employer": "Intellihub",
   "employer_id": "intellihub",
@@ -6183,12 +6207,12 @@
    "Close Judd Johnston Chief Financial Officer Read bio Judd has more than 20 years of experience as a senior leader within the energy sector.",
    "As a Director with PwC, Judd led initiatives across energy generation, distribution and retail – including financial assurance, internal audit M&A transactions and consulting.",
    "Close Jonathan Hammond Chief Executive Officer, New Zealand Read bio Jonathan has 15 years of experience in the strategy and energy sectors, with the past 10 years in senior leadership positions in smart metering businesses.",
-   "Close Abhiishek Sharma General Manager Operations Read bio Abhiishek has extensive experience leading engineering and operational teams, driving business growth and transformation.",
+   "Close Abhiishek Sharma Chief Operating Officer Read bio Abhiishek has extensive experience leading engineering and operational teams, driving business growth and transformation.",
    "Close Brendon McAnnalley General Manager Product Development Read bio Brendan has extensive experience in leading digital transformation and managing significant technology and metering projects.",
-   "Close Newsroom Discover the latest innovations in metering technology and renewable energy solutions."
+   "Close Daryl Cheney Chief Information Officer Darren Ferdinands Executive General Manager, Deployment & Service Delivery Newsroom Discover the latest innovations in metering technology and renewable energy solutions."
   ],
   "links": [],
-  "sig": "474034e4280f2fe3"
+  "sig": "329b9eb0460e91e6"
  },
  "https://www.ivecogroup.com/careers": {
   "changed": null,
@@ -6491,13 +6515,13 @@
   "sig": "36ab37f2b39723ad"
  },
  "https://www.lifeatcanva.com/en/jobs/?search=leonardo": {
-  "changed": "2026-10-15",
+  "changed": "2026-10-16",
   "checked": "2026-10-16",
   "employer": "Leonardo.ai",
   "employer_id": "leonardo-ai",
   "first_seen": "2026-10-06",
   "keywords": [
-   "Find your dream job | Canva Careers Skip to main content 中文 0 Your jobs Jobs Our culture Close dropdown Our culture Benefits & ways of working Belonging at Canva Two-Step Plan Teams Close dropdown Teams Engineering Product Management Design Sales and Success Marketing Operations Finance Customer Happiness Legal People Information Technology Locations Close dropdown Locations Australia United States United Kingdom Philippines New Zealand Austria Czechia China Careers and growth Close dropdown Careers and growth How we hire Career tools Early careers Blog 中文 Find your dream job Filter jobs Keywords Team Team Content Customer Happiness Design Engineering Finance Growth IT Leadership Legal Marketing Operations People Product Management Sales & Success Sub-speciality Sub-speciality Account Management Accounting Admin Business Partner AI Research Backend Brand Canva Leadership Communications Content Illustration & Motion Content Marketing Content Strategy Content Video & Photo Customer Service Operations Customer Success Management Data Tagging District Engagement Advocates Events and Partnerships Marketing FP&A Frontend Geographic Leadership Growth Marketing Growth Strategy Inbound Sales Legal Counsel Localisation Machine Learning Engineer Organic Growth People Leadership Print Ops Product Management Program Management (Operations) Rewards Security Engineering Software Engineering Systems Engineering Tech Support Technical Program Management Video & Photo Visual Design Country Country Argentina Australia Brazil China Czechia France Germany India Indonesia Italy Japan Korea Mexico Netherlands Philippines Poland South Africa Spain Sweden Turkey United Arab Emirates United Kingdom United States Vietnam Location Type Location Type Hybrid Onsite Remote Work Type Work Type Contract & Freelance Full-time Apply filters Clear filters Sorry, no jobs were found matching your criteria.",
+   "Find your dream job | Canva Careers Skip to main content 中文 0 Your jobs Jobs Our culture Close dropdown Our culture Benefits & ways of working Belonging at Canva Two-Step Plan Teams Close dropdown Teams Engineering Product Management Design Sales and Success Marketing Operations Finance Customer Happiness Legal People Information Technology Locations Close dropdown Locations Australia United States United Kingdom Philippines New Zealand Austria Czechia China Careers and growth Close dropdown Careers and growth How we hire Career tools Early careers Blog 中文 Find your dream job Filter jobs Keywords Team Team Content Customer Happiness Design Engineering Finance Growth Leadership Legal Marketing Operations People Sales & Success Sub-speciality Sub-speciality Account Management Accounting Admin Business Partner AI Research Backend Brand Canva Leadership Communications Content Illustration & Motion Content Marketing Content Strategy Content Video & Photo Customer Service Operations Customer Success Management Data Tagging District Engagement Advocates Events and Partnerships Marketing FP&A Frontend Geographic Leadership Growth Marketing Growth Strategy Inbound Sales Legal Counsel Localisation Machine Learning Engineer Organic Growth People Leadership Print Ops Program Management (Operations) Rewards Security Engineering Software Engineering Technical Program Management Video & Photo Visual Design Country Country Argentina Australia Brazil China Czechia France Germany India Indonesia Italy Japan Korea Mexico Netherlands Philippines Poland Singapore South Africa Spain Sweden Turkey United Arab Emirates United Kingdom United States Location Type Location Type Hybrid Onsite Remote Work Type Work Type Contract & Freelance Full-time Apply filters Clear filters Sorry, no jobs were found matching your criteria.",
    "Please try different search criteria, click to view all our open jobs or join Canva's Talent Community to be kept across open roles."
   ],
   "links": [
@@ -6506,7 +6530,7 @@
     "url": "https://www.lifeatcanva.com/en/early-careers/"
    }
   ],
-  "sig": "a7c332652bd0e5f5"
+  "sig": "e5c61b47168f8d09"
  },
  "https://www.lockheedmartin.com/en-au/features/cultivating-tomorrow-s-australian-satcom-workforce.html": {
   "changed": null,
@@ -6815,7 +6839,7 @@
   "employer_id": "mineral-resources-minres",
   "first_seen": "2026-10-06",
   "keywords": [
-   "Explore current vacancies Employee Experience View all jobs available Benefits How to apply Early career pathways Early Learning Centre MinRes Air Graduate program Vacation program Apprenticeships Traineeships About us Back to menu About us Who we are Leadership Governance Our business Back to menu Our business Mining Services Back to menu Mining Services Mining and processing Transport and Logistics Rehabilitation services Innovation Workshops Engineering and Construction Back to menu Engineering and Construction Engineering Non-process infrastructure Process infrastructure Iron Ore Back to menu Iron Ore Onslow hub Pilbara hub Lithium Back to menu Lithium Wodgina Mt Marion Bald Hill Energy Back to menu Energy Exploration Gas production Power Our locations Sustainability Back to menu Sustainability Our approach Back to menu Our approach Sustainability pathway Sustainability governance Back to menu Sustainability governance Ethics and Integrity Value and performance Responsible supply chain Human rights Modern Slavery statement Social Back to menu Social Health, safety and wellbeing Attracting and retaining talent Diversity and inclusion Working with Traditional Owners Community and stakeholder relationships Social investment Community Grant program Environment Back to menu Environment Environmental management Climate change Environmental stewardship Water Waste and air quality Research and innovation Environmental publications and reports Investors Back to menu Investors Annual Reporting Suite Back to menu Annual Reporting Suite 2026 Annual Report 2026 Full Year Results ASX announcements Financial reports Back to menu Financial reports Annual reporting Full year results Half year results Quarterly reports Presentations Investor calendar Shareholder information Broker research Consensus estimates Debt Investors Resources and Reserves News & media Back to menu News & media Latest news Back to menu Latest news Community Company Energy Investors Iron Ore Lithium Mining Services Partnerships People Sustainability Image library for media Careers Back to menu Careers Employee Experience Back to menu Employee Experience Early Learning Centre MinRes Air View all jobs available Benefits How to apply Early career pathways Back to menu Early career pathways Graduate program Vacation program Apprenticeships Traineeships Contact Suppliers MIN | A44.78 (0.90%) Employee Experience We're building an exciting future and we want you to be part of it.",
+   "Explore current vacancies Employee Experience View all jobs available Benefits How to apply Early career pathways Early Learning Centre MinRes Air Graduate program Vacation program Apprenticeships Traineeships About us Back to menu About us Who we are Leadership Governance Our business Back to menu Our business Mining Services Back to menu Mining Services Mining and processing Transport and Logistics Rehabilitation services Innovation Workshops Engineering and Construction Back to menu Engineering and Construction Engineering Non-process infrastructure Process infrastructure Iron Ore Back to menu Iron Ore Onslow hub Pilbara hub Lithium Back to menu Lithium Wodgina Mt Marion Bald Hill Energy Back to menu Energy Exploration Gas production Power Our locations Sustainability Back to menu Sustainability Our approach Back to menu Our approach Sustainability pathway Sustainability governance Back to menu Sustainability governance Ethics and Integrity Value and performance Responsible supply chain Human rights Modern Slavery statement Social Back to menu Social Health, safety and wellbeing Attracting and retaining talent Diversity and inclusion Working with Traditional Owners Community and stakeholder relationships Social investment Community Grant program Environment Back to menu Environment Environmental management Climate change Environmental stewardship Water Waste and air quality Research and innovation Environmental publications and reports Investors Back to menu Investors 2026 Annual General Meeting Annual Reporting Suite Back to menu Annual Reporting Suite 2026 Annual Report 2026 Full Year Results ASX announcements Financial reports Back to menu Financial reports Annual reporting Full year results Half year results Quarterly reports Presentations Investor calendar Shareholder information Broker research Consensus estimates Debt Investors Resources and Reserves News & media Back to menu News & media Latest news Back to menu Latest news Community Company Energy Investors Iron Ore Lithium Mining Services Partnerships People Sustainability Image library for media Careers Back to menu Careers Employee Experience Back to menu Employee Experience Early Learning Centre MinRes Air View all jobs available Benefits How to apply Early career pathways Back to menu Early career pathways Graduate program Vacation program Apprenticeships Traineeships Contact Suppliers MIN | A44.67 (0.65%) Employee Experience We're building an exciting future and we want you to be part of it.",
    "The state-of-the-art building meets the International WELL certification and includes a café, restaurant, 800m 2 gym, early learning centre, and a GP and mental health service."
   ],
   "links": [
@@ -6832,7 +6856,7 @@
     "url": "https://www.mineralresources.com.au/careers/early-career-pathways/vacation-program/"
    }
   ],
-  "sig": "1b5782b982b19e78"
+  "sig": "49ab545681055ca2"
  },
  "https://www.mitsubishielectric.com.au/": {
   "changed": null,
@@ -6843,6 +6867,20 @@
   "keywords": [],
   "links": [],
   "sig": "da39a3ee5e6b4b0d"
+ },
+ "https://www.moglabs.com": {
+  "changed": null,
+  "checked": "2026-10-16",
+  "employer": "MOGLabs",
+  "employer_id": "moglabs",
+  "first_seen": "2026-10-16",
+  "keywords": [
+   "Optical Components Medical Devices Applications Resources & Support Test and Measurement Quantum Instruments Optical Coherence Tomography Resources & Support Test and Measurement Quantum Instruments Optical Coherence Tomography Get Support Looking for something else?",
+   "Get Support Datasheets and Manuals Drivers and Connection Guide Software & Updates Application Notes Publications Go home Test and Measurement Tunable Lasers Tunable Filters Component Testing IL/RL Meters Polarity Testers Switches Optical Power Meters Attenuators Light Sources Launch Conditioning Inspection Scopes Interferometers Software Optical Coherence Tomography Optical Metrology Solutions Configurable OCT System Lasers for Swept-Source OCT OEM Components OCT Software Quantum Instruments Lasers Amplifiers Frequency conversion Electronics Wavemeters and Measurement Optical Components Medical Devices About Us Locations Investors News Follow us X Facebook LinkedIn © Copyright© Santec Holdings Corporation.",
+   "Privacy Policy JP EN CN Site by Series Eight Announcement Close July 1, 2025 — your products, same trusted technology MOGLabs is now part of Santec Santec has completed the acquisition of MOGLabs, the Australian innovator behind CEL cateye diode lasers and precision quantum instruments."
+  ],
+  "links": [],
+  "sig": "1ce695e582918b97"
  },
  "https://www.monadelphous.com.au/careers": {
   "changed": null,
@@ -6970,7 +7008,7 @@
   "sig": "da39a3ee5e6b4b0d"
  },
  "https://www.navantia.com.au/careers": {
-  "changed": null,
+  "changed": "2026-10-16",
   "checked": "2026-10-16",
   "employer": "Navantia Australia",
   "employer_id": "navantia-australia",
@@ -6981,10 +7019,12 @@
    "Graduate Network New to the workforce?",
    "Our graduate network connects you to grads all over the country, fostering career-long industry connections and learning to overcome challenges together.",
    "01 Apply online Send us your application through the Navantia Australia website, Seek, or Swag.",
-   "Lead ship outfitting design activities covering compartment arrangements, structural closures, fire protection, deck arrangements, equipment, ladders, platforms, cargo-handling systems and minor foundations.",
-   "Structural closures, joiner doors and bulkheads, deck coverings, false floors, ceilings, linings and insulation.",
-   "As a technical leader, you will: Build trusted and productive relationships with internal and external stakeholders.",
-   "Company Paid Parental Leave Flexible Work Arrangements – dependent on work location Defence Reservist Leave – 4 weeks Mentorship Program Novated Lease options Spanish Classes Service Awards Multiple Learning and Development Opportunities Instant Employee Recognition Awards Close – Don’t see a role that quite matches what you’re looking for?"
+   "We are seeking an experienced and driven Senior Project Manager to lead a Navantia Australia’s scope of work, overseeing complex, multidisciplinary activities from project mobilisation through to delivery and close-out.",
+   "You’ll work closely with Australian and UK teams, Navantia Group entities, suppliers, subcontractors and strategic partners in a dynamic defence environment.",
+   "Close – Engineer – Senior Diesel & Propulsion DSC | Engineering Sydney, New South Wales 2000, Australia Apply now Learn more + The Role: It’s an exciting time to be joining Navantia Australia, one of Australia’s leading companies in the Maritime Sustainment industry.",
+   "The Senior SME Engineer (Diesel Engines) will work closely with cross-functional teams to ensure the successful delivery of projects on time and within budget.",
+   "Close – Field Engineer – Mechanical DSC | Engineering Sydney, New South Wales 2000, Australia Apply now Learn more + The Role: It’s never been a more exciting time to be joining Navantia Australia, one of Australia’s leading companies in the Maritime and Defence industry.",
+   "Your responsibilities will include: The Mechanical Systems Field Engineer will support maintenance planning, delivery and close out for each Capability Enterprise, including: Work effectively across the Field Engineering operations and provide specialist technical advice to the Waterfront Engineering Manager; Undertake engineering analysis & investigations related to asset performance & optimisation, maintenance & defect repairs and obsolescence; Undertake platform integration (including consideration of whole-of-ship and compartment integration, HVAC, combat systems, electrical, weight, etc) of mechanical systems to the ship platform systems; Engage with Original Equipment Manufacturers (OEM’s) and local supply chain to develop problem resolution and optimisation strategies; Engage proactive communication with ship’s staff and SPO with regards to ship issues and defects; Analyse and report on merits of engineering change proposals including deviations & waivers; Develop Technical Instruction documents & minor engineering changes including quality & safety requirements; Oversee shipboard technical assurance activities including test and trials, commissioning & Sea Trials; Undertake Pre-refit Condition Assessment trials and reporting; Provide support to production related activities covering safety, cost, schedule, quality and technical requirements; and Any other activity included in the DSC contract scope for the Waterfront Field Engineering Team."
   ],
   "links": [
    {
@@ -6996,7 +7036,7 @@
     "url": "https://navantia.com.au/careers/graduates-entry-level/"
    }
   ],
-  "sig": "1ac130eb21000a33"
+  "sig": "042af222f44f229b"
  },
  "https://www.nbnco.com.au/corporate-information/careers": {
   "changed": null,
@@ -7067,10 +7107,10 @@
    "How do I find out about job openings at Nearmap?",
    "All our current job openings are listed above.",
    "What’s the best way to prepare for my Nearmap job application?",
-   "Applications MapBrowser Betterview itel NOW ImpactResponse Integrations & APIs Data & Insights Imagery AI Insights Disaster Insights itel Pricing itel Analysis Solutions Insurance AECO Government All Industries Geospatial Intelligence Company About Blog Newsroom White Papers Webinars Topics Glossary RepairLogic Library Support Help Center Contact Support Status Legal Connect Contact Customers Partners Careers Events Your Privacy Choices Terms of Use Privacy Policy © Nearmap 2026 Take your career to new heights | Nearmap"
+   "Applications MapBrowser Betterview itel NOW ImpactResponse Integrations & APIs Data & Insights Imagery AI Insights Disaster Insights itel Pricing itel Analysis Solutions Insurance AECO Government All Industries Geospatial Intelligence Company About Blog Newsroom White Papers Webinars Topics Glossary RepairLogic Library Support Help Center Contact Support Status Legal Connect Contact Customers Partners Careers Events Your Privacy Choices Terms of Use Privacy Policy © Nearmap 2026"
   ],
   "links": [],
-  "sig": "76da66d2c6417f1a"
+  "sig": "6bd6fce9b73e18cb"
  },
  "https://www.nilsen.com.au/careers/": {
   "changed": null,
@@ -7419,7 +7459,7 @@
   "employer_id": "qinetiq-australia",
   "first_seen": "2026-10-06",
   "keywords": [
-   "Stay up to date through QinetiQ with our news releases Read More What we do Our Company Careers QinetiQ Company Overview Our Heritage Accreditations Partners Who we work with Frameworks Work with us Suppliers Working with us Sustainable procurement JOSCAR Frameworks Collaborative events ISO44001 Global United Kingdom United States Canada Australia Germany Contact QinetiQ Follow QinetiQ on Privacy Your privacy choices Terms of use Cookie policy Accessibility Modern slavery statement Vulnerability disclosure © QinetiQ 2026 58qMXt7DXNl1y0hiqsDmDW3tp1FmcLIAPzUAFQ9iGxs=.html"
+   "Stay up to date through QinetiQ with our news releases Read More What we do Our Company Careers QinetiQ Company Overview Our Heritage Accreditations Partners Who we work with Frameworks Work with us Suppliers Working with us Sustainable procurement JOSCAR Frameworks Collaborative events ISO44001 Global United Kingdom United States Canada Australia Germany Contact QinetiQ Follow QinetiQ on Privacy Your privacy choices Terms of use Cookie policy Accessibility Modern slavery statement Vulnerability disclosure © QinetiQ 2026 4NkNnBymkgVlJzX95ZrsUHPUoxEbP0xmEIsK_KPxPto=.html"
   ],
   "links": [
    {
@@ -7427,7 +7467,7 @@
     "url": "https://www.qinetiq.com.au/en-au/careers/early-careers"
    }
   ],
-  "sig": "a9eacdccbc8ac70d"
+  "sig": "041c5b07c78d18a8"
  },
  "https://www.quasarsat.com/careers": {
   "changed": null,
@@ -7648,7 +7688,7 @@
   "employer_id": "rohde-schwarz-australia",
   "first_seen": "2026-10-06",
   "keywords": [
-   "I want to create an account Register or I already have an account Login Choose Location Customer portal Solutions Back Aerospace and defense Back Overview Aerospace and defense Air Land Sea Cyber Space Multi-domain Industry partners Automotive testing Back Overview Automotive testing Automotive connectivity and infotainment Automotive EMC and full-vehicle antenna testing Automotive radar Electric drivetrain component testing In-vehicle networks and ECU testing Countering drones Back Overview Countering drones Critical infrastructure Defense Law enforcement Critical infrastructure Back Overview Critical infrastructure Air navigation testing Broadcast distribution Cellular network investigations Civil air traffic control Mobile network testing Networks and cybersecurity Security screening Spectrum monitoring Spectrum regulation Electronics testing Back Overview Electronics testing Consumer electronics testing Digital design testing EMC testing High-speed digital interface testing Medical device testing Power electronics testing RF and microwave components Networks and cybersecurity Back Overview Networks and cybersecurity Cybersecurity for aerospace and defense Cybersecurity for the financial industry R&S®ComSec Secure networks and cybersecurity for public authorities Secure networks for commercial business Secure networks for healthcare Research and education Back Overview Research and education 6G research Antenna research Material characterization Particle acceleration Quantum technology Teaching lab solutions Satellite testing Back Overview Satellite testing 5G NTN satellite testing Satellite ground station testing and operation Satellite in-orbit testing Satellite payload and bus testing Satellite user terminal testing Security Back Overview Security Governmental security Networks and cybersecurity Security screening Wireless communications testing Back Overview Wireless communications testing EMC and regulatory testing IoT / M2M testing Mobile device testing Mobile network infrastructure testing Wireless standards Products Back Test and measurement Back Overview Test and measurement Amplifiers Analyzers Antenna test systems and OTA chambers Automotive radar testers EMC test equipment Mobile network testing Oscilloscopes Power supplies and source measure units Quality control & inspection scanner R&S®ESSENTIALS test equipment RF and microwave power meters Signal generators System components Wireless device testers and systems Broadcast and Media Back Overview Broadcast and Media Broadcast Distribution Media Technologies Aerospace | Defense | Security Back Overview Aerospace | Defense | Security Radiomonitoring Secure communications Security scanner Cybersecurity Back Overview Cybersecurity Endpoint security Management systems Network encryptors Secure web browser Service & support Back Service Back Overview Service Cybersecurity services Calibration services Obsolescence management On-site services Repair services Service coverages Service level agreement Service partner program Services Australia Support Service & support request Knowledge center Back Knowledge+ Events Downloads Videos Webinars Technology Academy Technology fundamentals Back Overview Technology fundamentals Antennas for mobile and stationary use Hopper signals Monitoring receiver skills Radio direction finding techniques Signal analysis methods About us Back About Rohde & Schwarz Back Overview About Rohde & Schwarz Compliance Electronic Manufacturing Services High vertical integration Our history Sustainability Rohde & Schwarz Australia News & media Back Overview News & media NEWS Magazine Press & media contacts Press room R&S Magazine Back Overview R&S Magazine Shaping the future of connectivity Quantum technology Wi-Fi on Mars From insight to impact GPS backup Podcast Behind Innovation Artificial Intelligence Protection of critical infrastructures Career Back Overview Jobs Professionals College and university students High school students Culture Events Contact Make ideas real – Together with us Show all 587 job offerings Shape a safer and connected future with us Do you want to contribute to a safer and connected world and work on pioneering technologies?",
+   "I want to create an account Register or I already have an account Login Choose Location Customer portal Solutions Back Aerospace and defense Back Overview Aerospace and defense Air Land Sea Cyber Space Multi-domain Industry partners Automotive testing Back Overview Automotive testing Automotive connectivity and infotainment Automotive EMC and full-vehicle antenna testing Automotive radar Electric drivetrain component testing In-vehicle networks and ECU testing Countering drones Back Overview Countering drones Critical infrastructure Defense Law enforcement Critical infrastructure Back Overview Critical infrastructure Air navigation testing Broadcast distribution Cellular network investigations Civil air traffic control Mobile network testing Networks and cybersecurity Security screening Spectrum monitoring Spectrum regulation Electronics testing Back Overview Electronics testing Consumer electronics testing Digital design testing EMC testing High-speed digital interface testing Medical device testing Power electronics testing RF and microwave components Networks and cybersecurity Back Overview Networks and cybersecurity Cybersecurity for aerospace and defense Cybersecurity for the financial industry R&S®ComSec Secure networks and cybersecurity for public authorities Secure networks for commercial business Secure networks for healthcare Research and education Back Overview Research and education 6G research Antenna research Material characterization Particle acceleration Quantum technology Teaching lab solutions Satellite testing Back Overview Satellite testing 5G NTN satellite testing Satellite ground station testing and operation Satellite in-orbit testing Satellite payload and bus testing Satellite user terminal testing Security Back Overview Security Governmental security Networks and cybersecurity Security screening Wireless communications testing Back Overview Wireless communications testing EMC and regulatory testing IoT / M2M testing Mobile device testing Mobile network infrastructure testing Wireless standards Products Back Test and measurement Back Overview Test and measurement Amplifiers Analyzers Antenna test systems and OTA chambers Automotive radar testers EMC test equipment Mobile network testing Oscilloscopes Power supplies and source measure units Quality control & inspection scanner R&S®ESSENTIALS test equipment RF and microwave power meters Signal generators System components Wireless device testers and systems Broadcast and Media Back Overview Broadcast and Media Broadcast Distribution Media Technologies Aerospace | Defense | Security Back Overview Aerospace | Defense | Security Radiomonitoring Secure communications Security scanner Cybersecurity Back Overview Cybersecurity Endpoint security Management systems Network encryptors Secure web browser Service & support Back Service Back Overview Service Cybersecurity services Calibration services Obsolescence management On-site services Repair services Service coverages Service level agreement Service partner program Services Australia Support Service & support request Knowledge center Back Knowledge+ Events Downloads Videos Webinars Technology Academy Technology fundamentals Back Overview Technology fundamentals Antennas for mobile and stationary use Hopper signals Monitoring receiver skills Radio direction finding techniques Signal analysis methods About us Back About Rohde & Schwarz Back Overview About Rohde & Schwarz Compliance Electronic Manufacturing Services High vertical integration Our history Sustainability Rohde & Schwarz Australia News & media Back Overview News & media NEWS Magazine Press & media contacts Press room R&S Magazine Back Overview R&S Magazine Shaping the future of connectivity Quantum technology Wi-Fi on Mars From insight to impact GPS backup Podcast Behind Innovation Artificial Intelligence Protection of critical infrastructures Career Back Overview Jobs Professionals College and university students High school students Culture Events Contact Make ideas real – Together with us Show all 586 job offerings Shape a safer and connected future with us Do you want to contribute to a safer and connected world and work on pioneering technologies?",
    "Professionals College and university students High school students Our benefits Application Login Working at Rohde & Schwarz Your browser does not support the video tag “I like it here.",
    "Read more Our application process Curious about our application process?"
   ],
@@ -7662,7 +7702,7 @@
     "url": "https://www.rohde-schwarz.com/au/career/high-school-students/high-school-students_253003.html"
    }
   ],
-  "sig": "692469c2e451e1cc"
+  "sig": "7ddd1e49c15f16f9"
  },
  "https://www.rubiconwater.com/careers": {
   "changed": "2026-10-16",
@@ -7670,9 +7710,12 @@
   "employer": "Rubicon Water",
   "employer_id": "rubicon-water",
   "first_seen": "2026-10-06",
-  "keywords": [],
+  "keywords": [
+   "If you’re interested in joining Rubicon, please explore our open vacancies below.",
+   "The machine readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data."
+  ],
   "links": [],
-  "sig": "da39a3ee5e6b4b0d"
+  "sig": "9198c19eb3275ab0"
  },
  "https://www.rwe.com/en/careers/": {
   "changed": null,
@@ -8388,7 +8431,7 @@
   "first_seen": "2026-10-06",
   "keywords": [
    "What you need to know Change of ownership Property title information Businesses Trade waste Water supply contract Recycled water Reuse products Environmental Reporting Plumbing Blockages, leaks and floods Backflow containment Frozen Pipes Meters Meter reads Sub metering Meters and the environment Building and development Getting ready Before You Dig Australia Service locations Technical standards Land and property development Approved Panel Members Fees and charges Fees and charges Developer charges explained Application information Application for Development Services form Customer Connections Building and plumbing application information Application for Development Services Information Development Application (DA) Information Engineer Design Approvals PlanBuild Tasmania Community Projects Our projects Your Say Resource Recovery Units Master Plans (opens in new window) Water quality Environmental and public health monitoring Don't flush this Your sewage Your drinking water Colour, odour and taste Community Partnerships Community Art (opens in new window) Portable Water Stations Be A Refiller Not A Landfiller (opens in new window) Risdon Brook Park (opens in new window) Education Water Guardians (opens in new window) Water-saving tips Schools and Education Deeper Dive Water for Health Why Save Water Bushfire Awareness News Service interruptions Do Not Consume Alerts Emergency Interruptions Planned interruptions Boil Water Alerts Taste/Odour Updates Current service interruptions articles Current Service Interruptions Report a fault Water supply status Water restriction guidelines Planned Network Cleaning and Maintenance Cleaning and Maintenance information Customer newsletters Newsroom News Articles About Us About TasWater Our Brand Our Strategy Board and Leadership Governance and Policies Tenders and Contractor Hub Careers Applying for a position at TasWater Early Career Pathways Scholarship Programs Graduate Program Summer Placement Program Careers LINKS Publications Capital Delivery Office TW CDO Images Contact us Toggle search Search for Search Register for SMS Alerts Contact Us Careers Unlock your future career Welcome to TasWater, where we're more than just a water and sewerage utility; we're a passionate community of individuals united by a shared vision.",
-   "Early Career Pathways Explore TasWater’s early career pathways - from school programs to graduate roles - and discover how you can help shape Tasmania’s water future.",
+   "Join our talent pool by uploading your details and resume today Read more Early Career Pathways Explore TasWater’s early career pathways - from school programs to graduate roles - and discover how you can help shape Tasmania’s water future.",
    "This includes internal secondments, project work, higher duties opportunities, industry networking, professional qualifications, and vocational training.",
    "We offer a Graduate Program, Summer Vacation Program, and Scholarship Programs to provide university students with unique experience in the diverse world of water and sewerage and to help them forge their career.",
    "Choose Tasmania TasWater has many team members that have relocated from interstate and internationally in search of a better way of living.",
@@ -8414,7 +8457,7 @@
     "url": "https://www.taswater.com.au/about-us/careers/summer-placement-program"
    }
   ],
-  "sig": "8f4e11bdd9e8cb3e"
+  "sig": "cf4d32003013e916"
  },
  "https://www.tek.com/en/careers": {
   "changed": null,
