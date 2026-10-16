@@ -27,12 +27,12 @@
   "closed_on": "2026-10-16",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-16",
-  "misses": 3,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Cadet Building Surveyor"
  },
  "01246873282c": {
@@ -133,7 +133,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -226,7 +226,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -588,8 +588,8 @@
  "0e4a62fe5028": {
   "company": "Nova Systems",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-16",
-  "misses": 1,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "Nova Systems [oracle]"
   ],
@@ -600,7 +600,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -766,7 +766,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -904,12 +904,12 @@
   "closed_on": "2026-10-16",
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-15",
-  "misses": 3,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Up your Engineering Game with a Chemical Engineering Internship – Apply Now"
  },
  "136cb521b431": {
@@ -999,7 +999,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1206,8 +1206,8 @@
   "closed_on": "2026-10-15",
   "company": "Readygrad",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-16",
-  "misses": 1,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1290,7 +1290,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Claude web sweep",
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -1313,7 +1313,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1679,7 +1679,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1785,7 +1785,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1877,15 +1877,15 @@
   "title": "2027 Early Career Mechanical Engineer"
  },
  "2897f71502bd": {
-  "closed_on": "2026-10-10",
+  "closed_on": "2026-10-17",
   "company": "The Brattle Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Sydney Research Analyst Graduate Program"
  },
  "289fffa6f01a": {
@@ -2104,7 +2104,7 @@
   "company": "Gradability",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2127,7 +2127,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2648,7 +2648,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2916,7 +2916,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2939,7 +2939,7 @@
   "company": "Stryker (South Pacific)",
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Stryker (South Pacific) [workday]"
   ],
@@ -3423,7 +3423,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3494,7 +3494,7 @@
   "company": "Gradability",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3636,7 +3636,7 @@
   "company": "The Royal Children's Hospital",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3846,7 +3846,7 @@
   "company": "Gradability",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3900,6 +3900,17 @@
   "status": "closed",
   "title": "Optus Summer Internship Program"
  },
+ "5035ceb3ad84": {
+  "company": "Lycopodium",
+  "first_seen": "2026-10-17",
+  "last_seen": "2026-10-17",
+  "misses": 0,
+  "sources": [
+   "Lycopodium [livehire]"
+  ],
+  "status": "open",
+  "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 13 hours ago"
+ },
  "508f665329f4": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
@@ -3938,7 +3949,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4019,7 +4030,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4078,7 +4089,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4196,8 +4207,8 @@
   "closed_on": "2026-10-15",
   "company": "Readygrad",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-16",
-  "misses": 1,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4243,8 +4254,8 @@
   "closed_on": "2026-10-15",
   "company": "Readygrad",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-16",
-  "misses": 1,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4558,14 +4569,15 @@
   "title": "2027 DXC Technology Graduate - AI Engineer - Melbourne"
  },
  "5dd99e1661db": {
+  "closed_on": "2026-10-17",
   "company": "Mott MacDonald",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Mott MacDonald [sf_rmk]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Geotechnical Engineer | Transport | Melbourne, VIC"
  },
  "5e0727a97789": {
@@ -4773,8 +4785,8 @@
   "closed_on": "2026-10-15",
   "company": "BDO",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-16",
-  "misses": 1,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4832,7 +4844,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4970,14 +4982,15 @@
   "title": "Engineering Consulting Intern - Summer Program"
  },
  "682c2587d679": {
+  "closed_on": "2026-10-17",
   "company": "Lycopodium",
   "first_seen": "2026-10-16",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 2 days ago"
  },
  "6846ee69416f": {
@@ -5043,8 +5056,8 @@
  "6a10953f12db": {
   "company": "BDO",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-16",
-  "misses": 1,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5090,8 +5103,8 @@
   "closed_on": "2026-10-13",
   "company": "Readygrad",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-16",
-  "misses": 1,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5146,14 +5159,15 @@
   "title": "Software Engineer Early Career - Multiple Teams"
  },
  "6c9073d823d4": {
+  "closed_on": "2026-10-17",
   "company": "Lycopodium",
   "first_seen": "2026-10-16",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Mechanical Engineering Lycopodium is now recruiting for our 2027 Graduate Program to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 2 days ago"
  },
  "6cd164938e25": {
@@ -5209,7 +5223,6 @@
   "last_seen": "2026-10-17",
   "misses": 0,
   "sources": [
-   "GHD [oracle]",
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
@@ -5467,7 +5480,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Claude web sweep"
   ],
@@ -5621,7 +5634,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-16",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -5796,12 +5809,12 @@
   "closed_on": "2026-10-16",
   "company": "White Acorn Capital",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-15",
-  "misses": 3,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate/Junior Analyst - Private Credit Fund"
  },
  "7b445f340213": {
@@ -6289,7 +6302,7 @@
   "company": "Ampol",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6324,7 +6337,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-17",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -6394,7 +6407,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6475,8 +6488,8 @@
   "closed_on": "2026-10-15",
   "company": "BDO",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-16",
-  "misses": 1,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6534,8 +6547,8 @@
   "closed_on": "2026-10-15",
   "company": "Readygrad",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-16",
-  "misses": 1,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6923,7 +6936,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7087,8 +7100,8 @@
   "closed_on": "2026-10-15",
   "company": "BDO",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-16",
-  "misses": 1,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7217,7 +7230,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7937,8 +7950,8 @@
   "closed_on": "2026-10-15",
   "company": "BDO",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-16",
-  "misses": 1,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8090,12 +8103,12 @@
   "closed_on": "2026-10-15",
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-15",
-  "misses": 3,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "IT/Tech Internships Program – Join Australia’s Top Technology Program"
  },
  "ac00fa9f4388": {
@@ -8186,7 +8199,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8314,7 +8327,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Claude web sweep",
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -8326,7 +8339,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8445,7 +8458,8 @@
   "last_seen": "2026-10-17",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
@@ -8454,7 +8468,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8548,7 +8562,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8747,8 +8761,8 @@
  "bbbf4e020d2a": {
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-16",
-  "misses": 1,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8911,12 +8925,12 @@
   "closed_on": "2026-10-15",
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-15",
-  "misses": 3,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Civil Engineering Internships Program – Multiple Locations across 7 Streams"
  },
  "bfa762deabb0": {
@@ -9098,7 +9112,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9251,7 +9265,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9320,7 +9334,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9448,7 +9462,7 @@
   "company": "AECOM",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Claude web sweep"
   ],
@@ -9748,7 +9762,8 @@
   "last_seen": "2026-10-17",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 – Queensland – Graduate Civil Engineer (Construction Phase Services)"
@@ -10025,14 +10040,15 @@
   "title": "Notify Me - DuluxGroup Graduate Jobs"
  },
  "d845ff8ac2e9": {
+  "closed_on": "2026-10-17",
   "company": "Careers at Council",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Engineering Officer"
  },
  "d8c6b7890a49": {
@@ -10086,7 +10102,7 @@
   "company": "EY",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10109,12 +10125,12 @@
   "closed_on": "2026-10-13",
   "company": "Readygrad",
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-12",
-  "misses": 3,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Civil Engineering Internship Program 2026"
  },
  "dd2c75a87bc2": {
@@ -10367,7 +10383,7 @@
   "company": "Gradability",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-16",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10541,8 +10557,8 @@
   "closed_on": "2026-10-13",
   "company": "Readygrad",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-16",
-  "misses": 1,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
