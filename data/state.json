@@ -24,15 +24,15 @@
   "title": "Notify Me - APA Group Internships"
  },
  "00ee959e406e": {
-  "closed_on": "2026-10-16",
+  "closed_on": "2026-10-17",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-17",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Cadet Building Surveyor"
  },
  "01246873282c": {
@@ -86,7 +86,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-17",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -920,7 +920,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1223,7 +1223,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1447,12 +1447,12 @@
   "closed_on": "2026-10-16",
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-16",
-  "misses": 3,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: a day ago"
  },
  "20a98ecc3b08": {
@@ -2334,15 +2334,15 @@
   "title": "Research Intern - PhD"
  },
  "3268255bcaa9": {
-  "closed_on": "2026-10-16",
+  "closed_on": "2026-10-17",
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-17",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Civil Engineer"
  },
  "3274bbceba5b": {
@@ -3925,14 +3925,15 @@
   "title": "Optus Summer Internship Program"
  },
  "5035ceb3ad84": {
+  "closed_on": "2026-10-17",
   "company": "Lycopodium",
   "first_seen": "2026-10-17",
   "last_seen": "2026-10-17",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 13 hours ago"
  },
  "508f665329f4": {
@@ -4246,7 +4247,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4293,7 +4294,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4820,15 +4821,15 @@
   "title": "2026 ENG&IT Student Experience Grant"
  },
  "6347c8749483": {
-  "closed_on": "2026-10-15",
+  "closed_on": "2026-10-17",
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-17",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program - Transfer Pricing (Brisbane)"
  },
  "6390d2bcc067": {
@@ -5107,7 +5108,7 @@
   "company": "BDO",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5154,7 +5155,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5711,11 +5712,10 @@
   "last_seen": "2026-10-17",
   "misses": 0,
   "sources": [
-   "Schweitzer Engineering Laboratories (SEL) Australia [workday]",
    "Claude web sweep"
   ],
   "status": "open",
-  "title": "Engineering Intern"
+  "title": "Engineering Intern (Melbourne)"
  },
  "7764163402e7": {
   "closed_on": "2026-10-06",
@@ -6603,7 +6603,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7888,7 +7888,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -8161,7 +8161,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8518,8 +8518,7 @@
   "last_seen": "2026-10-17",
   "misses": 0,
   "sources": [
-   "GHD [oracle]",
-   "GradConnection (SEEK Grad) [gradconnection]"
+   "GHD [oracle]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
@@ -8810,21 +8809,22 @@
   "title": "Notify Me - AIA Graduate Jobs"
  },
  "bbb66921985d": {
+  "closed_on": "2026-10-17",
   "company": "Lycopodium",
   "first_seen": "2026-10-16",
   "last_seen": "2026-10-17",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Structural Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Structural to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 2 days ago"
  },
  "bbbf4e020d2a": {
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8988,7 +8988,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9828,8 +9828,7 @@
   "last_seen": "2026-10-17",
   "misses": 0,
   "sources": [
-   "GHD [oracle]",
-   "GradConnection (SEEK Grad) [gradconnection]"
+   "GHD [oracle]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 – Queensland – Graduate Civil Engineer (Construction Phase Services)"
@@ -10193,7 +10192,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-10",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10626,7 +10625,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10814,7 +10813,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],

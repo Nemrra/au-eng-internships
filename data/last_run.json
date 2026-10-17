@@ -13,12 +13,12 @@
   "ashby": {
    "err": 0,
    "ok": 15,
-   "raw": 2135
+   "raw": 2136
   },
   "atlassian": {
    "err": 0,
    "ok": 1,
-   "raw": 347
+   "raw": 346
   },
   "bamboohr": {
    "err": 0,
@@ -48,12 +48,12 @@
   "gradconnection": {
    "err": 0,
    "ok": 1,
-   "raw": 826
+   "raw": 811
   },
   "greenhouse": {
    "err": 0,
    "ok": 47,
-   "raw": 5757
+   "raw": 5756
   },
   "hibob": {
    "err": 4,
@@ -68,7 +68,7 @@
   "lever": {
    "err": 0,
    "ok": 10,
-   "raw": 1081
+   "raw": 1094
   },
   "livehire": {
    "err": 0,
@@ -78,12 +78,12 @@
   "oracle": {
    "err": 0,
    "ok": 8,
-   "raw": 413
+   "raw": 414
   },
   "page": {
    "err": 202,
    "ok": 374,
-   "raw": 642
+   "raw": 638
   },
   "pageup": {
    "err": 0,
@@ -103,7 +103,7 @@
   "readme_list": {
    "err": 0,
    "ok": 2,
-   "raw": 45
+   "raw": 42
   },
   "rippling": {
    "err": 0,
@@ -123,7 +123,7 @@
   "sf_rmk": {
    "err": 0,
    "ok": 28,
-   "raw": 540
+   "raw": 537
   },
   "simplify": {
    "err": 0,
@@ -138,7 +138,7 @@
   "talent": {
    "err": 0,
    "ok": 1,
-   "raw": 270
+   "raw": 269
   },
   "teamtailor": {
    "err": 0,
@@ -151,12 +151,12 @@
    "raw": 109
   },
   "workday": {
-   "err": 2,
-   "ok": 91,
-   "raw": 3640
+   "err": 70,
+   "ok": 23,
+   "raw": 68
   }
  },
- "closed_this_run": 1,
+ "closed_this_run": 5,
  "date": "2026-10-17",
  "errors_sample": [
   {
@@ -164,7 +164,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.5,
+   "secs": 0.4,
    "source": "5B [page]",
    "spec": {
     "type": "page",
@@ -176,7 +176,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.6,
+   "secs": 1.5,
    "source": "ACEN Australia [page]",
    "spec": {
     "type": "page",
@@ -188,7 +188,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.8,
+   "secs": 0.6,
    "source": "ACT Government (jobs.act.gov.au; graduate program) [page]",
    "spec": {
     "type": "page",
@@ -200,7 +200,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.2,
+   "secs": 1.1,
    "source": "AEMO (Australian Energy Market Operator) [page]",
    "spec": {
     "type": "page",
@@ -208,11 +208,25 @@
    }
   },
   {
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "kind": "ats",
+   "ok": false,
+   "raw_count": 0,
+   "secs": 0.7,
+   "source": "AGL Energy [workday]",
+   "spec": {
+    "host": "agl.wd3.myworkdayjobs.com",
+    "site": "AGL_Recruitment",
+    "tenant": "agl",
+    "type": "workday"
+   }
+  },
+  {
    "error": "ConnectionError: HTTPSConnectionPool(host='www.cqc2t.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.cqc2t.org', port=443): Failed to resolve 'www.cqc2t.org'",
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 6.8,
+   "secs": 6.3,
    "source": "ARC CoE for Quantum Computation & Communication Technology (CQC2T) [page]",
    "spec": {
     "type": "page",
@@ -224,7 +238,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 111.5,
+   "secs": 111.6,
    "source": "ARC Industrial Transformation Training Centres / Research Hubs (various; e.g. energy storage, autonomous systems, semiconductors) [page]",
    "spec": {
     "type": "page",
@@ -236,7 +250,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 112.5,
+   "secs": 111.4,
    "source": "ARPANSA (Australian Radiation Protection and Nuclear Safety Agency) [page]",
    "spec": {
     "type": "page",
@@ -248,7 +262,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.7,
+   "secs": 0.3,
    "source": "ASC Pty Ltd [page]",
    "spec": {
     "type": "page",
@@ -256,11 +270,25 @@
    }
   },
   {
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "kind": "ats",
+   "ok": false,
+   "raw_count": 0,
+   "secs": 0.2,
+   "source": "Abbott (Australia) [workday]",
+   "spec": {
+    "host": "abbott.wd5.myworkdayjobs.com",
+    "site": "abbottcareers",
+    "tenant": "abbott",
+    "type": "workday"
+   }
+  },
+  {
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.acciona.com.au/careers",
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.8,
+   "secs": 1.4,
    "source": "Acciona Energia Australia [page]",
    "spec": {
     "type": "page",
@@ -277,6 +305,34 @@
    "spec": {
     "type": "page",
     "url": "https://www.acciona.com.au/careers"
+   }
+  },
+  {
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "kind": "ats",
+   "ok": false,
+   "raw_count": 0,
+   "secs": 0.4,
+   "source": "Agilent Technologies (Mulgrave) [workday]",
+   "spec": {
+    "host": "agilent.wd5.myworkdayjobs.com",
+    "site": "Agilent_Careers",
+    "tenant": "agilent",
+    "type": "workday"
+   }
+  },
+  {
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "kind": "ats",
+   "ok": false,
+   "raw_count": 0,
+   "secs": 0.8,
+   "source": "Airbus Australia Pacific [workday]",
+   "spec": {
+    "host": "ag.wd3.myworkdayjobs.com",
+    "site": "Airbus",
+    "tenant": "ag",
+    "type": "workday"
    }
   },
   {
@@ -308,7 +364,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 2.0,
+   "secs": 0.6,
    "source": "Amazon / AWS [page]",
    "spec": {
     "type": "page",
@@ -328,11 +384,25 @@
    }
   },
   {
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "kind": "ats",
+   "ok": false,
+   "raw_count": 0,
+   "secs": 0.3,
+   "source": "Analog Devices [workday]",
+   "spec": {
+    "host": "analogdevices.wd1.myworkdayjobs.com",
+    "site": "External",
+    "tenant": "analogdevices",
+    "type": "workday"
+   }
+  },
+  {
    "error": "blocked: HTTP 403 for https://annalise.ai/careers/",
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.2,
+   "secs": 1.1,
    "source": "Annalise.ai [page]",
    "spec": {
     "type": "page",
@@ -344,7 +414,7 @@
    "kind": "ats",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.6,
+   "secs": 0.7,
    "source": "Arcadis [eightfold]",
    "spec": {
     "sub": "arcadis",
@@ -376,11 +446,25 @@
    }
   },
   {
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "kind": "ats",
+   "ok": false,
+   "raw_count": 0,
+   "secs": 0.7,
+   "source": "Aurecon [workday]",
+   "spec": {
+    "host": "aurecongroup.wd3.myworkdayjobs.com",
+    "site": "aurecon",
+    "tenant": "aurecongroup",
+    "type": "workday"
+   }
+  },
+  {
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.aurizon.com.au/404-error",
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.9,
+   "secs": 1.5,
    "source": "Aurizon [page]",
    "spec": {
     "type": "page",
@@ -388,11 +472,25 @@
    }
   },
   {
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "kind": "ats",
+   "ok": false,
+   "raw_count": 0,
+   "secs": 0.6,
+   "source": "Aussie Broadband [workday]",
+   "spec": {
+    "host": "aussiebroadband.wd3.myworkdayjobs.com",
+    "site": "External",
+    "tenant": "aussiebroadband",
+    "type": "workday"
+   }
+  },
+  {
    "error": "ConnectionError: HTTPSConnectionPool(host='www.aer.gov.au', port=443): Max retries exceeded with url: /about/careers (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.aer.gov.au', port=443): Read timed out. (",
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 111.5,
+   "secs": 111.6,
    "source": "Australian Energy Regulator (AER) / AEMC [page]",
    "spec": {
     "type": "page",
@@ -404,7 +502,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 113.5,
+   "secs": 112.4,
    "source": "Australian Government Graduate Program (AGGP) - STEM, Data, Digital, Engineering-relevant streams [page]",
    "spec": {
     "type": "page",
@@ -416,7 +514,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 119.8,
+   "secs": 121.6,
    "source": "Australian Institute of Marine Science (AIMS) [page]",
    "spec": {
     "type": "page",
@@ -424,11 +522,25 @@
    }
   },
   {
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "kind": "ats",
+   "ok": false,
+   "raw_count": 0,
+   "secs": 0.8,
+   "source": "Australian National Fabrication Facility (ANFF) - all nodes [workday]",
+   "spec": {
+    "host": "rmit.wd3.myworkdayjobs.com",
+    "site": "RMIT_Careers",
+    "tenant": "rmit",
+    "type": "workday"
+   }
+  },
+  {
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.artc.com.au/careers/graduates/",
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 2.6,
+   "secs": 5.1,
    "source": "Australian Rail Track Corporation (ARTC) [page]",
    "spec": {
     "type": "page",
@@ -440,7 +552,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 113.0,
+   "secs": 112.2,
    "source": "Australian Security Intelligence Organisation (ASIO) [page]",
    "spec": {
     "type": "page",
@@ -452,7 +564,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 112.5,
+   "secs": 111.7,
    "source": "Australian Signals Directorate (ASD, incl. ACSC) [page]",
    "spec": {
     "type": "page",
@@ -464,7 +576,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 112.5,
+   "secs": 111.7,
    "source": "Australian Signals Directorate (ASD, incl. ACSC) [page]",
    "spec": {
     "type": "page",
@@ -476,7 +588,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 113.6,
+   "secs": 113.3,
    "source": "Australian Space Agency (Department of Industry, Science and Resources) [page]",
    "spec": {
     "type": "page",
@@ -488,7 +600,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 113.8,
+   "secs": 112.3,
    "source": "Australian Submarine Agency (ASA) [page]",
    "spec": {
     "type": "page",
@@ -509,11 +621,25 @@
    }
   },
   {
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "kind": "ats",
+   "ok": false,
+   "raw_count": 0,
+   "secs": 0.3,
+   "source": "BD (Becton Dickinson) Australia [workday]",
+   "spec": {
+    "host": "bdx.wd1.myworkdayjobs.com",
+    "site": "EXTERNAL_CAREER_SITE_USA",
+    "tenant": "bdx",
+    "type": "workday"
+   }
+  },
+  {
    "error": "blocked: HTTP 403 for https://www.bhp.com/careers/graduate-student-programs/australia",
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.1,
+   "secs": 0.2,
    "source": "BHP [page]",
    "spec": {
     "type": "page",
@@ -521,11 +647,25 @@
    }
   },
   {
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "kind": "ats",
+   "ok": false,
+   "raw_count": 0,
+   "secs": 0.7,
+   "source": "Barrett Communications [workday]",
+   "spec": {
+    "host": "motorolasolutions.wd5.myworkdayjobs.com",
+    "site": "Careers",
+    "tenant": "motorolasolutions",
+    "type": "workday"
+   }
+  },
+  {
    "error": "blocked: HTTP 403 for https://www.barwonwater.vic.gov.au/about-us/careers",
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.4,
+   "secs": 0.2,
    "source": "Barwon Water [page]",
    "spec": {
     "type": "page",
@@ -533,11 +673,25 @@
    }
   },
   {
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "kind": "ats",
+   "ok": false,
+   "raw_count": 0,
+   "secs": 0.4,
+   "source": "Baxter Healthcare (Australia) [workday]",
+   "spec": {
+    "host": "baxter.wd1.myworkdayjobs.com",
+    "site": "baxter",
+    "tenant": "baxter",
+    "type": "workday"
+   }
+  },
+  {
    "error": "HTTPError: 404 Client Error: Not Found for url: https://beachenergy.com.au/careers",
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.9,
+   "secs": 1.7,
    "source": "Beach Energy [page]",
    "spec": {
     "type": "page",
@@ -549,7 +703,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.9,
+   "secs": 0.8,
    "source": "Beckhoff Automation Australia [page]",
    "spec": {
     "type": "page",
@@ -557,11 +711,25 @@
    }
   },
   {
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "kind": "ats",
+   "ok": false,
+   "raw_count": 0,
+   "secs": 0.8,
+   "source": "Bega Cheese [workday]",
+   "spec": {
+    "host": "begacheese.wd3.myworkdayjobs.com",
+    "site": "Bega_Careers",
+    "tenant": "begacheese",
+    "type": "workday"
+   }
+  },
+  {
    "error": "HTTPError: 404 Client Error: Not Found for url: https://block.xyz/careers/early-career",
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.8,
+   "secs": 0.6,
    "source": "Block / Afterpay [page]",
    "spec": {
     "type": "page",
@@ -573,7 +741,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.8,
+   "secs": 2.6,
    "source": "BluGlass [page]",
    "spec": {
     "type": "page",
@@ -581,11 +749,25 @@
    }
   },
   {
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "kind": "ats",
+   "ok": false,
+   "raw_count": 0,
+   "secs": 0.8,
+   "source": "Boeing Australia (Boeing Defence Australia, Boeing Aerostructures Australia, Insitu Pacific, BR&T-A) [workday]",
+   "spec": {
+    "host": "boeing.wd1.myworkdayjobs.com",
+    "site": "EXTERNAL_CAREERS",
+    "tenant": "boeing",
+    "type": "workday"
+   }
+  },
+  {
    "error": "blocked: HTTP 403 for https://bostonscientific.eightfold.ai/api/apply/v2/jobs?domain=bostonscientific.com&location=Australia&query=intern&num=50",
    "kind": "ats",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.6,
+   "secs": 0.3,
    "source": "Boston Scientific (Australia) [eightfold]",
    "spec": {
     "sub": "bostonscientific",
@@ -610,7 +792,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.8,
+   "secs": 1.3,
    "source": "Brisbane Airport Corporation [page]",
    "spec": {
     "type": "page",
@@ -622,7 +804,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.3,
+   "secs": 1.5,
    "source": "Bruker (Australia) [page]",
    "spec": {
     "type": "page",
@@ -658,7 +840,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.0,
+   "secs": 0.6,
    "source": "Bureau of Meteorology [page]",
    "spec": {
     "type": "page",
@@ -670,7 +852,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.8,
+   "secs": 1.1,
    "source": "CPB Contractors [page]",
    "spec": {
     "type": "page",
@@ -716,178 +898,23 @@
    }
   },
   {
-   "error": "ConnectionError: HTTPSConnectionPool(host='au.medical.canon', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='au.medical.canon', port=443): Failed to resolve 'au.medic",
-   "kind": "page",
-   "ok": false,
-   "raw_count": 0,
-   "secs": 6.8,
-   "source": "Canon Medical Systems ANZ [page]",
-   "spec": {
-    "type": "page",
-    "url": "https://au.medical.canon/"
-   }
-  },
-  {
-   "error": "blocked: HTTP 403 for https://www.careers.vic.gov.au/jobs?keywords=%7Bkeyword%7D",
-   "kind": "page",
-   "ok": false,
-   "raw_count": 0,
-   "secs": 0.7,
-   "source": "Careers.vic (Victorian public sector job board - incl. DTP, DEECA/VicGrid, VIDA, SRLA) [page]",
-   "spec": {
-    "type": "page",
-    "url": "https://www.careers.vic.gov.au/jobs?keywords={keyword}"
-   }
-  },
-  {
-   "error": "blocked: HTTP 403 for https://www.careers.vic.gov.au/",
-   "kind": "page",
-   "ok": false,
-   "raw_count": 0,
-   "secs": 1.2,
-   "source": "Careers.vic (Victorian public sector job board - incl. DTP, DEECA/VicGrid, VIDA, SRLA) [page]",
-   "spec": {
-    "type": "page",
-    "url": "https://www.careers.vic.gov.au/"
-   }
-  },
-  {
-   "error": "blocked: HTTP 403 for https://www.careers.vic.gov.au/jobs?keywords=student",
-   "kind": "page",
-   "ok": false,
-   "raw_count": 0,
-   "secs": 2.0,
-   "source": "Careers.vic (Victorian public sector job board - incl. DTP, DEECA/VicGrid, VIDA, SRLA) [page]",
-   "spec": {
-    "type": "page",
-    "url": "https://www.careers.vic.gov.au/jobs?keywords=student"
-   }
-  },
-  {
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.carsales.com.au/404/",
-   "kind": "page",
-   "ok": false,
-   "raw_count": 0,
-   "secs": 1.5,
-   "source": "Carsales (CAR Group) [page]",
-   "spec": {
-    "type": "page",
-    "url": "https://www.carsales.com.au/about/careers/"
-   }
-  },
-  {
-   "error": "HTTPError: 400 Client Error: Bad Request for url: https://chevron.wd5.myworkdayjobs.com/wday/cxs/chevron/jobs/jobs",
-   "kind": "page",
-   "ok": false,
-   "raw_count": 0,
-   "secs": 0.2,
-   "source": "Chevron Australia [page]",
-   "spec": {
-    "type": "page",
-    "url": "https://chevron.wd5.myworkdayjobs.com/wday/cxs/chevron/jobs/jobs"
-   }
-  },
-  {
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.cisco.com/c/en/us/about/careers/students-and-new-grads.html",
-   "kind": "page",
-   "ok": false,
-   "raw_count": 0,
-   "secs": 0.6,
-   "source": "Cisco [page]",
-   "spec": {
-    "type": "page",
-    "url": "https://www.cisco.com/c/en/us/about/careers/students-and-new-grads.html"
-   }
-  },
-  {
-   "error": "blocked: HTTP 403 for https://www.citadelsecurities.com/careers/open-opportunities/?location=sydney&type=students",
-   "kind": "page",
-   "ok": false,
-   "raw_count": 0,
-   "secs": 0.1,
-   "source": "Citadel Securities [page]",
-   "spec": {
-    "type": "page",
-    "url": "https://www.citadelsecurities.com/careers/open-opportunities/?location=sydney&type=students"
-   }
-  },
-  {
-   "error": "blocked: HTTP 403 for https://www.citadelsecurities.com/careers/students/",
-   "kind": "page",
-   "ok": false,
-   "raw_count": 0,
-   "secs": 0.8,
-   "source": "Citadel Securities [page]",
-   "spec": {
-    "type": "page",
-    "url": "https://www.citadelsecurities.com/careers/students/"
-   }
-  },
-  {
-   "error": "blocked: HTTP 403 for https://www.citadelsecurities.com/careers/",
-   "kind": "page",
-   "ok": false,
-   "raw_count": 0,
-   "secs": 1.3,
-   "source": "Citadel Securities [page]",
-   "spec": {
-    "type": "page",
-    "url": "https://www.citadelsecurities.com/careers/"
-   }
-  },
-  {
-   "error": "ConnectionError: HTTPSConnectionPool(host='www.casa.gov.au', port=443): Max retries exceeded with url: /about-us/careers-casa (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.casa.gov.au', port=443): Read ti",
-   "kind": "page",
-   "ok": false,
-   "raw_count": 0,
-   "secs": 112.7,
-   "source": "Civil Aviation Safety Authority (CASA) [page]",
-   "spec": {
-    "type": "page",
-    "url": "https://www.casa.gov.au/about-us/careers-casa"
-   }
-  },
-  {
-   "error": "blocked: HTTP 403 for https://www.cocacolaep.com/au/careers/",
-   "kind": "page",
-   "ok": false,
-   "raw_count": 0,
-   "secs": 0.5,
-   "source": "Coca-Cola Europacific Partners (AU) [page]",
-   "spec": {
-    "type": "page",
-    "url": "https://www.cocacolaep.com/au/careers/"
-   }
-  },
-  {
-   "error": "no adapter for sf_classic",
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
    "kind": "ats",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.0,
-   "source": "Codan [sf_classic]",
+   "secs": 0.3,
+   "source": "CSL (CSL Behring / Seqirus) - manufacturing engineering [workday]",
    "spec": {
-    "company": "C0002469119P",
-    "host": "career10.successfactors.com",
-    "type": "sf_classic"
-   }
-  },
-  {
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.cpp.com.au/careers",
-   "kind": "page",
-   "ok": false,
-   "raw_count": 0,
-   "secs": 1.0,
-   "source": "Consolidated Power Projects (CPP) [page]",
-   "spec": {
-    "type": "page",
-    "url": "https://www.cpp.com.au/careers"
+    "host": "csl.wd1.myworkdayjobs.com",
+    "site": "CSL_External",
+    "tenant": "csl",
+    "type": "workday"
    }
   }
  ],
- "jobs_open": 260,
- "new_today": 4,
- "run_at": "2026-10-17T00:30:55+00:00",
- "sources_ok": 643,
+ "jobs_open": 229,
+ "new_today": 3,
+ "run_at": "2026-10-17T06:59:09+00:00",
+ "sources_ok": 575,
  "sources_total": 872
 }
