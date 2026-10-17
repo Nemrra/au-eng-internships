@@ -74,7 +74,7 @@
  "02514d0efe9e": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -86,7 +86,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-17",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -132,7 +132,7 @@
  "03519c6e741c": {
   "company": "ACS Foundation",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -144,7 +144,7 @@
   "closed_on": "2026-10-17",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -166,7 +166,7 @@
  "04636e9058fe": {
   "company": "University of Melbourne (FEIT + jobs board)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "University of Melbourne (FEIT + jobs board) [page]"
@@ -249,7 +249,7 @@
  "060ccd851af5": {
   "company": "Stryker (South Pacific)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Stryker (South Pacific) [workday]"
@@ -273,7 +273,7 @@
   "closed_on": "2026-10-16",
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -284,7 +284,7 @@
  "06823c866db6": {
   "company": "FDM Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -319,7 +319,7 @@
  "071fabab0176": {
   "company": "Readygrad",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -330,7 +330,7 @@
  "0748b10550b9": {
   "company": "Australian Institute for Machine Learning (Adelaide University) / CSIRO",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -341,7 +341,7 @@
  "0751876ceb94": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -412,7 +412,7 @@
  "0a80fcb2b7bc": {
   "company": "Department of Transport and Planning (VIC) / Victorian Infrastructure Delivery Authority (rail signalling, engineering)",
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Department of Transport and Planning (VIC) / Victorian Infrastructure Delivery Authority (rail signalling, engineering) [sf_rmk]"
@@ -519,7 +519,7 @@
  "0d5383e94b37": {
   "company": "Barrett Communications",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Barrett Communications [workday]"
@@ -554,7 +554,7 @@
  "0e1f7acd5ac3": {
   "company": "Optiver",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Optiver [greenhouse]"
@@ -601,7 +601,7 @@
  "0e4a62fe5028": {
   "company": "Nova Systems",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Nova Systems [oracle]"
@@ -672,7 +672,7 @@
  "0ff29546c62e": {
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -731,7 +731,7 @@
  "107b95e5f254": {
   "company": "GHD",
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GHD [oracle]",
@@ -745,7 +745,7 @@
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -769,7 +769,7 @@
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -791,7 +791,7 @@
  "10e92d51f164": {
   "company": "Cummins",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -826,7 +826,7 @@
  "11c10f243546": {
   "company": "GHD",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -837,7 +837,7 @@
  "11e39a6ab913": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -872,7 +872,7 @@
  "122f664b9b4b": {
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -895,7 +895,7 @@
  "12e21fd57fde": {
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -907,7 +907,7 @@
   "closed_on": "2026-10-11",
   "company": "GHD",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -920,7 +920,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -965,7 +965,7 @@
  "147ca6305dee": {
   "company": "AEMO (Australian Energy Market Operator)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "AEMO (Australian Energy Market Operator) [greenhouse]",
@@ -1014,7 +1014,7 @@
   "closed_on": "2026-10-17",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -1025,7 +1025,7 @@
  "172cda6b36ec": {
   "company": "AEMO (Australian Energy Market Operator)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -1036,7 +1036,7 @@
  "17343557caf7": {
   "company": "FDM Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -1071,7 +1071,7 @@
  "17770c5cd680": {
   "company": "Santos",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -1082,7 +1082,7 @@
  "17bda8fd28ad": {
   "company": "ANZ",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -1093,7 +1093,7 @@
  "1805e19abd5c": {
   "company": "TBH",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -1140,7 +1140,7 @@
  "1865bf9e69d7": {
   "company": "FDM Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -1151,7 +1151,7 @@
  "18d58fbe14c0": {
   "company": "Citadel Securities",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -1174,7 +1174,7 @@
  "1a1de4f28727": {
   "company": "Schweitzer Engineering Laboratories (SEL) Australia",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -1223,7 +1223,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1245,7 +1245,7 @@
  "1af04fd86918": {
   "company": "AEMO (Australian Energy Market Operator)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "AEMO (Australian Energy Market Operator) [greenhouse]",
@@ -1318,7 +1318,7 @@
  "1c4aa9f91b40": {
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -1365,7 +1365,7 @@
  "1d5f0dcfd88f": {
   "company": "Citadel Securities",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -1376,7 +1376,7 @@
  "1d70de13b2c0": {
   "company": "Teach For Australia",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -1387,7 +1387,7 @@
  "1e287abeb344": {
   "company": "UNSW Sydney (Faculty of Engineering)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -1447,7 +1447,7 @@
   "closed_on": "2026-10-16",
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Lycopodium [livehire]"
@@ -1482,7 +1482,7 @@
  "20eb46f36102": {
   "company": "Capgemini",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -1565,7 +1565,7 @@
  "22502a0e0a23": {
   "company": "Wood",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -1696,7 +1696,7 @@
  "24911ef619ab": {
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -1767,7 +1767,7 @@
  "25a0d2303dc3": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -2017,7 +2017,7 @@
  "2b3d3186e3fa": {
   "company": "FDM Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -2040,7 +2040,7 @@
  "2b88f28daf8d": {
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -2051,7 +2051,7 @@
  "2c710b442db5": {
   "company": "GHD",
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GHD [oracle]",
@@ -2075,7 +2075,7 @@
  "2c8efd7a9e32": {
   "company": "GHD",
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GHD [oracle]"
@@ -2182,7 +2182,7 @@
  "2e58a20fd497": {
   "company": "Anduril Australia",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Anduril Australia [greenhouse]",
@@ -2230,7 +2230,7 @@
  "2ee44fe776f1": {
   "company": "Lendlease",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -2253,7 +2253,7 @@
  "313982c163bf": {
   "company": "Citadel Securities",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -2312,7 +2312,7 @@
  "31c7558b072f": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -2360,7 +2360,7 @@
  "32a65daf2318": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -2383,7 +2383,7 @@
  "32f41c4ba6b9": {
   "company": "SEEK (Tech)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "SEEK (Tech) [smartrecruiters]"
@@ -2538,7 +2538,7 @@
  "34eb1219bc00": {
   "company": "GHD",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -2632,7 +2632,7 @@
  "36b0560615a3": {
   "company": "APA Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -2643,7 +2643,7 @@
  "36ef0cf06ab2": {
   "company": "Amazon",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -2668,7 +2668,7 @@
   "closed_on": "2026-10-13",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -2691,7 +2691,7 @@
  "378240d5308c": {
   "company": "Optiver",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Optiver [greenhouse]"
@@ -2714,7 +2714,7 @@
  "37c51346e246": {
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -2749,7 +2749,7 @@
  "394670b5da86": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -2808,7 +2808,7 @@
  "3a00d166c497": {
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -2831,7 +2831,7 @@
  "3a9f6181ead2": {
   "company": "Susquehanna International Group (SIG)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Susquehanna International Group (SIG) [icims]"
@@ -2901,7 +2901,7 @@
  "3beda2e6a608": {
   "company": "Sydney Quantum Academy",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -2936,7 +2936,7 @@
  "3c25cd4206db": {
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -2971,7 +2971,7 @@
  "3db54407fc24": {
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -3066,7 +3066,7 @@
  "3fcf074eff9e": {
   "company": "Wood",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -3197,7 +3197,7 @@
  "432db81cf1b2": {
   "company": "Space Machines Company",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -3208,7 +3208,7 @@
  "4345ce690553": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -3255,7 +3255,7 @@
  "44206f155820": {
   "company": "Inovor Technologies",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -3278,7 +3278,7 @@
  "4496f73a51be": {
   "company": "Lucid Consulting Australia",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -3373,7 +3373,7 @@
  "464054f4a7ea": {
   "company": "KPMG",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -3468,7 +3468,7 @@
  "483a0690c2bd": {
   "company": "IMC Trading",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "IMC Trading [greenhouse]"
@@ -3527,7 +3527,7 @@
  "493823359145": {
   "company": "Apple",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -3540,7 +3540,7 @@
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3562,7 +3562,7 @@
  "4999c0f605c8": {
   "company": "Heidi Health",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Heidi Health [ashby]",
@@ -3574,7 +3574,7 @@
  "4ab9712861c9": {
   "company": "Aurecon",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -3586,7 +3586,7 @@
  "4ad65e027568": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -3609,7 +3609,7 @@
  "4b213a9e7eb2": {
   "company": "Lucid Consulting Australia",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -3695,7 +3695,7 @@
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3705,7 +3705,7 @@
  "4c7b1a2179ce": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -3775,7 +3775,7 @@
  "4e1e3c1d5567": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -3857,7 +3857,7 @@
  "4efe5932e416": {
   "company": "Fulton Hogan",
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Fulton Hogan [workday]"
@@ -3939,7 +3939,7 @@
  "508f665329f4": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -3950,7 +3950,7 @@
  "50b2fc045b3c": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -3997,7 +3997,7 @@
  "5223001de4f8": {
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -4008,7 +4008,7 @@
  "526938e87d19": {
   "company": "ResMed",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "ResMed [workday]"
@@ -4055,7 +4055,7 @@
  "53345c619456": {
   "company": "Dematic (KION Group)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -4138,7 +4138,7 @@
  "55339489a22f": {
   "company": "Lucid Consulting Australia",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -4174,7 +4174,7 @@
  "55afb609ac5d": {
   "company": "Inovor Technologies",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -4247,7 +4247,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4281,7 +4281,7 @@
  "580f69007a84": {
   "company": "Fleet Space Technologies",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -4294,7 +4294,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4304,7 +4304,7 @@
  "58c08aa0d2b8": {
   "company": "KPMG",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -4375,7 +4375,7 @@
  "5a455342cf38": {
   "company": "CSIRO",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -4386,7 +4386,7 @@
  "5a5849f50e76": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -4469,7 +4469,7 @@
  "5b9e53ea6cab": {
   "company": "ACS Foundation",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -4528,7 +4528,7 @@
  "5ce7a63a8187": {
   "company": "Amazon",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -4564,7 +4564,7 @@
  "5d3cf069a2eb": {
   "company": "ANZ",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -4599,7 +4599,7 @@
  "5dc0e5986b47": {
   "company": "DXC Technology",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -4682,7 +4682,7 @@
  "61464dfce050": {
   "company": "GHD",
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GHD [oracle]"
@@ -4694,7 +4694,7 @@
   "closed_on": "2026-10-06",
   "company": "Zinfra (Jemena group)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -4718,7 +4718,7 @@
  "619fba03669e": {
   "company": "Careers at Council",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -4729,7 +4729,7 @@
  "61d4f3b385d8": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -4789,7 +4789,7 @@
  "62ec40710df3": {
   "company": "Subsea7",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -4812,7 +4812,7 @@
  "63101cbf7718": {
   "company": "University of Melbourne (FEIT + jobs board)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "University of Melbourne (FEIT + jobs board) [page]"
@@ -4894,7 +4894,7 @@
  "6511a1c1d00b": {
   "company": "Lucid Consulting Australia",
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -4952,7 +4952,7 @@
  "658e74780382": {
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -4975,7 +4975,7 @@
  "6616371895aa": {
   "company": "Apple",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -5012,7 +5012,7 @@
  "673b9512f93f": {
   "company": "Susquehanna International Group (SIG)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Susquehanna International Group (SIG) [icims]"
@@ -5108,7 +5108,7 @@
   "company": "BDO",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5118,7 +5118,7 @@
  "6abf7d18a3b5": {
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -5155,7 +5155,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5165,7 +5165,7 @@
  "6b563709be57": {
   "company": "Monash University (incl. Monash Robotics, MCN host, Engineering)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Monash University (incl. Monash Robotics, MCN host, Engineering) [pageup]"
@@ -5248,7 +5248,7 @@
  "6d86161aadf3": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -5272,7 +5272,7 @@
   "company": "GHD",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5330,7 +5330,7 @@
  "6f88d5f7908e": {
   "company": "GHD",
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GHD [oracle]",
@@ -5414,7 +5414,7 @@
  "704c76a36dd0": {
   "company": "Susquehanna International Group (SIG)",
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Susquehanna International Group (SIG) [icims]"
@@ -5425,7 +5425,7 @@
  "707ea3d0616a": {
   "company": "GHD",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GHD [oracle]"
@@ -5448,7 +5448,7 @@
  "70b305701c9c": {
   "company": "Cisco",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Cisco [workday]"
@@ -5459,7 +5459,7 @@
  "7110e8739f51": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -5662,7 +5662,7 @@
  "75c10b2dc2a1": {
   "company": "Jemena-Zinfra",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -5709,13 +5709,14 @@
  "76cd7affd184": {
   "company": "Schweitzer Engineering Laboratories (SEL) Australia",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
+   "Schweitzer Engineering Laboratories (SEL) Australia [workday]",
    "Claude web sweep"
   ],
   "status": "open",
-  "title": "Engineering Intern (Melbourne)"
+  "title": "Engineering Intern"
  },
  "7764163402e7": {
   "closed_on": "2026-10-06",
@@ -5732,7 +5733,7 @@
  "77988e63b5b8": {
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -5743,7 +5744,7 @@
  "77e5a8454937": {
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -5766,7 +5767,7 @@
  "783ec9b18925": {
   "company": "Optiver",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Optiver [greenhouse]"
@@ -5861,7 +5862,7 @@
   "closed_on": "2026-10-16",
   "company": "White Acorn Capital",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -5872,7 +5873,7 @@
  "7b445f340213": {
   "company": "BHP",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -5883,7 +5884,7 @@
  "7b9b4ee944fb": {
   "company": "Amazon Web Services",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -5954,7 +5955,7 @@
  "7d1dc9115b0d": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -5977,7 +5978,7 @@
  "7d664f852937": {
   "company": "Amazon",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -6049,7 +6050,7 @@
  "7fb901b4544b": {
   "company": "Quantum Brilliance",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Quantum Brilliance [bamboohr]"
@@ -6249,7 +6250,7 @@
  "837bb66e225a": {
   "company": "Aurecon",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -6260,7 +6261,7 @@
  "83a6fcb9d069": {
   "company": "GM Australia Design / GM Specialty Vehicles",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GM Australia Design / GM Specialty Vehicles [workday]"
@@ -6307,7 +6308,7 @@
  "84ea7a9f7827": {
   "company": "BDO",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -6318,7 +6319,7 @@
  "84f0f6d883ab": {
   "company": "Esri Australia",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -6425,7 +6426,7 @@
  "893bd9e2e4c1": {
   "company": "bp pulse Australia",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "bp pulse Australia [workday]"
@@ -6484,7 +6485,7 @@
  "8a728d452917": {
   "company": "AustralianSuper",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -6519,7 +6520,7 @@
  "8b4f24e6f6fd": {
   "company": "Lucid Consulting Australia",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -6531,7 +6532,7 @@
  "8b7162aa0e30": {
   "company": "Mainfreight",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -6543,7 +6544,7 @@
   "closed_on": "2026-10-15",
   "company": "BDO",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -6554,7 +6555,7 @@
  "8b9adcfedf4f": {
   "company": "Johnson Controls Australia",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Johnson Controls Australia [workday]"
@@ -6590,7 +6591,7 @@
  "8c295f4090a8": {
   "company": "Amazon Web Services",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -6603,7 +6604,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6624,7 +6625,7 @@
  "8c6371d7aaa7": {
   "company": "ReSource Pty Ltd",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -6791,7 +6792,7 @@
  "8f6a33c44279": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -6826,7 +6827,7 @@
  "8f8c54b8082d": {
   "company": "Department of the Treasury",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -6861,7 +6862,7 @@
  "90464445b5d6": {
   "company": "Optus (Optus Satellite)",
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Optus (Optus Satellite) [sf_rmk]"
@@ -6896,7 +6897,7 @@
  "90a962580f5f": {
   "company": "KPMG",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -6919,7 +6920,7 @@
  "914b94429c05": {
   "company": "Lucid Consulting Australia",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -6991,7 +6992,7 @@
   "closed_on": "2026-10-17",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -7014,7 +7015,7 @@
  "93d89579e247": {
   "company": "Esri Australia",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -7049,7 +7050,7 @@
  "949fe9849067": {
   "company": "Amazon",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -7073,7 +7074,7 @@
  "94c423b2dc5d": {
   "company": "Aurecon",
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Aurecon [workday]"
@@ -7108,7 +7109,7 @@
  "95a17cdba464": {
   "company": "Readygrad",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -7156,7 +7157,7 @@
   "closed_on": "2026-10-15",
   "company": "BDO",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -7179,7 +7180,7 @@
  "97736696a3d9": {
   "company": "Quantum Brilliance",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -7202,7 +7203,7 @@
  "978ffd59a913": {
   "company": "Spiral Blue",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -7321,7 +7322,7 @@
  "99ed0b5e5160": {
   "company": "Citadel Securities",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -7333,7 +7334,7 @@
  "9a3666ee579f": {
   "company": "University of Melbourne (FEIT + jobs board)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "University of Melbourne (FEIT + jobs board) [page]"
@@ -7368,7 +7369,7 @@
  "9ab4256d6049": {
   "company": "ACS Foundation",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -7485,7 +7486,7 @@
  "9d9510674ac8": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -7533,7 +7534,7 @@
  "9e825cc77e36": {
   "company": "PsiQuantum",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -7544,7 +7545,7 @@
  "9eee0c69241c": {
   "company": "Allens",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -7579,7 +7580,7 @@
  "a09744efb6b3": {
   "company": "KPMG",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -7662,7 +7663,7 @@
  "a1ee391dac3e": {
   "company": "ResMed",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "ResMed [workday]"
@@ -7733,7 +7734,7 @@
  "a29c0a726b88": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -7756,7 +7757,7 @@
  "a2a7d332b319": {
   "company": "Deputy",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Deputy [lever]"
@@ -7862,7 +7863,7 @@
  "a5912ee24073": {
   "company": "Lucid Consulting Australia",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -7884,15 +7885,15 @@
   "title": "Notify Me - Marsh McLennan Graduate Jobs"
  },
  "a60551c3ce7f": {
-  "closed_on": "2026-10-16",
+  "closed_on": "2026-10-18",
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-17",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 17 hours ago"
  },
  "a63e9ebe3c6f": {
@@ -8007,7 +8008,7 @@
   "closed_on": "2026-10-15",
   "company": "BDO",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -8018,7 +8019,7 @@
  "a94344ff3c41": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -8053,7 +8054,7 @@
  "a9b4c5ba944a": {
   "company": "Barrett Communications",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Barrett Communications [workday]"
@@ -8088,7 +8089,7 @@
  "aa3e360c12cc": {
   "company": "Jemena",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -8136,7 +8137,7 @@
  "abbf2a030155": {
   "company": "KPMG",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -8161,7 +8162,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8256,7 +8257,7 @@
   "closed_on": "2026-10-17",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -8279,7 +8280,7 @@
  "ae0aa622276b": {
   "company": "ResMed",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "ResMed [workday]"
@@ -8290,7 +8291,7 @@
  "ae23ad766790": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -8325,7 +8326,7 @@
  "af0a78c27940": {
   "company": "Amazon",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -8398,7 +8399,7 @@
   "closed_on": "2026-10-17",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -8410,7 +8411,7 @@
   "company": "DT Infrastructure (Gamuda)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Claude web sweep",
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -8433,7 +8434,7 @@
  "b25f8e852ba3": {
   "company": "Lucid Consulting Australia",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -8456,7 +8457,7 @@
  "b3d60303d269": {
   "company": "Australian Federal Police",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -8515,10 +8516,11 @@
  "b46a699c40df": {
   "company": "GHD",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
@@ -8550,7 +8552,7 @@
  "b55d347386fc": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -8657,7 +8659,7 @@
  "b7f3c0bb190e": {
   "company": "Medtronic (Australasia)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Medtronic (Australasia) [workday]"
@@ -8739,14 +8741,15 @@
   "title": "Software Engineer Graduate - Data Arch - E-commerce"
  },
  "b931ca22589d": {
+  "closed_on": "2026-10-18",
   "company": "Johnson Controls Australia",
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-17",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Johnson Controls Australia [workday]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Engineer"
  },
  "b97471da2f59": {
@@ -8764,7 +8767,7 @@
  "ba35aa9c6a50": {
   "company": "Susquehanna International Group (SIG)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Susquehanna International Group (SIG) [icims]"
@@ -8787,7 +8790,7 @@
  "ba7e8b24408f": {
   "company": "Amazon",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -8824,7 +8827,7 @@
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8893,7 +8896,7 @@
  "bd620a0586cc": {
   "company": "Meta",
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "speedyapply 2027 college jobs (GitHub) [readme_list]"
@@ -8916,7 +8919,7 @@
  "bdee66e0e4c0": {
   "company": "University of Melbourne (FEIT + jobs board)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "University of Melbourne (FEIT + jobs board) [page]"
@@ -8988,7 +8991,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9022,7 +9025,7 @@
  "c034db8cfe8c": {
   "company": "Careers at Council",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -9045,7 +9048,7 @@
  "c0b156bddc75": {
   "company": "Readygrad",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -9128,7 +9131,7 @@
  "c2978f4ded29": {
   "company": "Stryker (South Pacific)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Stryker (South Pacific) [workday]"
@@ -9139,7 +9142,7 @@
  "c2ed9c46b5eb": {
   "company": "FDM Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -9150,7 +9153,7 @@
  "c30f922f3ef9": {
   "company": "GHD",
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GHD [oracle]"
@@ -9174,7 +9177,7 @@
   "closed_on": "2026-10-17",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -9197,7 +9200,7 @@
  "c37e823867bb": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -9281,7 +9284,7 @@
  "c4e6204e9f08": {
   "company": "AMOG Consulting",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -9316,7 +9319,7 @@
  "c6231e595694": {
   "company": "nbn",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -9362,7 +9365,7 @@
  "c76fa2ce61f9": {
   "company": "GHD",
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GHD [oracle]"
@@ -9433,7 +9436,7 @@
  "c8aefcb54dec": {
   "company": "ResMed",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "ResMed [workday]"
@@ -9468,7 +9471,7 @@
  "c9a6c9990ee0": {
   "company": "GM Australia Design / GM Specialty Vehicles",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GM Australia Design / GM Specialty Vehicles [workday]"
@@ -9491,7 +9494,7 @@
  "ca7f4a523ffc": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -9719,7 +9722,7 @@
  "d138a54f7633": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -9825,10 +9828,11 @@
  "d2f8c2520414": {
   "company": "GHD",
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 – Queensland – Graduate Civil Engineer (Construction Phase Services)"
@@ -9872,7 +9876,7 @@
  "d380b83769e4": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -9907,7 +9911,7 @@
  "d4d4bc55dba6": {
   "company": "Tesla Australia (Energy)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -9930,7 +9934,7 @@
  "d4f3d1f4e565": {
   "company": "Siemens Ltd (Australia)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -9965,7 +9969,7 @@
  "d5b7aff45792": {
   "company": "Aurecon",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Aurecon [workday]"
@@ -10155,7 +10159,7 @@
  "da632350b216": {
   "company": "Bosch Australia",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Bosch Australia [smartrecruiters]"
@@ -10192,7 +10196,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-10",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10261,7 +10265,7 @@
  "dde43355b628": {
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -10308,7 +10312,7 @@
  "de76de934404": {
   "company": "BHP",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -10320,7 +10324,7 @@
  "de7a42286432": {
   "company": "Nestlé",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -10331,7 +10335,7 @@
  "dec151c4b14b": {
   "company": "GHD",
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GHD [oracle]"
@@ -10342,7 +10346,7 @@
  "decaad4e8584": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -10413,7 +10417,7 @@
  "dfd8766ae98f": {
   "company": "GHD",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -10460,7 +10464,7 @@
  "e0db24f7bc87": {
   "company": "Careers at Council",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -10484,7 +10488,7 @@
   "closed_on": "2026-10-07",
   "company": "GHD",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GHD [oracle]"
@@ -10519,7 +10523,7 @@
  "e20a12820797": {
   "company": "Southern Launch",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -10554,7 +10558,7 @@
  "e27745c50b8c": {
   "company": "CSIRO (all business units incl. Data61, Energy, Manufacturing, Space & Astronomy, Agriculture & Food, Environment, Health & Biosecurity, Minerals, CSIRO Futures, NCMI, Science Connect)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "CSIRO (all business units incl. Data61, Energy, Manufacturing, Space & Astronomy, Agriculture & Food, Environment, Health & Biosecurity, Minerals, CSIRO Futures, NCMI, Science Connect) [sf_rmk]",
@@ -10578,7 +10582,7 @@
  "e2aa4a6909b2": {
   "company": "Siemens Energy (Grid Technologies / Grid Solutions)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -10589,7 +10593,7 @@
  "e2ded6c4bd0d": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -10612,7 +10616,7 @@
  "e3a3c5ed0dc4": {
   "company": "MongoDB",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -10625,7 +10629,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10647,7 +10651,7 @@
  "e43d6477cafd": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -10658,7 +10662,7 @@
  "e44688c72054": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -10679,14 +10683,15 @@
   "title": "Data Scientist Intern"
  },
  "e4f26307a4f3": {
+  "closed_on": "2026-10-18",
   "company": "Johnson Controls Australia",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-17",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Johnson Controls Australia [workday]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Electrical Engineer (Gordon Brothers)"
  },
  "e5da7bffa5d1": {
@@ -10704,7 +10709,7 @@
  "e689e271d565": {
   "company": "Capgemini",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -10799,7 +10804,7 @@
  "e7d289d14104": {
   "company": "Pluralis Research",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -10813,7 +10818,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10823,7 +10828,7 @@
  "e8986af670d0": {
   "company": "Silicon Quantum Computing (SQC)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -10846,7 +10851,7 @@
  "e979a610e3db": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -10857,7 +10862,7 @@
  "e9bf0f09ecc4": {
   "company": "GHD",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GHD [oracle]",
@@ -10893,7 +10898,7 @@
  "ea2f5ab8fa40": {
   "company": "Amazon",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -10929,7 +10934,7 @@
  "ea7c1729743c": {
   "company": "AustralianSuper",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -10951,7 +10956,7 @@
  "eba75857b33d": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -10962,7 +10967,7 @@
  "ebc5853c4dde": {
   "company": "Re.Group",
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -10973,7 +10978,7 @@
  "ec76d0138e92": {
   "company": "Rockwell Automation Australia",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Rockwell Automation Australia [workday]"
@@ -11055,7 +11060,7 @@
  "ee0db8378632": {
   "company": "Susquehanna International Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -11066,7 +11071,7 @@
  "ee1c30d0feee": {
   "company": "AEMO (Australian Energy Market Operator)",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -11124,7 +11129,7 @@
  "eed1d158c77e": {
   "company": "Tower Research Capital",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -11171,7 +11176,7 @@
  "ef8fdeb5d460": {
   "company": "Optiver",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -11194,7 +11199,7 @@
  "f002917560c4": {
   "company": "Citadel Securities",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -11230,7 +11235,7 @@
   "closed_on": "2026-10-06",
   "company": "Anduril Australia",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Anduril Australia [greenhouse]"
@@ -11253,7 +11258,7 @@
  "f27f6ab24384": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -11312,7 +11317,7 @@
  "f3913b92acbb": {
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep",
@@ -11336,7 +11341,7 @@
  "f3b18af2c59e": {
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -11396,7 +11401,7 @@
  "f567bcaafd37": {
   "company": "Gilmour Space Technologies",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Claude web sweep"
@@ -11419,7 +11424,7 @@
  "f581c4ab4c10": {
   "company": "Victorian Government",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -11430,7 +11435,7 @@
  "f58f960f6494": {
   "company": "PsiQuantum",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "PsiQuantum [greenhouse]",
@@ -11527,7 +11532,7 @@
  "f8e086ed98c6": {
   "company": "Andromeda Robotics",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Andromeda Robotics [workable]",
@@ -11670,7 +11675,7 @@
  "fde5dd5a2aa9": {
   "company": "GHD",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -11681,7 +11686,7 @@
  "fe619ad83a28": {
   "company": "Alstom Australia",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "Alstom Australia [sf_rmk]"
@@ -11716,7 +11721,7 @@
  "fec21aafbc88": {
   "company": "Robinhood",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "speedyapply 2027 college jobs (GitHub) [readme_list]"
@@ -11811,7 +11816,7 @@
  "ffb9c2dae0f5": {
   "company": "TikTok",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
@@ -11822,7 +11827,7 @@
  "ffc1abe88f52": {
   "company": "Jemena-Zinfra",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
+  "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
