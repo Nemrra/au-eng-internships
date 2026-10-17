@@ -27,12 +27,12 @@
   "closed_on": "2026-10-17",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-17",
-  "misses": 3,
+  "last_seen": "2026-10-18",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Cadet Building Surveyor"
  },
  "01246873282c": {
@@ -742,15 +742,15 @@
   "title": "GHD Summer Internship Program 2026/27 - Hobart Tasmania - Undergraduate Environmental Scientists"
  },
  "10a3ca5cd7fb": {
-  "closed_on": "2026-10-15",
+  "closed_on": "2026-10-18",
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 DT Infrastructure Graduate Program - Health, Safety, Environment & Sustainability"
  },
  "10c0987e6316": {
@@ -766,15 +766,15 @@
   "title": "Notify Me - APA Group Graduate Jobs"
  },
  "10cf2b347be0": {
-  "closed_on": "2026-10-16",
+  "closed_on": "2026-10-18",
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Data & Technical Support Specialist – Utility Metering"
  },
  "10de295f29d8": {
@@ -1343,12 +1343,12 @@
   "closed_on": "2026-10-16",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-16",
-  "misses": 3,
+  "last_seen": "2026-10-18",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Urban Designer"
  },
  "1d3b4c383570": {
@@ -1449,7 +1449,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-18",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -3541,7 +3541,7 @@
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-18",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3692,15 +3692,15 @@
   "title": "Notify Me - FTI Consulting Internships"
  },
  "4c5076195121": {
-  "closed_on": "2026-10-15",
+  "closed_on": "2026-10-18",
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 DT Infrastructure Graduate Program - Commercial"
  },
  "4c7b1a2179ce": {
@@ -4826,7 +4826,7 @@
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-18",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5270,14 +5270,15 @@
   "title": "Software Engineering Intern (Start ASAP)"
  },
  "6ddf2fd64713": {
+  "closed_on": "2026-10-18",
   "company": "GHD",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "GHD Graduate Program 2026/27 – Brisbane – Graduate Structural Engineer"
  },
  "6df94952f368": {
@@ -8409,15 +8410,16 @@
   "title": "MMEM Sales & Management Graduate - Western Brisbane / Ipswitch, QLD"
  },
  "b1aca86a81c9": {
+  "closed_on": "2026-10-18",
   "company": "DT Infrastructure (Gamuda)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-17",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Claude web sweep",
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 DT Infrastructure Graduate Program - Engineering"
  },
  "b1f82f4dcc76": {
