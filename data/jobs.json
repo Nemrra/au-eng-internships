@@ -1,5 +1,5 @@
 {
- "count": 249,
+ "count": 260,
  "jobs": [
   {
    "apply_url": null,
@@ -46,6 +46,149 @@
    ],
    "title": "GHD Graduate Program 2026/27 - Adelaide - Civil Engineers",
    "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26757"
+  },
+  {
+   "apply_url": null,
+   "base_score": 16,
+   "closes": "2026-11-06",
+   "company": "Premium Graduate Placements",
+   "disciplines": [
+    "Electrical"
+   ],
+   "employer_id": null,
+   "employment_type": "Internships",
+   "first_seen": "2026-10-17",
+   "flags": [
+    "placement-agency"
+   ],
+   "id": "5223001de4f8",
+   "key": "premium graduate placements|electrical engineering internships immediate intake",
+   "last_seen": "2026-10-17",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/premium-graduate-placements/jobs/premium-graduate-placements-electrical-engineering-internships-immediate-intake-52/"
+    }
+   ],
+   "location": "Adelaide | Brisbane | Canberra | Darwin | Gold Coast | Hobart | Melbourne | Perth | Regional ACT | Regional New South Wales | Regional Northern Territory | Regional Queensland | Regional South Australia | Regional Tasmania | Regional Victoria | Regional Western Australia | Sydney",
+   "posted": "2026-10-16",
+   "priority": "adjacent",
+   "role_type": "intern-other",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Premium Graduate is Australia’s leading graduate employability specialist connecting students and graduates to top host companies around Australia. Since 2014 we have successfully transitioned early career seekers from education to the workplace with extraordinary employment outcomes.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "ACT",
+    "NSW",
+    "NT",
+    "QLD",
+    "SA",
+    "TAS",
+    "VIC",
+    "WA"
+   ],
+   "title": "Electrical Engineering Internships – Immediate Intake",
+   "url": "https://au.gradconnection.com/employers/premium-graduate-placements/jobs/premium-graduate-placements-electrical-engineering-internships-immediate-intake-52/"
+  },
+  {
+   "apply_url": null,
+   "base_score": 14,
+   "closes": null,
+   "company": "Lycopodium",
+   "disciplines": [],
+   "employer_id": "lycopodium",
+   "employment_type": null,
+   "first_seen": "2026-10-17",
+   "flags": [],
+   "id": "02b036b0a87c",
+   "key": "lycopodium|graduate project engineering lycopodium is now recruiting for our graduate project engineering to join our growing team in perth location perth wa work type full time published at 20 hours ago",
+   "last_seen": "2026-10-17",
+   "links": [
+    {
+     "source": "Lycopodium [livehire]",
+     "url": "https://www.livehire.com/careers/lycopodium/job/NKBTX/7KOR2RO3XX/graduate-program-2027-project-engineering?useBrowserBack=true"
+    }
+   ],
+   "location": "",
+   "posted": null,
+   "priority": "deprioritised",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [
+    "engineering-consulting",
+    "mining-resources",
+    "EPCM"
+   ],
+   "snippet": "",
+   "source": "Lycopodium [livehire]",
+   "source_kind": "ats",
+   "source_type": "livehire",
+   "sources": [
+    "Lycopodium [livehire]"
+   ],
+   "start_date": null,
+   "states": [
+    "AU"
+   ],
+   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 20 hours ago",
+   "url": "https://www.livehire.com/careers/lycopodium/job/NKBTX/7KOR2RO3XX/graduate-program-2027-project-engineering?useBrowserBack=true"
+  },
+  {
+   "apply_url": null,
+   "base_score": 10,
+   "closes": "2026-11-06",
+   "company": "Premium Graduate Placements",
+   "disciplines": [
+    "Software"
+   ],
+   "employer_id": null,
+   "employment_type": "Internships",
+   "first_seen": "2026-10-17",
+   "flags": [
+    "placement-agency"
+   ],
+   "id": "658e74780382",
+   "key": "premium graduate placements|innovative software engineering internships on offer",
+   "last_seen": "2026-10-17",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/premium-graduate-placements/jobs/premium-graduate-placements-innovative-2026-software-engineering-internships-on-offer-10/"
+    }
+   ],
+   "location": "Adelaide | Brisbane | Canberra | Darwin | Gold Coast | Hobart | Melbourne | Perth | Regional ACT | Regional New South Wales | Regional Northern Territory | Regional Queensland | Regional South Australia | Regional Tasmania | Regional Victoria | Regional Western Australia | Sydney",
+   "posted": "2026-10-16",
+   "priority": "adjacent",
+   "role_type": "intern-other",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Premium Graduate is Australia’s leading graduate employability specialist connecting students and graduates to top host companies around Australia. Since 2014 we have successfully transitioned early career seekers from education to the workplace with extraordinary employment outcomes.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "ACT",
+    "NSW",
+    "NT",
+    "QLD",
+    "SA",
+    "TAS",
+    "VIC",
+    "WA"
+   ],
+   "title": "Innovative 2026 Software Engineering Internships on Offer",
+   "url": "https://au.gradconnection.com/employers/premium-graduate-placements/jobs/premium-graduate-placements-innovative-2026-software-engineering-internships-on-offer-10/"
   },
   {
    "apply_url": null,
@@ -417,7 +560,7 @@
     }
    ],
    "location": "Melbourne-Victoria-Australia | Australia",
-   "posted": "2026-10-15",
+   "posted": "2026-10-16",
    "priority": "core",
    "role_type": "intern-other",
    "salary": null,
@@ -469,7 +612,7 @@
     }
    ],
    "location": "Sydney, NSW, Australia | Australia",
-   "posted": "2026-10-14",
+   "posted": "2026-10-15",
    "priority": "core",
    "role_type": "intern-other",
    "salary": null,
@@ -621,6 +764,255 @@
    "url": "https://au.gradconnection.com/employers/ghd/jobs/ghd-ghd-summer-internship-program-202627-gladstone-townsville-civil-engineering-intern-2-3/"
   },
   {
+   "apply_url": "https://adr.to/cxikoai",
+   "base_score": 43,
+   "closes": "2026-12-15",
+   "company": "MM Electrical Merchandising",
+   "disciplines": [
+    "Electrical",
+    "Mechanical"
+   ],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-15",
+   "flags": [],
+   "id": "93a1549ac6d2",
+   "key": "mm electrical merchandising|mmem sales management graduate macarthur nsw",
+   "last_seen": "2026-10-17",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-group-mmem-business-management-graduate-program-melbourne-3-2-2-3-2-2-3/"
+    }
+   ],
+   "location": "Sydney",
+   "posted": "2026-10-14",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Learn how to run a successful business from the ground up through a structured graduate program with Australia's largest electrical wholesaling company.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW"
+   ],
+   "title": "MMEM Sales & Management Graduate - Macarthur, NSW",
+   "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-group-mmem-business-management-graduate-program-melbourne-3-2-2-3-2-2-3/"
+  },
+  {
+   "apply_url": "https://adr.to/k3z26ai",
+   "base_score": 43,
+   "closes": "2026-12-15",
+   "company": "MM Electrical Merchandising",
+   "disciplines": [
+    "Electrical",
+    "Mechanical"
+   ],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-15",
+   "flags": [],
+   "id": "add9b2f6f057",
+   "key": "mm electrical merchandising|mmem sales management graduate sutherland shire nsw",
+   "last_seen": "2026-10-17",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-electrical-merchandising-sales-leadership-graduate-sutherland-shire-6/"
+    }
+   ],
+   "location": "Sydney",
+   "posted": "2026-10-14",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Learn how to run a successful business from the ground up through a structured graduate program with Australia's largest electrical wholesaling company.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW"
+   ],
+   "title": "MMEM Sales & Management Graduate - Sutherland Shire, NSW",
+   "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-electrical-merchandising-sales-leadership-graduate-sutherland-shire-6/"
+  },
+  {
+   "apply_url": "https://adr.to/s3w26ai",
+   "base_score": 43,
+   "closes": "2026-12-15",
+   "company": "MM Electrical Merchandising",
+   "disciplines": [
+    "Electrical",
+    "Mechanical"
+   ],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-15",
+   "flags": [],
+   "id": "16208b686c28",
+   "key": "mm electrical merchandising|mmem sales management graduate canberra act",
+   "last_seen": "2026-10-17",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-electrical-merchandising-sales-leadership-graduate-2/"
+    }
+   ],
+   "location": "Canberra",
+   "posted": "2026-10-14",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Learn how to run a successful business from the ground up through a structured graduate program with Australia's largest electrical wholesaling company.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "ACT"
+   ],
+   "title": "MMEM Sales & Management Graduate - Canberra, ACT",
+   "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-electrical-merchandising-sales-leadership-graduate-2/"
+  },
+  {
+   "apply_url": "https://adr.to/gh2lgai",
+   "base_score": 42,
+   "closes": "2026-12-15",
+   "company": "MM Electrical Merchandising",
+   "disciplines": [
+    "Electrical"
+   ],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-15",
+   "flags": [],
+   "id": "b188ae8d203c",
+   "key": "mm electrical merchandising|mmem sales management graduate western brisbane ipswitch qld",
+   "last_seen": "2026-10-17",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-electrical-merchandising-sales-leadership-graduate-sutherland-shire-5-2/"
+    }
+   ],
+   "location": "Brisbane",
+   "posted": "2026-10-14",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Learn how to run a successful business from the ground up with Australia's largest electrical wholesaling company.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "QLD"
+   ],
+   "title": "MMEM Sales & Management Graduate - Western Brisbane / Ipswitch, QLD",
+   "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-electrical-merchandising-sales-leadership-graduate-sutherland-shire-5-2/"
+  },
+  {
+   "apply_url": "https://adr.to/olz3gai",
+   "base_score": 42,
+   "closes": "2026-12-15",
+   "company": "MM Electrical Merchandising",
+   "disciplines": [
+    "Electrical"
+   ],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-15",
+   "flags": [],
+   "id": "040e767ced43",
+   "key": "mm electrical merchandising|mmem sales management graduate south brisbane qld",
+   "last_seen": "2026-10-17",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-electrical-merchandising-sales-leadership-graduate-sutherland-shire-5/"
+    }
+   ],
+   "location": "Brisbane",
+   "posted": "2026-10-14",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Learn how to run a successful business from the ground up with Australia's largest electrical wholesaling company.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "QLD"
+   ],
+   "title": "MMEM Sales & Management Graduate - South Brisbane, QLD",
+   "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-electrical-merchandising-sales-leadership-graduate-sutherland-shire-5/"
+  },
+  {
+   "apply_url": "https://adr.to/td2lgai",
+   "base_score": 42,
+   "closes": "2026-12-15",
+   "company": "MM Electrical Merchandising",
+   "disciplines": [
+    "Electrical"
+   ],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-15",
+   "flags": [],
+   "id": "c36d660b5bb4",
+   "key": "mm electrical merchandising|mmem sales management graduate wide bay region qld",
+   "last_seen": "2026-10-17",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-electrical-merchandising-sales-leadership-graduate-sutherland-shire-5-2-2/"
+    }
+   ],
+   "location": "Brisbane | Regional Queensland",
+   "posted": "2026-10-14",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Learn how to run a successful business from the ground up with Australia's largest electrical wholesaling company.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "QLD"
+   ],
+   "title": "MMEM Sales & Management Graduate - Wide Bay Region, QLD",
+   "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-electrical-merchandising-sales-leadership-graduate-sutherland-shire-5-2-2/"
+  },
+  {
    "apply_url": null,
    "base_score": 22,
    "closes": null,
@@ -646,7 +1038,7 @@
     }
    ],
    "location": "Brisbane | Australia",
-   "posted": "2026-09-16",
+   "posted": "2026-09-17",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -669,49 +1061,6 @@
    ],
    "title": "Graduate Industrial Structural Engineer",
    "url": "https://aurecongroup.wd3.myworkdayjobs.com/aurecon/job/Brisbane/Graduate-Industrial-Structural-Engineer_R21443"
-  },
-  {
-   "apply_url": null,
-   "base_score": 14,
-   "closes": null,
-   "company": "Lycopodium",
-   "disciplines": [],
-   "employer_id": "lycopodium",
-   "employment_type": null,
-   "first_seen": "2026-10-15",
-   "flags": [],
-   "id": "a60551c3ce7f",
-   "key": "lycopodium|graduate project engineering lycopodium is now recruiting for our graduate project engineering to join our growing team in perth location perth wa work type full time published at 17 hours ago",
-   "last_seen": "2026-10-17",
-   "links": [
-    {
-     "source": "Lycopodium [livehire]",
-     "url": "https://www.livehire.com/careers/lycopodium/job/NKBTX/7KOR2RO3XX/graduate-program-2027-project-engineering?useBrowserBack=true"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "deprioritised",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [
-    "engineering-consulting",
-    "mining-resources",
-    "EPCM"
-   ],
-   "snippet": "",
-   "source": "Lycopodium [livehire]",
-   "source_kind": "ats",
-   "source_type": "livehire",
-   "sources": [
-    "Lycopodium [livehire]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 17 hours ago",
-   "url": "https://www.livehire.com/careers/lycopodium/job/NKBTX/7KOR2RO3XX/graduate-program-2027-project-engineering?useBrowserBack=true"
   },
   {
    "apply_url": null,
@@ -802,36 +1151,31 @@
    "url": "https://au.gradconnection.com/employers/dxc-technology/jobs/dxc-technology-2027-dxc-technology-graduate-ai-engineer-melbourne/"
   },
   {
-   "apply_url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25403",
+   "apply_url": "https://www.careersatcouncil.com.au/job/concreting-trainee-8154/",
    "base_score": 32,
-   "closes": "2026-10-30",
-   "company": "GHD",
+   "closes": "2026-10-19",
+   "company": "Careers at Council",
    "disciplines": [],
-   "employer_id": "ghd",
+   "employer_id": null,
    "employment_type": "Graduate Jobs",
    "first_seen": "2026-10-14",
    "flags": [],
-   "id": "34eb1219bc00",
-   "key": "ghd|ghd graduate perth graduate spatial analyst",
+   "id": "24911ef619ab",
+   "key": "careers at council|concreting trainee",
    "last_seen": "2026-10-17",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/ghd/jobs/ghd-ghd-graduate-program-202627-brisbane-graduate-civil-engineer-industrial-structures-3-2/"
+     "url": "https://au.gradconnection.com/employers/careers-at-council/jobs/careers-at-council-concreting-trainee/"
     }
    ],
-   "location": "Perth",
-   "posted": "2026-10-12",
+   "location": "New South Wales | Regional New South Wales | Sydney",
+   "posted": "2026-10-01",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
-   "sectors": [
-    "engineering-consulting",
-    "power-systems",
-    "water",
-    "infrastructure"
-   ],
-   "snippet": "Want to help solve the world’s big problems? Join our Graduate program in 2027 and work for an inclusive company committed to your development through our two year graduate program.",
+   "sectors": [],
+   "snippet": "Lake Macquarie City Council Speers Point, New South Wales",
    "source": "GradConnection (SEEK Grad) [gradconnection]",
    "source_kind": "aggregator",
    "source_type": "gradconnection",
@@ -840,10 +1184,49 @@
    ],
    "start_date": null,
    "states": [
-    "WA"
+    "NSW"
    ],
-   "title": "GHD Graduate Program 2026/27 – Perth – Graduate Spatial Analyst",
-   "url": "https://au.gradconnection.com/employers/ghd/jobs/ghd-ghd-graduate-program-202627-brisbane-graduate-civil-engineer-industrial-structures-3-2/"
+   "title": "Concreting Trainee",
+   "url": "https://au.gradconnection.com/employers/careers-at-council/jobs/careers-at-council-concreting-trainee/"
+  },
+  {
+   "apply_url": "https://www.careersatcouncil.com.au/job/trainee-information-technology-communications-support-assistant/",
+   "base_score": 32,
+   "closes": "2026-10-19",
+   "company": "Careers at Council",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-14",
+   "flags": [],
+   "id": "3c25cd4206db",
+   "key": "careers at council|trainee information technology communications support assistant",
+   "last_seen": "2026-10-17",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/careers-at-council/jobs/careers-at-council-trainee-information-technology-communications-support-assistant/"
+    }
+   ],
+   "location": "New South Wales | Regional New South Wales | Sydney",
+   "posted": "2026-09-29",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Yass Valley Council Yass",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW"
+   ],
+   "title": "Trainee Information Technology & Communications Support Assistant",
+   "url": "https://au.gradconnection.com/employers/careers-at-council/jobs/careers-at-council-trainee-information-technology-communications-support-assistant/"
   },
   {
    "apply_url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25213",
@@ -888,6 +1271,50 @@
    ],
    "title": "Graduate Program – Sydney – Graduate Agricultural Consultant",
    "url": "https://au.gradconnection.com/employers/ghd/jobs/ghd-ghd-graduate-program-202627-brisbane-graduate-civil-engineer-industrial-structures-3-2-2/"
+  },
+  {
+   "apply_url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25403",
+   "base_score": 32,
+   "closes": "2026-10-30",
+   "company": "GHD",
+   "disciplines": [],
+   "employer_id": "ghd",
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-14",
+   "flags": [],
+   "id": "34eb1219bc00",
+   "key": "ghd|ghd graduate perth graduate spatial analyst",
+   "last_seen": "2026-10-17",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/ghd/jobs/ghd-ghd-graduate-program-202627-brisbane-graduate-civil-engineer-industrial-structures-3-2/"
+    }
+   ],
+   "location": "Perth",
+   "posted": "2026-10-12",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [
+    "engineering-consulting",
+    "power-systems",
+    "water",
+    "infrastructure"
+   ],
+   "snippet": "Want to help solve the world’s big problems? Join our Graduate program in 2027 and work for an inclusive company committed to your development through our two year graduate program.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "WA"
+   ],
+   "title": "GHD Graduate Program 2026/27 – Perth – Graduate Spatial Analyst",
+   "url": "https://au.gradconnection.com/employers/ghd/jobs/ghd-ghd-graduate-program-202627-brisbane-graduate-civil-engineer-industrial-structures-3-2/"
   },
   {
    "apply_url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29084/?utm_medium=jobshare&utm_source=External+Job+Share",
@@ -1066,45 +1493,6 @@
    "url": "https://au.gradconnection.com/employers/careers-at-council/jobs/careers-at-council-graduate-project-officer-2/"
   },
   {
-   "apply_url": "https://www.careersatcouncil.com.au/job/water-and-sewer-operations-trainee-20261008/",
-   "base_score": 32,
-   "closes": "2026-11-23",
-   "company": "Careers at Council",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-13",
-   "flags": [],
-   "id": "f3b18af2c59e",
-   "key": "careers at council|water and sewer operations trainee",
-   "last_seen": "2026-10-17",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/careers-at-council/jobs/careers-at-council-water-and-sewer-operations-trainee/"
-    }
-   ],
-   "location": "New South Wales | Regional New South Wales | Sydney",
-   "posted": "2026-10-09",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Bega Valley Shire Council Bega, New South Wales",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "NSW"
-   ],
-   "title": "Water and Sewer Operations Trainee",
-   "url": "https://au.gradconnection.com/employers/careers-at-council/jobs/careers-at-council-water-and-sewer-operations-trainee/"
-  },
-  {
    "apply_url": "https://www.careersatcouncil.com.au/job/trainee-supply-officer-8146/",
    "base_score": 32,
    "closes": "2026-10-19",
@@ -1181,6 +1569,45 @@
    ],
    "title": "Graduate GIS",
    "url": "https://au.gradconnection.com/employers/careers-at-council/jobs/careers-at-council-graduate-gis/"
+  },
+  {
+   "apply_url": "https://www.careersatcouncil.com.au/job/water-and-sewer-operations-trainee-20261008/",
+   "base_score": 32,
+   "closes": "2026-11-23",
+   "company": "Careers at Council",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-13",
+   "flags": [],
+   "id": "f3b18af2c59e",
+   "key": "careers at council|water and sewer operations trainee",
+   "last_seen": "2026-10-17",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/careers-at-council/jobs/careers-at-council-water-and-sewer-operations-trainee/"
+    }
+   ],
+   "location": "New South Wales | Regional New South Wales | Sydney",
+   "posted": "2026-10-09",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Bega Valley Shire Council Bega, New South Wales",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW"
+   ],
+   "title": "Water and Sewer Operations Trainee",
+   "url": "https://au.gradconnection.com/employers/careers-at-council/jobs/careers-at-council-water-and-sewer-operations-trainee/"
   },
   {
    "apply_url": null,
@@ -1619,7 +2046,7 @@
     }
    ],
    "location": "Sydney | Australia",
-   "posted": "2026-10-09",
+   "posted": "2026-10-10",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -1695,15 +2122,15 @@
    "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29065"
   },
   {
-   "apply_url": null,
+   "apply_url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28406",
    "base_score": 20,
-   "closes": null,
+   "closes": "2026-10-31",
    "company": "GHD",
    "disciplines": [
     "Civil/Construction"
    ],
    "employer_id": "ghd",
-   "employment_type": null,
+   "employment_type": "Graduate Jobs",
    "first_seen": "2026-10-09",
    "flags": [],
    "id": "d2f8c2520414",
@@ -1713,10 +2140,14 @@
     {
      "source": "GHD [oracle]",
      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28406"
+    },
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/ghd/jobs/ghd-ghd-graduate-program-202627-queensland-graduate-civil-engineer-construction-phase-services-3/"
     }
    ],
    "location": "BRISBANE, QUEENSLAND, Australia | AU | MAROOCHYDORE, QUEENSLAND, Australia | ROBINA, QUEENSLAND, Australia",
-   "posted": "2026-10-09",
+   "posted": "2026-10-08",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -1726,16 +2157,17 @@
     "water",
     "infrastructure"
    ],
-   "snippet": "",
+   "snippet": "Want to help solve the world’s big problems? Join our Graduate program in 2027 and work for an inclusive company committed to your development through our two year graduate program.",
    "source": "GHD [oracle]",
    "source_kind": "ats",
    "source_type": "oracle",
    "sources": [
-    "GHD [oracle]"
+    "GHD [oracle]",
+    "GradConnection (SEEK Grad) [gradconnection]"
    ],
    "start_date": null,
    "states": [
-    "AU"
+    "QLD"
    ],
    "title": "GHD Graduate Program 2026/27 – Queensland – Graduate Civil Engineer (Construction Phase Services)",
    "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28406"
@@ -2154,7 +2586,7 @@
     }
    ],
    "location": "Sydney, NSW, Australia | Australia",
-   "posted": "2026-10-07",
+   "posted": "2026-10-08",
    "priority": "core",
    "role_type": "summer",
    "salary": null,
@@ -2210,7 +2642,7 @@
     }
    ],
    "location": "Sydney, NSW, Australia | Australia",
-   "posted": "2026-10-07",
+   "posted": "2026-10-08",
    "priority": "core",
    "role_type": "intern-other",
    "salary": null,
@@ -2318,6 +2750,45 @@
    ],
    "title": "Graduate/Junior Analyst - Private Credit Fund",
    "url": "https://au.gradconnection.com/employers/white-acorn-capital/jobs/white-acorn-capital-graduatejunior-analyst-private-credit-fund/"
+  },
+  {
+   "apply_url": "https://www.careersatcouncil.com.au/job/trainee-early-childhood-educator-sandhills-early-childhood-centre-byron-bay-20260909/",
+   "base_score": 32,
+   "closes": "2026-10-19",
+   "company": "Careers at Council",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-07",
+   "flags": [],
+   "id": "3726a56d4af9",
+   "key": "careers at council|trainee early childhood educator sandhills early childhood centre byron bay",
+   "last_seen": "2026-10-17",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/careers-at-council/jobs/careers-at-council-trainee-early-childhood-educator-sandhills-early-childhood-centre-byron-bay/"
+    }
+   ],
+   "location": "New South Wales | Regional New South Wales | Sydney",
+   "posted": "2026-09-10",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Byron Shire Council Byron Bay, New South Wales",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW"
+   ],
+   "title": "Trainee Early Childhood Educator [Sandhills Early Childhood Centre, Byron Bay]",
+   "url": "https://au.gradconnection.com/employers/careers-at-council/jobs/careers-at-council-trainee-early-childhood-educator-sandhills-early-childhood-centre-byron-bay/"
   },
   {
    "apply_url": "https://bdoau.wd105.myworkdayjobs.com/en-GB/BDOEarlyCareers/job/Canberra-Australian-Capital-Territory/Graduate-Program---Canberra_JR102560",
@@ -3135,7 +3606,7 @@
     }
    ],
    "location": "Sydney, NSW, Australia | Australia",
-   "posted": "2026-10-01",
+   "posted": "2026-10-02",
    "priority": "core",
    "role_type": "intern-other",
    "salary": null,
@@ -3482,7 +3953,7 @@
     }
    ],
    "location": "North Sydney, Australia | Australia",
-   "posted": "2026-09-29",
+   "posted": "2026-09-30",
    "priority": "core",
    "role_type": "year-long",
    "salary": null,
@@ -3942,7 +4413,7 @@
     }
    ],
    "location": "Melbourne, Australia | Australia",
-   "posted": "2026-09-22",
+   "posted": "2026-09-23",
    "priority": "core",
    "role_type": "graduate",
    "salary": null,
@@ -3991,7 +4462,7 @@
     }
    ],
    "location": "Port Melbourne, Victoria, Australia | Australia",
-   "posted": "2026-09-16",
+   "posted": "2026-09-17",
    "priority": "adjacent",
    "role_type": "intern-other",
    "salary": null,
@@ -4514,7 +4985,7 @@
     }
    ],
    "location": "Dandenong, Victoria, Australia | Australia",
-   "posted": "2026-09-16",
+   "posted": "2026-09-17",
    "priority": "adjacent",
    "role_type": "intern-other",
    "salary": null,
@@ -4664,7 +5135,7 @@
     }
    ],
    "location": "Melbourne, Australia | Australia",
-   "posted": "2026-09-22",
+   "posted": "2026-09-23",
    "priority": "core",
    "role_type": "graduate",
    "salary": null,
@@ -5586,7 +6057,7 @@
     }
    ],
    "location": "",
-   "posted": "2026-09-16",
+   "posted": "2026-09-17",
    "priority": "core",
    "role_type": "intern-other",
    "salary": null,
@@ -5785,7 +6256,7 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2027-quantitative-trading-full-time-85/"
+     "url": "https://au.gradconnection.com/employers/citadel-citadel-securities/jobs/citadel-securities-2027-quantitative-trading-full-time-87/"
     }
    ],
    "location": "Sydney",
@@ -6626,7 +7097,7 @@
     }
    ],
    "location": "Australia - Docklands | Australia",
-   "posted": "2026-09-16",
+   "posted": "2026-09-17",
    "priority": "deprioritised",
    "role_type": "intern-other",
    "salary": null,
@@ -6715,7 +7186,7 @@
     }
    ],
    "location": "",
-   "posted": "2026-09-16",
+   "posted": "2026-09-17",
    "priority": "adjacent",
    "role_type": "summer",
    "salary": null,
@@ -7695,7 +8166,11 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-australiansuper-2027-graduate-program-technology-digital-data-enterprise-stream/"
+     "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-australiansuper-2027-graduate-program-technology-digital-data-enterprise-stream-2-2-2-2-2-2/"
+    },
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-australiansuper-2027-graduate-program-technology-digital-data-enterprise-stream-2-2-2-2-2/"
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -7703,7 +8178,11 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-australiansuper-2027-graduate-program-technology-digital-data-enterprise-stream-2-2-2-2-2/"
+     "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-australiansuper-2027-graduate-program-technology-digital-data-enterprise-stream/"
+    },
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-australiansuper-2027-graduate-program-technology-digital-data-enterprise-stream-2-2-2/"
     }
    ],
    "location": "Melbourne",
@@ -8430,47 +8909,6 @@
    "url": "https://au.gradconnection.com/employers/acs-foundation/jobs/acs-foundation-graduate-it-support-internship/"
   },
   {
-   "apply_url": "https://candidate.aurion.cloud/trea/production/portal1/redirect/to/dmFjYW5jaWVzLzI5MTI0OTA2NDkxOTU4OTl-MS9lZGl0",
-   "base_score": 46,
-   "closes": "2026-11-12",
-   "company": "Department of the Treasury",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Internships",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "8f8c54b8082d",
-   "key": "department of treasury|treasury internship",
-   "last_seen": "2026-10-17",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/department-of-the-treasury/jobs/department-of-the-treasury-2026-treasury-internship-program/"
-    }
-   ],
-   "location": "Canberra | Melbourne | Sydney",
-   "posted": "2026-02-05",
-   "priority": "adjacent",
-   "role_type": "intern-other",
-   "salary": "{'min_salary': '60,000', 'max_salary': '60,000', 'details': '$40.00 pro-rated for the internship period'}",
-   "sectors": [],
-   "snippet": "We offer paid internships for uni students to gain real-world experience. Timing and duration may vary. Roles are mostly in Canberra, with some in Sydney and Melbourne.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "ACT",
-    "NSW",
-    "VIC"
-   ],
-   "title": "2026 Treasury Internship Program",
-   "url": "https://au.gradconnection.com/employers/department-of-the-treasury/jobs/department-of-the-treasury-2026-treasury-internship-program/"
-  },
-  {
    "apply_url": "https://allens.wd3.myworkdayjobs.com/Allens/job/Sydney/First-Nations-Corporate-Services-Internship-2027_JR00001378",
    "base_score": 46,
    "closes": "2026-11-02",
@@ -8511,6 +8949,47 @@
    ],
    "title": "2027 First Nations Corporate Services Internship",
    "url": "https://au.gradconnection.com/employers/allens/jobs/allens-2026-first-nations-internship-program-2-2/"
+  },
+  {
+   "apply_url": "https://candidate.aurion.cloud/trea/production/portal1/redirect/to/dmFjYW5jaWVzLzI5MTI0OTA2NDkxOTU4OTl-MS9lZGl0",
+   "base_score": 46,
+   "closes": "2026-11-12",
+   "company": "Department of the Treasury",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Internships",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "8f8c54b8082d",
+   "key": "department of treasury|treasury internship",
+   "last_seen": "2026-10-17",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/department-of-the-treasury/jobs/department-of-the-treasury-2026-treasury-internship-program/"
+    }
+   ],
+   "location": "Canberra | Melbourne | Sydney",
+   "posted": "2026-02-05",
+   "priority": "adjacent",
+   "role_type": "intern-other",
+   "salary": "{'min_salary': '60,000', 'max_salary': '60,000', 'details': '$40.00 pro-rated for the internship period'}",
+   "sectors": [],
+   "snippet": "We offer paid internships for uni students to gain real-world experience. Timing and duration may vary. Roles are mostly in Canberra, with some in Sydney and Melbourne.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "ACT",
+    "NSW",
+    "VIC"
+   ],
+   "title": "2026 Treasury Internship Program",
+   "url": "https://au.gradconnection.com/employers/department-of-the-treasury/jobs/department-of-the-treasury-2026-treasury-internship-program/"
   },
   {
    "apply_url": "https://careers.gamuda.com.my/job/2027-DT-Infrastructure-Undergraduate-Opportunities-Engineering/12603-en_GB/",
@@ -8691,7 +9170,7 @@
     }
    ],
    "location": "Canberra, Australian Capital Territory, Australia | Australia",
-   "posted": "2026-09-16",
+   "posted": "2026-09-17",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -8812,48 +9291,6 @@
    "url": "https://au.gradconnection.com/employers/kpmg/jobs/kpmg-2027-kpmg-graduate-program-technology-digital-rolling-intake/"
   },
   {
-   "apply_url": "https://careers.fdmgroup.com/vacancies/vacancy-apply.aspx?VacancyID=2194&utm_source=gradconnection&utm_medium=jobad&utm_campaign=grad_pg_softeng&utm_content=aus_",
-   "base_score": 42,
-   "closes": "2026-11-30",
-   "company": "FDM Group",
-   "disciplines": [
-    "ML/AI/Data"
-   ],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "c2ed9c46b5eb",
-   "key": "fdm group|project grace data engineering graduate",
-   "last_seen": "2026-10-17",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/fdm-group/jobs/fdm-group-project-grace-data-engineering-graduate-program-2-2/"
-    }
-   ],
-   "location": "Melbourne | Sydney",
-   "posted": "2026-09-01",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": "{'min_salary': '60,000', 'max_salary': '70,000', 'details': ''}",
-   "sectors": [],
-   "snippet": "Curious About Data? That's All You Need to Begin. Do you enjoy problem-solving, working with information, or understanding how systems connect?",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "NSW",
-    "VIC"
-   ],
-   "title": "Project Grace: Data Engineering Graduate Program",
-   "url": "https://au.gradconnection.com/employers/fdm-group/jobs/fdm-group-project-grace-data-engineering-graduate-program-2-2/"
-  },
-  {
    "apply_url": "https://lifeattiktok.com/search/7605165393418537269",
    "base_score": 42,
    "closes": "2026-10-30",
@@ -8897,6 +9334,48 @@
    ],
    "title": "Machine Learning Engineer Graduate (Trust and Safety Engineering) - 2027 Start",
    "url": "https://au.gradconnection.com/employers/tiktok/jobs/tiktok-machine-learning-engineer-graduate-trust-and-safety-engineering-2027-start-10/"
+  },
+  {
+   "apply_url": "https://careers.fdmgroup.com/vacancies/vacancy-apply.aspx?VacancyID=2194&utm_source=gradconnection&utm_medium=jobad&utm_campaign=grad_pg_softeng&utm_content=aus_",
+   "base_score": 42,
+   "closes": "2026-11-30",
+   "company": "FDM Group",
+   "disciplines": [
+    "ML/AI/Data"
+   ],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "c2ed9c46b5eb",
+   "key": "fdm group|project grace data engineering graduate",
+   "last_seen": "2026-10-17",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/fdm-group/jobs/fdm-group-project-grace-data-engineering-graduate-program-2-2/"
+    }
+   ],
+   "location": "Melbourne | Sydney",
+   "posted": "2026-09-01",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": "{'min_salary': '60,000', 'max_salary': '70,000', 'details': ''}",
+   "sectors": [],
+   "snippet": "Curious About Data? That's All You Need to Begin. Do you enjoy problem-solving, working with information, or understanding how systems connect?",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW",
+    "VIC"
+   ],
+   "title": "Project Grace: Data Engineering Graduate Program",
+   "url": "https://au.gradconnection.com/employers/fdm-group/jobs/fdm-group-project-grace-data-engineering-graduate-program-2-2/"
   },
   {
    "apply_url": "https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/32595/?utm_medium=jobshare&utm_source=External+Job+Share",
@@ -9768,7 +10247,7 @@
     }
    ],
    "location": "",
-   "posted": "2026-09-29",
+   "posted": "2026-09-30",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -10784,6 +11263,45 @@
    "url": "https://au.gradconnection.com/employers/ausmeter-group/jobs/ausmeter-group-data-technical-support-specialist-utility-metering-5/"
   },
   {
+   "apply_url": "https://careers.afp.gov.au/job-invite/15886/",
+   "base_score": 32,
+   "closes": "2027-02-28",
+   "company": "Australian Federal Police",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "b3d60303d269",
+   "key": "australian federal police|register of interest afp graduate",
+   "last_seen": "2026-10-17",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/australian-federal-police/jobs/australian-federal-police-register-of-interest-2028-afp-graduate-program/"
+    }
+   ],
+   "location": "Canberra",
+   "posted": "2026-04-20",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": "{'min_salary': '70,000', 'max_salary': '70,000', 'details': '$77,264k + 15.4% Superannuation'}",
+   "sectors": [],
+   "snippet": "If you're an upcoming or recent tertiary graduate, join an agency that challenges you, supports your growth, and empowers you to make a difference.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "ACT"
+   ],
+   "title": "Register of Interest - 2028 AFP Graduate Program",
+   "url": "https://au.gradconnection.com/employers/australian-federal-police/jobs/australian-federal-police-register-of-interest-2028-afp-graduate-program/"
+  },
+  {
    "apply_url": "https://au.smrtr.io/fqMn",
    "base_score": 32,
    "closes": "2026-10-31",
@@ -10910,45 +11428,6 @@
    ],
    "title": "Mainfreight Graduate Program",
    "url": "https://au.gradconnection.com/employers/mainfreight/jobs/mainfreight-mainfreight-graduate-program-77/"
-  },
-  {
-   "apply_url": "https://careers.afp.gov.au/job-invite/15886/",
-   "base_score": 32,
-   "closes": "2027-02-28",
-   "company": "Australian Federal Police",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "b3d60303d269",
-   "key": "australian federal police|register of interest afp graduate",
-   "last_seen": "2026-10-17",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/australian-federal-police/jobs/australian-federal-police-register-of-interest-2028-afp-graduate-program/"
-    }
-   ],
-   "location": "Canberra",
-   "posted": "2026-04-20",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": "{'min_salary': '70,000', 'max_salary': '70,000', 'details': '$77,264k + 15.4% Superannuation'}",
-   "sectors": [],
-   "snippet": "If you're an upcoming or recent tertiary graduate, join an agency that challenges you, supports your growth, and empowers you to make a difference.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "ACT"
-   ],
-   "title": "Register of Interest - 2028 AFP Graduate Program",
-   "url": "https://au.gradconnection.com/employers/australian-federal-police/jobs/australian-federal-police-register-of-interest-2028-afp-graduate-program/"
   },
   {
    "apply_url": "https://www.bhp.com/careers/graduate-student-programs/australia",
@@ -11146,15 +11625,15 @@
    "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28878"
   },
   {
-   "apply_url": null,
+   "apply_url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27688/?utm_medium=jobshare&utm_source=External+Job+Share",
    "base_score": 20,
-   "closes": null,
+   "closes": "2026-10-25",
    "company": "GHD",
    "disciplines": [
     "Civil/Construction"
    ],
    "employer_id": "ghd",
-   "employment_type": null,
+   "employment_type": "Graduate Jobs",
    "first_seen": "2026-10-06",
    "flags": [],
    "id": "b46a699c40df",
@@ -11164,6 +11643,10 @@
     {
      "source": "GHD [oracle]",
      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27688"
+    },
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/ghd/jobs/ghd-ghd-graduate-program-202627-queensland-graduate-civil-engineer-construction-phase-services-2-2-2-2-3-2-2-2-2-3-2-2-2-2-2-2-2-2/"
     }
    ],
    "location": "DARWIN, NORTHERN TERRITORY, Australia | AU",
@@ -11177,16 +11660,17 @@
     "water",
     "infrastructure"
    ],
-   "snippet": "",
+   "snippet": "Want to help solve the world’s big problems? Join our Graduate program in 2027 and work for an inclusive company committed to your development through our two year graduate program.",
    "source": "GHD [oracle]",
    "source_kind": "ats",
    "source_type": "oracle",
    "sources": [
-    "GHD [oracle]"
+    "GHD [oracle]",
+    "GradConnection (SEEK Grad) [gradconnection]"
    ],
    "start_date": null,
    "states": [
-    "AU"
+    "NT"
    ],
    "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer",
    "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27688"

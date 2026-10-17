@@ -28,7 +28,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -82,6 +82,17 @@
   "status": "open",
   "title": "Software Development Engineer in Test Intern (TikTok LIVE) - 2027 Start (BS/MS)"
  },
+ "02b036b0a87c": {
+  "company": "Lycopodium",
+  "first_seen": "2026-10-17",
+  "last_seen": "2026-10-17",
+  "misses": 0,
+  "sources": [
+   "Lycopodium [livehire]"
+  ],
+  "status": "open",
+  "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 20 hours ago"
+ },
  "02b7daedb293": {
   "closed_on": "2026-10-12",
   "company": "University of Queensland",
@@ -133,12 +144,12 @@
   "closed_on": "2026-10-17",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-16",
-  "misses": 3,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "MMEM Sales & Management Graduate - South Brisbane, QLD"
  },
  "045d4c09204b": {
@@ -1003,12 +1014,12 @@
   "closed_on": "2026-10-17",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-16",
-  "misses": 3,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "MMEM Sales & Management Graduate - Canberra, ACT"
  },
  "172cda6b36ec": {
@@ -1686,7 +1697,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-17",
-  "misses": 2,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2327,7 +2338,7 @@
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2658,7 +2669,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-17",
-  "misses": 2,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2926,7 +2937,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-17",
-  "misses": 2,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3917,7 +3928,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-17",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -3981,6 +3992,17 @@
   ],
   "status": "closed",
   "title": "Research Scientist Intern - E-commerce Recommendation - Multiple Teams"
+ },
+ "5223001de4f8": {
+  "company": "Premium Graduate Placements",
+  "first_seen": "2026-10-17",
+  "last_seen": "2026-10-17",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Electrical Engineering Internships – Immediate Intake"
  },
  "526938e87d19": {
   "company": "ResMed",
@@ -4802,7 +4824,7 @@
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4925,6 +4947,17 @@
   ],
   "status": "closed",
   "title": "Notify Me - Alinta Energy Graduate Jobs"
+ },
+ "658e74780382": {
+  "company": "Premium Graduate Placements",
+  "first_seen": "2026-10-17",
+  "last_seen": "2026-10-17",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Innovative 2026 Software Engineering Internships on Offer"
  },
  "65da31a32e26": {
   "closed_on": "2026-10-06",
@@ -6354,14 +6387,15 @@
   "title": "Graduate Development Program (TikTok Shop E-commerce, Malaysia) - 2027 Start"
  },
  "87204a596c79": {
+  "closed_on": "2026-10-17",
   "company": "Lycopodium",
   "first_seen": "2026-10-17",
   "last_seen": "2026-10-17",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 9 hours ago"
  },
  "877c32caf450": {
@@ -6957,12 +6991,12 @@
   "closed_on": "2026-10-17",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-16",
-  "misses": 3,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "MMEM Sales & Management Graduate - Macarthur, NSW"
  },
  "93c9cb7c2810": {
@@ -7854,7 +7888,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-17",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -8222,12 +8256,12 @@
   "closed_on": "2026-10-17",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-16",
-  "misses": 3,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "MMEM Sales & Management Graduate - Sutherland Shire, NSW"
  },
  "adeef54f0cba": {
@@ -8364,12 +8398,12 @@
   "closed_on": "2026-10-17",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-16",
-  "misses": 3,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "MMEM Sales & Management Graduate - Western Brisbane / Ipswitch, QLD"
  },
  "b1aca86a81c9": {
@@ -8484,7 +8518,8 @@
   "last_seen": "2026-10-17",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
@@ -8708,7 +8743,7 @@
   "company": "Johnson Controls Australia",
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Johnson Controls Australia [workday]"
   ],
@@ -8778,7 +8813,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-16",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -9139,12 +9174,12 @@
   "closed_on": "2026-10-17",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-16",
-  "misses": 3,
+  "last_seen": "2026-10-17",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "MMEM Sales & Management Graduate - Wide Bay Region, QLD"
  },
  "c3736840e103": {
@@ -9793,7 +9828,8 @@
   "last_seen": "2026-10-17",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 – Queensland – Graduate Civil Engineer (Construction Phase Services)"
@@ -10647,7 +10683,7 @@
   "company": "Johnson Controls Australia",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-17",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Johnson Controls Australia [workday]"
   ],
