@@ -28,7 +28,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -651,7 +651,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -921,7 +921,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1092,14 +1092,15 @@
   "title": "2027/28 ANZ Australia Summer Intern Program - Expression of Interest"
  },
  "1805e19abd5c": {
+  "closed_on": "2026-10-19",
   "company": "TBH",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-18",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 Graduate Program | Discover an Alternative Career with TBH …. It’s more than you expect"
  },
  "18183853b6b4": {
@@ -1224,7 +1225,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1344,7 +1345,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1980,6 +1981,17 @@
   "status": "closed",
   "title": "Notify Me - NAB Graduate Jobs"
  },
+ "2a404da06a20": {
+  "company": "ResMed",
+  "first_seen": "2026-10-19",
+  "last_seen": "2026-10-19",
+  "misses": 0,
+  "sources": [
+   "ResMed [workday]"
+  ],
+  "status": "open",
+  "title": "Product Sustainability Intern"
+ },
  "2ac41e5d22fe": {
   "closed_on": "2026-10-06",
   "company": "Asc",
@@ -2339,7 +2351,7 @@
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3541,7 +3553,7 @@
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3566,8 +3578,7 @@
   "last_seen": "2026-10-19",
   "misses": 0,
   "sources": [
-   "Heidi Health [ashby]",
-   "Blackbird portfolio jobs [getro_board]"
+   "Heidi Health [ashby]"
   ],
   "status": "open",
   "title": "2026/2027 Software Engineering Intern Program (Heidi Launch Lab)"
@@ -4259,7 +4270,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4306,7 +4317,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4836,12 +4847,12 @@
   "closed_on": "2026-10-18",
   "company": "BDO",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-18",
-  "misses": 3,
+  "last_seen": "2026-10-19",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Program - Transfer Pricing (Brisbane)"
  },
  "6390d2bcc067": {
@@ -5059,7 +5070,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-16",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -5882,15 +5893,15 @@
   "title": "Machine Learning Engineer Graduate - E-Commerce Risk Control"
  },
  "7b0a9673804a": {
-  "closed_on": "2026-10-16",
+  "closed_on": "2026-10-19",
   "company": "White Acorn Capital",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-18",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate/Junior Analyst - Private Credit Fund"
  },
  "7b445f340213": {
@@ -6145,7 +6156,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6340,14 +6351,15 @@
   "title": "Notify Me - AFL - Australian Football League Graduate Jobs"
  },
  "84ea7a9f7827": {
+  "closed_on": "2026-10-19",
   "company": "BDO",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-18",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "High School Leaver Program 2027"
  },
  "84f0f6d883ab": {
@@ -6575,15 +6587,15 @@
   "title": "Mainfreight Graduate Program"
  },
  "8b7e034c95c6": {
-  "closed_on": "2026-10-15",
+  "closed_on": "2026-10-19",
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-18",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program - Superannuation"
  },
  "8b9adcfedf4f": {
@@ -6638,7 +6650,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7188,15 +7200,15 @@
   "title": "Multi-Cloud CDN Scheduling Platform Engineer Graduate - CDN Platform"
  },
  "9719732e9da6": {
-  "closed_on": "2026-10-15",
+  "closed_on": "2026-10-19",
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-18",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program - Risk Advisory"
  },
  "97606f23406c": {
@@ -8061,15 +8073,15 @@
   "title": "Graduate Rail Systems Engineer (2027 Intake)"
  },
  "a9213fc588ac": {
-  "closed_on": "2026-10-15",
+  "closed_on": "2026-10-19",
   "company": "BDO",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-18",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program - Business Services"
  },
  "a94344ff3c41": {
@@ -8218,7 +8230,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8576,8 +8588,7 @@
   "last_seen": "2026-10-19",
   "misses": 0,
   "sources": [
-   "GHD [oracle]",
-   "GradConnection (SEEK Grad) [gradconnection]"
+   "GHD [oracle]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
@@ -8884,7 +8895,7 @@
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9059,7 +9070,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9910,8 +9921,7 @@
   "last_seen": "2026-10-19",
   "misses": 0,
   "sources": [
-   "GHD [oracle]",
-   "GradConnection (SEEK Grad) [gradconnection]"
+   "GHD [oracle]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 – Queensland – Graduate Civil Engineer (Construction Phase Services)"
@@ -9933,7 +9943,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10275,7 +10285,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-10",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -11518,8 +11528,7 @@
   "misses": 0,
   "sources": [
    "PsiQuantum [greenhouse]",
-   "Claude web sweep",
-   "Blackbird portfolio jobs [getro_board]"
+   "Claude web sweep"
   ],
   "status": "open",
   "title": "Intern, Quantum Architecture"
