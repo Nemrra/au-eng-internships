@@ -28,7 +28,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -145,12 +145,12 @@
   "closed_on": "2026-10-19",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-18",
-  "misses": 3,
+  "last_seen": "2026-10-19",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "MMEM Sales & Management Graduate - South Brisbane, QLD"
  },
  "045d4c09204b": {
@@ -651,7 +651,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -769,8 +769,8 @@
   "closed_on": "2026-10-18",
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-18",
-  "misses": 2,
+  "last_seen": "2026-10-19",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1015,12 +1015,12 @@
   "closed_on": "2026-10-19",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-18",
-  "misses": 3,
+  "last_seen": "2026-10-19",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "MMEM Sales & Management Graduate - Canberra, ACT"
  },
  "172cda6b36ec": {
@@ -1095,7 +1095,7 @@
   "company": "TBH",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-18",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1344,7 +1344,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2339,7 +2339,7 @@
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3541,7 +3541,7 @@
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4903,6 +4903,17 @@
   "status": "closed",
   "title": "2026/27 EY Vacationer Program – Data Analytics"
  },
+ "64141bc30c30": {
+  "company": "Lycopodium",
+  "first_seen": "2026-10-19",
+  "last_seen": "2026-10-19",
+  "misses": 0,
+  "sources": [
+   "Lycopodium [livehire]"
+  ],
+  "status": "open",
+  "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 3 days ago"
+ },
  "6511a1c1d00b": {
   "company": "Lucid Consulting Australia",
   "first_seen": "2026-10-13",
@@ -4991,7 +5002,6 @@
   "misses": 0,
   "sources": [
    "Claude web sweep",
-   "Apple jobs AU internships [apple]",
    "Apple [page]"
   ],
   "status": "open",
@@ -5049,7 +5059,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-16",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -5876,7 +5886,7 @@
   "company": "White Acorn Capital",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-18",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6135,7 +6145,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6333,7 +6343,7 @@
   "company": "BDO",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-18",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6569,7 +6579,7 @@
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-18",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7016,12 +7026,12 @@
   "closed_on": "2026-10-19",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-18",
-  "misses": 3,
+  "last_seen": "2026-10-19",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "MMEM Sales & Management Graduate - Macarthur, NSW"
  },
  "93c9cb7c2810": {
@@ -7182,7 +7192,7 @@
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-18",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8055,7 +8065,7 @@
   "company": "BDO",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-18",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8303,12 +8313,12 @@
   "closed_on": "2026-10-19",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-18",
-  "misses": 3,
+  "last_seen": "2026-10-19",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "MMEM Sales & Management Graduate - Sutherland Shire, NSW"
  },
  "adeef54f0cba": {
@@ -8445,12 +8455,12 @@
   "closed_on": "2026-10-19",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-18",
-  "misses": 3,
+  "last_seen": "2026-10-19",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "MMEM Sales & Management Graduate - Western Brisbane / Ipswitch, QLD"
  },
  "b1aca86a81c9": {
@@ -9235,12 +9245,12 @@
   "closed_on": "2026-10-19",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-18",
-  "misses": 3,
+  "last_seen": "2026-10-19",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "MMEM Sales & Management Graduate - Wide Bay Region, QLD"
  },
  "c3736840e103": {
@@ -9923,7 +9933,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
