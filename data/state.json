@@ -146,7 +146,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-18",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -650,12 +650,12 @@
   "closed_on": "2026-10-16",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-16",
-  "misses": 3,
+  "last_seen": "2026-10-18",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Gwydir Career Start 2026/2027"
  },
  "0f763dd708a1": {
@@ -769,12 +769,12 @@
   "closed_on": "2026-10-18",
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-17",
-  "misses": 3,
+  "last_seen": "2026-10-18",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Data & Technical Support Specialist – Utility Metering"
  },
  "10de295f29d8": {
@@ -1016,7 +1016,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-18",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1445,15 +1445,15 @@
   "title": "2027 Intern Business Management"
  },
  "2074a57ea72f": {
-  "closed_on": "2026-10-16",
+  "closed_on": "2026-10-18",
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-18",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: a day ago"
  },
  "20a98ecc3b08": {
@@ -1698,7 +1698,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-18",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2670,7 +2670,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-18",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2938,7 +2938,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-18",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2973,7 +2973,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
   "last_seen": "2026-10-18",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3541,7 +3541,7 @@
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-18",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4720,7 +4720,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-18",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4826,7 +4826,7 @@
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-18",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6123,12 +6123,12 @@
   "closed_on": "2026-10-16",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-16",
-  "misses": 3,
+  "last_seen": "2026-10-18",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Student Work Placement (Unpaid)"
  },
  "80d02224992c": {
@@ -6995,7 +6995,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-18",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7509,6 +7509,17 @@
   "status": "closed",
   "title": "Software Engineering Intern - Self-Service Directory Diagnostics"
  },
+ "9d9ef7d00ab8": {
+  "company": "Leonardo Australia",
+  "first_seen": "2026-10-18",
+  "last_seen": "2026-10-18",
+  "misses": 0,
+  "sources": [
+   "Leonardo Australia [workday]"
+  ],
+  "status": "open",
+  "title": "Graduate Mechanical Engineer"
+ },
  "9df8e53f4662": {
   "closed_on": "2026-10-06",
   "company": "Itron",
@@ -7790,6 +7801,17 @@
   ],
   "status": "closed",
   "title": "Notify Me - Thales Graduate Jobs"
+ },
+ "a33fa20aa2dc": {
+  "company": "Leonardo Australia",
+  "first_seen": "2026-10-18",
+  "last_seen": "2026-10-18",
+  "misses": 0,
+  "sources": [
+   "Leonardo Australia [workday]"
+  ],
+  "status": "open",
+  "title": "Graduate Test Systems Engineer"
  },
  "a3c8fbd0856f": {
   "company": "Boeing Defence Australia (incl. Boeing Australia / Boeing Aerostructures Australia / BR&T-Australia)",
@@ -8260,7 +8282,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-18",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8402,7 +8424,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-18",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8522,7 +8544,8 @@
   "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
@@ -8835,6 +8858,17 @@
   ],
   "status": "open",
   "title": "2027 DT Infrastructure Undergraduate Opportunities - Commercial"
+ },
+ "bbe91b1bbfb4": {
+  "company": "Leonardo Australia",
+  "first_seen": "2026-10-18",
+  "last_seen": "2026-10-18",
+  "misses": 0,
+  "sources": [
+   "Leonardo Australia [workday]"
+  ],
+  "status": "open",
+  "title": "Graduate Test Software Engineer"
  },
  "bc0a7e89e2af": {
   "closed_on": "2026-10-06",
@@ -9180,7 +9214,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-18",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9833,7 +9867,8 @@
   "last_seen": "2026-10-18",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 – Queensland – Graduate Civil Engineer (Construction Phase Services)"
@@ -9854,12 +9889,12 @@
   "closed_on": "2026-10-16",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-16",
-  "misses": 3,
+  "last_seen": "2026-10-18",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Town Planner Cadet"
  },
  "d35eb42857b2": {
@@ -10267,7 +10302,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
   "last_seen": "2026-10-18",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
