@@ -28,7 +28,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-19",
-  "misses": 2,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -146,7 +146,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -651,7 +651,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-19",
-  "misses": 2,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -770,7 +770,7 @@
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -921,7 +921,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -987,6 +987,17 @@
   "status": "closed",
   "title": "Software Development Graduate, AWS, 2026 Sydney"
  },
+ "15112872d5f6": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-19",
+  "last_seen": "2026-10-19",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Environmental Health Officer Cadet"
+ },
  "1528faca0e5f": {
   "closed_on": "2026-10-06",
   "company": "Docugami",
@@ -1016,7 +1027,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1225,7 +1236,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1345,7 +1356,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-19",
-  "misses": 2,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1699,7 +1710,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2682,7 +2693,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2950,7 +2961,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2985,7 +2996,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3076,6 +3087,17 @@
   "status": "closed",
   "title": "Avionics Software Intern - Undergraduate"
  },
+ "3f59826f3f79": {
+  "company": "Lycopodium",
+  "first_seen": "2026-10-19",
+  "last_seen": "2026-10-19",
+  "misses": 0,
+  "sources": [
+   "Lycopodium [livehire]"
+  ],
+  "status": "open",
+  "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 4 hours ago"
+ },
  "3fcf074eff9e": {
   "company": "Wood",
   "first_seen": "2026-10-06",
@@ -3098,6 +3120,17 @@
   ],
   "status": "closed",
   "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - AML-ARK"
+ },
+ "408c87f7f0ce": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-19",
+  "last_seen": "2026-10-19",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Library Services Trainee (Indigenous Identified)"
  },
  "40aa6d5f3f5b": {
   "closed_on": "2026-10-06",
@@ -3134,6 +3167,17 @@
   ],
   "status": "closed",
   "title": "Machine Learning Engineer Intern - Search"
+ },
+ "41f64b157ca0": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-19",
+  "last_seen": "2026-10-19",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Student Planner Opportunities"
  },
  "420efc32de4d": {
   "closed_on": "2026-10-06",
@@ -3549,15 +3593,15 @@
   "title": "Secure Kernel Engineering Intern, Sydney"
  },
  "4953764d7bdf": {
-  "closed_on": "2026-10-16",
+  "closed_on": "2026-10-19",
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-19",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 Graduate Programme - Business & Operations | Carole Park"
  },
  "4985f471dad1": {
@@ -3578,7 +3622,8 @@
   "last_seen": "2026-10-19",
   "misses": 0,
   "sources": [
-   "Heidi Health [ashby]"
+   "Heidi Health [ashby]",
+   "Blackbird portfolio jobs [getro_board]"
   ],
   "status": "open",
   "title": "2026/2027 Software Engineering Intern Program (Heidi Launch Lab)"
@@ -4270,7 +4315,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4317,7 +4362,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4742,7 +4787,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4918,7 +4963,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -5013,6 +5058,7 @@
   "misses": 0,
   "sources": [
    "Claude web sweep",
+   "Apple jobs AU internships [apple]",
    "Apple [page]"
   ],
   "status": "open",
@@ -5066,15 +5112,15 @@
   "title": "Engineering Consulting Intern - Summer Program"
  },
  "682c2587d679": {
-  "closed_on": "2026-10-17",
+  "closed_on": "2026-10-19",
   "company": "Lycopodium",
   "first_seen": "2026-10-16",
   "last_seen": "2026-10-19",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 2 days ago"
  },
  "6846ee69416f": {
@@ -5938,6 +5984,17 @@
   "status": "closed",
   "title": "Notify Me - Hydro Tasmania Graduate Jobs"
  },
+ "7bef789017d3": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-19",
+  "last_seen": "2026-10-19",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Finance Cadet"
+ },
  "7c5f177935b8": {
   "closed_on": "2026-10-15",
   "company": "Careers at Council",
@@ -6156,7 +6213,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-19",
-  "misses": 2,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6280,6 +6337,17 @@
   "status": "closed",
   "title": "Notify Me - RWE Graduate Jobs"
  },
+ "8327b7b7025c": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-19",
+  "last_seen": "2026-10-19",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Student Urban Planner (Town Planning)"
+ },
  "83789817ea61": {
   "closed_on": "2026-10-06",
   "company": "Alinta Energy",
@@ -6349,6 +6417,17 @@
   ],
   "status": "closed",
   "title": "Notify Me - AFL - Australian Football League Graduate Jobs"
+ },
+ "84c70f7bc452": {
+  "company": "Careers at Council",
+  "first_seen": "2026-10-19",
+  "last_seen": "2026-10-19",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Cadet Civil Engineer x 4"
  },
  "84ea7a9f7827": {
   "closed_on": "2026-10-19",
@@ -6650,7 +6729,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7039,7 +7118,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7575,6 +7654,17 @@
   ],
   "status": "closed",
   "title": "Data Science Intern - Distributed Intelligence"
+ },
+ "9dfc72aacd4a": {
+  "company": "Lucid Consulting Australia",
+  "first_seen": "2026-10-19",
+  "last_seen": "2026-10-19",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Graduate Engineer / Asset Management Consultant"
  },
  "9e6e8d6d9035": {
   "closed_on": "2026-10-06",
@@ -8230,7 +8320,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8326,7 +8416,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8468,7 +8558,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8588,7 +8678,8 @@
   "last_seen": "2026-10-19",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
@@ -8895,7 +8986,7 @@
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9070,7 +9161,7 @@
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9257,7 +9348,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9921,7 +10012,8 @@
   "last_seen": "2026-10-19",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 – Queensland – Graduate Civil Engineer (Construction Phase Services)"
@@ -9943,7 +10035,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-19",
-  "misses": 2,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10213,12 +10305,12 @@
   "closed_on": "2026-10-15",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14",
-  "misses": 3,
+  "last_seen": "2026-10-19",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Business Cadet"
  },
  "da3f69a07aeb": {
@@ -10285,7 +10377,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-10",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10355,7 +10447,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
   "last_seen": "2026-10-19",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -11528,7 +11620,8 @@
   "misses": 0,
   "sources": [
    "PsiQuantum [greenhouse]",
-   "Claude web sweep"
+   "Claude web sweep",
+   "Blackbird portfolio jobs [getro_board]"
   ],
   "status": "open",
   "title": "Intern, Quantum Architecture"
@@ -11623,7 +11716,6 @@
   "last_seen": "2026-10-19",
   "misses": 0,
   "sources": [
-   "Andromeda Robotics [workable]",
    "Claude web sweep"
   ],
   "status": "open",
