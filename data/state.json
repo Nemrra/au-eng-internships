@@ -28,7 +28,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -145,8 +145,8 @@
   "closed_on": "2026-10-19",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-19",
-  "misses": 2,
+  "last_seen": "2026-10-20",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -651,7 +651,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -769,8 +769,8 @@
   "closed_on": "2026-10-18",
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-19",
-  "misses": 2,
+  "last_seen": "2026-10-20",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1026,8 +1026,8 @@
   "closed_on": "2026-10-19",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-19",
-  "misses": 2,
+  "last_seen": "2026-10-20",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1356,7 +1356,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1460,12 +1460,12 @@
   "closed_on": "2026-10-18",
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-18",
-  "misses": 3,
+  "last_seen": "2026-10-20",
+  "misses": 0,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: a day ago"
  },
  "20a98ecc3b08": {
@@ -1707,14 +1707,15 @@
   "title": "Notify Me - UBS Graduate Jobs"
  },
  "24911ef619ab": {
+  "closed_on": "2026-10-20",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-19",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Concreting Trainee"
  },
  "24eea2f361b0": {
@@ -2100,7 +2101,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-20",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -2372,8 +2373,8 @@
   "closed_on": "2026-10-17",
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-19",
-  "misses": 1,
+  "last_seen": "2026-10-20",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2711,15 +2712,15 @@
   "title": "Software Engineer Intern - Global E-Commerce Search Infrastructure"
  },
  "3726a56d4af9": {
-  "closed_on": "2026-10-13",
+  "closed_on": "2026-10-20",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-19",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Trainee Early Childhood Educator [Sandhills Early Childhood Centre, Byron Bay]"
  },
  "372a9d79084e": {
@@ -2980,14 +2981,15 @@
   "title": "Notify Me - Rabobank Internships"
  },
  "3c25cd4206db": {
+  "closed_on": "2026-10-20",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-19",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Trainee Information Technology & Communications Support Assistant"
  },
  "3ca5c2fca521": {
@@ -3015,14 +3017,15 @@
   "title": "Mechatronics Intern"
  },
  "3db54407fc24": {
+  "closed_on": "2026-10-20",
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
   "last_seen": "2026-10-19",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Project Officer"
  },
  "3dcaf63d00eb": {
@@ -3113,7 +3116,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -3147,7 +3150,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3194,7 +3197,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3619,7 +3622,7 @@
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4806,14 +4809,15 @@
   "title": "Notify Me - Suburban Rail Loop Authority Graduate Jobs"
  },
  "619fba03669e": {
+  "closed_on": "2026-10-20",
   "company": "Careers at Council",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-19",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Trainee Bush Regeneration"
  },
  "61d4f3b385d8": {
@@ -4982,14 +4986,15 @@
   "title": "2026/27 EY Vacationer Program – Data Analytics"
  },
  "64141bc30c30": {
+  "closed_on": "2026-10-20",
   "company": "Lycopodium",
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-19",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 3 days ago"
  },
  "6511a1c1d00b": {
@@ -6010,7 +6015,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6235,7 +6240,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6363,7 +6368,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8579,8 +8584,8 @@
   "closed_on": "2026-10-19",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-19",
-  "misses": 2,
+  "last_seen": "2026-10-20",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9369,8 +9374,8 @@
   "closed_on": "2026-10-19",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-19",
-  "misses": 2,
+  "last_seen": "2026-10-20",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10057,7 +10062,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10339,7 +10344,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10477,14 +10482,15 @@
   "title": "Boeing Summer 2027 Internship Program (Paid) – Quality Specialist"
  },
  "dde43355b628": {
+  "closed_on": "2026-10-20",
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
   "last_seen": "2026-10-19",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Trainee Supply Officer"
  },
  "dde714678a69": {
@@ -10632,7 +10638,7 @@
   "company": "GHD",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-19",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -11449,7 +11455,7 @@
   "company": "Anduril Australia",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Anduril Australia [greenhouse]"
   ],
