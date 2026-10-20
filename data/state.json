@@ -28,7 +28,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-20",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -146,7 +146,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -321,7 +321,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -480,6 +480,17 @@
   ],
   "status": "closed",
   "title": "Applied Science Intern - Information & Knowledge Management"
+ },
+ "0cc9bc78842b": {
+  "company": "KBR",
+  "first_seen": "2026-10-20",
+  "last_seen": "2026-10-20",
+  "misses": 0,
+  "sources": [
+   "KBR [workday]"
+  ],
+  "status": "open",
+  "title": "Talent Acquisition Specialist - Early Careers"
  },
  "0d14e6e4ddad": {
   "closed_on": "2026-10-06",
@@ -651,7 +662,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-20",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1027,7 +1038,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1236,7 +1247,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1356,7 +1367,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-20",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2101,7 +2112,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-20",
   "last_seen": "2026-10-20",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -2214,6 +2225,17 @@
   ],
   "status": "closed",
   "title": "2027 Undergraduate Opportunities - Engineering"
+ },
+ "2e35b0ac7f66": {
+  "company": "GHD",
+  "first_seen": "2026-10-20",
+  "last_seen": "2026-10-20",
+  "misses": 0,
+  "sources": [
+   "GHD [oracle]"
+  ],
+  "status": "open",
+  "title": "GHD Graduate Program 2026/27 - WA - Electrical Engineers"
  },
  "2e58a20fd497": {
   "company": "Anduril Australia",
@@ -2852,6 +2874,17 @@
   "status": "closed",
   "title": "Deep Learning Research Intern - Summer 2027 - Chicago, New York"
  },
+ "39c5af96abdf": {
+  "company": "GHD",
+  "first_seen": "2026-10-20",
+  "last_seen": "2026-10-20",
+  "misses": 0,
+  "sources": [
+   "GHD [oracle]"
+  ],
+  "status": "open",
+  "title": "GHD Graduate Program 2026/27 - WA - Structural Engineers"
+ },
  "3a00d166c497": {
   "company": "Careers at Council",
   "first_seen": "2026-10-13",
@@ -3113,14 +3146,15 @@
   "title": "Avionics Software Intern - Undergraduate"
  },
  "3f59826f3f79": {
+  "closed_on": "2026-10-20",
   "company": "Lycopodium",
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-19",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 4 hours ago"
  },
  "3fcf074eff9e": {
@@ -3150,7 +3184,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-20",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3194,14 +3228,15 @@
   "title": "Machine Learning Engineer Intern - Search"
  },
  "41f64b157ca0": {
+  "closed_on": "2026-10-20",
   "company": "Careers at Council",
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-19",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Student Planner Opportunities"
  },
  "420efc32de4d": {
@@ -3622,7 +3657,7 @@
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-20",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4145,6 +4180,17 @@
   "status": "closed",
   "title": "Notify Me - Thoughtworks Graduate Jobs"
  },
+ "5311b96ad0e3": {
+  "company": "GHD",
+  "first_seen": "2026-10-20",
+  "last_seen": "2026-10-20",
+  "misses": 0,
+  "sources": [
+   "GHD [oracle]"
+  ],
+  "status": "open",
+  "title": "GHD Graduate Program 2026/27 - WA - Civil Engineers"
+ },
  "53345c619456": {
   "company": "Dematic (KION Group)",
   "first_seen": "2026-10-06",
@@ -4340,7 +4386,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4387,7 +4433,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4919,7 +4965,7 @@
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5085,8 +5131,7 @@
   "misses": 0,
   "sources": [
    "Claude web sweep",
-   "Apple jobs AU internships [apple]",
-   "Apple [page]"
+   "Apple jobs AU internships [apple]"
   ],
   "status": "open",
   "title": "2027 Apple Internship - Information Systems and Technology (AUS)"
@@ -6012,14 +6057,15 @@
   "title": "Notify Me - Hydro Tasmania Graduate Jobs"
  },
  "7bef789017d3": {
+  "closed_on": "2026-10-20",
   "company": "Careers at Council",
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-19",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Finance Cadet"
  },
  "7c5f177935b8": {
@@ -6240,7 +6286,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-20",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6365,14 +6411,15 @@
   "title": "Notify Me - RWE Graduate Jobs"
  },
  "8327b7b7025c": {
+  "closed_on": "2026-10-20",
   "company": "Careers at Council",
   "first_seen": "2026-10-19",
   "last_seen": "2026-10-19",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Student Urban Planner (Town Planning)"
  },
  "83789817ea61": {
@@ -6756,7 +6803,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7145,7 +7192,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7262,7 +7309,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8443,7 +8490,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8585,7 +8632,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8705,8 +8752,7 @@
   "last_seen": "2026-10-20",
   "misses": 0,
   "sources": [
-   "GHD [oracle]",
-   "GradConnection (SEEK Grad) [gradconnection]"
+   "GHD [oracle]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
@@ -9246,7 +9292,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9375,7 +9421,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10039,8 +10085,7 @@
   "last_seen": "2026-10-20",
   "misses": 0,
   "sources": [
-   "GHD [oracle]",
-   "GradConnection (SEEK Grad) [gradconnection]"
+   "GHD [oracle]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 – Queensland – Graduate Civil Engineer (Construction Phase Services)"
@@ -10062,7 +10107,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-20",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10344,7 +10389,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-20",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10415,7 +10460,7 @@
   "company": "Readygrad",
   "first_seen": "2026-10-10",
   "last_seen": "2026-10-20",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10635,14 +10680,15 @@
   "title": "Self-Built Engineer Intern - CDN Platform"
  },
  "dfd8766ae98f": {
+  "closed_on": "2026-10-20",
   "company": "GHD",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-19",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "GHD Graduate Program 2026/27 – Brisbane – Graduate Planner"
  },
  "dfe98b2dada0": {
@@ -11194,6 +11240,17 @@
   "status": "open",
   "title": "Graduate Engineering Program – Mechanical or Mechatronic"
  },
+ "ec24ccacb0e2": {
+  "company": "GHD",
+  "first_seen": "2026-10-20",
+  "last_seen": "2026-10-20",
+  "misses": 0,
+  "sources": [
+   "GHD [oracle]"
+  ],
+  "status": "open",
+  "title": "GHD Graduate Program 2026/27 - WA - Mechanical Engineers"
+ },
  "ec76d0138e92": {
   "company": "Rockwell Automation Australia",
   "first_seen": "2026-10-06",
@@ -11455,7 +11512,7 @@
   "company": "Anduril Australia",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-20",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Anduril Australia [greenhouse]"
   ],
@@ -11841,6 +11898,17 @@
   ],
   "status": "closed",
   "title": "Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI"
+ },
+ "fc26ba0a7d4a": {
+  "company": "GHD",
+  "first_seen": "2026-10-20",
+  "last_seen": "2026-10-20",
+  "misses": 0,
+  "sources": [
+   "GHD [oracle]"
+  ],
+  "status": "open",
+  "title": "GHD Graduate Program 2026/27 - WA - Process Engineers"
  },
  "fc3812e71b75": {
   "company": "GHD",
