@@ -1,5 +1,5 @@
 {
- "count": 243,
+ "count": 240,
  "jobs": [
   {
    "apply_url": null,
@@ -1205,49 +1205,6 @@
   },
   {
    "apply_url": null,
-   "base_score": 14,
-   "closes": null,
-   "company": "Lycopodium",
-   "disciplines": [],
-   "employer_id": "lycopodium",
-   "employment_type": null,
-   "first_seen": "2026-10-16",
-   "flags": [],
-   "id": "682c2587d679",
-   "key": "lycopodium|graduate project engineering lycopodium is now recruiting for our graduate project engineering to join our growing team in perth location perth wa work type full time published at 2 days ago",
-   "last_seen": "2026-10-21",
-   "links": [
-    {
-     "source": "Lycopodium [livehire]",
-     "url": "https://www.livehire.com/careers/lycopodium/job/NKBTX/7KOR2RO3XX/graduate-program-2027-project-engineering?useBrowserBack=true"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "deprioritised",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [
-    "engineering-consulting",
-    "mining-resources",
-    "EPCM"
-   ],
-   "snippet": "",
-   "source": "Lycopodium [livehire]",
-   "source_kind": "ats",
-   "source_type": "livehire",
-   "sources": [
-    "Lycopodium [livehire]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 2 days ago",
-   "url": "https://www.livehire.com/careers/lycopodium/job/NKBTX/7KOR2RO3XX/graduate-program-2027-project-engineering?useBrowserBack=true"
-  },
-  {
-   "apply_url": null,
    "base_score": 91,
    "closes": null,
    "company": "Bosch Australia",
@@ -1509,47 +1466,6 @@
    ],
    "title": "Student Mechanical Engineer",
    "url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/Sydney-NSW-Australia/Student-Mechanical-Engineer_JR_054381"
-  },
-  {
-   "apply_url": "https://bdoau.wd105.myworkdayjobs.com/en-GB/BDOEarlyCareers/job/Perth-Western-Australia/Vacation-Program---Perth_JR102576",
-   "base_score": 51,
-   "closes": "2026-10-28",
-   "company": "BDO",
-   "disciplines": [
-    "Mechanical"
-   ],
-   "employer_id": null,
-   "employment_type": "Internships",
-   "first_seen": "2026-10-15",
-   "flags": [],
-   "id": "6a10953f12db",
-   "key": "bdo|vacation project infrastructure advisory",
-   "last_seen": "2026-10-21",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-vacation-program-project-infrastructure-3/"
-    }
-   ],
-   "location": "Perth",
-   "posted": "2026-10-14",
-   "priority": "adjacent",
-   "role_type": "summer",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Graduating between 2026 and 2029? Apply for our Summer Vacation Program and gain 4 weeks of paid work experience during your university break!",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "WA"
-   ],
-   "title": "Vacation Program – Project & Infrastructure Advisory",
-   "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-vacation-program-project-infrastructure-3/"
   },
   {
    "apply_url": "https://careers.capgemini.com/job/Melbourne-Capgemini-Summer-Internship-2026-2027/1446819733/",
@@ -2992,31 +2908,31 @@
    "url": "https://jobs.lever.co/deputy/4bb26726-8626-436a-8023-0071fda9cec4"
   },
   {
-   "apply_url": "https://apply.workable.com/vulcan/j/E52619010E",
+   "apply_url": "https://bdoau.wd105.myworkdayjobs.com/en-GB/BDOEarlyCareers/job/Brisbane-Queensland/Graduate-Program---Brisbane_JR102572",
    "base_score": 32,
-   "closes": "2026-10-30",
-   "company": "Vulcan Steel",
+   "closes": "2026-10-25",
+   "company": "BDO",
    "disciplines": [],
    "employer_id": null,
    "employment_type": "Graduate Jobs",
    "first_seen": "2026-10-07",
    "flags": [],
-   "id": "4953764d7bdf",
-   "key": "vulcan steel|graduate business operations carole park",
+   "id": "6347c8749483",
+   "key": "bdo|graduate transfer pricing brisbane",
    "last_seen": "2026-10-21",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/vulcan-steel/jobs/vulcan-steel-2027-graduate-programme-business-operations-carole-park/"
+     "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-graduate-program-transfer-pricing-brisbane/"
     }
    ],
-   "location": "South Brisbane",
-   "posted": "2026-09-27",
+   "location": "Brisbane",
+   "posted": "2026-09-29",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
    "sectors": [],
-   "snippet": "Join Vulcan's 18-month Graduate Programme and gain hands-on experience across operations, logistics and sales while building the skills, confidence and commercial mindset to become a future leader.",
+   "snippet": "Graduating in 2026? Lock in a full-time graduate role with BDO! Be part of a graduate cohort, receive tailored learning & development, networking and mentoring opportunities in your first year!",
    "source": "GradConnection (SEEK Grad) [gradconnection]",
    "source_kind": "aggregator",
    "source_type": "gradconnection",
@@ -3027,8 +2943,50 @@
    "states": [
     "QLD"
    ],
-   "title": "2027 Graduate Programme - Business & Operations | Carole Park",
-   "url": "https://au.gradconnection.com/employers/vulcan-steel/jobs/vulcan-steel-2027-graduate-programme-business-operations-carole-park/"
+   "title": "Graduate Program - Transfer Pricing (Brisbane)",
+   "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-graduate-program-transfer-pricing-brisbane/"
+  },
+  {
+   "apply_url": null,
+   "base_score": 21,
+   "closes": "2026-11-07",
+   "company": "NRW Holdings",
+   "disciplines": [
+    "Civil/Construction",
+    "Mechanical"
+   ],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-07",
+   "flags": [],
+   "id": "3268255bcaa9",
+   "key": "nrw holdings|graduate civil engineer",
+   "last_seen": "2026-10-21",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/nrw-holdings/jobs/nrw-holdings-graduate-civil-engineer/"
+    }
+   ],
+   "location": "Perth",
+   "posted": "2026-10-06",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Gain hands-on experience across civil and infrastructure projects while developing your technical and project delivery skills.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "WA"
+   ],
+   "title": "Graduate Civil Engineer",
+   "url": "https://au.gradconnection.com/employers/nrw-holdings/jobs/nrw-holdings-graduate-civil-engineer/"
   },
   {
    "apply_url": null,
@@ -6585,11 +6543,11 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-research-internship-phd-9/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-research-internship-phd-8/"
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-research-internship-phd-8/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-research-internship-phd-9/"
     }
    ],
    "location": "Sydney",
@@ -6906,7 +6864,7 @@
      "url": "https://jobs.apple.com/en-au/details/200676288-3957/2027-apple-internship-information-systems-and-technology-aus"
     },
     {
-     "source": "Apple jobs AU internships [apple]",
+     "source": "Apple [page]",
      "url": "https://jobs.apple.com/en-au/details/200676288-3957/2027-apple-internship-information-systems-and-technology-aus?team=STDNT"
     }
    ],
@@ -6927,7 +6885,6 @@
    "source_type": "research 2026-10-06",
    "sources": [
     "Claude web sweep",
-    "Apple jobs AU internships [apple]",
     "Apple [page]"
    ],
    "start_date": null,
@@ -8219,11 +8176,7 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-australiansuper-2027-graduate-program-technology-digital-data-enterprise-stream-2-2-2-2-2-2/"
-    },
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-australiansuper-2027-graduate-program-technology-digital-data-enterprise-stream-2-2-2-2-2/"
+     "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-australiansuper-2027-graduate-program-technology-digital-data-enterprise-stream/"
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
@@ -8231,11 +8184,7 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-australiansuper-2027-graduate-program-technology-digital-data-enterprise-stream/"
-    },
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-australiansuper-2027-graduate-program-technology-digital-data-enterprise-stream-2-2-2/"
+     "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-australiansuper-2027-graduate-program-technology-digital-data-enterprise-stream-2-2-2-2-2/"
     }
    ],
    "location": "Melbourne",
@@ -8425,53 +8374,6 @@
    ],
    "title": "Intern Quality Assurance Analyst",
    "url": "https://au.gradconnection.com/employers/acs-foundation/jobs/acs-foundation-intern-quality-assurance-analyst-2/"
-  },
-  {
-   "apply_url": "https://careers.gamuda.com.my/job/2027-DT-Infrastructure-Undergraduate-Opportunities-Commercial/12641-en_GB/",
-   "base_score": 47,
-   "closes": "2026-10-24",
-   "company": "DT Infrastructure",
-   "disciplines": [
-    "Mechanical"
-   ],
-   "employer_id": null,
-   "employment_type": "Internships",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "bbbf4e020d2a",
-   "key": "dt infrastructure|dt infrastructure undergraduate opportunities commercial",
-   "last_seen": "2026-10-21",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/dt-infrastructure/jobs/dt-infrastructure-2027-dt-infrastructure-undergraduate-opportunities-commercial/"
-    }
-   ],
-   "location": "Adelaide | Brisbane | Hobart | Melbourne | Perth | Regional New South Wales | Regional Northern Territory | Regional Queensland | Regional South Australia | Regional Tasmania | Regional Victoria | Regional Western Australia | Sydney",
-   "posted": "2026-09-27",
-   "priority": "adjacent",
-   "role_type": "intern-other",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Start your career before you graduate. Gain real infrastructure experience while you study, build your professional capability and create a pathway into your future career at DTI.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "NSW",
-    "NT",
-    "QLD",
-    "SA",
-    "TAS",
-    "VIC",
-    "WA"
-   ],
-   "title": "2027 DT Infrastructure Undergraduate Opportunities - Commercial",
-   "url": "https://au.gradconnection.com/employers/dt-infrastructure/jobs/dt-infrastructure-2027-dt-infrastructure-undergraduate-opportunities-commercial/"
   },
   {
    "apply_url": null,
@@ -8901,6 +8803,47 @@
    "url": "https://au.gradconnection.com/employers/acs-foundation/jobs/acs-foundation-graduate-it-support-internship/"
   },
   {
+   "apply_url": "https://candidate.aurion.cloud/trea/production/portal1/redirect/to/dmFjYW5jaWVzLzI5MTI0OTA2NDkxOTU4OTl-MS9lZGl0",
+   "base_score": 46,
+   "closes": "2026-11-12",
+   "company": "Department of the Treasury",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Internships",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "8f8c54b8082d",
+   "key": "department of treasury|treasury internship",
+   "last_seen": "2026-10-21",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/department-of-the-treasury/jobs/department-of-the-treasury-2026-treasury-internship-program/"
+    }
+   ],
+   "location": "Canberra | Melbourne | Sydney",
+   "posted": "2026-02-05",
+   "priority": "adjacent",
+   "role_type": "intern-other",
+   "salary": "{'min_salary': '60,000', 'max_salary': '60,000', 'details': '$40.00 pro-rated for the internship period'}",
+   "sectors": [],
+   "snippet": "We offer paid internships for uni students to gain real-world experience. Timing and duration may vary. Roles are mostly in Canberra, with some in Sydney and Melbourne.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "ACT",
+    "NSW",
+    "VIC"
+   ],
+   "title": "2026 Treasury Internship Program",
+   "url": "https://au.gradconnection.com/employers/department-of-the-treasury/jobs/department-of-the-treasury-2026-treasury-internship-program/"
+  },
+  {
    "apply_url": "https://allens.wd3.myworkdayjobs.com/Allens/job/Sydney/First-Nations-Corporate-Services-Internship-2027_JR00001378",
    "base_score": 46,
    "closes": "2026-11-02",
@@ -8941,47 +8884,6 @@
    ],
    "title": "2027 First Nations Corporate Services Internship",
    "url": "https://au.gradconnection.com/employers/allens/jobs/allens-2026-first-nations-internship-program-2-2/"
-  },
-  {
-   "apply_url": "https://candidate.aurion.cloud/trea/production/portal1/redirect/to/dmFjYW5jaWVzLzI5MTI0OTA2NDkxOTU4OTl-MS9lZGl0",
-   "base_score": 46,
-   "closes": "2026-11-12",
-   "company": "Department of the Treasury",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Internships",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "8f8c54b8082d",
-   "key": "department of treasury|treasury internship",
-   "last_seen": "2026-10-21",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/department-of-the-treasury/jobs/department-of-the-treasury-2026-treasury-internship-program/"
-    }
-   ],
-   "location": "Canberra | Melbourne | Sydney",
-   "posted": "2026-02-05",
-   "priority": "adjacent",
-   "role_type": "intern-other",
-   "salary": "{'min_salary': '60,000', 'max_salary': '60,000', 'details': '$40.00 pro-rated for the internship period'}",
-   "sectors": [],
-   "snippet": "We offer paid internships for uni students to gain real-world experience. Timing and duration may vary. Roles are mostly in Canberra, with some in Sydney and Melbourne.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "ACT",
-    "NSW",
-    "VIC"
-   ],
-   "title": "2026 Treasury Internship Program",
-   "url": "https://au.gradconnection.com/employers/department-of-the-treasury/jobs/department-of-the-treasury-2026-treasury-internship-program/"
   },
   {
    "apply_url": "https://careers.gamuda.com.my/job/2027-DT-Infrastructure-Undergraduate-Opportunities-Engineering/12603-en_GB/",
@@ -10950,31 +10852,31 @@
    "url": "https://au.gradconnection.com/employers/the-victorian-state-government/jobs/victorian-government-expression-of-interest-victorian-government-graduate-program-2028/"
   },
   {
-   "apply_url": null,
+   "apply_url": "https://au.smrtr.io/fqMn",
    "base_score": 32,
-   "closes": "2026-12-31",
-   "company": "Ausmeter Group",
+   "closes": "2026-10-31",
+   "company": "KPMG",
    "disciplines": [],
    "employer_id": null,
    "employment_type": "Graduate Jobs",
    "first_seen": "2026-10-06",
    "flags": [],
-   "id": "10cf2b347be0",
-   "key": "ausmeter group|data technical support specialist utility metering",
+   "id": "58c08aa0d2b8",
+   "key": "kpmg|kpmg graduate actuarial rolling intake",
    "last_seen": "2026-10-21",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/ausmeter-group/jobs/ausmeter-group-data-technical-support-specialist-utility-metering-5/"
+     "url": "https://au.gradconnection.com/employers/kpmg/jobs/kpmg-2027-kpmg-graduate-program-actuarial-rolling-intake/"
     }
    ],
-   "location": "Melbourne | Melbourne - Northern Suburbs",
-   "posted": "2026-06-19",
+   "location": "Adelaide | Brisbane | Canberra | Darwin | Hobart | Melbourne | Perth | Regional New South Wales | Regional Queensland | Regional Victoria | Sydney",
+   "posted": "2026-03-10",
    "priority": "adjacent",
    "role_type": "graduate",
-   "salary": null,
+   "salary": "{'min_salary': '60,000', 'max_salary': '80,000', 'details': ''}",
    "sectors": [],
-   "snippet": "We are looking for a sharp and detail focused Data Technician Support Specialist to join our Data Services Team, and provide key support in maintaining our Automated Meter Reading (AMR) Networks.",
+   "snippet": "Turn data and uncertainty into insight. Use actuarial and analytical skills to model risk, assess scenarios and support smarter decisions across financial services and beyond.",
    "source": "GradConnection (SEEK Grad) [gradconnection]",
    "source_kind": "aggregator",
    "source_type": "gradconnection",
@@ -10983,49 +10885,17 @@
    ],
    "start_date": null,
    "states": [
-    "VIC"
+    "ACT",
+    "NSW",
+    "NT",
+    "QLD",
+    "SA",
+    "TAS",
+    "VIC",
+    "WA"
    ],
-   "title": "Data & Technical Support Specialist – Utility Metering",
-   "url": "https://au.gradconnection.com/employers/ausmeter-group/jobs/ausmeter-group-data-technical-support-specialist-utility-metering-5/"
-  },
-  {
-   "apply_url": "https://careers.afp.gov.au/job-invite/15886/",
-   "base_score": 32,
-   "closes": "2027-02-28",
-   "company": "Australian Federal Police",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "b3d60303d269",
-   "key": "australian federal police|register of interest afp graduate",
-   "last_seen": "2026-10-21",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/australian-federal-police/jobs/australian-federal-police-register-of-interest-2028-afp-graduate-program/"
-    }
-   ],
-   "location": "Canberra",
-   "posted": "2026-04-20",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": "{'min_salary': '70,000', 'max_salary': '70,000', 'details': '$77,264k + 15.4% Superannuation'}",
-   "sectors": [],
-   "snippet": "If you're an upcoming or recent tertiary graduate, join an agency that challenges you, supports your growth, and empowers you to make a difference.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "ACT"
-   ],
-   "title": "Register of Interest - 2028 AFP Graduate Program",
-   "url": "https://au.gradconnection.com/employers/australian-federal-police/jobs/australian-federal-police-register-of-interest-2028-afp-graduate-program/"
+   "title": "2027 KPMG Graduate Program – Actuarial - Rolling Intake",
+   "url": "https://au.gradconnection.com/employers/kpmg/jobs/kpmg-2027-kpmg-graduate-program-actuarial-rolling-intake/"
   },
   {
    "apply_url": "https://mainfreightaucareers.connxcareers.com/applicant/apply/64f1bba0d136494b8b1da04bdcce7aa1",
@@ -11071,31 +10941,31 @@
    "url": "https://au.gradconnection.com/employers/mainfreight/jobs/mainfreight-mainfreight-graduate-program-77/"
   },
   {
-   "apply_url": "https://au.smrtr.io/fqMn",
+   "apply_url": "https://careers.afp.gov.au/job-invite/15886/",
    "base_score": 32,
-   "closes": "2026-10-31",
-   "company": "KPMG",
+   "closes": "2027-02-28",
+   "company": "Australian Federal Police",
    "disciplines": [],
    "employer_id": null,
    "employment_type": "Graduate Jobs",
    "first_seen": "2026-10-06",
    "flags": [],
-   "id": "58c08aa0d2b8",
-   "key": "kpmg|kpmg graduate actuarial rolling intake",
+   "id": "b3d60303d269",
+   "key": "australian federal police|register of interest afp graduate",
    "last_seen": "2026-10-21",
    "links": [
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/kpmg/jobs/kpmg-2027-kpmg-graduate-program-actuarial-rolling-intake/"
+     "url": "https://au.gradconnection.com/employers/australian-federal-police/jobs/australian-federal-police-register-of-interest-2028-afp-graduate-program/"
     }
    ],
-   "location": "Adelaide | Brisbane | Canberra | Darwin | Hobart | Melbourne | Perth | Regional New South Wales | Regional Queensland | Regional Victoria | Sydney",
-   "posted": "2026-03-10",
+   "location": "Canberra",
+   "posted": "2026-04-20",
    "priority": "adjacent",
    "role_type": "graduate",
-   "salary": "{'min_salary': '60,000', 'max_salary': '80,000', 'details': ''}",
+   "salary": "{'min_salary': '70,000', 'max_salary': '70,000', 'details': '$77,264k + 15.4% Superannuation'}",
    "sectors": [],
-   "snippet": "Turn data and uncertainty into insight. Use actuarial and analytical skills to model risk, assess scenarios and support smarter decisions across financial services and beyond.",
+   "snippet": "If you're an upcoming or recent tertiary graduate, join an agency that challenges you, supports your growth, and empowers you to make a difference.",
    "source": "GradConnection (SEEK Grad) [gradconnection]",
    "source_kind": "aggregator",
    "source_type": "gradconnection",
@@ -11104,17 +10974,10 @@
    ],
    "start_date": null,
    "states": [
-    "ACT",
-    "NSW",
-    "NT",
-    "QLD",
-    "SA",
-    "TAS",
-    "VIC",
-    "WA"
+    "ACT"
    ],
-   "title": "2027 KPMG Graduate Program – Actuarial - Rolling Intake",
-   "url": "https://au.gradconnection.com/employers/kpmg/jobs/kpmg-2027-kpmg-graduate-program-actuarial-rolling-intake/"
+   "title": "Register of Interest - 2028 AFP Graduate Program",
+   "url": "https://au.gradconnection.com/employers/australian-federal-police/jobs/australian-federal-police-register-of-interest-2028-afp-graduate-program/"
   },
   {
    "apply_url": "https://www.bhp.com/careers/graduate-student-programs/australia",

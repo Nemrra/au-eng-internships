@@ -146,7 +146,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-20",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -782,7 +782,7 @@
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-21",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1039,7 +1039,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-20",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1473,7 +1473,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-20",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -2397,8 +2397,8 @@
   "closed_on": "2026-10-17",
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "misses": 1,
+  "last_seen": "2026-10-21",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3660,7 +3660,7 @@
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-21",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4967,8 +4967,8 @@
   "closed_on": "2026-10-18",
   "company": "BDO",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "misses": 1,
+  "last_seen": "2026-10-21",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5134,7 +5134,6 @@
   "misses": 0,
   "sources": [
    "Claude web sweep",
-   "Apple jobs AU internships [apple]",
    "Apple [page]"
   ],
   "status": "open",
@@ -5192,7 +5191,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-16",
   "last_seen": "2026-10-21",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -5263,7 +5262,7 @@
   "company": "BDO",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-21",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7196,7 +7195,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-20",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8495,7 +8494,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-20",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8637,7 +8636,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-20",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9064,7 +9063,7 @@
   "company": "DT Infrastructure",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-21",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9075,7 +9074,7 @@
   "company": "Leonardo Australia",
   "first_seen": "2026-10-18",
   "last_seen": "2026-10-20",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Leonardo Australia [workday]"
   ],
@@ -9427,7 +9426,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-20",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -12025,7 +12024,7 @@
   "company": "Robinhood",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-20",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "speedyapply 2027 college jobs (GitHub) [readme_list]"
   ],
