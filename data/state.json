@@ -27,12 +27,12 @@
   "closed_on": "2026-10-20",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-20",
-  "misses": 3,
+  "last_seen": "2026-10-21",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Cadet Building Surveyor"
  },
  "01246873282c": {
@@ -156,12 +156,12 @@
   "closed_on": "2026-10-21",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-20",
-  "misses": 3,
+  "last_seen": "2026-10-21",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "MMEM Sales & Management Graduate - South Brisbane, QLD"
  },
  "045d4c09204b": {
@@ -673,12 +673,12 @@
   "closed_on": "2026-10-20",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-20",
-  "misses": 3,
+  "last_seen": "2026-10-21",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Gwydir Career Start 2026/2027"
  },
  "0f763dd708a1": {
@@ -789,15 +789,15 @@
   "title": "Notify Me - APA Group Graduate Jobs"
  },
  "10cf2b347be0": {
-  "closed_on": "2026-10-18",
+  "closed_on": "2026-10-21",
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-21",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Data & Technical Support Specialist – Utility Metering"
  },
  "10de295f29d8": {
@@ -1049,12 +1049,12 @@
   "closed_on": "2026-10-21",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-20",
-  "misses": 3,
+  "last_seen": "2026-10-21",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "MMEM Sales & Management Graduate - Canberra, ACT"
  },
  "172cda6b36ec": {
@@ -1378,12 +1378,12 @@
   "closed_on": "2026-10-20",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-20",
-  "misses": 3,
+  "last_seen": "2026-10-21",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Urban Designer"
  },
  "1d3b4c383570": {
@@ -1800,6 +1800,17 @@
   ],
   "status": "closed",
   "title": "Research Intern - Maia Development"
+ },
+ "25881ac054a2": {
+  "company": "DXC Technology",
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "2027 DXC Technology Graduate - SAP Technical Consultant - Brisbane"
  },
  "25a0d2303dc3": {
   "company": "TikTok",
@@ -2409,7 +2420,7 @@
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-21",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3667,15 +3678,15 @@
   "title": "Secure Kernel Engineering Intern, Sydney"
  },
  "4953764d7bdf": {
-  "closed_on": "2026-10-20",
+  "closed_on": "2026-10-21",
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-21",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 Graduate Programme - Business & Operations | Carole Park"
  },
  "4985f471dad1": {
@@ -5145,6 +5156,7 @@
   "misses": 0,
   "sources": [
    "Claude web sweep",
+   "Apple jobs AU internships [apple]",
    "Apple [page]"
   ],
   "status": "open",
@@ -5198,15 +5210,15 @@
   "title": "Engineering Consulting Intern - Summer Program"
  },
  "682c2587d679": {
-  "closed_on": "2026-10-19",
+  "closed_on": "2026-10-21",
   "company": "Lycopodium",
   "first_seen": "2026-10-16",
   "last_seen": "2026-10-21",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 2 days ago"
  },
  "6846ee69416f": {
@@ -6299,12 +6311,12 @@
   "closed_on": "2026-10-20",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-20",
-  "misses": 3,
+  "last_seen": "2026-10-21",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Student Work Placement (Unpaid)"
  },
  "80d02224992c": {
@@ -7205,12 +7217,12 @@
   "closed_on": "2026-10-21",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-20",
-  "misses": 3,
+  "last_seen": "2026-10-21",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "MMEM Sales & Management Graduate - Macarthur, NSW"
  },
  "93c9cb7c2810": {
@@ -8504,12 +8516,12 @@
   "closed_on": "2026-10-21",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-20",
-  "misses": 3,
+  "last_seen": "2026-10-21",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "MMEM Sales & Management Graduate - Sutherland Shire, NSW"
  },
  "adeef54f0cba": {
@@ -8646,12 +8658,12 @@
   "closed_on": "2026-10-21",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-20",
-  "misses": 3,
+  "last_seen": "2026-10-21",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "MMEM Sales & Management Graduate - Western Brisbane / Ipswitch, QLD"
  },
  "b1aca86a81c9": {
@@ -8842,6 +8854,17 @@
   ],
   "status": "closed",
   "title": "Research Scientist New Grad - Distributed NoSQL Database Systems"
+ },
+ "b663b67afa40": {
+  "company": "Softel Systems Pty Ltd",
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Graduate Software Engineer"
  },
  "b6c878d62e0f": {
   "closed_on": "2026-10-07",
@@ -9437,12 +9460,12 @@
   "closed_on": "2026-10-21",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-20",
-  "misses": 3,
+  "last_seen": "2026-10-21",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "MMEM Sales & Management Graduate - Wide Bay Region, QLD"
  },
  "c3736840e103": {
@@ -10405,12 +10428,12 @@
   "closed_on": "2026-10-20",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-20",
-  "misses": 3,
+  "last_seen": "2026-10-21",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Business Cadet"
  },
  "da3f69a07aeb": {
