@@ -1,6 +1,63 @@
 {
- "count": 240,
+ "count": 243,
  "jobs": [
+  {
+   "apply_url": null,
+   "base_score": 92,
+   "closes": null,
+   "company": "Thales Australia",
+   "disciplines": [
+    "Aerospace/Space",
+    "Controls/Automation",
+    "Defence",
+    "Electrical",
+    "Electronics/Hardware",
+    "Mechanical",
+    "Software",
+    "Systems/Integration"
+   ],
+   "employer_id": "thales-australia",
+   "employment_type": "Full time",
+   "first_seen": "2026-10-21",
+   "flags": [],
+   "id": "03a37156152d",
+   "key": "thales|electrical engineering co op",
+   "last_seen": "2026-10-21",
+   "links": [
+    {
+     "source": "Thales Australia [workday]",
+     "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Mill-Bay---Squlew/Electrical-Engineering-CO-OP_R0343278-1"
+    }
+   ],
+   "location": "Mill Bay - Squl’ew' | Victoria - 905 Ellery | Halifax - John Savage | Canada",
+   "posted": "2026-10-21",
+   "priority": "core",
+   "role_type": "year-long",
+   "salary": null,
+   "sectors": [
+    "defence",
+    "sonar",
+    "radar",
+    "communications",
+    "munitions",
+    "vehicles",
+    "cyber",
+    "systems-engineering"
+   ],
+   "snippet": "Location: Mill Bay - Squl’ew', Canada In fast changing markets, customers worldwide rely on Thales. Thales is a business where brilliant people from all over the world come together to share ideas and inspire each other. In aerospace, transportation, defence, security and space, our architects design innovative solutions that make our tomorrow's possible. Electrical Engineering Coop Mill Bay, BC, ",
+   "source": "Thales Australia [workday]",
+   "source_kind": "ats",
+   "source_type": "workday",
+   "sources": [
+    "Thales Australia [workday]"
+   ],
+   "start_date": "2026-10-20",
+   "states": [
+    "VIC"
+   ],
+   "title": "Electrical Engineering CO-OP",
+   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Mill-Bay---Squlew/Electrical-Engineering-CO-OP_R0343278-1"
+  },
   {
    "apply_url": null,
    "base_score": 94,
@@ -27,7 +84,7 @@
     }
    ],
    "location": "Sydney, NSW, Australia | Australia",
-   "posted": "2026-10-19",
+   "posted": "2026-10-20",
    "priority": "core",
    "role_type": "part-time",
    "salary": null,
@@ -81,7 +138,7 @@
     }
    ],
    "location": "GB - Edinburgh | GB - Newcastle | United Kingdom",
-   "posted": "2026-10-19",
+   "posted": "2026-10-20",
    "priority": "adjacent",
    "role_type": "summer",
    "salary": null,
@@ -130,7 +187,7 @@
     }
    ],
    "location": "Melbourne, Victoria, Australia | Sydney, New South Wales, Australia | Australia",
-   "posted": "2026-10-20",
+   "posted": "2026-10-21",
    "priority": "adjacent",
    "role_type": "year-long",
    "salary": null,
@@ -458,7 +515,7 @@
     }
    ],
    "location": "Sydney, NSW, Australia | Australia",
-   "posted": "2026-10-19",
+   "posted": "2026-10-20",
    "priority": "core",
    "role_type": "summer",
    "salary": null,
@@ -638,7 +695,7 @@
     }
    ],
    "location": "GB - Newcastle | United Kingdom",
-   "posted": "2026-10-18",
+   "posted": "2026-10-19",
    "priority": "adjacent",
    "role_type": "summer",
    "salary": null,
@@ -693,7 +750,7 @@
     }
    ],
    "location": "GB - Newcastle | United Kingdom",
-   "posted": "2026-10-18",
+   "posted": "2026-10-19",
    "priority": "adjacent",
    "role_type": "part-time",
    "salary": null,
@@ -744,7 +801,7 @@
     }
    ],
    "location": "GB - Newcastle | United Kingdom",
-   "posted": "2026-10-18",
+   "posted": "2026-10-19",
    "priority": "adjacent",
    "role_type": "summer",
    "salary": null,
@@ -794,7 +851,7 @@
     }
    ],
    "location": "GB - Edinburgh | GB - Newcastle | United Kingdom",
-   "posted": "2026-10-18",
+   "posted": "2026-10-19",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -850,7 +907,7 @@
     }
    ],
    "location": "GB - Edinburgh | GB - Newcastle | United Kingdom",
-   "posted": "2026-10-18",
+   "posted": "2026-10-19",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -1390,7 +1447,7 @@
     }
    ],
    "location": "Melbourne-Victoria-Australia | Australia",
-   "posted": "2026-10-15",
+   "posted": "2026-10-16",
    "priority": "core",
    "role_type": "intern-other",
    "salary": null,
@@ -1442,7 +1499,7 @@
     }
    ],
    "location": "Sydney, NSW, Australia | Australia",
-   "posted": "2026-10-14",
+   "posted": "2026-10-15",
    "priority": "core",
    "role_type": "intern-other",
    "salary": null,
@@ -1466,6 +1523,47 @@
    ],
    "title": "Student Mechanical Engineer",
    "url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/Sydney-NSW-Australia/Student-Mechanical-Engineer_JR_054381"
+  },
+  {
+   "apply_url": "https://bdoau.wd105.myworkdayjobs.com/en-GB/BDOEarlyCareers/job/Perth-Western-Australia/Vacation-Program---Perth_JR102576",
+   "base_score": 51,
+   "closes": "2026-10-28",
+   "company": "BDO",
+   "disciplines": [
+    "Mechanical"
+   ],
+   "employer_id": null,
+   "employment_type": "Internships",
+   "first_seen": "2026-10-15",
+   "flags": [],
+   "id": "6a10953f12db",
+   "key": "bdo|vacation project infrastructure advisory",
+   "last_seen": "2026-10-21",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-vacation-program-project-infrastructure-3/"
+    }
+   ],
+   "location": "Perth",
+   "posted": "2026-10-14",
+   "priority": "adjacent",
+   "role_type": "summer",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Graduating between 2026 and 2029? Apply for our Summer Vacation Program and gain 4 weeks of paid work experience during your university break!",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "WA"
+   ],
+   "title": "Vacation Program – Project & Infrastructure Advisory",
+   "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-vacation-program-project-infrastructure-3/"
   },
   {
    "apply_url": "https://careers.capgemini.com/job/Melbourne-Capgemini-Summer-Internship-2026-2027/1446819733/",
@@ -1578,7 +1676,7 @@
     }
    ],
    "location": "Brisbane | Australia",
-   "posted": "2026-09-20",
+   "posted": "2026-09-21",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -2246,7 +2344,7 @@
     }
    ],
    "location": "Sydney | Australia",
-   "posted": "2026-10-09",
+   "posted": "2026-10-10",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -2781,7 +2879,7 @@
     }
    ],
    "location": "Sydney, NSW, Australia | Australia",
-   "posted": "2026-10-07",
+   "posted": "2026-10-08",
    "priority": "core",
    "role_type": "summer",
    "salary": null,
@@ -2837,7 +2935,7 @@
     }
    ],
    "location": "Sydney, NSW, Australia | Australia",
-   "posted": "2026-10-07",
+   "posted": "2026-10-08",
    "priority": "core",
    "role_type": "intern-other",
    "salary": null,
@@ -3608,7 +3706,7 @@
     }
    ],
    "location": "Sydney, NSW, Australia | Australia",
-   "posted": "2026-10-01",
+   "posted": "2026-10-02",
    "priority": "core",
    "role_type": "intern-other",
    "salary": null,
@@ -3955,7 +4053,7 @@
     }
    ],
    "location": "North Sydney, Australia | Australia",
-   "posted": "2026-09-29",
+   "posted": "2026-09-30",
    "priority": "core",
    "role_type": "year-long",
    "salary": null,
@@ -4415,7 +4513,7 @@
     }
    ],
    "location": "Melbourne, Australia | Australia",
-   "posted": "2026-09-22",
+   "posted": "2026-09-23",
    "priority": "core",
    "role_type": "graduate",
    "salary": null,
@@ -4464,7 +4562,7 @@
     }
    ],
    "location": "Port Melbourne, Victoria, Australia | Australia",
-   "posted": "2026-10-08",
+   "posted": "2026-10-09",
    "priority": "adjacent",
    "role_type": "year-long",
    "salary": null,
@@ -4513,7 +4611,7 @@
     }
    ],
    "location": "Port Melbourne, Victoria, Australia | Australia",
-   "posted": "2026-09-20",
+   "posted": "2026-09-21",
    "priority": "adjacent",
    "role_type": "intern-other",
    "salary": null,
@@ -5036,7 +5134,7 @@
     }
    ],
    "location": "Dandenong, Victoria, Australia | Australia",
-   "posted": "2026-09-20",
+   "posted": "2026-09-21",
    "priority": "adjacent",
    "role_type": "intern-other",
    "salary": null,
@@ -5163,57 +5261,6 @@
    "apply_url": null,
    "base_score": 70,
    "closes": null,
-   "company": "Barrett Communications",
-   "disciplines": [
-    "Civil/Construction",
-    "Defence",
-    "Manufacturing/Quality",
-    "Mechanical",
-    "Research",
-    "Semiconductors/FPGA",
-    "Systems/Integration"
-   ],
-   "employer_id": "barrett-communications",
-   "employment_type": "Full time",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "0d5383e94b37",
-   "key": "barrett communications|graduate commercial analyst",
-   "last_seen": "2026-10-21",
-   "links": [
-    {
-     "source": "Barrett Communications [workday]",
-     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Melbourne-Australia/Commerical-Analyst_R68895"
-    }
-   ],
-   "location": "Melbourne, Australia | Australia",
-   "posted": "2026-09-22",
-   "priority": "core",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [
-    "HF/VHF radio",
-    "RF design",
-    "embedded"
-   ],
-   "snippet": "Company Overview At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer busine",
-   "source": "Barrett Communications [workday]",
-   "source_kind": "ats",
-   "source_type": "workday",
-   "sources": [
-    "Barrett Communications [workday]"
-   ],
-   "start_date": "2026-09-22",
-   "states": [
-    "VIC"
-   ],
-   "title": "Graduate - Commercial Analyst",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Melbourne-Australia/Commerical-Analyst_R68895"
-  },
-  {
-   "apply_url": null,
-   "base_score": 70,
-   "closes": null,
    "company": "CSIRO (all business units incl. Data61, Energy, Manufacturing, Space & Astronomy, Agriculture & Food, Environment, Health & Biosecurity, Minerals, CSIRO Futures, NCMI, Science Connect)",
    "disciplines": [
     "ML/AI/Data",
@@ -5263,6 +5310,57 @@
    ],
    "title": "Next Generation Graduates Scholarship Program: Honours and Masters",
    "url": "https://jobs.csiro.au/job/Various-Next-Generation-Graduates-Scholarship-Program-Honours-and-Masters/1063724066/"
+  },
+  {
+   "apply_url": null,
+   "base_score": 70,
+   "closes": null,
+   "company": "Barrett Communications",
+   "disciplines": [
+    "Civil/Construction",
+    "Defence",
+    "Manufacturing/Quality",
+    "Mechanical",
+    "Research",
+    "Semiconductors/FPGA",
+    "Systems/Integration"
+   ],
+   "employer_id": "barrett-communications",
+   "employment_type": "Full time",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "0d5383e94b37",
+   "key": "barrett communications|graduate commercial analyst",
+   "last_seen": "2026-10-21",
+   "links": [
+    {
+     "source": "Barrett Communications [workday]",
+     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Melbourne-Australia/Commerical-Analyst_R68895"
+    }
+   ],
+   "location": "Melbourne, Australia | Australia",
+   "posted": "2026-09-23",
+   "priority": "core",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [
+    "HF/VHF radio",
+    "RF design",
+    "embedded"
+   ],
+   "snippet": "Company Overview At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer busine",
+   "source": "Barrett Communications [workday]",
+   "source_kind": "ats",
+   "source_type": "workday",
+   "sources": [
+    "Barrett Communications [workday]"
+   ],
+   "start_date": "2026-09-22",
+   "states": [
+    "VIC"
+   ],
+   "title": "Graduate - Commercial Analyst",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Melbourne-Australia/Commerical-Analyst_R68895"
   },
   {
    "base_score": 70,
@@ -5997,7 +6095,7 @@
   },
   {
    "base_score": 62,
-   "closes": "2026-10-21",
+   "closes": "2026-10-30",
    "company": "Lucid Consulting Australia",
    "disciplines": [
     "Mechanical"
@@ -6109,7 +6207,7 @@
     }
    ],
    "location": "",
-   "posted": "2026-09-20",
+   "posted": "2026-09-21",
    "priority": "core",
    "role_type": "intern-other",
    "salary": null,
@@ -6543,11 +6641,11 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-research-internship-phd-8/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-research-internship-phd-9/"
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-research-internship-phd-9/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-research-internship-phd-8/"
     }
    ],
    "location": "Sydney",
@@ -7107,7 +7205,7 @@
     }
    ],
    "location": "Australia - Docklands | Australia",
-   "posted": "2026-09-20",
+   "posted": "2026-09-21",
    "priority": "deprioritised",
    "role_type": "intern-other",
    "salary": null,
@@ -7196,7 +7294,7 @@
     }
    ],
    "location": "",
-   "posted": "2026-09-20",
+   "posted": "2026-09-21",
    "priority": "adjacent",
    "role_type": "summer",
    "salary": null,
@@ -8106,7 +8204,7 @@
   {
    "apply_url": null,
    "base_score": 48,
-   "closes": "2026-10-21",
+   "closes": "2026-10-30",
    "company": "Lucid Consulting Australia",
    "disciplines": [
     "Mechanical"
@@ -8376,9 +8474,56 @@
    "url": "https://au.gradconnection.com/employers/acs-foundation/jobs/acs-foundation-intern-quality-assurance-analyst-2/"
   },
   {
+   "apply_url": "https://careers.gamuda.com.my/job/2027-DT-Infrastructure-Undergraduate-Opportunities-Commercial/12641-en_GB/",
+   "base_score": 47,
+   "closes": "2026-10-24",
+   "company": "DT Infrastructure",
+   "disciplines": [
+    "Mechanical"
+   ],
+   "employer_id": null,
+   "employment_type": "Internships",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "bbbf4e020d2a",
+   "key": "dt infrastructure|dt infrastructure undergraduate opportunities commercial",
+   "last_seen": "2026-10-21",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/dt-infrastructure/jobs/dt-infrastructure-2027-dt-infrastructure-undergraduate-opportunities-commercial/"
+    }
+   ],
+   "location": "Adelaide | Brisbane | Hobart | Melbourne | Perth | Regional New South Wales | Regional Northern Territory | Regional Queensland | Regional South Australia | Regional Tasmania | Regional Victoria | Regional Western Australia | Sydney",
+   "posted": "2026-09-27",
+   "priority": "adjacent",
+   "role_type": "intern-other",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Start your career before you graduate. Gain real infrastructure experience while you study, build your professional capability and create a pathway into your future career at DTI.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW",
+    "NT",
+    "QLD",
+    "SA",
+    "TAS",
+    "VIC",
+    "WA"
+   ],
+   "title": "2027 DT Infrastructure Undergraduate Opportunities - Commercial",
+   "url": "https://au.gradconnection.com/employers/dt-infrastructure/jobs/dt-infrastructure-2027-dt-infrastructure-undergraduate-opportunities-commercial/"
+  },
+  {
    "apply_url": null,
    "base_score": 47,
-   "closes": "2026-10-21",
+   "closes": "2026-10-30",
    "company": "Lucid Consulting Australia",
    "disciplines": [],
    "employer_id": "lucid-consulting",
@@ -8803,47 +8948,6 @@
    "url": "https://au.gradconnection.com/employers/acs-foundation/jobs/acs-foundation-graduate-it-support-internship/"
   },
   {
-   "apply_url": "https://candidate.aurion.cloud/trea/production/portal1/redirect/to/dmFjYW5jaWVzLzI5MTI0OTA2NDkxOTU4OTl-MS9lZGl0",
-   "base_score": 46,
-   "closes": "2026-11-12",
-   "company": "Department of the Treasury",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Internships",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "8f8c54b8082d",
-   "key": "department of treasury|treasury internship",
-   "last_seen": "2026-10-21",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/department-of-the-treasury/jobs/department-of-the-treasury-2026-treasury-internship-program/"
-    }
-   ],
-   "location": "Canberra | Melbourne | Sydney",
-   "posted": "2026-02-05",
-   "priority": "adjacent",
-   "role_type": "intern-other",
-   "salary": "{'min_salary': '60,000', 'max_salary': '60,000', 'details': '$40.00 pro-rated for the internship period'}",
-   "sectors": [],
-   "snippet": "We offer paid internships for uni students to gain real-world experience. Timing and duration may vary. Roles are mostly in Canberra, with some in Sydney and Melbourne.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "ACT",
-    "NSW",
-    "VIC"
-   ],
-   "title": "2026 Treasury Internship Program",
-   "url": "https://au.gradconnection.com/employers/department-of-the-treasury/jobs/department-of-the-treasury-2026-treasury-internship-program/"
-  },
-  {
    "apply_url": "https://allens.wd3.myworkdayjobs.com/Allens/job/Sydney/First-Nations-Corporate-Services-Internship-2027_JR00001378",
    "base_score": 46,
    "closes": "2026-11-02",
@@ -8884,6 +8988,47 @@
    ],
    "title": "2027 First Nations Corporate Services Internship",
    "url": "https://au.gradconnection.com/employers/allens/jobs/allens-2026-first-nations-internship-program-2-2/"
+  },
+  {
+   "apply_url": "https://candidate.aurion.cloud/trea/production/portal1/redirect/to/dmFjYW5jaWVzLzI5MTI0OTA2NDkxOTU4OTl-MS9lZGl0",
+   "base_score": 46,
+   "closes": "2026-11-12",
+   "company": "Department of the Treasury",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Internships",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "8f8c54b8082d",
+   "key": "department of treasury|treasury internship",
+   "last_seen": "2026-10-21",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/department-of-the-treasury/jobs/department-of-the-treasury-2026-treasury-internship-program/"
+    }
+   ],
+   "location": "Canberra | Melbourne | Sydney",
+   "posted": "2026-02-05",
+   "priority": "adjacent",
+   "role_type": "intern-other",
+   "salary": "{'min_salary': '60,000', 'max_salary': '60,000', 'details': '$40.00 pro-rated for the internship period'}",
+   "sectors": [],
+   "snippet": "We offer paid internships for uni students to gain real-world experience. Timing and duration may vary. Roles are mostly in Canberra, with some in Sydney and Melbourne.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "ACT",
+    "NSW",
+    "VIC"
+   ],
+   "title": "2026 Treasury Internship Program",
+   "url": "https://au.gradconnection.com/employers/department-of-the-treasury/jobs/department-of-the-treasury-2026-treasury-internship-program/"
   },
   {
    "apply_url": "https://careers.gamuda.com.my/job/2027-DT-Infrastructure-Undergraduate-Opportunities-Engineering/12603-en_GB/",
@@ -9064,7 +9209,7 @@
     }
    ],
    "location": "Canberra, Australian Capital Territory, Australia | Australia",
-   "posted": "2026-09-20",
+   "posted": "2026-09-21",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -10100,7 +10245,7 @@
     }
    ],
    "location": "",
-   "posted": "2026-09-29",
+   "posted": "2026-09-30",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -10813,45 +10958,6 @@
    "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-expression-of-interest-australiansuper-2027-graduate-program/"
   },
   {
-   "apply_url": "https://www.vic.gov.au/victorian-government-graduate-program",
-   "base_score": 32,
-   "closes": "2027-01-01",
-   "company": "Victorian Government",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "f581c4ab4c10",
-   "key": "victorian government|expression of interest victorian government graduate",
-   "last_seen": "2026-10-21",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/the-victorian-state-government/jobs/victorian-government-expression-of-interest-victorian-government-graduate-program-2028/"
-    }
-   ],
-   "location": "Melbourne",
-   "posted": "2026-05-25",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Start your career with work that makes a difference for the Victorian community.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "VIC"
-   ],
-   "title": "Expression of interest – Victorian Government graduate program 2028",
-   "url": "https://au.gradconnection.com/employers/the-victorian-state-government/jobs/victorian-government-expression-of-interest-victorian-government-graduate-program-2028/"
-  },
-  {
    "apply_url": "https://au.smrtr.io/fqMn",
    "base_score": 32,
    "closes": "2026-10-31",
@@ -10978,6 +11084,45 @@
    ],
    "title": "Register of Interest - 2028 AFP Graduate Program",
    "url": "https://au.gradconnection.com/employers/australian-federal-police/jobs/australian-federal-police-register-of-interest-2028-afp-graduate-program/"
+  },
+  {
+   "apply_url": "https://www.vic.gov.au/victorian-government-graduate-program",
+   "base_score": 32,
+   "closes": "2027-01-01",
+   "company": "Victorian Government",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "f581c4ab4c10",
+   "key": "victorian government|expression of interest victorian government graduate",
+   "last_seen": "2026-10-21",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/the-victorian-state-government/jobs/victorian-government-expression-of-interest-victorian-government-graduate-program-2028/"
+    }
+   ],
+   "location": "Melbourne",
+   "posted": "2026-05-25",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Start your career with work that makes a difference for the Victorian community.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "VIC"
+   ],
+   "title": "Expression of interest – Victorian Government graduate program 2028",
+   "url": "https://au.gradconnection.com/employers/the-victorian-state-government/jobs/victorian-government-expression-of-interest-victorian-government-graduate-program-2028/"
   },
   {
    "apply_url": "https://www.bhp.com/careers/graduate-student-programs/australia",
