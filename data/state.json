@@ -27,8 +27,8 @@
   "closed_on": "2026-10-20",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-22",
-  "misses": 2,
+  "last_seen": "2026-10-23",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -262,7 +262,7 @@
   "company": "Stryker (South Pacific)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-23",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Stryker (South Pacific) [workday]"
   ],
@@ -426,7 +426,7 @@
   "company": "Department of Transport and Planning (VIC) / Victorian Infrastructure Delivery Authority (rail signalling, engineering)",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-22",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Department of Transport and Planning (VIC) / Victorian Infrastructure Delivery Authority (rail signalling, engineering) [sf_rmk]"
   ],
@@ -485,7 +485,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-23",
   "last_seen": "2026-10-23",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -685,12 +685,12 @@
   "closed_on": "2026-10-22",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-21",
-  "misses": 3,
+  "last_seen": "2026-10-23",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Gwydir Career Start 2026/2027"
  },
  "0f763dd708a1": {
@@ -801,15 +801,15 @@
   "title": "Notify Me - APA Group Graduate Jobs"
  },
  "10cf2b347be0": {
-  "closed_on": "2026-10-21",
+  "closed_on": "2026-10-23",
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-22",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Data & Technical Support Specialist – Utility Metering"
  },
  "10de295f29d8": {
@@ -1387,15 +1387,15 @@
   "title": "2026/27 EY Vacationer Program – Science"
  },
  "1cfa73812278": {
-  "closed_on": "2026-10-20",
+  "closed_on": "2026-10-23",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-22",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Urban Designer"
  },
  "1d3b4c383570": {
@@ -2147,12 +2147,12 @@
   "closed_on": "2026-10-20",
   "company": "Lycopodium",
   "first_seen": "2026-10-20",
-  "last_seen": "2026-10-20",
-  "misses": 3,
+  "last_seen": "2026-10-23",
+  "misses": 0,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 19 hours ago"
  },
  "2c8efd7a9e32": {
@@ -2430,12 +2430,12 @@
   "closed_on": "2026-10-22",
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-22",
-  "misses": 3,
+  "last_seen": "2026-10-23",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Civil Engineer"
  },
  "3274bbceba5b": {
@@ -4406,14 +4406,15 @@
   "title": "Graduate Trader, Sydney"
  },
  "56c78de5007f": {
+  "closed_on": "2026-10-23",
   "company": "Lycopodium",
   "first_seen": "2026-10-22",
   "last_seen": "2026-10-22",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 2 hours ago"
  },
  "56eb6109f9e2": {
@@ -5011,8 +5012,8 @@
   "closed_on": "2026-10-18",
   "company": "BDO",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-22",
-  "misses": 2,
+  "last_seen": "2026-10-23",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6333,12 +6334,12 @@
   "closed_on": "2026-10-22",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-21",
-  "misses": 3,
+  "last_seen": "2026-10-23",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Student Work Placement (Unpaid)"
  },
  "80d02224992c": {
@@ -6486,7 +6487,7 @@
   "company": "Aurecon",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-22",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6639,7 +6640,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-17",
   "last_seen": "2026-10-22",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -7239,12 +7240,12 @@
   "closed_on": "2026-10-22",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-22",
-  "misses": 3,
+  "last_seen": "2026-10-23",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "MMEM Sales & Management Graduate - Macarthur, NSW"
  },
  "93c9cb7c2810": {
@@ -8549,12 +8550,12 @@
   "closed_on": "2026-10-22",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-22",
-  "misses": 3,
+  "last_seen": "2026-10-23",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "MMEM Sales & Management Graduate - Sutherland Shire, NSW"
  },
  "adeef54f0cba": {
@@ -8812,8 +8813,7 @@
   "last_seen": "2026-10-23",
   "misses": 0,
   "sources": [
-   "GHD [oracle]",
-   "GradConnection (SEEK Grad) [gradconnection]"
+   "GHD [oracle]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
@@ -10160,8 +10160,7 @@
   "last_seen": "2026-10-23",
   "misses": 0,
   "sources": [
-   "GHD [oracle]",
-   "GradConnection (SEEK Grad) [gradconnection]"
+   "GHD [oracle]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 – Queensland – Graduate Civil Engineer (Construction Phase Services)"
