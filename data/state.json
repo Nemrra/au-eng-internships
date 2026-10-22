@@ -27,8 +27,8 @@
   "closed_on": "2026-10-20",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-21",
-  "misses": 2,
+  "last_seen": "2026-10-22",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -153,15 +153,15 @@
   "title": "Electrical Engineering CO-OP"
  },
  "040e767ced43": {
-  "closed_on": "2026-10-21",
+  "closed_on": "2026-10-22",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-21",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "MMEM Sales & Management Graduate - South Brisbane, QLD"
  },
  "045d4c09204b": {
@@ -544,7 +544,7 @@
   "company": "Barrett Communications",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-22",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Barrett Communications [workday]"
   ],
@@ -670,15 +670,15 @@
   "title": "Software Engineer Intern - Azure Databases"
  },
  "0ee577b70dbb": {
-  "closed_on": "2026-10-20",
+  "closed_on": "2026-10-22",
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-21",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Gwydir Career Start 2026/2027"
  },
  "0f763dd708a1": {
@@ -940,15 +940,15 @@
   "title": "GHD Graduate Program 2026/27 – Brisbane – Geotechnical Engineering"
  },
  "133e2bc9f384": {
-  "closed_on": "2026-10-16",
+  "closed_on": "2026-10-22",
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-21",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Up your Engineering Game with a Chemical Engineering Internship – Apply Now"
  },
  "136cb521b431": {
@@ -1050,7 +1050,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-22",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1378,8 +1378,8 @@
   "closed_on": "2026-10-20",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-21",
-  "misses": 2,
+  "last_seen": "2026-10-22",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2267,7 +2267,6 @@
   "last_seen": "2026-10-22",
   "misses": 0,
   "sources": [
-   "Anduril Australia [greenhouse]",
    "Claude web sweep"
   ],
   "status": "open",
@@ -2420,7 +2419,7 @@
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-22",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3682,7 +3681,7 @@
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-22",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -4394,6 +4393,17 @@
   "status": "closed",
   "title": "Graduate Trader, Sydney"
  },
+ "56c78de5007f": {
+  "company": "Lycopodium",
+  "first_seen": "2026-10-22",
+  "last_seen": "2026-10-22",
+  "misses": 0,
+  "sources": [
+   "Lycopodium [livehire]"
+  ],
+  "status": "open",
+  "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 2 hours ago"
+ },
  "56eb6109f9e2": {
   "closed_on": "2026-10-16",
   "company": "McGrathNicol",
@@ -4989,8 +4999,8 @@
   "closed_on": "2026-10-18",
   "company": "BDO",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-21",
-  "misses": 2,
+  "last_seen": "2026-10-22",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6308,15 +6318,15 @@
   "title": "Notify Me - Canva Graduate Jobs"
  },
  "80ce41db7e81": {
-  "closed_on": "2026-10-20",
+  "closed_on": "2026-10-22",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-21",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Student Work Placement (Unpaid)"
  },
  "80d02224992c": {
@@ -7218,7 +7228,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-22",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8417,15 +8427,15 @@
   "title": "Notify Me - IMC Internships"
  },
  "abed416d3c21": {
-  "closed_on": "2026-10-15",
+  "closed_on": "2026-10-22",
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-21",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "IT/Tech Internships Program – Join Australia’s Top Technology Program"
  },
  "ac00fa9f4388": {
@@ -8517,7 +8527,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-22",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8655,15 +8665,15 @@
   "title": "2026/27 EY Vacationer Program - Engineering"
  },
  "b188ae8d203c": {
-  "closed_on": "2026-10-21",
+  "closed_on": "2026-10-22",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-21",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "MMEM Sales & Management Graduate - Western Brisbane / Ipswitch, QLD"
  },
  "b1aca86a81c9": {
@@ -9177,14 +9187,15 @@
   "title": "Software Engineer - Early Careers"
  },
  "bd620a0586cc": {
+  "closed_on": "2026-10-22",
   "company": "Meta",
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-21",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "speedyapply 2027 college jobs (GitHub) [readme_list]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Software Engineering Intern"
  },
  "bde33ddf2ec9": {
@@ -9270,15 +9281,15 @@
   "title": "Network Development Engineer Graduate"
  },
  "bf3df65f8752": {
-  "closed_on": "2026-10-15",
+  "closed_on": "2026-10-22",
   "company": "Premium Graduate Placements",
   "first_seen": "2026-10-08",
   "last_seen": "2026-10-21",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Civil Engineering Internships Program – Multiple Locations across 7 Streams"
  },
  "bfa762deabb0": {
@@ -9458,15 +9469,15 @@
   "title": "Intern - Embedded Systems Test Automation Engineer - Bothell - WA - Summer 2027"
  },
  "c36d660b5bb4": {
-  "closed_on": "2026-10-21",
+  "closed_on": "2026-10-22",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-21",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "MMEM Sales & Management Graduate - Wide Bay Region, QLD"
  },
  "c3736840e103": {
@@ -10427,15 +10438,15 @@
   "title": "Graduate Engineering Officer"
  },
  "d8c6b7890a49": {
-  "closed_on": "2026-10-20",
+  "closed_on": "2026-10-22",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-21",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Business Cadet"
  },
  "da3f69a07aeb": {
