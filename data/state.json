@@ -28,7 +28,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-22",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -544,7 +544,7 @@
   "company": "Barrett Communications",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-22",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Barrett Communications [workday]"
   ],
@@ -793,7 +793,7 @@
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-22",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1046,15 +1046,15 @@
   "title": "Engineering Intern (Melbourne)"
  },
  "16208b686c28": {
-  "closed_on": "2026-10-21",
+  "closed_on": "2026-10-22",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-22",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "MMEM Sales & Management Graduate - Canberra, ACT"
  },
  "172cda6b36ec": {
@@ -1379,7 +1379,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-22",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2415,15 +2415,15 @@
   "title": "Research Intern - PhD"
  },
  "3268255bcaa9": {
-  "closed_on": "2026-10-17",
+  "closed_on": "2026-10-22",
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-22",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Civil Engineer"
  },
  "3274bbceba5b": {
@@ -3677,15 +3677,15 @@
   "title": "Secure Kernel Engineering Intern, Sydney"
  },
  "4953764d7bdf": {
-  "closed_on": "2026-10-21",
+  "closed_on": "2026-10-22",
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-22",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2027 Graduate Programme - Business & Operations | Carole Park"
  },
  "4985f471dad1": {
@@ -4397,7 +4397,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-22",
   "last_seen": "2026-10-22",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -5000,7 +5000,7 @@
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-22",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5166,7 +5166,6 @@
   "misses": 0,
   "sources": [
    "Claude web sweep",
-   "Apple jobs AU internships [apple]",
    "Apple [page]"
   ],
   "status": "open",
@@ -6626,12 +6625,12 @@
   "closed_on": "2026-10-17",
   "company": "Lycopodium",
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-17",
-  "misses": 3,
+  "last_seen": "2026-10-22",
+  "misses": 0,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 9 hours ago"
  },
  "877c32caf450": {
@@ -7224,15 +7223,15 @@
   "title": "Boeing Summer 2027 Internship Program (Paid) - Sales and Marketing"
  },
  "93a1549ac6d2": {
-  "closed_on": "2026-10-21",
+  "closed_on": "2026-10-22",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-22",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "MMEM Sales & Management Graduate - Macarthur, NSW"
  },
  "93c9cb7c2810": {
@@ -7530,6 +7529,17 @@
   ],
   "status": "closed",
   "title": "2027 EY Graduate Program – Climate Change and Sustainability Services"
+ },
+ "98e9460eacaf": {
+  "company": "EY",
+  "first_seen": "2026-10-22",
+  "last_seen": "2026-10-22",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "2027 EY Graduate Program - Infrastructure Advisory (Brisbane)"
  },
  "998433c1e213": {
   "closed_on": "2026-10-06",
@@ -8523,15 +8533,15 @@
   "title": "Research Scientist New Grad - Multi-modal Agentic Databases"
  },
  "add9b2f6f057": {
-  "closed_on": "2026-10-21",
+  "closed_on": "2026-10-22",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-22",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "MMEM Sales & Management Graduate - Sutherland Shire, NSW"
  },
  "adeef54f0cba": {

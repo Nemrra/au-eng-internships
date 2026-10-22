@@ -8,17 +8,17 @@
   "apple": {
    "err": 0,
    "ok": 1,
-   "raw": 2
+   "raw": 0
   },
   "ashby": {
    "err": 0,
    "ok": 15,
-   "raw": 2135
+   "raw": 2136
   },
   "atlassian": {
    "err": 0,
    "ok": 1,
-   "raw": 362
+   "raw": 361
   },
   "bamboohr": {
    "err": 0,
@@ -38,7 +38,7 @@
   "getro_board": {
    "err": 0,
    "ok": 5,
-   "raw": 207
+   "raw": 211
   },
   "google": {
    "err": 0,
@@ -48,12 +48,12 @@
   "gradconnection": {
    "err": 0,
    "ok": 1,
-   "raw": 837
+   "raw": 827
   },
   "greenhouse": {
    "err": 0,
    "ok": 46,
-   "raw": 5722
+   "raw": 5716
   },
   "hibob": {
    "err": 4,
@@ -68,7 +68,7 @@
   "lever": {
    "err": 0,
    "ok": 10,
-   "raw": 1136
+   "raw": 1139
   },
   "livehire": {
    "err": 0,
@@ -78,12 +78,12 @@
   "oracle": {
    "err": 0,
    "ok": 8,
-   "raw": 393
+   "raw": 391
   },
   "page": {
    "err": 206,
    "ok": 371,
-   "raw": 594
+   "raw": 599
   },
   "pageup": {
    "err": 0,
@@ -123,7 +123,7 @@
   "sf_rmk": {
    "err": 0,
    "ok": 28,
-   "raw": 564
+   "raw": 561
   },
   "simplify": {
    "err": 0,
@@ -138,7 +138,7 @@
   "talent": {
    "err": 0,
    "ok": 1,
-   "raw": 259
+   "raw": 265
   },
   "teamtailor": {
    "err": 0,
@@ -153,10 +153,10 @@
   "workday": {
    "err": 1,
    "ok": 92,
-   "raw": 3699
+   "raw": 3708
   }
  },
- "closed_this_run": 10,
+ "closed_this_run": 5,
  "date": "2026-10-22",
  "errors_sample": [
   {
@@ -164,7 +164,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.3,
+   "secs": 0.4,
    "source": "5B [page]",
    "spec": {
     "type": "page",
@@ -176,7 +176,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.9,
+   "secs": 1.6,
    "source": "ACEN Australia [page]",
    "spec": {
     "type": "page",
@@ -188,7 +188,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.5,
+   "secs": 0.7,
    "source": "ACT Government (jobs.act.gov.au; graduate program) [page]",
    "spec": {
     "type": "page",
@@ -212,7 +212,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 6.5,
+   "secs": 6.8,
    "source": "ARC CoE for Quantum Computation & Communication Technology (CQC2T) [page]",
    "spec": {
     "type": "page",
@@ -224,7 +224,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 111.7,
+   "secs": 111.8,
    "source": "ARC Industrial Transformation Training Centres / Research Hubs (various; e.g. energy storage, autonomous systems, semiconductors) [page]",
    "spec": {
     "type": "page",
@@ -236,7 +236,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 112.0,
+   "secs": 111.5,
    "source": "ARPANSA (Australian Radiation Protection and Nuclear Safety Agency) [page]",
    "spec": {
     "type": "page",
@@ -248,7 +248,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.3,
+   "secs": 0.4,
    "source": "ASC Pty Ltd [page]",
    "spec": {
     "type": "page",
@@ -260,7 +260,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.1,
+   "secs": 1.6,
    "source": "Acciona Energia Australia [page]",
    "spec": {
     "type": "page",
@@ -272,7 +272,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.7,
+   "secs": 0.4,
    "source": "Acciona [page]",
    "spec": {
     "type": "page",
@@ -280,23 +280,11 @@
    }
   },
   {
-   "error": "blocked: HTTP 403 for https://careers.airwallex.com/",
-   "kind": "page",
-   "ok": false,
-   "raw_count": 0,
-   "secs": 0.2,
-   "source": "Airwallex [page]",
-   "spec": {
-    "type": "page",
-    "url": "https://careers.airwallex.com/"
-   }
-  },
-  {
    "error": "blocked: HTTP 403 for https://www.alintaenergy.com.au/about-us/careers/graduate-program",
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.4,
+   "secs": 0.5,
    "source": "Alinta Energy [page]",
    "spec": {
     "type": "page",
@@ -332,7 +320,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.3,
+   "secs": 0.5,
    "source": "Ampere Computing [page]",
    "spec": {
     "type": "page",
@@ -344,7 +332,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 2.1,
+   "secs": 1.4,
    "source": "Annalise.ai [page]",
    "spec": {
     "type": "page",
@@ -356,7 +344,7 @@
    "kind": "ats",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.6,
+   "secs": 0.5,
    "source": "Arcadis [eightfold]",
    "spec": {
     "sub": "arcadis",
@@ -368,7 +356,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.3,
+   "secs": 0.4,
    "source": "Archistar [page]",
    "spec": {
     "type": "page",
@@ -392,7 +380,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.1,
+   "secs": 0.3,
    "source": "AtkinsRealis [page]",
    "spec": {
     "type": "page",
@@ -404,7 +392,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.8,
+   "secs": 1.6,
    "source": "Aurizon [page]",
    "spec": {
     "type": "page",
@@ -416,7 +404,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 112.2,
+   "secs": 111.7,
    "source": "Australian Energy Regulator (AER) / AEMC [page]",
    "spec": {
     "type": "page",
@@ -428,7 +416,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 112.7,
+   "secs": 113.1,
    "source": "Australian Government Graduate Program (AGGP) - STEM, Data, Digital, Engineering-relevant streams [page]",
    "spec": {
     "type": "page",
@@ -452,7 +440,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 2.1,
+   "secs": 2.6,
    "source": "Australian Rail Track Corporation (ARTC) [page]",
    "spec": {
     "type": "page",
@@ -488,7 +476,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 112.5,
+   "secs": 112.2,
    "source": "Australian Signals Directorate (ASD, incl. ACSC) [page]",
    "spec": {
     "type": "page",
@@ -512,7 +500,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 112.9,
+   "secs": 112.7,
    "source": "Australian Submarine Agency (ASA) [page]",
    "spec": {
     "type": "page",
@@ -561,7 +549,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 2.2,
+   "secs": 2.0,
    "source": "Beach Energy [page]",
    "spec": {
     "type": "page",
@@ -573,7 +561,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.7,
+   "secs": 0.9,
    "source": "Beckhoff Automation Australia [page]",
    "spec": {
     "type": "page",
@@ -585,7 +573,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.4,
+   "secs": 0.6,
    "source": "Block / Afterpay [page]",
    "spec": {
     "type": "page",
@@ -597,7 +585,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 3.5,
+   "secs": 1.6,
    "source": "BluGlass [page]",
    "spec": {
     "type": "page",
@@ -609,7 +597,7 @@
    "kind": "ats",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.4,
+   "secs": 0.7,
    "source": "Boston Scientific (Australia) [eightfold]",
    "spec": {
     "sub": "bostonscientific",
@@ -634,7 +622,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.8,
+   "secs": 1.5,
    "source": "Brisbane Airport Corporation [page]",
    "spec": {
     "type": "page",
@@ -646,7 +634,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.7,
+   "secs": 1.3,
    "source": "Bruker (Australia) [page]",
    "spec": {
     "type": "page",
@@ -658,7 +646,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.2,
+   "secs": 0.1,
    "source": "Bureau of Meteorology [page]",
    "spec": {
     "type": "page",
@@ -670,7 +658,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.6,
+   "secs": 0.4,
    "source": "Bureau of Meteorology [page]",
    "spec": {
     "type": "page",
@@ -682,7 +670,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.9,
+   "secs": 0.8,
    "source": "Bureau of Meteorology [page]",
    "spec": {
     "type": "page",
@@ -694,7 +682,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.4,
+   "secs": 0.7,
    "source": "CPB Contractors [page]",
    "spec": {
     "type": "page",
@@ -719,7 +707,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 2.7,
+   "secs": 2.1,
    "source": "CSIRO Space & Astronomy [page]",
    "spec": {
     "type": "page",
@@ -752,11 +740,23 @@
    }
   },
   {
+   "error": "blocked: HTTP 403 for https://www.careers.vic.gov.au/jobs?keywords=%7Bkeyword%7D",
+   "kind": "page",
+   "ok": false,
+   "raw_count": 0,
+   "secs": 0.2,
+   "source": "Careers.vic (Victorian public sector job board - incl. DTP, DEECA/VicGrid, VIDA, SRLA) [page]",
+   "spec": {
+    "type": "page",
+    "url": "https://www.careers.vic.gov.au/jobs?keywords={keyword}"
+   }
+  },
+  {
    "error": "blocked: HTTP 403 for https://www.careers.vic.gov.au/jobs?keywords=student",
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.6,
+   "secs": 1.3,
    "source": "Careers.vic (Victorian public sector job board - incl. DTP, DEECA/VicGrid, VIDA, SRLA) [page]",
    "spec": {
     "type": "page",
@@ -768,7 +768,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.8,
+   "secs": 1.5,
    "source": "Careers.vic (Victorian public sector job board - incl. DTP, DEECA/VicGrid, VIDA, SRLA) [page]",
    "spec": {
     "type": "page",
@@ -776,23 +776,11 @@
    }
   },
   {
-   "error": "blocked: HTTP 403 for https://www.careers.vic.gov.au/jobs?keywords=%7Bkeyword%7D",
-   "kind": "page",
-   "ok": false,
-   "raw_count": 0,
-   "secs": 1.5,
-   "source": "Careers.vic (Victorian public sector job board - incl. DTP, DEECA/VicGrid, VIDA, SRLA) [page]",
-   "spec": {
-    "type": "page",
-    "url": "https://www.careers.vic.gov.au/jobs?keywords={keyword}"
-   }
-  },
-  {
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.carsales.com.au/404/",
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.1,
+   "secs": 2.1,
    "source": "Carsales (CAR Group) [page]",
    "spec": {
     "type": "page",
@@ -804,7 +792,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.3,
+   "secs": 0.4,
    "source": "Chevron Australia [page]",
    "spec": {
     "type": "page",
@@ -816,7 +804,7 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.4,
+   "secs": 0.5,
    "source": "Cisco [page]",
    "spec": {
     "type": "page",
@@ -824,35 +812,11 @@
    }
   },
   {
-   "error": "blocked: HTTP 403 for https://www.citadelsecurities.com/careers/",
-   "kind": "page",
-   "ok": false,
-   "raw_count": 0,
-   "secs": 0.3,
-   "source": "Citadel Securities [page]",
-   "spec": {
-    "type": "page",
-    "url": "https://www.citadelsecurities.com/careers/"
-   }
-  },
-  {
-   "error": "blocked: HTTP 403 for https://www.citadelsecurities.com/careers/open-opportunities/?location=sydney&type=students",
-   "kind": "page",
-   "ok": false,
-   "raw_count": 0,
-   "secs": 0.9,
-   "source": "Citadel Securities [page]",
-   "spec": {
-    "type": "page",
-    "url": "https://www.citadelsecurities.com/careers/open-opportunities/?location=sydney&type=students"
-   }
-  },
-  {
    "error": "blocked: HTTP 403 for https://www.citadelsecurities.com/careers/students/",
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 1.6,
+   "secs": 0.6,
    "source": "Citadel Securities [page]",
    "spec": {
     "type": "page",
@@ -860,11 +824,35 @@
    }
   },
   {
+   "error": "blocked: HTTP 403 for https://www.citadelsecurities.com/careers/open-opportunities/?location=sydney&type=students",
+   "kind": "page",
+   "ok": false,
+   "raw_count": 0,
+   "secs": 1.1,
+   "source": "Citadel Securities [page]",
+   "spec": {
+    "type": "page",
+    "url": "https://www.citadelsecurities.com/careers/open-opportunities/?location=sydney&type=students"
+   }
+  },
+  {
+   "error": "blocked: HTTP 403 for https://www.citadelsecurities.com/careers/",
+   "kind": "page",
+   "ok": false,
+   "raw_count": 0,
+   "secs": 1.4,
+   "source": "Citadel Securities [page]",
+   "spec": {
+    "type": "page",
+    "url": "https://www.citadelsecurities.com/careers/"
+   }
+  },
+  {
    "error": "ConnectionError: HTTPSConnectionPool(host='www.casa.gov.au', port=443): Max retries exceeded with url: /about-us/careers-casa (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.casa.gov.au', port=443): Read ti",
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 113.0,
+   "secs": 112.3,
    "source": "Civil Aviation Safety Authority (CASA) [page]",
    "spec": {
     "type": "page",
@@ -876,17 +864,30 @@
    "kind": "page",
    "ok": false,
    "raw_count": 0,
-   "secs": 0.2,
+   "secs": 0.3,
    "source": "Coca-Cola Europacific Partners (AU) [page]",
    "spec": {
     "type": "page",
     "url": "https://www.cocacolaep.com/au/careers/"
    }
+  },
+  {
+   "error": "no adapter for sf_classic",
+   "kind": "ats",
+   "ok": false,
+   "raw_count": 0,
+   "secs": 0.0,
+   "source": "Codan [sf_classic]",
+   "spec": {
+    "company": "C0002469119P",
+    "host": "career10.successfactors.com",
+    "type": "sf_classic"
+   }
   }
  ],
- "jobs_open": 244,
+ "jobs_open": 241,
  "new_today": 2,
- "run_at": "2026-10-22T04:51:44+00:00",
+ "run_at": "2026-10-22T11:56:33+00:00",
  "sources_ok": 640,
  "sources_total": 872
 }
