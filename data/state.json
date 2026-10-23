@@ -28,7 +28,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-23",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -259,14 +259,15 @@
   "title": "2027 EY Graduate Program – Engineering"
  },
  "060ccd851af5": {
+  "closed_on": "2026-10-23",
   "company": "Stryker (South Pacific)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-23",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Stryker (South Pacific) [workday]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Summer 2027 Internship - Mechanical Engineer"
  },
  "06254eff514c": {
@@ -483,14 +484,15 @@
   "title": "Notify Me - L'ORÉAL Singapore Graduate Jobs"
  },
  "0ba7b7578cf1": {
+  "closed_on": "2026-10-23",
   "company": "Lycopodium",
   "first_seen": "2026-10-23",
   "last_seen": "2026-10-23",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 15 hours ago"
  },
  "0c3f1a24d463": {
@@ -687,7 +689,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-23",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -2040,6 +2042,17 @@
   "status": "closed",
   "title": "Notify Me - NAB Graduate Jobs"
  },
+ "29ebfa72653a": {
+  "company": "Lorikeet",
+  "first_seen": "2026-10-23",
+  "last_seen": "2026-10-23",
+  "misses": 0,
+  "sources": [
+   "Lorikeet [ashby]"
+  ],
+  "status": "open",
+  "title": "Forward Deployed Engineer Intern"
+ },
  "2a404da06a20": {
   "company": "ResMed",
   "first_seen": "2026-10-19",
@@ -2160,7 +2173,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-20",
   "last_seen": "2026-10-23",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -3730,7 +3743,6 @@
   "last_seen": "2026-10-23",
   "misses": 0,
   "sources": [
-   "Heidi Health [ashby]",
    "Blackbird portfolio jobs [getro_board]"
   ],
   "status": "open",
@@ -5025,7 +5037,7 @@
   "company": "BDO",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-23",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -6358,7 +6370,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-23",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10870,11 +10882,22 @@
   "status": "closed",
   "title": "Mechanical Engineering Internships"
  },
+ "e09ce3a12032": {
+  "company": "Aussie Broadband",
+  "first_seen": "2026-10-23",
+  "last_seen": "2026-10-23",
+  "misses": 0,
+  "sources": [
+   "Aussie Broadband [workday]"
+  ],
+  "status": "open",
+  "title": "Graduate Systems Engineer"
+ },
  "e0db24f7bc87": {
   "company": "Careers at Council",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-23",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -11441,6 +11464,17 @@
   "status": "closed",
   "title": "Notify Me - Yancoal Graduate Jobs"
  },
+ "ed3fb71297fc": {
+  "company": "ANSTO (Lucas Heights) - Australian Nuclear Science and Technology Organisation",
+  "first_seen": "2026-10-23",
+  "last_seen": "2026-10-23",
+  "misses": 0,
+  "sources": [
+   "ANSTO (Lucas Heights) - Australian Nuclear Science and Technology Organisation [sf_rmk]"
+  ],
+  "status": "open",
+  "title": "Year in Industry Internship Program - Nuclear Stewardship"
+ },
  "ed47d8e78a41": {
   "closed_on": "2026-10-06",
   "company": "TikTok",
@@ -11767,6 +11801,17 @@
   ],
   "status": "open",
   "title": "Water and Sewer Operations Trainee"
+ },
+ "f445c61e51de": {
+  "company": "University of Melbourne (FEIT + jobs board)",
+  "first_seen": "2026-10-23",
+  "last_seen": "2026-10-23",
+  "misses": 0,
+  "sources": [
+   "University of Melbourne (FEIT + jobs board) [page]"
+  ],
+  "status": "open",
+  "title": "2027 FEIT Student Club Promotion Request"
  },
  "f46810d0f6dd": {
   "closed_on": "2026-10-07",
