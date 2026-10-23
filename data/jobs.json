@@ -1,6 +1,250 @@
 {
- "count": 249,
+ "count": 255,
  "jobs": [
+  {
+   "apply_url": null,
+   "base_score": 62,
+   "closes": null,
+   "company": "Aussie Broadband",
+   "disciplines": [
+    "Aerospace/Space",
+    "Civil/Construction",
+    "Controls/Automation",
+    "ML/AI/Data",
+    "Mechanical",
+    "Networks/Cyber",
+    "RF/Comms",
+    "Research",
+    "Software",
+    "Systems/Integration"
+   ],
+   "employer_id": "aussie-broadband",
+   "employment_type": "Full time",
+   "first_seen": "2026-10-23",
+   "flags": [],
+   "id": "970842960366",
+   "key": "aussie broadband|graduate customer solutions engineer",
+   "last_seen": "2026-10-23",
+   "links": [
+    {
+     "source": "Aussie Broadband [workday]",
+     "url": "https://aussiebroadband.wd3.myworkdayjobs.com/External/job/Melbourne/Graduate-Customer-Solutions-Engineer_JR102891-3"
+    }
+   ],
+   "location": "Melbourne | Australia",
+   "posted": "2026-10-23",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [
+    "telecommunications",
+    "networks"
+   ],
+   "snippet": "About Us Symbio, part of the Aussie Broadband Group, is revolutionising global communications. Our platform delivers the full communications stack, from carrier infrastructure to enterprise collaboration solutions, across multiple Asia-Pacific markets. Our goal is to be the telco people love – our customers, team members, shareholders, and partners. Listed on the Australian Stock Exchange (ASX: AB",
+   "source": "Aussie Broadband [workday]",
+   "source_kind": "ats",
+   "source_type": "workday",
+   "sources": [
+    "Aussie Broadband [workday]"
+   ],
+   "start_date": "2026-10-23",
+   "states": [
+    "VIC"
+   ],
+   "title": "Graduate Customer Solutions Engineer",
+   "url": "https://aussiebroadband.wd3.myworkdayjobs.com/External/job/Melbourne/Graduate-Customer-Solutions-Engineer_JR102891-3"
+  },
+  {
+   "apply_url": null,
+   "base_score": 51,
+   "closes": null,
+   "company": "Aurecon",
+   "disciplines": [
+    "Civil/Construction",
+    "Embedded/Firmware",
+    "Manufacturing/Quality",
+    "Mechanical"
+   ],
+   "employer_id": "aurecon",
+   "employment_type": "Full time",
+   "first_seen": "2026-10-23",
+   "flags": [],
+   "id": "7859d56dafba",
+   "key": "aurecon|digital modeller cadet",
+   "last_seen": "2026-10-23",
+   "links": [
+    {
+     "source": "Aurecon [workday]",
+     "url": "https://aurecongroup.wd3.myworkdayjobs.com/aurecon/job/Sydney/Digital-Modeller-Cadet_R33613"
+    }
+   ],
+   "location": "Sydney | Australia",
+   "posted": "2026-10-23",
+   "priority": "adjacent",
+   "role_type": "cadetship",
+   "salary": null,
+   "sectors": [
+    "engineering-consulting",
+    "power-systems",
+    "buildings",
+    "infrastructure"
+   ],
+   "snippet": "Building Services - Digital – Digital Modeller Cadet Want to bring ideas to life? Aurecon is a design, engineering and advisory company that brings ideas to life to create a better future for people and the planet. We’re looking for unconventional thinkers and dedicated doers who feel deeply passionate about co-creating solutions for a sustainable, liveable future. Every project Aurecon delivers l",
+   "source": "Aurecon [workday]",
+   "source_kind": "ats",
+   "source_type": "workday",
+   "sources": [
+    "Aurecon [workday]"
+   ],
+   "start_date": "2026-10-23",
+   "states": [
+    "NSW"
+   ],
+   "title": "Digital Modeller Cadet",
+   "url": "https://aurecongroup.wd3.myworkdayjobs.com/aurecon/job/Sydney/Digital-Modeller-Cadet_R33613"
+  },
+  {
+   "apply_url": null,
+   "base_score": 46,
+   "closes": null,
+   "company": "Aussie Broadband",
+   "disciplines": [
+    "Civil/Construction",
+    "Manufacturing/Quality",
+    "Mechanical",
+    "RF/Comms",
+    "Software",
+    "Systems/Integration"
+   ],
+   "employer_id": "aussie-broadband",
+   "employment_type": "Full time",
+   "first_seen": "2026-10-23",
+   "flags": [],
+   "id": "ba43ea231755",
+   "key": "aussie broadband|graduate software engineer",
+   "last_seen": "2026-10-23",
+   "links": [
+    {
+     "source": "Aussie Broadband [workday]",
+     "url": "https://aussiebroadband.wd3.myworkdayjobs.com/External/job/Sydney/Graduate-Software-Engineer_JR102882-3"
+    },
+    {
+     "source": "Aussie Broadband [workday]",
+     "url": "https://aussiebroadband.wd3.myworkdayjobs.com/External/job/Sydney/Graduate-Software-Engineer_JR102881-2"
+    }
+   ],
+   "location": "Sydney | Australia",
+   "posted": "2026-10-23",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [
+    "telecommunications",
+    "networks"
+   ],
+   "snippet": "About Us Symbio, part of the Aussie Broadband Group, is revolutionising global communications. Our platform delivers the full communications stack, from carrier infrastructure to enterprise collaboration solutions, across multiple Asia-Pacific markets. Our goal is to be the telco people love – our customers, team members, shareholders, and partners. Listed on the Australian Stock Exchange (ASX: AB",
+   "source": "Aussie Broadband [workday]",
+   "source_kind": "ats",
+   "source_type": "workday",
+   "sources": [
+    "Aussie Broadband [workday]"
+   ],
+   "start_date": "2026-10-23",
+   "states": [
+    "NSW"
+   ],
+   "title": "Graduate Software Engineer",
+   "url": "https://aussiebroadband.wd3.myworkdayjobs.com/External/job/Sydney/Graduate-Software-Engineer_JR102882-3"
+  },
+  {
+   "apply_url": null,
+   "base_score": 46,
+   "closes": null,
+   "company": "Aussie Broadband",
+   "disciplines": [
+    "Aerospace/Space",
+    "Civil/Construction",
+    "Mechanical",
+    "RF/Comms",
+    "Research"
+   ],
+   "employer_id": "aussie-broadband",
+   "employment_type": "Full time",
+   "first_seen": "2026-10-23",
+   "flags": [],
+   "id": "2baacd60a8dc",
+   "key": "aussie broadband|graduate customer experience cx",
+   "last_seen": "2026-10-23",
+   "links": [
+    {
+     "source": "Aussie Broadband [workday]",
+     "url": "https://aussiebroadband.wd3.myworkdayjobs.com/External/job/Sydney/Graduate-Customer-Experience--CX-_JR102886-3"
+    }
+   ],
+   "location": "Sydney | Australia",
+   "posted": "2026-10-23",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [
+    "telecommunications",
+    "networks"
+   ],
+   "snippet": "About Us Symbio, part of the Aussie Broadband Group, is revolutionising global communications. Our platform delivers the full communications stack, from carrier infrastructure to enterprise collaboration solutions, across multiple Asia-Pacific markets. Our goal is to be the telco people love – our customers, team members, shareholders, and partners. Listed on the Australian Stock Exchange (ASX: AB",
+   "source": "Aussie Broadband [workday]",
+   "source_kind": "ats",
+   "source_type": "workday",
+   "sources": [
+    "Aussie Broadband [workday]"
+   ],
+   "start_date": "2026-10-23",
+   "states": [
+    "NSW"
+   ],
+   "title": "Graduate Customer Experience (CX)",
+   "url": "https://aussiebroadband.wd3.myworkdayjobs.com/External/job/Sydney/Graduate-Customer-Experience--CX-_JR102886-3"
+  },
+  {
+   "apply_url": "https://www.aplitrak.com/?adid=c2ltb24uc2hvZWJyaWRnZS40ODc1My4xMDQ1N0BtaXJ2YWNhdS5hcGxpdHJhay5jb20",
+   "base_score": 20,
+   "closes": "2026-10-29",
+   "company": "Mirvac",
+   "disciplines": [
+    "Civil/Construction"
+   ],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-23",
+   "flags": [],
+   "id": "a1a3bd7704bd",
+   "key": "mirvac|graduate cost planner",
+   "last_seen": "2026-10-23",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/mirvac/jobs/mirvac-graduate-cost-planner-2/"
+    }
+   ],
+   "location": "North Sydney | Sydney",
+   "posted": "2026-10-22",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Working alongside experienced cost planning professionals, you will gain practical exposure across the development lifecycle-from early feasibility and detailed cost planning through to construction.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW"
+   ],
+   "title": "Graduate Cost Planner",
+   "url": "https://au.gradconnection.com/employers/mirvac/jobs/mirvac-graduate-cost-planner-2/"
+  },
   {
    "apply_url": null,
    "base_score": 42,
@@ -116,7 +360,7 @@
     }
    ],
    "location": "Mill Bay - Squl’ew' | Victoria - 905 Ellery | Halifax - John Savage | Canada",
-   "posted": "2026-10-20",
+   "posted": "2026-10-21",
    "priority": "core",
    "role_type": "year-long",
    "salary": null,
@@ -252,7 +496,7 @@
     }
    ],
    "location": "Sydney, NSW, Australia | Australia",
-   "posted": "2026-10-19",
+   "posted": "2026-10-20",
    "priority": "core",
    "role_type": "part-time",
    "salary": null,
@@ -306,7 +550,7 @@
     }
    ],
    "location": "GB - Edinburgh | GB - Newcastle | United Kingdom",
-   "posted": "2026-10-19",
+   "posted": "2026-10-20",
    "priority": "adjacent",
    "role_type": "summer",
    "salary": null,
@@ -355,7 +599,7 @@
     }
    ],
    "location": "Melbourne, Victoria, Australia | Sydney, New South Wales, Australia | Australia",
-   "posted": "2026-10-20",
+   "posted": "2026-10-21",
    "priority": "adjacent",
    "role_type": "year-long",
    "salary": null,
@@ -662,49 +906,6 @@
   },
   {
    "apply_url": null,
-   "base_score": 14,
-   "closes": null,
-   "company": "Lycopodium",
-   "disciplines": [],
-   "employer_id": "lycopodium",
-   "employment_type": null,
-   "first_seen": "2026-10-20",
-   "flags": [],
-   "id": "2c86d6ab576e",
-   "key": "lycopodium|graduate project engineering lycopodium is now recruiting for our graduate project engineering to join our growing team in perth location perth wa work type full time published at 19 hours ago",
-   "last_seen": "2026-10-23",
-   "links": [
-    {
-     "source": "Lycopodium [livehire]",
-     "url": "https://www.livehire.com/careers/lycopodium/job/NKBTX/7KOR2RO3XX/graduate-program-2027-project-engineering?useBrowserBack=true"
-    }
-   ],
-   "location": "",
-   "posted": null,
-   "priority": "deprioritised",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [
-    "engineering-consulting",
-    "mining-resources",
-    "EPCM"
-   ],
-   "snippet": "",
-   "source": "Lycopodium [livehire]",
-   "source_kind": "ats",
-   "source_type": "livehire",
-   "sources": [
-    "Lycopodium [livehire]"
-   ],
-   "start_date": null,
-   "states": [
-    "AU"
-   ],
-   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 19 hours ago",
-   "url": "https://www.livehire.com/careers/lycopodium/job/NKBTX/7KOR2RO3XX/graduate-program-2027-project-engineering?useBrowserBack=true"
-  },
-  {
-   "apply_url": null,
    "base_score": 54,
    "closes": null,
    "company": "ResMed",
@@ -726,7 +927,7 @@
     }
    ],
    "location": "Sydney, NSW, Australia | Australia",
-   "posted": "2026-10-19",
+   "posted": "2026-10-20",
    "priority": "core",
    "role_type": "summer",
    "salary": null,
@@ -906,7 +1107,7 @@
     }
    ],
    "location": "GB - Newcastle | United Kingdom",
-   "posted": "2026-10-18",
+   "posted": "2026-10-19",
    "priority": "adjacent",
    "role_type": "summer",
    "salary": null,
@@ -961,7 +1162,7 @@
     }
    ],
    "location": "GB - Newcastle | United Kingdom",
-   "posted": "2026-10-18",
+   "posted": "2026-10-19",
    "priority": "adjacent",
    "role_type": "part-time",
    "salary": null,
@@ -1012,7 +1213,7 @@
     }
    ],
    "location": "GB - Newcastle | United Kingdom",
-   "posted": "2026-10-18",
+   "posted": "2026-10-19",
    "priority": "adjacent",
    "role_type": "summer",
    "salary": null,
@@ -1062,7 +1263,7 @@
     }
    ],
    "location": "GB - Edinburgh | GB - Newcastle | United Kingdom",
-   "posted": "2026-10-18",
+   "posted": "2026-10-19",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -1118,7 +1319,7 @@
     }
    ],
    "location": "GB - Edinburgh | GB - Newcastle | United Kingdom",
-   "posted": "2026-10-18",
+   "posted": "2026-10-19",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -1658,7 +1859,7 @@
     }
    ],
    "location": "Melbourne-Victoria-Australia | Australia",
-   "posted": "2026-10-15",
+   "posted": "2026-10-16",
    "priority": "core",
    "role_type": "intern-other",
    "salary": null,
@@ -1710,7 +1911,7 @@
     }
    ],
    "location": "Sydney, NSW, Australia | Australia",
-   "posted": "2026-10-14",
+   "posted": "2026-10-15",
    "priority": "core",
    "role_type": "intern-other",
    "salary": null,
@@ -2136,7 +2337,7 @@
     }
    ],
    "location": "Brisbane | Australia",
-   "posted": "2026-09-22",
+   "posted": "2026-09-23",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -2159,6 +2360,49 @@
    ],
    "title": "Graduate Industrial Structural Engineer",
    "url": "https://aurecongroup.wd3.myworkdayjobs.com/aurecon/job/Brisbane/Graduate-Industrial-Structural-Engineer_R21443"
+  },
+  {
+   "apply_url": null,
+   "base_score": 14,
+   "closes": null,
+   "company": "Lycopodium",
+   "disciplines": [],
+   "employer_id": "lycopodium",
+   "employment_type": null,
+   "first_seen": "2026-10-15",
+   "flags": [],
+   "id": "2074a57ea72f",
+   "key": "lycopodium|graduate project engineering lycopodium is now recruiting for our graduate project engineering to join our growing team in perth location perth wa work type full time published at a day ago",
+   "last_seen": "2026-10-23",
+   "links": [
+    {
+     "source": "Lycopodium [livehire]",
+     "url": "https://www.livehire.com/careers/lycopodium/job/NKBTX/7KOR2RO3XX/graduate-program-2027-project-engineering?useBrowserBack=true"
+    }
+   ],
+   "location": "",
+   "posted": null,
+   "priority": "deprioritised",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [
+    "engineering-consulting",
+    "mining-resources",
+    "EPCM"
+   ],
+   "snippet": "",
+   "source": "Lycopodium [livehire]",
+   "source_kind": "ats",
+   "source_type": "livehire",
+   "sources": [
+    "Lycopodium [livehire]"
+   ],
+   "start_date": null,
+   "states": [
+    "AU"
+   ],
+   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: a day ago",
+   "url": "https://www.livehire.com/careers/lycopodium/job/NKBTX/7KOR2RO3XX/graduate-program-2027-project-engineering?useBrowserBack=true"
   },
   {
    "apply_url": null,
@@ -2834,7 +3078,7 @@
     }
    ],
    "location": "Sydney | Australia",
-   "posted": "2026-10-09",
+   "posted": "2026-10-10",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -3226,7 +3470,7 @@
     }
    ],
    "location": "Sydney, NSW, Australia | Australia",
-   "posted": "2026-10-07",
+   "posted": "2026-10-08",
    "priority": "core",
    "role_type": "summer",
    "salary": null,
@@ -3282,7 +3526,7 @@
     }
    ],
    "location": "Sydney, NSW, Australia | Australia",
-   "posted": "2026-10-07",
+   "posted": "2026-10-08",
    "priority": "core",
    "role_type": "intern-other",
    "salary": null,
@@ -4031,7 +4275,7 @@
     }
    ],
    "location": "Sydney, NSW, Australia | Australia",
-   "posted": "2026-10-01",
+   "posted": "2026-10-02",
    "priority": "core",
    "role_type": "intern-other",
    "salary": null,
@@ -4378,7 +4622,7 @@
     }
    ],
    "location": "North Sydney, Australia | Australia",
-   "posted": "2026-09-29",
+   "posted": "2026-09-30",
    "priority": "core",
    "role_type": "year-long",
    "salary": null,
@@ -4838,7 +5082,7 @@
     }
    ],
    "location": "Melbourne, Australia | Australia",
-   "posted": "2026-09-22",
+   "posted": "2026-09-23",
    "priority": "core",
    "role_type": "graduate",
    "salary": null,
@@ -4887,7 +5131,7 @@
     }
    ],
    "location": "Port Melbourne, Victoria, Australia | Australia",
-   "posted": "2026-10-08",
+   "posted": "2026-10-09",
    "priority": "adjacent",
    "role_type": "year-long",
    "salary": null,
@@ -4936,7 +5180,7 @@
     }
    ],
    "location": "Port Melbourne, Victoria, Australia | Australia",
-   "posted": "2026-09-22",
+   "posted": "2026-09-23",
    "priority": "adjacent",
    "role_type": "intern-other",
    "salary": null,
@@ -5459,7 +5703,7 @@
     }
    ],
    "location": "Dandenong, Victoria, Australia | Australia",
-   "posted": "2026-09-22",
+   "posted": "2026-09-23",
    "priority": "adjacent",
    "role_type": "intern-other",
    "salary": null,
@@ -6481,7 +6725,7 @@
     }
    ],
    "location": "",
-   "posted": "2026-09-22",
+   "posted": "2026-09-23",
    "priority": "core",
    "role_type": "intern-other",
    "salary": null,
@@ -7480,7 +7724,7 @@
     }
    ],
    "location": "Australia - Docklands | Australia",
-   "posted": "2026-09-22",
+   "posted": "2026-09-23",
    "priority": "deprioritised",
    "role_type": "intern-other",
    "salary": null,
@@ -8516,10 +8760,6 @@
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
      "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-australiansuper-2027-graduate-program-technology-digital-data-enterprise-stream/"
-    },
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-australiansuper-2027-graduate-program-technology-digital-data-enterprise-stream-2-2-2/"
     }
    ],
    "location": "Melbourne",
@@ -9446,7 +9686,7 @@
     }
    ],
    "location": "Canberra, Australian Capital Territory, Australia | Australia",
-   "posted": "2026-09-22",
+   "posted": "2026-09-23",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -10436,7 +10676,7 @@
     }
    ],
    "location": "",
-   "posted": "2026-09-29",
+   "posted": "2026-09-30",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
@@ -11192,6 +11432,84 @@
    "url": "https://au.gradconnection.com/employers/mainfreight/jobs/mainfreight-mainfreight-graduate-program-77/"
   },
   {
+   "apply_url": null,
+   "base_score": 32,
+   "closes": "2026-12-31",
+   "company": "Ausmeter Group",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "10cf2b347be0",
+   "key": "ausmeter group|data technical support specialist utility metering",
+   "last_seen": "2026-10-23",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/ausmeter-group/jobs/ausmeter-group-data-technical-support-specialist-utility-metering-5/"
+    }
+   ],
+   "location": "Melbourne | Melbourne - Northern Suburbs",
+   "posted": "2026-06-19",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "We are looking for a sharp and detail focused Data Technician Support Specialist to join our Data Services Team, and provide key support in maintaining our Automated Meter Reading (AMR) Networks.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "VIC"
+   ],
+   "title": "Data & Technical Support Specialist – Utility Metering",
+   "url": "https://au.gradconnection.com/employers/ausmeter-group/jobs/ausmeter-group-data-technical-support-specialist-utility-metering-5/"
+  },
+  {
+   "apply_url": "https://careers.afp.gov.au/job-invite/15886/",
+   "base_score": 32,
+   "closes": "2027-02-28",
+   "company": "Australian Federal Police",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-06",
+   "flags": [],
+   "id": "b3d60303d269",
+   "key": "australian federal police|register of interest afp graduate",
+   "last_seen": "2026-10-23",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/australian-federal-police/jobs/australian-federal-police-register-of-interest-2028-afp-graduate-program/"
+    }
+   ],
+   "location": "Canberra",
+   "posted": "2026-04-20",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": "{'min_salary': '70,000', 'max_salary': '70,000', 'details': '$77,264k + 15.4% Superannuation'}",
+   "sectors": [],
+   "snippet": "If you're an upcoming or recent tertiary graduate, join an agency that challenges you, supports your growth, and empowers you to make a difference.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "ACT"
+   ],
+   "title": "Register of Interest - 2028 AFP Graduate Program",
+   "url": "https://au.gradconnection.com/employers/australian-federal-police/jobs/australian-federal-police-register-of-interest-2028-afp-graduate-program/"
+  },
+  {
    "apply_url": "https://au.smrtr.io/fqMn",
    "base_score": 32,
    "closes": "2026-10-31",
@@ -11275,45 +11593,6 @@
    ],
    "title": "Expression of interest – Victorian Government graduate program 2028",
    "url": "https://au.gradconnection.com/employers/the-victorian-state-government/jobs/victorian-government-expression-of-interest-victorian-government-graduate-program-2028/"
-  },
-  {
-   "apply_url": "https://careers.afp.gov.au/job-invite/15886/",
-   "base_score": 32,
-   "closes": "2027-02-28",
-   "company": "Australian Federal Police",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "b3d60303d269",
-   "key": "australian federal police|register of interest afp graduate",
-   "last_seen": "2026-10-23",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/australian-federal-police/jobs/australian-federal-police-register-of-interest-2028-afp-graduate-program/"
-    }
-   ],
-   "location": "Canberra",
-   "posted": "2026-04-20",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": "{'min_salary': '70,000', 'max_salary': '70,000', 'details': '$77,264k + 15.4% Superannuation'}",
-   "sectors": [],
-   "snippet": "If you're an upcoming or recent tertiary graduate, join an agency that challenges you, supports your growth, and empowers you to make a difference.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "ACT"
-   ],
-   "title": "Register of Interest - 2028 AFP Graduate Program",
-   "url": "https://au.gradconnection.com/employers/australian-federal-police/jobs/australian-federal-police-register-of-interest-2028-afp-graduate-program/"
   },
   {
    "apply_url": "https://www.bhp.com/careers/graduate-student-programs/australia",

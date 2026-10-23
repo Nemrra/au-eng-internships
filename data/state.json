@@ -262,7 +262,7 @@
   "company": "Stryker (South Pacific)",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-23",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Stryker (South Pacific) [workday]"
   ],
@@ -423,14 +423,15 @@
   "title": "Notify Me - Boston Consulting Group (BCG) Internships"
  },
  "0a80fcb2b7bc": {
+  "closed_on": "2026-10-23",
   "company": "Department of Transport and Planning (VIC) / Victorian Infrastructure Delivery Authority (rail signalling, engineering)",
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-22",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Department of Transport and Planning (VIC) / Victorian Infrastructure Delivery Authority (rail signalling, engineering) [sf_rmk]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Timetable Developer"
  },
  "0aa87add98b8": {
@@ -485,7 +486,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-23",
   "last_seen": "2026-10-23",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -804,12 +805,12 @@
   "closed_on": "2026-10-23",
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-22",
-  "misses": 3,
+  "last_seen": "2026-10-23",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Data & Technical Support Specialist – Utility Metering"
  },
  "10de295f29d8": {
@@ -1495,12 +1496,12 @@
   "closed_on": "2026-10-21",
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-20",
-  "misses": 3,
+  "last_seen": "2026-10-23",
+  "misses": 0,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: a day ago"
  },
  "20a98ecc3b08": {
@@ -2119,6 +2120,17 @@
   "status": "open",
   "title": "Quantitative Systematic Trader - PhD: 2026"
  },
+ "2baacd60a8dc": {
+  "company": "Aussie Broadband",
+  "first_seen": "2026-10-23",
+  "last_seen": "2026-10-23",
+  "misses": 0,
+  "sources": [
+   "Aussie Broadband [workday]"
+  ],
+  "status": "open",
+  "title": "Graduate Customer Experience (CX)"
+ },
  "2c710b442db5": {
   "company": "GHD",
   "first_seen": "2026-10-08",
@@ -2148,7 +2160,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-20",
   "last_seen": "2026-10-23",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -5976,6 +5988,17 @@
   "status": "open",
   "title": "Expressions of Interest - Graduate Software Developer 2027"
  },
+ "7859d56dafba": {
+  "company": "Aurecon",
+  "first_seen": "2026-10-23",
+  "last_seen": "2026-10-23",
+  "misses": 0,
+  "sources": [
+   "Aurecon [workday]"
+  ],
+  "status": "open",
+  "title": "Digital Modeller Cadet"
+ },
  "786a07a2bf76": {
   "closed_on": "2026-10-06",
   "company": "Siemens",
@@ -6484,14 +6507,15 @@
   "title": "Notify Me - Alinta Energy Internships"
  },
  "837bb66e225a": {
+  "closed_on": "2026-10-23",
   "company": "Aurecon",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-22",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Electrical Engineer, Buildings Perth"
  },
  "83a6fcb9d069": {
@@ -6636,15 +6660,15 @@
   "title": "Graduate Development Program (TikTok Shop E-commerce, Malaysia) - 2027 Start"
  },
  "87204a596c79": {
-  "closed_on": "2026-10-17",
+  "closed_on": "2026-10-23",
   "company": "Lycopodium",
   "first_seen": "2026-10-17",
   "last_seen": "2026-10-22",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 9 hours ago"
  },
  "877c32caf450": {
@@ -7402,6 +7426,17 @@
   "status": "closed",
   "title": "Multi-Cloud CDN Scheduling Platform Engineer Graduate - CDN Platform"
  },
+ "970842960366": {
+  "company": "Aussie Broadband",
+  "first_seen": "2026-10-23",
+  "last_seen": "2026-10-23",
+  "misses": 0,
+  "sources": [
+   "Aussie Broadband [workday]"
+  ],
+  "status": "open",
+  "title": "Graduate Customer Solutions Engineer"
+ },
  "9719732e9da6": {
   "closed_on": "2026-10-19",
   "company": "BDO",
@@ -7941,6 +7976,17 @@
   ],
   "status": "closed",
   "title": "Business Intelligence and Infrastructure Analyst Intern"
+ },
+ "a1a3bd7704bd": {
+  "company": "Mirvac",
+  "first_seen": "2026-10-23",
+  "last_seen": "2026-10-23",
+  "misses": 0,
+  "sources": [
+   "GradConnection (SEEK Grad) [gradconnection]"
+  ],
+  "status": "open",
+  "title": "Graduate Cost Planner"
  },
  "a1ee391dac3e": {
   "company": "ResMed",
@@ -9078,6 +9124,17 @@
   ],
   "status": "open",
   "title": "Title Analytics Internship: Fall 2026"
+ },
+ "ba43ea231755": {
+  "company": "Aussie Broadband",
+  "first_seen": "2026-10-23",
+  "last_seen": "2026-10-23",
+  "misses": 0,
+  "sources": [
+   "Aussie Broadband [workday]"
+  ],
+  "status": "open",
+  "title": "Graduate Software Engineer"
  },
  "ba7536813a47": {
   "closed_on": "2026-10-06",
