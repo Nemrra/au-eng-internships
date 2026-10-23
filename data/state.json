@@ -28,7 +28,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-24",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -131,14 +131,15 @@
   "title": "Notify Me - Australian Office of Financial Management Graduate Jobs"
  },
  "03519c6e741c": {
+  "closed_on": "2026-10-24",
   "company": "ACS Foundation",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-23",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Quality Assurance Analyst"
  },
  "03a37156152d": {
@@ -157,7 +158,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-24",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -689,7 +690,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-24",
-  "misses": 1,
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -808,7 +809,7 @@
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-24",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1065,7 +1066,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-24",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1499,7 +1500,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-24",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -2458,7 +2459,7 @@
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-24",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3719,12 +3720,12 @@
   "closed_on": "2026-10-22",
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-22",
-  "misses": 3,
+  "last_seen": "2026-10-24",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "2027 Graduate Programme - Business & Operations | Carole Park"
  },
  "4985f471dad1": {
@@ -3740,14 +3741,15 @@
   "title": "Boeing Summer 2027 Internship Program (Paid) - Quality Engineering Intern"
  },
  "4999c0f605c8": {
+  "closed_on": "2026-10-24",
   "company": "Heidi Health",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-23",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Blackbird portfolio jobs [getro_board]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "2026/2027 Software Engineering Intern Program (Heidi Launch Lab)"
  },
  "4ab9712861c9": {
@@ -4680,14 +4682,15 @@
   "title": "Notify Me - Fujitsu Graduate Jobs"
  },
  "5b9e53ea6cab": {
+  "closed_on": "2026-10-24",
   "company": "ACS Foundation",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-23",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Intern Quality Assurance Analyst"
  },
  "5bd34d7da549": {
@@ -5205,7 +5208,7 @@
   "misses": 0,
   "sources": [
    "Claude web sweep",
-   "Apple [page]"
+   "Apple jobs AU internships [apple]"
   ],
   "status": "open",
   "title": "2027 Apple Internship - Information Systems and Technology (AUS)"
@@ -6814,14 +6817,15 @@
   "title": "Undergraduate Electrical Engineer"
  },
  "8b7162aa0e30": {
+  "closed_on": "2026-10-24",
   "company": "Mainfreight",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-23",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Mainfreight Graduate Program"
  },
  "8b7e034c95c6": {
@@ -7277,7 +7281,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-24",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7990,25 +7994,27 @@
   "title": "Business Intelligence and Infrastructure Analyst Intern"
  },
  "a1a3bd7704bd": {
+  "closed_on": "2026-10-24",
   "company": "Mirvac",
   "first_seen": "2026-10-23",
   "last_seen": "2026-10-23",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Cost Planner"
  },
  "a1ee391dac3e": {
+  "closed_on": "2026-10-24",
   "company": "ResMed",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-23",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "ResMed [workday]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Student Software Engineer"
  },
  "a21b1555a966": {
@@ -8609,7 +8615,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-24",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8751,7 +8757,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-24",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9566,7 +9572,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-24",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],

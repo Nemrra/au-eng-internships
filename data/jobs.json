@@ -1,5 +1,5 @@
 {
- "count": 249,
+ "count": 245,
  "jobs": [
   {
    "apply_url": null,
@@ -2200,255 +2200,6 @@
    "url": "https://au.gradconnection.com/employers/ghd/jobs/ghd-ghd-summer-internship-program-202627-gladstone-townsville-civil-engineering-intern-2-3/"
   },
   {
-   "apply_url": "https://adr.to/cxikoai",
-   "base_score": 43,
-   "closes": "2026-12-15",
-   "company": "MM Electrical Merchandising",
-   "disciplines": [
-    "Electrical",
-    "Mechanical"
-   ],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-15",
-   "flags": [],
-   "id": "93a1549ac6d2",
-   "key": "mm electrical merchandising|mmem sales management graduate macarthur nsw",
-   "last_seen": "2026-10-24",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-group-mmem-business-management-graduate-program-melbourne-3-2-2-3-2-2-3/"
-    }
-   ],
-   "location": "Sydney",
-   "posted": "2026-10-14",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Learn how to run a successful business from the ground up through a structured graduate program with Australia's largest electrical wholesaling company.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "NSW"
-   ],
-   "title": "MMEM Sales & Management Graduate - Macarthur, NSW",
-   "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-group-mmem-business-management-graduate-program-melbourne-3-2-2-3-2-2-3/"
-  },
-  {
-   "apply_url": "https://adr.to/k3z26ai",
-   "base_score": 43,
-   "closes": "2026-12-15",
-   "company": "MM Electrical Merchandising",
-   "disciplines": [
-    "Electrical",
-    "Mechanical"
-   ],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-15",
-   "flags": [],
-   "id": "add9b2f6f057",
-   "key": "mm electrical merchandising|mmem sales management graduate sutherland shire nsw",
-   "last_seen": "2026-10-24",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-electrical-merchandising-sales-leadership-graduate-sutherland-shire-6/"
-    }
-   ],
-   "location": "Sydney",
-   "posted": "2026-10-14",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Learn how to run a successful business from the ground up through a structured graduate program with Australia's largest electrical wholesaling company.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "NSW"
-   ],
-   "title": "MMEM Sales & Management Graduate - Sutherland Shire, NSW",
-   "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-electrical-merchandising-sales-leadership-graduate-sutherland-shire-6/"
-  },
-  {
-   "apply_url": "https://adr.to/s3w26ai",
-   "base_score": 43,
-   "closes": "2026-12-15",
-   "company": "MM Electrical Merchandising",
-   "disciplines": [
-    "Electrical",
-    "Mechanical"
-   ],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-15",
-   "flags": [],
-   "id": "16208b686c28",
-   "key": "mm electrical merchandising|mmem sales management graduate canberra act",
-   "last_seen": "2026-10-24",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-electrical-merchandising-sales-leadership-graduate-2/"
-    }
-   ],
-   "location": "Canberra",
-   "posted": "2026-10-14",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Learn how to run a successful business from the ground up through a structured graduate program with Australia's largest electrical wholesaling company.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "ACT"
-   ],
-   "title": "MMEM Sales & Management Graduate - Canberra, ACT",
-   "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-electrical-merchandising-sales-leadership-graduate-2/"
-  },
-  {
-   "apply_url": "https://adr.to/gh2lgai",
-   "base_score": 42,
-   "closes": "2026-12-15",
-   "company": "MM Electrical Merchandising",
-   "disciplines": [
-    "Electrical"
-   ],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-15",
-   "flags": [],
-   "id": "b188ae8d203c",
-   "key": "mm electrical merchandising|mmem sales management graduate western brisbane ipswitch qld",
-   "last_seen": "2026-10-24",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-electrical-merchandising-sales-leadership-graduate-sutherland-shire-5-2/"
-    }
-   ],
-   "location": "Brisbane",
-   "posted": "2026-10-14",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Learn how to run a successful business from the ground up with Australia's largest electrical wholesaling company.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "QLD"
-   ],
-   "title": "MMEM Sales & Management Graduate - Western Brisbane / Ipswitch, QLD",
-   "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-electrical-merchandising-sales-leadership-graduate-sutherland-shire-5-2/"
-  },
-  {
-   "apply_url": "https://adr.to/olz3gai",
-   "base_score": 42,
-   "closes": "2026-12-15",
-   "company": "MM Electrical Merchandising",
-   "disciplines": [
-    "Electrical"
-   ],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-15",
-   "flags": [],
-   "id": "040e767ced43",
-   "key": "mm electrical merchandising|mmem sales management graduate south brisbane qld",
-   "last_seen": "2026-10-24",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-electrical-merchandising-sales-leadership-graduate-sutherland-shire-5/"
-    }
-   ],
-   "location": "Brisbane",
-   "posted": "2026-10-14",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Learn how to run a successful business from the ground up with Australia's largest electrical wholesaling company.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "QLD"
-   ],
-   "title": "MMEM Sales & Management Graduate - South Brisbane, QLD",
-   "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-electrical-merchandising-sales-leadership-graduate-sutherland-shire-5/"
-  },
-  {
-   "apply_url": "https://adr.to/td2lgai",
-   "base_score": 42,
-   "closes": "2026-12-15",
-   "company": "MM Electrical Merchandising",
-   "disciplines": [
-    "Electrical"
-   ],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-15",
-   "flags": [],
-   "id": "c36d660b5bb4",
-   "key": "mm electrical merchandising|mmem sales management graduate wide bay region qld",
-   "last_seen": "2026-10-24",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-electrical-merchandising-sales-leadership-graduate-sutherland-shire-5-2-2/"
-    }
-   ],
-   "location": "Brisbane | Regional Queensland",
-   "posted": "2026-10-14",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "Learn how to run a successful business from the ground up with Australia's largest electrical wholesaling company.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "QLD"
-   ],
-   "title": "MMEM Sales & Management Graduate - Wide Bay Region, QLD",
-   "url": "https://au.gradconnection.com/employers/mm-group/jobs/mm-electrical-merchandising-sales-leadership-graduate-sutherland-shire-5-2-2/"
-  },
-  {
    "apply_url": null,
    "base_score": 22,
    "closes": null,
@@ -2544,6 +2295,45 @@
    ],
    "title": "2028 Graduate Opportunities",
    "url": "https://epdj.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/991"
+  },
+  {
+   "apply_url": "https://www.careersatcouncil.com.au/job/cadet-building-surveyor-2611/",
+   "base_score": 47,
+   "closes": "2026-11-07",
+   "company": "Careers at Council",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-14",
+   "flags": [],
+   "id": "00ee959e406e",
+   "key": "careers at council|cadet building surveyor",
+   "last_seen": "2026-10-24",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/careers-at-council/jobs/careers-at-council-cadet-building-surveyor-8/"
+    }
+   ],
+   "location": "New South Wales | Regional New South Wales | Sydney",
+   "posted": "2026-10-08",
+   "priority": "adjacent",
+   "role_type": "cadetship",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Maitland City Council Maitland, New South Wales",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW"
+   ],
+   "title": "Cadet Building Surveyor",
+   "url": "https://au.gradconnection.com/employers/careers-at-council/jobs/careers-at-council-cadet-building-surveyor-8/"
   },
   {
    "apply_url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/AUS---VIC---MELBOURNE/XMLNAME-2027-Graduate---AI---Innovation-Full-Stack-Engineer_51591714",
@@ -3645,6 +3435,84 @@
    ],
    "title": "Graduate Program - Transfer Pricing (Brisbane)",
    "url": "https://au.gradconnection.com/employers/bdo/jobs/bdo-graduate-program-transfer-pricing-brisbane/"
+  },
+  {
+   "apply_url": "https://www.careersatcouncil.com.au/job/gwydir-career-start-2026-2027-20260907/",
+   "base_score": 32,
+   "closes": "2026-10-31",
+   "company": "Careers at Council",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-07",
+   "flags": [],
+   "id": "0ee577b70dbb",
+   "key": "careers at council|gwydir career start",
+   "last_seen": "2026-10-24",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/careers-at-council/jobs/careers-at-council-gwydir-career-start-20262027/"
+    }
+   ],
+   "location": "New South Wales | Regional New South Wales | Sydney",
+   "posted": "2026-09-08",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Gwydir Shire Council Bingara, New South Wales",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "NSW"
+   ],
+   "title": "Gwydir Career Start 2026/2027",
+   "url": "https://au.gradconnection.com/employers/careers-at-council/jobs/careers-at-council-gwydir-career-start-20262027/"
+  },
+  {
+   "apply_url": "https://apply.workable.com/vulcan/j/E52619010E",
+   "base_score": 32,
+   "closes": "2026-10-30",
+   "company": "Vulcan Steel",
+   "disciplines": [],
+   "employer_id": null,
+   "employment_type": "Graduate Jobs",
+   "first_seen": "2026-10-07",
+   "flags": [],
+   "id": "4953764d7bdf",
+   "key": "vulcan steel|graduate business operations carole park",
+   "last_seen": "2026-10-24",
+   "links": [
+    {
+     "source": "GradConnection (SEEK Grad) [gradconnection]",
+     "url": "https://au.gradconnection.com/employers/vulcan-steel/jobs/vulcan-steel-2027-graduate-programme-business-operations-carole-park/"
+    }
+   ],
+   "location": "South Brisbane",
+   "posted": "2026-09-27",
+   "priority": "adjacent",
+   "role_type": "graduate",
+   "salary": null,
+   "sectors": [],
+   "snippet": "Join Vulcan's 18-month Graduate Programme and gain hands-on experience across operations, logistics and sales while building the skills, confidence and commercial mindset to become a future leader.",
+   "source": "GradConnection (SEEK Grad) [gradconnection]",
+   "source_kind": "aggregator",
+   "source_type": "gradconnection",
+   "sources": [
+    "GradConnection (SEEK Grad) [gradconnection]"
+   ],
+   "start_date": null,
+   "states": [
+    "QLD"
+   ],
+   "title": "2027 Graduate Programme - Business & Operations | Carole Park",
+   "url": "https://au.gradconnection.com/employers/vulcan-steel/jobs/vulcan-steel-2027-graduate-programme-business-operations-carole-park/"
   },
   {
    "base_score": 95,
@@ -7343,7 +7211,6 @@
    "employment_type": null,
    "first_seen": "2026-10-06",
    "flags": [
-    "from-careers-page",
     "manual"
    ],
    "id": "6616371895aa",
@@ -7355,7 +7222,7 @@
      "url": "https://jobs.apple.com/en-au/details/200676288-3957/2027-apple-internship-information-systems-and-technology-aus"
     },
     {
-     "source": "Apple [page]",
+     "source": "Apple jobs AU internships [apple]",
      "url": "https://jobs.apple.com/en-au/details/200676288-3957/2027-apple-internship-information-systems-and-technology-aus?team=STDNT"
     }
    ],
@@ -7376,7 +7243,7 @@
    "source_type": "research 2026-10-06",
    "sources": [
     "Claude web sweep",
-    "Apple [page]"
+    "Apple jobs AU internships [apple]"
    ],
    "start_date": null,
    "states": [
@@ -7409,11 +7276,11 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-systematic-trader-phd-2026-9/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-systematic-trader-phd-2026-7/"
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-systematic-trader-phd-2026-7/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-systematic-trader-phd-2026-9/"
     }
    ],
    "location": "Sydney",
@@ -7460,11 +7327,11 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-systematic-trader-honours-and-masters-2026-6/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-systematic-trader-honours-and-masters-2026-7/"
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-systematic-trader-honours-and-masters-2026-7/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-systematic-trader-honours-and-masters-2026-6/"
     }
    ],
    "location": "Sydney",
@@ -9420,11 +9287,11 @@
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-researcher-honours-and-masters-2026-7/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-researcher-honours-and-masters-2026-8/"
     },
     {
      "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-researcher-honours-and-masters-2026-8/"
+     "url": "https://au.gradconnection.com/employers/susquehanna-international-group/jobs/susquehanna-international-group-quantitative-researcher-honours-and-masters-2026-7/"
     }
    ],
    "location": "Sydney",
@@ -9962,19 +9829,15 @@
     {
      "source": "Claude web sweep",
      "url": "https://www.amazon.jobs/en/jobs/10462011/software-development-graduate-2027-melbourne"
-    },
-    {
-     "source": "Amazon jobs AU [amazon]",
-     "url": "https://www.amazon.jobs/en/jobs/2852628/software-development-graduate-2026-melbourne"
     }
    ],
    "location": "Melbourne, VIC",
-   "posted": "2024-12-13",
+   "posted": "2026-06-30",
    "priority": "adjacent",
    "role_type": "graduate",
    "salary": null,
    "sectors": [],
-   "snippet": "Amazon/ AWS offers a unique, inclusive work environment where you’ll be able to work on the A to Z of problems, at scale, for real customers. You’ll join a team solving challenging problems with innovative • You must be in the final semester/ trimester of a university undergraduate or postgraduate degree or have completed your university studies within the past 24 months of applying and able to co",
+   "snippet": "Amazon is looking for passionate Graduate Software Development Engineers (SDEs) to join our team.Amazon/ AWS offers a unique, inclusive work environment where you’ll be able to work on the A to Z of problems, - You must be in the final semester/ trimester of a university undergraduate or postgraduate degree , or have completed your university studies within the past 24 months of applying. - Able t",
    "source": "Claude web sweep",
    "source_kind": "manual",
    "source_type": "research 2026-10-06",
@@ -11183,45 +11046,6 @@
    ],
    "title": "Expression of Interest: AustralianSuper 2027 Graduate Program",
    "url": "https://au.gradconnection.com/employers/australiansuper/jobs/australiansuper-expression-of-interest-australiansuper-2027-graduate-program/"
-  },
-  {
-   "apply_url": null,
-   "base_score": 32,
-   "closes": "2026-12-31",
-   "company": "Ausmeter Group",
-   "disciplines": [],
-   "employer_id": null,
-   "employment_type": "Graduate Jobs",
-   "first_seen": "2026-10-06",
-   "flags": [],
-   "id": "10cf2b347be0",
-   "key": "ausmeter group|data technical support specialist utility metering",
-   "last_seen": "2026-10-24",
-   "links": [
-    {
-     "source": "GradConnection (SEEK Grad) [gradconnection]",
-     "url": "https://au.gradconnection.com/employers/ausmeter-group/jobs/ausmeter-group-data-technical-support-specialist-utility-metering-5/"
-    }
-   ],
-   "location": "Melbourne | Melbourne - Northern Suburbs",
-   "posted": "2026-06-19",
-   "priority": "adjacent",
-   "role_type": "graduate",
-   "salary": null,
-   "sectors": [],
-   "snippet": "We are looking for a sharp and detail focused Data Technician Support Specialist to join our Data Services Team, and provide key support in maintaining our Automated Meter Reading (AMR) Networks.",
-   "source": "GradConnection (SEEK Grad) [gradconnection]",
-   "source_kind": "aggregator",
-   "source_type": "gradconnection",
-   "sources": [
-    "GradConnection (SEEK Grad) [gradconnection]"
-   ],
-   "start_date": null,
-   "states": [
-    "VIC"
-   ],
-   "title": "Data & Technical Support Specialist – Utility Metering",
-   "url": "https://au.gradconnection.com/employers/ausmeter-group/jobs/ausmeter-group-data-technical-support-specialist-utility-metering-5/"
   },
   {
    "apply_url": "https://au.smrtr.io/fqMn",
