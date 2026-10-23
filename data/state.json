@@ -28,7 +28,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-24",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -134,7 +134,7 @@
   "company": "ACS Foundation",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-23",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -156,8 +156,8 @@
   "closed_on": "2026-10-22",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-23",
-  "misses": 1,
+  "last_seen": "2026-10-24",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -689,7 +689,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-24",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -807,8 +807,8 @@
   "closed_on": "2026-10-23",
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-23",
-  "misses": 1,
+  "last_seen": "2026-10-24",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1064,8 +1064,8 @@
   "closed_on": "2026-10-22",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-23",
-  "misses": 1,
+  "last_seen": "2026-10-24",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1499,7 +1499,7 @@
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-24",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "Lycopodium [livehire]"
   ],
@@ -2049,8 +2049,8 @@
   "misses": 0,
   "sources": [
    "Lorikeet [ashby]",
-   "AirTree portfolio jobs [getro_board]",
-   "Blackbird portfolio jobs [getro_board]"
+   "Blackbird portfolio jobs [getro_board]",
+   "AirTree portfolio jobs [getro_board]"
   ],
   "status": "open",
   "title": "Forward Deployed Engineer Intern"
@@ -2458,7 +2458,7 @@
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-24",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -3743,7 +3743,7 @@
   "company": "Heidi Health",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-23",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "Blackbird portfolio jobs [getro_board]"
   ],
@@ -4683,7 +4683,7 @@
   "company": "ACS Foundation",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-23",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5205,7 +5205,6 @@
   "misses": 0,
   "sources": [
    "Claude web sweep",
-   "Apple jobs AU internships [apple]",
    "Apple [page]"
   ],
   "status": "open",
@@ -5262,12 +5261,12 @@
   "closed_on": "2026-10-21",
   "company": "Lycopodium",
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-21",
-  "misses": 3,
+  "last_seen": "2026-10-24",
+  "misses": 0,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: 2 days ago"
  },
  "6846ee69416f": {
@@ -5560,7 +5559,6 @@
   "last_seen": "2026-10-24",
   "misses": 0,
   "sources": [
-   "GHD [oracle]",
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
@@ -6368,15 +6366,15 @@
   "title": "Notify Me - Canva Graduate Jobs"
  },
  "80ce41db7e81": {
-  "closed_on": "2026-10-22",
+  "closed_on": "2026-10-24",
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-23",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Student Work Placement (Unpaid)"
  },
  "80d02224992c": {
@@ -6819,7 +6817,7 @@
   "company": "Mainfreight",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-23",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7278,8 +7276,8 @@
   "closed_on": "2026-10-22",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-23",
-  "misses": 1,
+  "last_seen": "2026-10-24",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7995,7 +7993,7 @@
   "company": "Mirvac",
   "first_seen": "2026-10-23",
   "last_seen": "2026-10-23",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8006,7 +8004,7 @@
   "company": "ResMed",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-23",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "ResMed [workday]"
   ],
@@ -8610,8 +8608,8 @@
   "closed_on": "2026-10-22",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-23",
-  "misses": 1,
+  "last_seen": "2026-10-24",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8752,8 +8750,8 @@
   "closed_on": "2026-10-22",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-23",
-  "misses": 1,
+  "last_seen": "2026-10-24",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8873,7 +8871,8 @@
   "last_seen": "2026-10-24",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 - Darwin - Civil Engineer"
@@ -9566,8 +9565,8 @@
   "closed_on": "2026-10-22",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-23",
-  "misses": 1,
+  "last_seen": "2026-10-24",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10898,8 +10897,8 @@
  "e0db24f7bc87": {
   "company": "Careers at Council",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-23",
-  "misses": 2,
+  "last_seen": "2026-10-24",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
