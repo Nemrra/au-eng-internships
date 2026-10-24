@@ -28,7 +28,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-24",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -154,15 +154,15 @@
   "title": "Electrical Engineering CO-OP"
  },
  "040e767ced43": {
-  "closed_on": "2026-10-22",
+  "closed_on": "2026-10-24",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-24",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "MMEM Sales & Management Graduate - South Brisbane, QLD"
  },
  "045d4c09204b": {
@@ -690,7 +690,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-24",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -805,15 +805,15 @@
   "title": "Notify Me - APA Group Graduate Jobs"
  },
  "10cf2b347be0": {
-  "closed_on": "2026-10-23",
+  "closed_on": "2026-10-24",
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-24",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Data & Technical Support Specialist – Utility Metering"
  },
  "10de295f29d8": {
@@ -1062,15 +1062,15 @@
   "title": "Engineering Intern (Melbourne)"
  },
  "16208b686c28": {
-  "closed_on": "2026-10-22",
+  "closed_on": "2026-10-24",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-24",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "MMEM Sales & Management Graduate - Canberra, ACT"
  },
  "172cda6b36ec": {
@@ -2050,8 +2050,8 @@
   "misses": 0,
   "sources": [
    "Lorikeet [ashby]",
-   "Blackbird portfolio jobs [getro_board]",
-   "AirTree portfolio jobs [getro_board]"
+   "AirTree portfolio jobs [getro_board]",
+   "Blackbird portfolio jobs [getro_board]"
   ],
   "status": "open",
   "title": "Forward Deployed Engineer Intern"
@@ -3721,7 +3721,7 @@
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-24",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5383,12 +5383,12 @@
   "closed_on": "2026-10-18",
   "company": "Readygrad",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-17",
-  "misses": 3,
+  "last_seen": "2026-10-24",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Web Developer / Support Developer Internship Program 2026"
  },
  "6b563709be57": {
@@ -7278,15 +7278,15 @@
   "title": "Boeing Summer 2027 Internship Program (Paid) - Sales and Marketing"
  },
  "93a1549ac6d2": {
-  "closed_on": "2026-10-22",
+  "closed_on": "2026-10-24",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-24",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "MMEM Sales & Management Graduate - Macarthur, NSW"
  },
  "93c9cb7c2810": {
@@ -7999,7 +7999,7 @@
   "company": "Mirvac",
   "first_seen": "2026-10-23",
   "last_seen": "2026-10-24",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8612,15 +8612,15 @@
   "title": "Research Scientist New Grad - Multi-modal Agentic Databases"
  },
  "add9b2f6f057": {
-  "closed_on": "2026-10-22",
+  "closed_on": "2026-10-24",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-24",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "MMEM Sales & Management Graduate - Sutherland Shire, NSW"
  },
  "adeef54f0cba": {
@@ -8754,15 +8754,15 @@
   "title": "2026/27 EY Vacationer Program - Engineering"
  },
  "b188ae8d203c": {
-  "closed_on": "2026-10-22",
+  "closed_on": "2026-10-24",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-24",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "MMEM Sales & Management Graduate - Western Brisbane / Ipswitch, QLD"
  },
  "b1aca86a81c9": {
@@ -9569,15 +9569,15 @@
   "title": "Intern - Embedded Systems Test Automation Engineer - Bothell - WA - Summer 2027"
  },
  "c36d660b5bb4": {
-  "closed_on": "2026-10-22",
+  "closed_on": "2026-10-24",
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-24",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "MMEM Sales & Management Graduate - Wide Bay Region, QLD"
  },
  "c3736840e103": {
@@ -10237,8 +10237,7 @@
   "last_seen": "2026-10-24",
   "misses": 0,
   "sources": [
-   "GHD [oracle]",
-   "GradConnection (SEEK Grad) [gradconnection]"
+   "GHD [oracle]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 – Queensland – Graduate Civil Engineer (Construction Phase Services)"
@@ -10906,7 +10905,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-24",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -11069,12 +11068,12 @@
   "closed_on": "2026-10-18",
   "company": "Readygrad",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-17",
-  "misses": 3,
+  "last_seen": "2026-10-24",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Networking / IT Support Internship Program 2026"
  },
  "e3d2978c90b6": {
