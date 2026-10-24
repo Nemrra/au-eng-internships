@@ -28,7 +28,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-14",
   "last_seen": "2026-10-24",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -158,7 +158,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-24",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -690,7 +690,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-24",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -809,7 +809,7 @@
   "company": "Ausmeter Group",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-24",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1066,7 +1066,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-24",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -1496,15 +1496,15 @@
   "title": "2027 Intern Business Management"
  },
  "2074a57ea72f": {
-  "closed_on": "2026-10-21",
+  "closed_on": "2026-10-24",
   "company": "Lycopodium",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-24",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "Lycopodium [livehire]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Program 2027- Project Engineering Lycopodium is now recruiting for our 2027 Graduate Program- Project Engineering to join our growing team in Perth Location Perth WA, Australia Work Type Full time Published At: a day ago"
  },
  "20a98ecc3b08": {
@@ -2455,15 +2455,15 @@
   "title": "Research Intern - PhD"
  },
  "3268255bcaa9": {
-  "closed_on": "2026-10-22",
+  "closed_on": "2026-10-24",
   "company": "NRW Holdings",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-24",
-  "misses": 2,
+  "misses": 3,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "open",
+  "status": "closed",
   "title": "Graduate Civil Engineer"
  },
  "3274bbceba5b": {
@@ -3721,7 +3721,7 @@
   "company": "Vulcan Steel",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-24",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -5208,7 +5208,8 @@
   "misses": 0,
   "sources": [
    "Claude web sweep",
-   "Apple jobs AU internships [apple]"
+   "Apple jobs AU internships [apple]",
+   "Apple [page]"
   ],
   "status": "open",
   "title": "2027 Apple Internship - Information Systems and Technology (AUS)"
@@ -7281,7 +7282,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-24",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -7997,12 +7998,12 @@
   "closed_on": "2026-10-24",
   "company": "Mirvac",
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23",
-  "misses": 3,
+  "last_seen": "2026-10-24",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Graduate Cost Planner"
  },
  "a1ee391dac3e": {
@@ -8615,7 +8616,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-24",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -8757,7 +8758,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-24",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -9572,7 +9573,7 @@
   "company": "MM Electrical Merchandising",
   "first_seen": "2026-10-15",
   "last_seen": "2026-10-24",
-  "misses": 1,
+  "misses": 2,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -10236,7 +10237,8 @@
   "last_seen": "2026-10-24",
   "misses": 0,
   "sources": [
-   "GHD [oracle]"
+   "GHD [oracle]",
+   "GradConnection (SEEK Grad) [gradconnection]"
   ],
   "status": "open",
   "title": "GHD Graduate Program 2026/27 – Queensland – Graduate Civil Engineer (Construction Phase Services)"
@@ -10904,7 +10906,7 @@
   "company": "Careers at Council",
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-24",
-  "misses": 0,
+  "misses": 1,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
@@ -11256,12 +11258,12 @@
   "closed_on": "2026-10-18",
   "company": "Readygrad",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-17",
-  "misses": 3,
+  "last_seen": "2026-10-24",
+  "misses": 0,
   "sources": [
    "GradConnection (SEEK Grad) [gradconnection]"
   ],
-  "status": "closed",
+  "status": "open",
   "title": "Data Analyst Internship Program 2026"
  },
  "e8986af670d0": {
